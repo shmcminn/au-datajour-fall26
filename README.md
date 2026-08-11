@@ -1,13 +1,13 @@
 ![syllabusbanner](SyllabusBannerQ2.png)
 
-# American University COMM-260, Fall 2025
+# American University COMM-260, Fall 2026
 ## Quantitative Methods for Journalists
 
 **Instructor**: Sean McMinn
 
 **Contact**: smcminn@american.edu. On weekdays, I will try to respond to all messages within 24 hours. If you do not hear from me within that time frame, feel free to send a follow-up message.
 
-**Class time**: Th 11:20 a.m. - 2:10 p.m.
+**Class time**: Wed, 5:30 - 8 p.m.
 
 **Office hours**: After class or by appointment
 
@@ -32,12 +32,11 @@ Special thank you to [Rachel Shorey](https://github.com/rshorey/digitalframework
 ### Expectations
 
 * Come to class or let me know if you can't make it. I understand that situations occur that make it difficult to attend, and I'm willing to help you if you get in touch with me. Either way, you will be responsible for the material unless otherwise agreed upon.
-* You will receive two excused absences. **A third absence for any non-approved reason will result in you losing one-half of your attendance points (10% pts. off your grade).** 
+* You will receive two non-excused absences. **A third absence for any non-approved reason will result in you losing one-half of your participation points (10% pts. off your grade).** 
 * Complete assignments either in class or as homework due before the next class. 
    * Late assignments will only be accepted if you contact me and we reach an agreement **before** the class in which it was originally due. 
 * Submit assignments on Github (instructions in first lecture) as specified in the assignment.
-* Consume the news every week, and come to class ready to share at least one story that uses data in a substantial way. I will randomly select two students to share a story at the beginning of class, so please have a link ready to go (and I will do the same). This will count toward your participation/attendance grade.
-* Subscribe (for free) and read The Department of Data in The Washington Post. Come to class prepared to discuss. I will call on people to talk about it and this will count toward your participation/attendance grade.
+* Consume the news every week, and come to class ready to share at least one story that uses data or AI in a substantial way. I will randomly select two students to share a story at the beginning of class, so please have a link ready to go (and I will do the same). This will count toward your participation/attendance grade.
 * Complete a final project
 * I reserve the right to change this syllabus at any time, provided all changes are pushed to GitHub where you can track them in the "commits" section for this repository. If at any time you feel like a change I made isn't fair, you can tell me why and I'll reconsider it.
 * Please make sure you have the following software:  
@@ -77,7 +76,9 @@ Your grade will be made up of three components:
 
 Students are encouraged to discuss assignments and occasionally work in groups as assigned. Your final work, however, must be entirely your own or your group's. A good rule of thumb is that no one else should take over your keyboard while completing an assignment. All American University policies regarding cheating apply to this class.
 
-We can and will use online tools — including AI — to help you solve technical issues, brainstorm ideas, etc. **You should NOT use AI to generate any text/graphics that you then claim as your own. This is a fireable offense in a newsroom and will be handled in coordination with the Office of Academic Integrity.** If there is a reason to include AI-generated text (e.g. you are auto-generating part of a data pipeline), please label it as such. 
+We can and will use AI to help you solve technical issues, brainstorm ideas, write code, etc. You must disclose any use of AI in your assignments.
+
+ **You should NOT use AI to generate any text/graphics that you then claim as your own. This is a fireable offense in a newsroom and will be handled in coordination with the Office of Academic Integrity, with no warnings.** 
 
 ### A typical class
 
