@@ -93,38 +93,52 @@ We can and will use AI to help you solve technical issues, brainstorm ideas, wri
 This is subject to revisions based on availablity, final project pacing, etc.
 
 **Class 1: Start here!/Story assignment**
+Sept. 2
 
 **Class 2: Finding data**
+Sept. 9
 
 **Class 3: Cleaning/analyzing data pt I**
+Sept. 16
 
 **Class 4: Cleaning/analyzing data pt II**
+Sept. 23
 
 **Class 5: Stats for journalists**
+Sept. 30 
 
 **Class 6: Data viz pt I**
+Oct. 7
 
 **Class 7: Data viz pt II**
+Oct. 14
 
-**Class 8: Mapping, geographic data (guest: Andrew Van Dam)**
+**Class 8: Mapping, geographic data**
+Oct. 21
 
-**Class 9: Writing about data (asynchronous class)**
+**Class 9: Covering federal govt with data**
+Oct. 28
 
-**Class 10: Covering federal govt with data**
+**Class 10: Writing about data (asynchronous class)**
+Nov. 4
 
 **Class 11: Automating all this pt I**
+Nov. 11
 
 **Class 12: Automating all this pt II**
+Nov. 18
 
-**Class 13: What the hell is an API? / Deconstructing stories**
+Class 13: No class (Thanksgiving)
 
-Class 14: No class (Thanksgiving)
+**Class 14: What the hell is an API? / Deconstructing stories**
+Dec. 2
 
 **Class 15: AI in the newsroom**
+Dec. 9
 
 ### [Final project](finalproject.md)
 
-Details will be posted above link. Due Thu, Dec 11, 2025 5 p.m.
+Details will be posted above link. Due Dec 10, 2026 5 p.m.
 
 ### Students with disabilities
 

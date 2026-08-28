@@ -1,8 +1,10 @@
 # Final project details
 
+**Due Dec. 10 at 5 p.m.**
+
 You must complete a final project for this class, either in pairs or -- upon request -- individually. The project has two components:
 
-A reported story *pitch* based substantially on a dataset, with at least two data visualizations, due Thu, Dec 11, 2025 5 p.m.
+A reported story *pitch* based substantially on a dataset, with at least two data visualizations.
 
 The story should answer an interesting question using data. The data component of the story must be substantial, and you need to dig into the dataset. If you just read toplines off a website without actually finding and downloading or creating a dataset, that is insufficient.
 
@@ -39,3 +41,17 @@ The final project is worth 30% of your grade. It will break down as follows:
 ](https://www.texastribune.org/2019/12/09/how-many-people-are-homeless-texas-least-25000/)
 * [Despite Voting Restoration Thousands Are Still Disenfranchised In The Ohio Valley
 ](https://ohiovalleyresource.org/2020/12/04/despite-voting-restoration-thousands-are-still-disenfranchised-in-the-ohio-valley/)
+
+## AI use 
+
+You may choose to use AI for this assignment. It may be useful in the following ways:
+
+* Assist with data work: including finding datasets, hitting APIs, categorizing data (with human review) or writing code to analyze data.
+* AI as a fact checker: You can provide your assignment to AI and ask it to review it against the source data and identify any potential errors or discrepancies. (This is in addition, NOT in place of, you verifying accuracy yourself)
+* Visualization critiques: You can provide AI your visualizations and ask for critiques. You can even give th model our slides or your notes on good data visualization for reference.
+
+You should NOT use AI to write any part of the story or pitch, or to create visualizations. 
+
+If you use AI, you **must include** a brief disclosure stating which tools you used, what you used them for and how you verified or revised the output.
+
+
