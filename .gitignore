@@ -1,7 +1,6 @@
 .DS_Store
 etc
 class14/
-class1/
 class2/
 class3/
 class4/
@@ -22,3 +21,4 @@ assignments/
 .~lock*
 README-old.md
 notes_for_me/
+!assignments/assignment1.md
