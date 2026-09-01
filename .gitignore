@@ -14,11 +14,11 @@ class11/
 class12/
 class13/
 class15/
-assignments/
+assignments/*
+!assignments/assignment1.md
 .ipynb_checkpoints/
 .jupyter
 *.pptx
 .~lock*
 README-old.md
 notes_for_me/
-!assignments/assignment1.md
