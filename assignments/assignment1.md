@@ -1,5 +1,7 @@
 # Assignment 1: Github and Markdown
 
+** Due Wed Sept. 9 **
+
 ## Why Github?
 
 For this class, your homework needs to be turned in on Github. Why? Because Github is how many folks who work with code and data share things. The goal of this assignment is to get you to a point where you can comfortably find and share things on github if that's what your collaborators are using. So by the end of this quarter:
