@@ -1,6 +1,6 @@
 # Assignment 1: Github and Markdown
 
-** Due Wed Sept. 9 **
+**Due Wed Sept. 9 at 5 p.m.**
 
 ## Why Github?
 
