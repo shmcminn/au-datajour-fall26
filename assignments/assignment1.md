@@ -17,7 +17,7 @@ Markdown is a markup language that plays particularly well with github, producin
 ## Assignment
 
 1. Create a Github account. 
-1. Create a repository called *datajournalism-fall2025*. You will submit all your assignments there. Add your account name to this [Google sheet](https://docs.google.com/forms/d/e/1FAIpQLScIAfWHr8d6qS3heYwbPkHwZcyKzVT-ztaowKgXuS4Ty9UjUA/viewform) so I know where to find your homework.
+1. Create a repository called *datajournalism-fall2026*. You will submit all your assignments there. Add your account name to this [Google sheet](https://docs.google.com/forms/d/e/1FAIpQLScIAfWHr8d6qS3heYwbPkHwZcyKzVT-ztaowKgXuS4Ty9UjUA/viewform) so I know where to find your homework.
 2. Create a new file called assignment1.md
 3. Choose a [data-driven investigation from this list](https://docs.google.com/spreadsheets/d/1fBslhcz5EjNt4paGkQfCkYgcL69FaarU00B-OskKVQ8/edit?usp=sharing) and critiqiue it [following this template](../critique_template.md).
 	* Include a hyperlink (written as `[link text](http://www.linkurl.com)`) to the original story
@@ -35,7 +35,7 @@ Include at least one of the following features in either your critique or story 
    * An ordered list 
    * A table
 
-Commit this assignment in your datajournalism-fall2025 repository. Preview the file to make sure your markdown rendered as expected, and fix any errors.
+Commit this assignment in your datajournalism-fall2026 repository. Preview the file to make sure your markdown rendered as expected, and fix any errors.
 
 Download the required software on the syllabus. You will need Tabula for class 2.
 
