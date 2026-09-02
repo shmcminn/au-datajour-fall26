@@ -138,7 +138,7 @@ Dec. 9
 
 ### [Final project](finalproject.md)
 
-Details will be posted above link. Due Dec 10, 2026 5 p.m.
+Details will be posted above link. Due Dec 16, 2026 5 p.m.
 
 ### Students with disabilities
 

@@ -1,6 +1,6 @@
 # Final project details
 
-**Due Dec. 10 at 5 p.m.**
+**Due Dec. 16 at 5 p.m.**
 
 You must complete a final project for this class, either in pairs or -- upon request -- individually. The project has two components:
 
