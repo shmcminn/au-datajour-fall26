@@ -1,7 +1,6 @@
 .DS_Store
 etc
 class14/
-class2/
 class3/
 class4/
 class5/
@@ -16,6 +15,8 @@ class13/
 class15/
 assignments/*
 !assignments/assignment1.md
+!assignments/assignment2.md
+!assignments/assignment-EC1.md
 .ipynb_checkpoints/
 .jupyter
 *.pptx
