@@ -19,7 +19,7 @@ Things to consider (and you will be graded on):
 * Annotating important data points, where appropriate
 * Writing a clear hed and dek/subhed for the chart
 * General tips we went over in class: http://policyviz.com/wp-content/uploads/2018/08/PolicyViz-DataViz-Cheatsheet.pdf 
-* [When to use different chart types](https://github.com/ft-interactive/chart-doctor/blob/master/visual-vocabulary/Visual-vocabulary.pdf)
+* [When to use different chart types](https://github.com/Financial-Times/chart-doctor/blob/main/visual-vocabulary/README.md)
 
 Don't worry about:
 
