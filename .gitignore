@@ -15,6 +15,7 @@ assignments/*
 !assignments/assignment3.md
 !assignments/assignment4.md
 !assignments/assignment-EC1.md
+!assignments/assignment-EC2.md
 .ipynb_checkpoints/
 .jupyter
 *.pptx
