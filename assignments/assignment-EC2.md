@@ -1,4 +1,4 @@
-# Assignment Extra Credit 1
+# Assignment Extra Credit 2
 
 **Due Oct. 28**
 
@@ -20,7 +20,7 @@ It will be graded based on how closely you follow the data visualization princip
 
 ### Submit the following:
 
-As `assignment-EC1.md`, you'll turn in:
+As `assignment-EC2.md`, you'll turn in:
 
 * A link to your published Datawrapper chart or an embedded screenshot of your chart
 * A short (2–3 sentence) explanation of what the chart shows and how it would fit into your final project
