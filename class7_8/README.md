@@ -5,3 +5,5 @@
 [Slides Pt. 2](https://docs.google.com/presentation/d/1Oc8RnXRUmbpTEd8iSPiDkxWhThUBWfq5XKaDQxK9wGQ/edit?slide=id.h4ef962d8f67c6e13_0_1#slide=id.h4ef962d8f67c6e13_0_1)
 
 [Assignment 4](../assignments/assignment4.md)
+
+[Extra credit](../assignments/assignment-EC2.md)
