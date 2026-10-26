@@ -107,13 +107,13 @@ Sept. 23
 **Class 5: Stats for journalists**
 Sept. 30 
 
-**Class 6: Data viz pt I**
+**Class 6: Panel discussion**
 Oct. 7
 
-**Class 7: Data viz pt II**
+**Class 7: Data viz pt I**
 Oct. 14
 
-**Class 8: Mapping, geographic data**
+**Class 8: Data viz pt II**
 Oct. 21
 
 **Class 9: Covering federal govt with data**
@@ -122,10 +122,10 @@ Oct. 28
 **Class 10: Writing about data (asynchronous class)**
 Nov. 4
 
-**Class 11: Automating all this pt I**
+**Class 11: Mapping, geographic data**
 Nov. 11
 
-**Class 12: Automating all this pt II**
+**Class 12: Automating all this pt I**
 Nov. 18
 
 Class 13: No class (Thanksgiving)
