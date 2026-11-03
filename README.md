@@ -120,7 +120,6 @@ Oct. 21
 Oct. 28
 
 **Class 10: Writing about data (asynchronous class)**
-Nov. 4
 
 **Class 11: Mapping, geographic data**
 Nov. 11
