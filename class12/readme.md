@@ -8,4 +8,4 @@
 
 [Assignment 6: Automating charts with Codex and Datawrapper](../assignments/assignment6.md)
 
-[Slides](https://docs.google.com/presentation/d/1tMZO4UdvKuUIoiZe3X0zolrqbeRE0wELGCmV8lKttYU/edit?usp=sharing)
+[Slides](https://docs.google.com/presentation/d/1pRNz2Cs_GFpj2xfWj5CrgLSEoHEJb1CI4RZGPlm6B_s/edit?slide=id.h7cb6f1eb4cb49f2e_1_35#slide=id.h7cb6f1eb4cb49f2e_1_35)
