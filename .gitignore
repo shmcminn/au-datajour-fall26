@@ -3,7 +3,14 @@ etc
 class-gis/
 class7/
 class8/
-class12/
+class12/test-run/
+!class12/uv-setup.md
+!class12/readme.md
+!class12/bill_categories_sample.csv
+class12/bill-status-ai-classify/
+class12/bill-status-ai-classify/*
+class12/class-agenda.md
+!class12/bill-status-ai-classify/bill-status-by-category.html
 class13/
 class14/
 class15/
@@ -13,6 +20,7 @@ assignments/*
 !assignments/assignment3.md
 !assignments/assignment4.md
 !assignments/assignment5.md
+!assignments/assignment6.md
 !assignments/assignment-EC1.md
 !assignments/assignment-EC2.md
 .ipynb_checkpoints/

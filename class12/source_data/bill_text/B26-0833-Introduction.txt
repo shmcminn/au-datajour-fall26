@@ -1,0 +1,1282 @@
+MURIEL BOWSER 
+MAYOR 
+September 29, 2026 
+The Honorable Phil Mendelson 
+Chairman 
+Council of the District of Columbia 
+John A. Wilson Building 
+1350 Pennsylvania Avenue, NW, Suite 504 
+Washington, DC 20004 
+Please find attached the Health Occupations and Emergency Medical Services Amendment Act of 
+2026 for enactment by the Council of the District of Columbia. 
+If enacted, the proposed legislation would amend the District of Columbia Health Occupations 
+Revision Act of 1985 (HORA), effective March 25, 1986 (D.C. Law 6-99; D.C. Official Code §§ 
+3-1201.01 et seq.), the Health-Care and Community Residence Facility, Hospice, and Home
+Care Licensure Act of 1983, and repeal and replace the Emergency Medical Services Act of
+2008 to accomplish the following:
+Emergency Medical Services (EMS) Modernization: To modernize the District’s EMS system 
+by creating a Board of Emergency Medical Services to regulate all EMS personnel, including 
+EMRs, EMTs, AEMTs, Paramedics, Advanced Practice Paramedics, Mobile Integrated 
+Healthcare Clinicians, EMS Instructors, and Emergency Medical Dispatchers; aligning 
+Emergency Medical Dispatcher certification and training requirements with national standards; 
+repealing and replacing the EMS Act of 2008 to establish a modern, efficient, and equitable EMS 
+system; and clarifying that mobile integrated health agencies are not considered home health care 
+agencies. 
+Board Administration and Governance: To strengthen Board administration by granting 
+subpoena authority to the Mayor and, by delegation, Executive Directors; authorizing the 
+Director of DC Health to temporarily fill Board vacancies until permanent appointments are 
+made; clarifying and expanding Board powers to issue guidance, convening subcommittees and 
+taskforces, and recommend standards and procedures; and updating emeritus licensure 
+provisions to align with the current HORA framework. 
+Licensure and Scope of Practice: To update licensure requirements and scopes of practice by 
+establishing a Certified Community Health Worker license under the Board of Social Work; 
+creating a temporary waiver process for foreign-licensed health professionals supporting 
+commercial events; repealing the requirement that the Council review Massage Therapy
+
+regulations; and revising the Board of Medicine’s fee-setting authority to allow adjustments 
+through rulemaking. 
+Criminal Background Checks: To modernize criminal background check requirements by 
+permitting DC Health to receive results directly from the Metropolitan Police Department (MPD) 
+and the U.S. Department of Justice and eliminating DC Health’s role in collecting background 
+check fees, improving both efficiency and security. 
+This legislation strengthens the District’s healthcare infrastructure by modernizing outdated 
+provisions, improving regulatory clarity, and ensuring a unified approach to licensing, standards, 
+and safety across the health professions. These updates will support provider readiness, enhance 
+patient protections, and create a more coordinated and equitable emergency medical services 
+system for all residents and visitors. 
+I urge the Council to take prompt and favorable action on the Health Occupations and Emergency 
+Medical Services Amendment Act of 2026. 
+Sincerely, 
+Muriel Bowser
+
+~ ~~ 
+4 at the request of the Mayor 
+5 
+6 
+7 
+8 AB~L 
+9 
+10 
+11 
+12 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA 
+13 
+14 
+15 
+16 
+17 To amend the District of Columbia Health Occupations Revision Act of 1985 to establish a Board 
+18 of Emergency Medical Services to provide for the licensure, regulation, and oversight of 
+19 emergency medical service clinicians and emergency medical service educational 
+20 instructors; to provide for the certification of community health workers; to add a new Title 
+21 VI-G to clarify the scope of practice of dentistry and operation of dental offices and to 
+22 provide for the licensure of oral and maxillofacial surgeons; to modify the powers of health 
+23 professional licensing boards; to add a new Title VI-H to provide for procedures and 
+24 standards for licensing and certifying the emergency medical services system and 
+25 operations, including emergency medical services provider entities, vehicles, and training 
+26 facilities licensed or certified by the Mayor; to provide for a District-wide trauma and 
+27 emergency care data collection system; to authorize the Mayor to promulgate rules and to 
+28 conduct inspections, evaluations, and investigations; and to provide penalties for 
+29 violations; and to amend the Health-Care and Community Residence Facility, Hospice, and 
+30 Home Care Licensure Act of 1983 to provide that mobile integrated health services are not 
+31 considered home health care agencies; and to repeal the Emergency Medical Services Act 
+32 of 2008. 
+33 
+34 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 
+35 act may be cited as the "Health Occupations and Emergency Medical Services Amendment Act 
+36 of 2026". 
+37 TITLE I. HEALTH OCCUPATIONS REVISION ACT AMENDMENTS 
+38 Sec. 101. The District of Columbia Health Occupations Revision Act of 1985, effective 
+39 March 25, 1986 (D.C. Law 6-99; D.C. Official Code§ 3-1201.01 et seq.), is amended as follows: 
+40 (a) The table of contents is amended by adding new title headings to read as follows: 
+1
+
+2
+“TITLE VI-G 41 
+DENTISTRY; DENTAL OFFICES; ORAL AND MAXILLOFACIAL SURGERY 42 
+ Sec. 681.  Ownership, management and operation of dental offices. 43 
+Sec. 682. Immunization authority. 44 
+Sec. 683. Limitation on the use of neurotoxins. 45 
+Sec. 684. Oral and maxillofacial surgery specialty license. 46 
+TITLE VI-H   47 
+EMERGENCY MEDICAL SERVICES 48 
+Sec. 691 Clinical oversight of EMS clinicians.  49 
+Sec. 692. Provision of non-EMS services.”. 50 
+ (b) Section 101 (D.C. Official Code § 3-1201.01) is amended as follows: 51 
+  (1) Paragraph (1) is amended by striking the phase “Nutrition,” and inserting the 52 
+phrase “Nutrition, the Board of Emergency Medical Services,” in its place. 53 
+  (2) Paragraph (1B-i) is renumbered as paragraph (1B-ii). 54 
+  (3) A new paragraph (1B-i) is added to read as follows: 55 
+  “(1B-i) “Certified community health worker” means a person certified under this 56 
+act to practice community health work.”. 57 
+  (4) New paragraphs (6C-ii), (6C-iii), and (6C-iv) are added to read as follows: 58 
+  “(6C-ii) “Emergency medical dispatcher” means a person who interacts with 59 
+callers to a public safety answering point, as defined in section 602 of the Emergency and Non-60 
+Emergency Number Telephone Calling Systems Fund Act of 2000, effective October 19, 2000, 61 
+(D.C. Law 13-172; D.C. Official Code § 34-1801(7)), to gather necessary information to 62
+
+3
+remotely provide medical assessments, assign emergency medical resources, or provide remote 63 
+real-time instruction of medical and lifesaving interventions.  64 
+  “(6C-iii)(A) “Emergency medical services clinician” means a person providing: 65 
+    “(i) Medical assistance, medical treatment, first aid, or lifesaving 66 
+intervention on the scene of an emergency or in transit from the scene of an emergency to a 67 
+healthcare facility or other location where medical care is to be provided; or 68 
+    “(ii) Emergency medical dispatch services. 69 
+   (B) The term “emergency medical services clinician” includes a person 70 
+licensed as an emergency medical dispatcher, emergency medical responder, emergency medical 71 
+technician, advanced emergency medical technician, paramedic, advanced practice paramedic, 72 
+mobile integrated health clinician, or other licensed health professional authorized to provide 73 
+emergency medical services. 74 
+  “(6C-iv) “Emergency medical services instructor” means a person engaged in the 75 
+business or service of teaching one or more courses of study or training designed to prepare an 76 
+individual for the oral, written, or practical examinations required for certification or re-77 
+certification as an emergency medical services clinician. 78 
+(b) Section 102 (D.C. Official Code § 3-1201.02) is amended as follows: 79 
+  (1) Paragraph (3A) is renumbered as (3B) 80 
+  (2) A new paragraph (3A) is added to read as follows: 81 
+  “(3A) “Practice of certified community health work” means serving as an 82 
+intermediary between health and social services providers and members of the public to facilitate 83 
+access to health and social services, improve the quality of health and social service delivery, and 84
+
+4
+build individual and community knowledge of health conditions, available resources, and self-85 
+management capacity through education, social support, and advocacy.”. 86 
+  (3) Paragraph (5) is amended as follows: 87 
+   (A) Subparagraph (B) is amended by striking the phrase “tooth or teeth” 88 
+and inserting the phrase “tooth or teeth, or the placement or removal of dental implants” in its 89 
+place. 90 
+   (B) Subparagraph (E) is amended by striking the phrase “properly trained 91 
+in the administration of the anesthetic agent” and inserting the phrase “properly trained in the 92 
+administration of the anesthetic agent and certified by the Board of Dentistry, if required 93 
+pursuant to section 201(g)” in its place. 94 
+   (C) Subparagraph (H) is amended by striking the semicolon and inserting 95 
+the phrase “; or” in its place.  96 
+   (D) Subparagraph (I) is amended by striking the phrase “: or” and 97 
+inserting a period in its place.  98 
+   (E) Subparagraph (J) is repealed. 99 
+(4) A new paragraph (5A) is added to read as follows: 100 
+  “(5A)(A) “Practice of emergency medical services” means the provision of acute 101 
+medical assessment, treatment, and transport of individuals experiencing illness or injury. 102 
+   “(B) The practice of emergency medical services includes the delivery of 103 
+out-of-hospital emergency medical care, such as that provided at the scene of an emergency, 104 
+during transport, or in nontraditional settings; and 105 
+  (5) Paragraph (10A) is redesignated as paragraph (10B). 106 
+  (6) A new paragraph (10A) is added to read as follows:  107
+
+5
+  “(10A) “Practice of oral and maxillofacial surgery” means engaging in the 108 
+specialty practice of dentistry that includes the diagnosis and surgical and adjunctive treatment of 109 
+diseases, injuries, and defects involving both the functional and aesthetic aspects of the hard and 110 
+soft tissues of the oral and maxillofacial region. 111 
+ (c) Section 201(g) (D.C. Official Code § 3-1202.01(g)) is amended by striking the phrase 112 
+“Board of Dentistry” and inserting the word “Mayor” in its place. 113 
+ (d) Section 203(a)(7)(b) (D.C. Official Code § 3-1202.03(a)(7)(B)) is amended by 114 
+striking the phrase “be limited solely to” and inserting the word “include” in its place. 115 
+ (e) Section 203(h) (D.C. Official Code § 3-1202.03(h)) is repealed.  116 
+ (f) Section 204(b)(2) (D.C. Official Code § 3-1202.04(b)(2)) is amended by striking the 117 
+phrase “the Board shall require” and inserting the phrase “the Mayor shall require”.” in its place. 118 
+ (g) Section 208 (D.C. Official Code § 3-1202.08) is amended as follows: 119 
+  (1) Subsection(g-1)(2) is amended by striking the phrase “The Board and the 120 
+Board of Medicine shall jointly” and inserting the phrase “The Mayor shall” in its place. 121 
+  (2) Subsection (g-1)(9) is repealed. 122 
+  (3) Subsection (h)(2) is amended by striking the phrase “The Board and the Board 123 
+of Medicine shall jointly” and inserting the phrase “The Mayor shall” in its place. 124 
+ (h) A new section 225 is added to read as follows: 125 
+ “Sec. 225. Board of Emergency Medical Services. 126 
+ “(a) There is established a Board of Emergency Medical Services (“Board”) to regulate 127 
+emergency medical services clinicians and emergency medical services instructors within the 128 
+District. 129
+
+6
+ “(b) The Board shall have regulatory authority over emergency medical services (EMS) 130 
+clinicians and instructors. 131 
+ “(c) The Board may recommend and the Mayor may establish additional levels of EMS 132 
+licensure and classifications as necessary to reflect evolving standards and practices in the field 133 
+of EMS, mobile integrated health, and its associated education. 134 
+ “(d) The Board shall consist of 9 voting members appointed by the Mayor as follows: 135 
+  “(1) Two physicians currently licensed and practicing in the District with 136 
+specialty board certification in emergency medicine, pediatric emergency medicine, or 137 
+emergency medical services; 138 
+  “(2) Two emergency medical technicians, one of whom may be an advanced 139 
+emergency medical technician, currently licensed and practicing in the District; 140 
+  “(3) Two paramedics currently licensed and practicing in the District; 141 
+  “(4) One emergency medical service instructor currently licensed and practicing 142 
+in the District with experience in emergency medical service training, curriculum development, 143 
+and clinical instruction;  144 
+  “(5) One emergency medical dispatcher currently licensed and practicing in the 145 
+District; and 146 
+  “(6) One consumer representative. 147 
+ “(e) The Mayor shall appoint an Executive Director of the Board, who shall be an 148 
+employee of the District and whose duties shall include providing administrative support to the 149 
+Board and implementing and administering the orders of the Board in accordance with this act 150 
+and the rules issued pursuant to this act.”. 151 
+ (i) Section 302(3) (D.C. Official Code § 3-1203.02(3)) is amended to read as follows: 152
+
+7
+  “(3) Providing investigative and inspection services, including the issuance of 153 
+subpoenas;”. 154 
+ (j) Section 402 (D.C. Official Code § 3-1204.02) is amended by adding a new subsection 155 
+(e) to read as follows: 156 
+ “(e)(1) If the number of vacancies on a board is more than 50% of the total number of 157 
+seats on the board, the Mayor may appoint temporary professional members to reduce the 158 
+number of vacancies to less than 50%. The appointment of a temporary professional member 159 
+shall not be considered the filling of a vacancy under subsection (c) of this section. 160 
+  “(2) The temporary professional members so appointed shall: 161 
+   “(A) Meet all qualifications required of professional members pursuant to 162 
+section 401;   163 
+   “(B) Be appointed for no more than 120 days or until replaced by a full 164 
+member who has taken the oath of office, whichever event occurs first; and 165 
+   “(C) Be appointed no more than once in any 2-year period to a specific 166 
+board as a temporary professional member.   167 
+ (k) Section 408 (D.C. Official Code § 3-1204.08) is amended as follows: 168 
+  (1) Paragraph (3) is amended to read as follows: 169 
+  “(3) Make recommendations to the Mayor for standards, procedures, and rules 170 
+related to the regulation and licensure processes for the professionals for which they have 171 
+authority;”. 172 
+  (2) Paragraph (7) is amended by striking the phrase “; and” and inserting a 173 
+semicolon in its place. 174
+
+8
+  (3) Paragraph (8) is amended by striking the period and inserting a semicolon in 175 
+its place. 176 
+  (4) Paragraph (9) is amended by striking the period and inserting a semicolon in 177 
+its place. 178 
+  (5) New paragraphs (10) and (11) are added to read as follows: 179 
+  “(10) Have the authority to convene a subcommittee consisting of less than a 180 
+quorum of members of the board to provide advice and assistance to the board on a specified 181 
+issue or to issue discipline of a person under the purview of the board; and 182 
+  “(11) Have the authority to convene a taskforce made up of members of the board 183 
+and non-board members, to provide guidance and subject matter expertise on specific topics. The 184 
+number of taskforce members shall be less than a quorum of the board. Non-board members 185 
+shall be exempt from the requirements of sections 401(a) and (b), 402, and 403.”. 186 
+ (l) Section 409 (D.C. Official Code § 3-1204.09) is amended as follows: 187 
+  (1) Subsection (a) is amended by striking the phrase “Except as provided in 188 
+subsection (b) of this section, the” and inserting the word “The” in its place. 189 
+  (2) Subsection (b) is repealed.   190 
+ (m) Section 501 (D.C. Official Code § 3-1205.01) is amended as follows: 191 
+  (1) Subsection (a)(1) is amended by: 192 
+   (A) Striking the phrase “nutrition,” and inserting the phrase “nutrition, oral 193 
+and maxillofacial surgery” in its place; and 194 
+   (B) Striking the phrase “athletic trainer,” and inserting the phrase “athletic 195 
+trainer, emergency medical services clinician, emergency medical services instructor,” in its 196 
+place. 197
+
+9
+  (2) Subsection (a)(3) is amended by striking the phrase “doula,” and inserting the 198 
+phrase “certified community health worker, doula,” in its place. 199 
+  (3) Subsection (a)(7) is amended by striking the phrase “Board of Nursing” and 200 
+inserting the word “Mayor” in its place. 201 
+ (n) Section 502(a)(3) (D.C. Official Code § 3-1205.02(a)(3)) is amended as follows: 202 
+(1)   (1) The lead-in text is amended by striking the phrase “state,” and 203 
+inserting the phrase “state or foreign jurisdiction,” in its place  204 
+  (2) Subparagraph (A) is amended by: 205 
+    (A) Striking the word “state” and inserting the phrase “state or foreign 206 
+jurisdiction” in its place; and 207 
+    (B) Striking the phrase “30 days” and inserting the phrase “60 days in a 208 
+calendar year” in its place.  209 
+  (3)  Subparagraph (B) is amended by striking the phrase “treat, or” and inserting 210 
+the word “or” in its place. 211 
+  (4) Subparagraph (C) is amended by striking the phrase “act;” 212 
+and inserting the phrase “act and has received approval from the Mayor;” in its place. 213 
+ (5) A new subparagraph (D) is added to read as follows: 214 
+   “(D) “The individual is called in to provide professional  215 
+consultation by and in affiliation with a comparable licensed healthcare professional on behalf of 216 
+a client or patient to treat the specific client or patient in the District, after notification has been 217 
+provided to the Mayor.”. 218 
+ (o) Section 503(a)(2) (D.C. Official Code § 3-1205.03(a)(2)) is amended to read as 219 
+follows: 220
+
+10
+  “(2)(A) Is at least 18 years of age; or 221 
+   “(B) If the individual is applying for certification or licensure as a certified 222 
+community health worker, emergency medical responder, emergency medical technician, nursing 223 
+assistive personnel, or pharmacy technician trainees, is at least 16 years of age and has or is 224 
+enrolled in and actively pursuing a high school diploma or high school equivalence diploma as 225 
+that term is defined in section 561(6) of the District of Columbia Public Assistance Act of 1982, 226 
+effective October 27, 1995 (D.C. Law 11-72; § 4-205.61(6)); provided, that the Mayor may 227 
+restrict the certification or license of an individual under the age of 18; and 228 
+  “(C) For the purposes of this act, a minor of the age of 16 years or more may, 229 
+notwithstanding such minority and to the same extent as exercised by a person of full legal age: 230 
+   “(i) Enter into and be bound by an agreement to protect the confidentiality 231 
+of a patient’s health information; and 232 
+   “(ii) Enter into and be bound by a non-disciplinary settlement agreement 233 
+in lieu of disciplinary action by the certifying body or licensing board for the minor’s 234 
+profession;”. 235 
+ (p) Section 504(m) (D.C. Official Code § 3-1205.04(m)) is amended by replacing the 236 
+words “approved by the Board” with “approved by the Mayor.” 237 
+ (q) Section 504(n) (D.C. Official Code § 3-1205.04(n)) is amended by replacing the 238 
+words “approved by the Board” with “approved by the Mayor”. 239 
+ (r) A new title VI-G is added to read as follows: 240 
+ “TITLE VI-G.  DENTISTRY; DENTAL OFFICES; ORAL AND MAXILLOFACIAL 241 
+SURGERY  242 
+ “Sec. 681.  Ownership, management and operation of dental offices. 243
+
+11
+ “No person other than a dentist licensed by the District shall be a manager, owner, 244 
+operator, or conductor of a business or place where dental or dental-hygiene services are 245 
+performed or own and control the equipment used to perform such services; employ or contract 246 
+with dentists or dental hygienists to provide dental or dental hygiene services; or exercise control 247 
+over patient records; provided, that the foregoing restrictions shall not apply to: 248 
+ “(a) Federal or District government agencies providing dental services within affiliated 249 
+facilities or engaged in providing public health measures to prevent disease; 250 
+ “(b) Schools of dentistry, dental hygiene, or dental assisting accredited by the 251 
+Commission on Dental Accreditation of the American Dental Association and providing dental 252 
+services solely in an educational setting; 253 
+ “(c) Federally Qualified Health Centers, as designated by the United States Department 254 
+of Health and Human Services, providing dental services; 255 
+ “(d) Nonprofit community-based entities or organizations that use a majority of public 256 
+funds to provide dental and dental-hygiene services for indigent persons; 257 
+ “(e) Hospitals licensed by the Department of Health; 258 
+ “(f) Partnerships, professional corporations, or professional limited liability companies 259 
+solely consisting of and operated by dentists licensed under this act for the purpose of providing 260 
+dental services; 261 
+ “(g) Spouses and domestic partners of deceased licensed dentists for a period of one year 262 
+following the death of the licensee; and 263 
+“(h) An administrator, executor, personal representative, guardian, conservator, or 264 
+receiver of the estate (“appointee”) of a deceased licensed dentist, for a period of one year 265 
+following the creation of the control or ownership interest of the appointee;”. 266
+
+12
+ Sec. 682. Immunization authority.  267 
+ “A dentist licensed by the District may prescribe and administer immunizations and 268 
+vaccinations when certified by the Board of Dentistry to do so. 269 
+ Sec. 683. Limitation on the use of neurotoxins. 270 
+ “A dentist licensed by the District shall not use botulinum toxin or another neurotoxin to 271 
+treat a dental condition, unless: 272 
+ “(a) The neurotoxin is approved for use by the U.S. Food and Drug Administration; 273 
+ “(b) Use of the neurotoxin for treatment of the dental condition has been authorized by 274 
+the Mayor through rulemaking; and 275 
+ “(c) The dentist has been certified by the Board of Dentistry to use the neurotoxin.”. 276 
+ “Sec. 684. Oral and maxillofacial surgery specialty license. 277 
+ “(a) A dentist shall not engage in the practice of oral and maxillofacial surgery unless the 278 
+dentist holds a valid oral and maxillofacial surgery specialty license issued by the Board of 279 
+Dentistry. 280 
+ “(b) To be eligible for an oral and maxillofacial surgery specialty license, a dentist shall: 281 
+  “(1) Have a valid dental license in good standing in the District of Columbia; and  282 
+  “(2) Have successfully completed an oral and maxillofacial surgery residency 283 
+program approved by the Commission on Dental Accreditation of the American Dental 284 
+Association or by another entity that is recognized by the Board as authorized to approve oral 285 
+and maxillofacial surgery residency programs.  286 
+ “(c) A licensed oral and maxillofacial surgeon shall not perform any of the following 287 
+procedures unless the licensed oral and maxillofacial surgeon holds a valid certification to 288 
+perform the specified procedure issued by the Board of Dentistry: 289
+
+13
+  “(1) Rhinoplasty and other treatment of the nose; 290 
+  “(2) Blepharoplasty and other treatment of the eyelid; 291 
+  “(3) Rhytidectomy and other treatment of facial skin wrinkles and sagging; 292 
+  “(4) Submental liposuction and other procedures to remove fat; 293 
+  “(5) Laser resurfacing or dermabrasion and other procedures to remove facial skin 294 
+irregularities; 295 
+  “(6) Browlift (either open or endoscopic technique) and other procedures to 296 
+remove furrows and sagging skin on the upper eyelid or forehead; 297 
+  “(7) Platysma muscle plication and other procedures to correct the angle between 298 
+the chin and neck; 299 
+  “(8) Otoplasty and other procedures to change the appearance of the ear;  300 
+  “(9) Application of injectable medication or material for the purpose of treating 301 
+extraoral cosmetic conditions, but shall not include botulinum toxin; and  302 
+  “(10) Any other oral or maxillofacial procedure for which certification by the 303 
+Mayor is required through rulemaking.”.  304 
+ “(d) A certification issued by the Board of Dentistry pursuant to subsection (c) of this 305 
+section shall authorize the oral and maxillofacial surgeon to perform the authorized procedures 306 
+only above the clavicle.   307 
+ “(e) The Mayor shall promulgate rules establishing the education, training, and 308 
+experience criteria for certification of oral and maxillofacial surgeons to perform certain 309 
+aesthetic or cosmetic procedures within the definition of oral and maxillofacial surgery.   310 
+ “(f) The Mayor may issue rules establishing additional aesthetic or cosmetic procedures 311 
+for which certification shall be required.”.  312
+
+14
+ (s) A new title VI-H is added to read as follows: 313 
+ “TITLE VI-H.  EMERGENCY MEDICAL SERVICES 314 
+ “Sec. 691. Clinical oversight of EMS clinicians. 315 
+ “No person, including a person licensed as an EMS clinician by the District, shall 316 
+perform services as an EMS clinician in the District without clinical oversight of an EMS agency 317 
+medical director or the medical director of the healthcare facility in which the clinician is 318 
+practicing.”. 319 
+ “Sec. 692. Provision of non-EMS services. 320 
+ “An EMS clinician, in addition to engaging in the practice of emergency medical 321 
+services, may provide emergency and non-emergency medical care within a healthcare facility or 322 
+other facility that renders healthcare services if authorized to do so by the medical director of that 323 
+facility.” 324 
+ (t) Section 509a(g)(1) (D.C. Official Code § 3-1205.09a(g)(1)) is amended by striking the 325 
+phrase “as the Board” and inserting the phrase “as the Mayor” in its place.  326 
+(u) Section 511a (D.C. Official Code § 3-1205.11a) is amended as follows: 327 
+  (1) Subsection (c) is repealed. 328 
+  (2) Subsection (d) is amended by striking the phrase “514.” and inserting the 329 
+phrase “514, or failure to meet the requirements of subsections (a) or (b) of this section.” in its 330 
+place. 331 
+ (v) Section 514(a) (D.C. Official Code § 3-1205.14(a)) is amended as follows: 332 
+  (1) Paragraph (54) is amended by striking the phrase “; or” and inserting a 333 
+semicolon in its place. 334
+
+15
+  (2) Paragraph (55) is amended by striking the period and inserting the phrase “; 335 
+or” in its place. 336 
+  (3) A new paragraph (56) is added to read as follows:  337 
+  “(56) Violates section 681 of the Health Occupations and Emergency Medical 338 
+Services Amendment Act of 2026, if the person is a dentist.” 339 
+ (w) Section 514(c)(2) (D.C. Official Code § 3-1205.14(c)(2)) is amended by striking the 340 
+phrase “or withdraw approval of a school of nursing or nursing program.” 341 
+ (x) Section 514b (D.C. Official Code § 3-1205.14b is amended by striking the phrase 342 
+“Board of Nursing” and inserting the word “Mayor” in its place. 343 
+ (y) Section 519(a-2) (D.C. Official Code § 3-1205.19(a-2) is amended to read as follows: 344 
+ “(a-2) Before the Mayor takes an action pursuant to section 514b, the Mayor shall give 345 
+the program or operator of the program an opportunity for a hearing in accordance with this 346 
+section. 347 
+ (z) Section 519(b) (D.C. Official Code § 3-1205.19(b) is amended by striking the phrase 348 
+“person certified, or person or entity operating a nursing education or nursing assistive personnel 349 
+training program.” and inserting the phrase “person certified.” in its place. 350 
+ (aa) Section 522 (D.C. Official Code § 3-1205.22) is amended to read as follows: 351 
+ “(b) The criminal background check shall be conducted by the U.S. Department of 352 
+Justice or an agency or other entity determined by the Mayor. The results of the criminal 353 
+background check shall be forwarded directly from the entity conducting the background check 354 
+to the Mayor or the appropriate health licensing board.”. 355 
+ (bb) Section 524 (D.C. Official Code § 3-1205.24) is repealed. 356
+
+16
+ (cc) Section 631(e)(2)(B)(iii) (D.C. Official Code § 3-1206.31(e)(2)(B)(iii)) is amended 357 
+by striking the phrase “Board of Medicine” and inserting the word “Mayor” in its place. 358 
+ (dd) Section 704 (D.C. Official Code § 3-1207.54) is amended as follows: 359 
+  (1) Subsection (a) is amended by striking the phrase “The Board” and inserting 360 
+the phrase “The Mayor” in its place. 361 
+  (2) Subsection (b) is amended by striking the phrase “The Board, through 362 
+rulemaking” and inserting the phrase “The Mayor, through rulemaking” in its place. 363 
+ (ee) Section 803(a) (D.C. Official Code § 3-1208.03(a)) is amended to read as follows:   364 
+ “(a) The Board of Social Work shall license as an independent social worker a person 365 
+who, in addition to meeting the requirements of Title V (with the exception of the examination 366 
+requirement under Section 506) has a master’s degree or a doctorate from a social work program 367 
+accredited by the Council on Social Work Education, and has at least 3,000 hours of post-368 
+master’s or postdoctoral experience under the supervision of a licensed independent social 369 
+worker over a period of not less than 2 or more than 4 years. 370 
+ (ff) A new section 807 is added to read as follows: 371 
+ “Sec. 807. Community health worker. 372 
+ “(a) The Board of Social Work shall certify a person as a certified community health 373 
+worker who, in addition to meeting the requirements of this act, meets any requirements the 374 
+Mayor may establish by rule.”. 375 
+ (gg) Section 841 (D.C. Official Code § 3-1208.41) is amended as follows: 376 
+  (1) Subsection (a)(1) is amended by striking the word “Board” and inserting the 377 
+word “Mayor” in its place. 378
+
+17
+  (2) Subsection (a)(3) is amended by striking the word “Board” and inserting the 379 
+word “Mayor” in its place. 380 
+  (3) Subsection (b)(1) is amended by striking the word “Board” and inserting the 381 
+word “Mayor” in its place. 382 
+  (4) Subsection (b)(3) is amended by striking the word “Board” and inserting the 383 
+word “Mayor” in its place. 384 
+ (hh) Section 851(a)(1)(A) (D.C. Official Code § 3-1208.51(a)(1)(A)) is amended by 385 
+striking the word “Board” and inserting the word “Mayor” in its place. 386 
+ (ii) Section 852(a)(1)(A) (D.C. Official Code § 3-1208.52(a)(1)(A)) is amended by 387 
+striking the word “Board” and inserting the word “Mayor” in its place. 388 
+ (jj) Section 909(e)(3) (D.C. Official Code § 3-1209.09(e)(3)) is amended by striking the 389 
+word “Board” and inserting the word “Mayor” in its place. 390 
+ (kk) Section 911(c)(5) (D.C. Official Code § 3-1209.11(c)(5)) is amended by striking the 391 
+word “Board” and inserting the word “Mayor” in its place. 392 
+ (ll) Section 1003 (D.C. Official Code § 3-1210.03) is amended by adding a new 393 
+subsection (pp) to read as follows: 394 
+ “(pp) Unless certified as a community health worker by the Mayor under this act, a 395 
+person shall not represent themselves as a “certified community health worker” or by a similar 396 
+title; provided, that this subsection shall not restrict the person from using the generic term 397 
+“community health worker.”  398 
+ (mm) Section 1011(b)(1) (D.C. Official Code § 3-1210.11(b)(1)) is amended by striking 399 
+the word “board” and inserting the word “Mayor” in its place. 400 
+ TITLE II.  EMERGENCY MEDICAL SERVICES 401
+
+18
+ Sec. 201. Short title. 402 
+ This title may be cited as the “Emergency Medical Services Act of 2026”. 403 
+ Sec. 202. Definitions.  404 
+ For the purposes of this act, the term: 405 
+  (1) “Ambulance” means any privately or publicly owned vehicle specially 406 
+designed, constructed, modified, or equipped for use as a means for transporting patients in a 407 
+medical emergency or any privately or publicly owned vehicle that is advertised, marked, or in 408 
+any way held out as a vehicle for the transportation of patients requiring emergency medical 409 
+services. The term “ambulance” includes vehicles capable of operating on land, on water, and in 410 
+air. 411 
+  (2) “Competency evaluation” means any written, oral, or practical examination or 412 
+assessment of the knowledge or skills of an applicant for certification or re-certification as 413 
+emergency medical services personnel that is pertinent to the ability of that applicant to perform 414 
+their duties. Each competency evaluation may include one or more sub-parts, including 415 
+individual demonstrations and assessments of the applicant's performance in actual or simulated 416 
+emergency situations. 417 
+  (3) “Emergency” means the existence of circumstances in which the element of 418 
+time in treating, or in transporting to medical treatment, a person who is ill, injured, wounded, or 419 
+otherwise incapacitated is essential to the health or life of that person, and in which rescue 420 
+operations, or competent first aid, or both may be essential to the health or life of that person. 421 
+  (4)(A) “Emergency medical response vehicle” means a vehicle or conveyance of 422 
+which the primary intended use is to respond to the scene of a medical emergency for the 423
+
+19
+purpose of rendering medical assistance, including the provision of medical assistance on the 424 
+scene or the transportation of patients to a healthcare facility or other treatment facility.  425 
+   (B) The term “emergency medical response vehicle” includes: 426 
+    (i) Ambulances that operate as motor vehicles, watercraft, or 427 
+aircraft; and 428 
+    (ii) Fire engines, motor vehicles, utility vehicles, bicycles, and 429 
+other motorized or non-motorized ground, water, or air vehicles used to transport emergency 430 
+medical services personnel, supplies, or equipment to the scene of an emergency. 431 
+   (C) The term “emergency medical response vehicle” does not include any 432 
+vehicle that responds to the scene of a medical emergency that is not intended to render medical 433 
+assistance, such as a law enforcement vehicle.  434 
+  (5) “Emergency medical services agency” means an entity engaged in the 435 
+business or service of one or more of the following: 436 
+   (A) Responding to requests for emergency medical assistance; 437 
+   (B) Transporting patients from the scene of an emergency to a healthcare 438 
+facility or other treatment facility;  439 
+   (C) Providing medical assistance to patients on the scene of an emergency 440 
+or in transit from the scene of an emergency to a healthcare facility or other treatment facility; 441 
+   (D) Providing medical assistance to patients at special events;  442 
+   (E) Providing medical care through mobile integrated healthcare services; 443 
+or 444 
+   (F) Providing non-emergency patient transport. 445
+
+20
+  (6) “Emergency medical services training facility” means an institution or entity 446 
+engaged in the business or service of providing one or more courses of study or training designed 447 
+to prepare interested persons for the oral, written, or practical examinations required for licensure 448 
+or renewal as emergency medical services clinicians. 449 
+  (7) “Healthcare facility” means a hospital, maternity center, ambulatory surgical 450 
+facility, or hospice, as defined in section 2 of the Health-Care and Community Residence 451 
+Facility, Hospice and Home Care Licensure Act of 1983, effective February 24, 1984 (D.C. Law 452 
+5-48; D.C. Official Code § 44-501) or any other facility designated by the Director of the 453 
+Department of Health for the purpose of rendering medical, clinical, or supportive care. 454 
+  (8) “Medical control system” means a system wherein direct clinical instructions 455 
+are given to emergency medical services clinicians in the field by authorized healthcare 456 
+professionals with independent practice authority. 457 
+  (9) “Medical director” means a physician licensed to practice medicine in the 458 
+District who has responsibility for the medical oversight of the clinical operations of an 459 
+emergency medical services agency. 460 
+  (10) “Mobile integrated health services” means services provided by an 461 
+emergency medical services agency through the use of licensed clinicians to patients who do not 462 
+require emergency medical transportation. Mobile integrated healthcare services may include: 463 
+   (A) Preventive and primary care services; 464 
+   (B) Chronic disease monitoring and management; 465 
+   (C) Post-discharge follow-up; 466 
+   (D) Behavioral health support and crisis intervention; 467 
+   (E) Social determinants of health screenings and referrals; 468
+
+21
+   (F) Non-emergent care coordination and patient navigation services; and 469 
+   (G) Health education and public health outreach. 470 
+  (11) “Mutual aid” means an agreement whereby the District of Columbia requests 471 
+the assistance of an outside entity to provide supplemental or specialized emergency medical 472 
+services in an emergent situation, pursuant to established protocols. 473 
+  (12) “Non-emergency” means a situation in which a patient or person requires 474 
+medical monitoring that does not meet the time-sensitive nature of an emergency. 475 
+  (13) “Patient” means an individual for whom an emergency medical services 476 
+agency or clinician is activated or engaged to provide emergency medical services when the 477 
+individual’s condition requires medical observation, monitoring, assessment, or treatment for an 478 
+acute or chronic illness, disease, injury, or other disability.  479 
+  (14) “Qualified healthcare professional” means a person licensed and qualified in 480 
+accordance with the District of Columbia Health Occupations Revision Act of 1985, effective 481 
+March 25, 1986 (D.C. Law 6-99; D.C. Official Code § 3-1201.01 et seq.), and with rules 482 
+promulgated pursuant to that act, to engage in the act of prescribing and of rendering medical 483 
+care and advice under the circumstances presented. 484 
+  (14) “Special event emergency medical services” means the organized and 485 
+coordinated provision of emergency medical care, medical response, and support of public health 486 
+at planned events, gatherings, or activities where attendance, participation, venue characteristics, 487 
+or general event operations create increased risk or potential for illness or injury. 488 
+  (15) “Specialty systems of care” means coordinated, Districtwide clinical care 489 
+frameworks organized around specific time sensitive or resource intensive medical conditions, in 490 
+which designated hospitals and supporting partners meet defined standards for capability, 491
+
+22
+capacity, expertise, and data reporting as defined by the Mayor. Specialty systems of care 492 
+include trauma, stroke, cardiac, burn, and pediatric care systems. 493 
+  (16) “Stretcher van agency” means an entity engaged in the business or service of 494 
+transporting patients who require the use of a stretcher and do not require medical monitoring or 495 
+treatment during transport. 496 
+  (17) “Stretcher van vehicle” means a vehicle or conveyance used to transport non-497 
+emergency passengers who require the use of a stretcher and does not provide medical 498 
+monitoring or treatment during transport. 499 
+  (18) “Treatment facility” means an urgent care center, treatment center, clinic, or 500 
+other facility or office at which medical or psychological services are performed, and which has 501 
+been designated by the Mayor as a facility authorized to receive patients transported by 502 
+emergency medical services agencies or clinicians. 503 
+ Sec. 203. Applicability and exemptions.  504 
+ (a) Except as otherwise provided in this act, this act shall apply to every: 505 
+  (1) Entity providing emergency medical services within the District, whether 506 
+public or private or for-profit or not-for-profit, including owners and operators of emergency 507 
+medical services agencies and owners and operators of emergency medical response vehicles; 508 
+  (2) Entity or individual providing non-emergency transport services within the 509 
+District, whether public or private or for-profit or not-for-profit, including owners and operators 510 
+of stretcher van agencies and owners and operators of stretcher van vehicles; and   511 
+  (3) Entity or individual providing emergency medical services training and 512 
+instruction, whether public or private or for-profit or not-for-profit, within the District, including 513 
+owners and operators.  514
+
+23
+ (b) The provisions of this act shall not apply to the following: 515 
+  (1) The unexpected rendering of immediate care by a private citizen, or the 516 
+unexpected use of a privately owned vehicle which is not ordinarily used in the business of 517 
+transporting persons who are sick, injured, wounded, or otherwise incapacitated or helpless, in 518 
+the performance of a lifesaving act; 519 
+  (2) Agencies, vehicles, or training facilities owned or operated by the United 520 
+States government and operating on federal property; 521 
+  (3) Agencies operating within the District of Columbia pursuant to mutual aid 522 
+agreements; 523 
+  (4) Validly licensed or certified emergency medical services agencies or response 524 
+vehicles engaged in a response that originates from outside of the District;  525 
+  (5) Validly licensed or certified emergency medical services agencies or response 526 
+vehicles that have obtained a limited authorization from the Mayor, or the Mayor’s designee, in 527 
+advance of the movement of a patient. 528 
+  (6) Validly licensed or certified stretcher van vehicles that initiate transport 529 
+outside of the District and do not otherwise constitute public vehicles for hire; and 530 
+  (7) Validly licensed vehicles operated solely for the transportation of a person to 531 
+and from treatment facilities as outpatients; provided that this exemption shall not apply to a 532 
+vehicle which is in any way held out as an emergency medical response vehicle or a stretcher 533 
+van vehicle, or to a vehicle in which the person being transported meets the definition of a 534 
+patient. 535 
+ Sec. 204. Emergency medical services agencies and training facilities: general 536 
+requirements. 537
+
+24
+ (a) Each emergency medical services agency and training facility, other than a stretcher 538 
+van agency, operating in the District shall have a medical director. The medical director shall 539 
+provide clinical oversight of operations, including the development and implementation of 540 
+clinical protocols, quality assurance measures, and integration with the District’s medical control 541 
+system. 542 
+ (b) Emergency medical services agencies and training facilities  and stretcher van 543 
+agencies shall submit data as required by the Mayor for the purpose of evaluating outcomes, 544 
+cost-effectiveness, program utilization, and quality improvement. 545 
+ Sec. 205. Emergency medical services agencies: license required.  546 
+ (a) Except as otherwise provided in this act, no person or entity shall operate an 547 
+emergency medical services agency, whether public or private or for-profit or not-for-profit, in 548 
+the District without an emergency medical services agency license issued by the Mayor. 549 
+ (b) An applicant for a license to operate an emergency medical services agency shall 550 
+establish to the satisfaction of the Mayor that the agency meets all requirements set forth in this 551 
+act and in rules promulgated pursuant to this act. 552 
+ (c) An applicant for a license shall: 553 
+  (1) Submit an application to the Mayor on a form approved by the Mayor; 554 
+  (2) Submit supporting documentation as required by the Mayor, including all 555 
+certificates of approval, authority, occupancy, or need that are required as a precondition to 556 
+lawful operation in the District of Columbia; and 557 
+  (3) Pay the applicable fee established by the Mayor through rulemaking, except 558 
+that no license fee shall be required of an emergency medical services agency operated by the 559 
+District government. 560
+
+25
+ (d) A license to operate an emergency medical services agency shall be valid only for the 561 
+persons and premises named as applicants in the application. Any change in the ownership of an 562 
+emergency medical services agency owned by an individual, partnership, or association, or in the 563 
+legal or beneficial ownership of 25% or more of the stock of a corporation that owns or operates 564 
+an emergency medical services agency shall require a new application for licensure.  565 
+ Sec. 206. Stretcher van agencies: license required.  566 
+ (a) Except as otherwise provided in this act, no person or entity shall operate a stretcher 567 
+van agency in the District, whether public or private or for-profit or not-for-profit, without a 568 
+stretcher van agency license issued by the Mayor. 569 
+ (b) An applicant for a license to operate a stretcher van agency shall establish to the 570 
+satisfaction of the Mayor that the agency meets all requirements set forth in this act and in rules 571 
+issued pursuant to this act. 572 
+ (c) An applicant for a license shall: 573 
+  (1) Submit an application to the Mayor on a form approved by the Mayor; 574 
+  (2) Submit supporting documentation as required by the Mayor, including all 575 
+certificates of approval, authority, occupancy, or need that are required as a precondition to 576 
+lawful operation in the District; and 577 
+  (3) Pay the applicable fee established by the Mayor through rulemaking, except 578 
+that no license fee shall be required of a stretcher van agency operated by the District 579 
+government. 580 
+ (d) A license to operate a stretcher van agency shall be valid only for the persons and 581 
+premises named as applicants in the application. Any change in the ownership of a stretcher van 582 
+agency owned by an individual, partnership, or association, or in the legal or beneficial 583
+
+26
+ownership of 25% or more of the stock of a corporation that owns or operates a stretcher van 584 
+agency, shall require a new application for licensure.  585 
+ (e) Stretcher van agencies shall not be held out as a substitute for emergency medical 586 
+services. A stretcher van agency shall refer or transfer care to an emergency medical services 587 
+agency, healthcare facility, or hospital when clinically indicated.  588 
+ Sec. 207. Mobile integrated healthcare services. 589 
+ (a)(1) No person shall provide mobile integrated healthcare services in the District 590 
+without a mobile integrated healthcare services license issued by the Mayor. 591 
+  (2) To qualify for a mobile integrated healthcare services license, an applicant 592 
+shall: 593 
+   (A) Hold a valid license as an emergency medical services agency in good 594 
+standing; 595 
+   (B) Submit a mobile integrated healthcare program plan for approval by 596 
+the Mayor, detailing clinical services, clinical protocols, staffing models, data collection and 597 
+evaluation practices, and collaboration agreements with health and social service entities; 598 
+   (C) Demonstrate the ability to provide services through qualified 599 
+personnel, including paramedics, advanced emergency medical technicians, or other licensed or 600 
+certified health professionals operating within their scope of practice and under the supervision 601 
+of a medical director; 602 
+   (D) Pay an application fee established by the Mayor through rulemaking; 603 
+and 604 
+   (E) Pay an inspection fee established by the Mayor through rulemaking. 605
+
+27
+ (b) Mobile integrated healthcare services shall be provided in accordance such standards 606 
+as the Mayor may establish by rule. 607 
+ (c) Mobile integrated healthcare services shall not replace emergency medical services. A 608 
+mobile integrated healthcare service provider shall refer or transfer care to the appropriate 609 
+emergency medical services agency, healthcare facility, or hospital when clinically indicated.  610 
+  Sec. 208. Special events emergency medical services agency. 611 
+ (a)(1) No person shall provide special event emergency medical services in the District 612 
+without a special event emergency medical services agency license issued by the Mayor. 613 
+  (2) To qualify for a special event emergency medical services agency license, an 614 
+applicant shall: 615 
+   (A) Hold a valid license as an emergency medical services agency in good 616 
+standing; 617 
+   (B) Submit a special event emergency medical services operational plan 618 
+for approval by the Mayor, detailing clinical services, staffing models, data collection and 619 
+evaluation practices, and collaboration agreements entities; 620 
+   (C) Demonstrate the ability to provide services through qualified 621 
+personnel, including emergency medical responders, emergency medical technicians, 622 
+paramedics, advanced emergency medical technicians, or other licensed or certified health 623 
+professionals operating within their scope of practice and under the supervision of a medical 624 
+director; 625 
+   (D) Pay an application fee established by the Mayor by rule; and 626 
+   (E) Pay an inspection fee established by the Mayor through rulemaking. 627
+
+28
+ (c) A special event emergency medical services agency shall refer or transfer care to an 628 
+emergency medical services agency, healthcare facility, or hospital when clinically indicated. 629 
+ (d) Special event emergency medical services shall coordinate their activities with the 630 
+District’s emergency medical services agencies and the Department of Health, in a manner 631 
+prescribed by the Department of Health which shall include communications and logistics 632 
+planning, mobilization strategy, and response planning, before providing services. 633 
+ Sec. 209. Emergency medical services training facilities: license required.  634 
+ (a) Except as otherwise provided in this act, no person or entity shall operate an 635 
+emergency medical services training facility in the District, whether public or private, for-profit 636 
+or not-for-profit, without first having obtained a license from the Mayor to do so. 637 
+ (b) An applicant for a license to operate an emergency medical services training facility 638 
+shall establish to the satisfaction of the Mayor that the facility meets all requirements set forth in 639 
+this act and in rules promulgated pursuant to this act. 640 
+ (c) An applicant for a license shall: 641 
+  (1) Submit an application to the Mayor on a form approved by the Mayor; 642 
+  (2) Submit supporting documentation as required by the Mayor, including all 643 
+certificates of approval, authority, occupancy, or need that are required as a precondition to 644 
+lawful operation in the District of Columbia; 645 
+  (3) Pay the applicable fee established by the Mayor through rulemaking, except 646 
+that no license fee shall be required of an emergency medical services training facility operated 647 
+by the District government; and 648 
+  (4) Pay the applicable inspection fee established by the Mayor through 649 
+rulemaking. 650
+
+29
+ (d) A license to operate an emergency medical services training facility shall be issued 651 
+for a period of time not to exceed 2 years. 652 
+ (e) A license to operate an emergency medical services training facility shall be valid 653 
+only for the persons and premises named as applicants in the application. Any change in the 654 
+ownership of an emergency medical services training facility owned by an individual, 655 
+partnership, or association, or in the legal or beneficial ownership of 25% or more of the stock of 656 
+a corporation that owns or operates an emergency medical services training facility, shall require 657 
+a new application for licensure. 658 
+ (f) An emergency medical services training facility shall conform to curriculum and 659 
+competency evaluation standards as developed by the Mayor. 660 
+ Sec. 210. Emergency medical response vehicles: license required.  661 
+ (a) Except as otherwise provided in this act or during a declared state of emergency or 662 
+public health emergency under sections 5 or 5a of the District of Columbia Public Emergency 663 
+Act of 1980, effective March 5, 1981 (D.C. Law 3-149; D.C. Official Code §§ 7-2304, 7304.01), 664 
+no ground, air, water, or other emergency response conveyance intended to transport patients 665 
+may be operated in the District without a currently valid emergency response transport vehicle 666 
+license issued by the Mayor for that vehicle. 667 
+ (b) Except as otherwise provided in this act, no ground, air, water, or other emergency 668 
+response conveyance intended to respond to medical emergencies but not transport patients may 669 
+be operated in the District without a currently valid emergency response non-transport vehicle 670 
+license issued by the Mayor for that vehicle. 671 
+ (c) An applicant for a license to operate an emergency response transport or non-transport 672 
+vehicle shall establish to the satisfaction of the Mayor that the vehicle, including its emergency 673
+
+30
+medical response equipment and supplies, meets all applicable requirements set forth in this act 674 
+and in rules promulgated pursuant to this act. 675 
+ (d) An applicant for a license shall: 676 
+  (1) Submit an application to the Mayor on a form approved by the Mayor; 677 
+  (2) Submit supporting documentation as required by the Mayor, including all 678 
+certificates of approval, authority, and motor vehicle registration required as a precondition to 679 
+lawful operation in the District of Columbia;  680 
+  (3) Pay the applicable vehicle licensure fee established by the Mayor through 681 
+rulemaking, except that no vehicle license fee shall be required for an emergency medical 682 
+response vehicle operated by the District government; and 683 
+  (4) Pay the applicable vehicle inspection fee established by the Mayor through 684 
+rulemaking. 685 
+ (e) No license for an emergency medical response vehicle intended to transport patients 686 
+shall be issued unless the Mayor finds that the vehicle is in compliance with all applicable laws 687 
+and rules relating to the provision of emergency medical services. 688 
+ (f) The Mayor shall issue rules establishing minimum staffing for emergency medical 689 
+response vehicles.  690 
+ (g) A license for the operation of an emergency medical response vehicle shall be issued 691 
+for a period of time not to exceed one year. 692 
+ (h) A license for the operation of an emergency medical response vehicle shall be valid 693 
+only for the persons and vehicle named as applicants in the application. No emergency medical 694 
+response vehicle license or certification shall be sold or transferred. An emergency medical 695
+
+31
+services agency purchasing a formerly licensed emergency medical response vehicle for use as 696 
+an emergency medical response vehicle shall apply for and obtain a license. 697 
+ Sec. 211. Liability insurance required for vehicles, facilities, and agencies.  698 
+ (a) No license shall be issued pursuant to this act to any emergency medical response 699 
+vehicle used to transport patients unless there is, at all times in force and effect, insurance 700 
+coverage for the vehicle, issued by an insurance company or companies licensed to do business 701 
+in the District, providing for the payment of damages for the following: 702 
+  (1) Bodily injury to, or death of, individuals in accidents resulting from any cause 703 
+for which the owner of the vehicle would be liable, regardless of whether the vehicle was being 704 
+operated by the owner or by the owner’s agent; and 705 
+  (2) Loss of, or damage to, the property of another, including personal property, 706 
+under similar circumstances. 707 
+ (b) No license shall be issued pursuant to this act to an emergency medical services 708 
+training facility, on the premises of which training instruction or evaluation is conducted, unless 709 
+there is, at all times in force and effect, insurance coverage for the facility premises, issued by an 710 
+insurance company or companies licensed to do business in the District, providing for the 711 
+payment of damages for bodily injury, death, and damage to or loss of personal property, for any 712 
+reason for which the owner or operator of the premises would be liable. 713 
+ (c) No license shall be issued pursuant to this act to an emergency medical services 714 
+agency unless there is, in addition to vehicle and premises coverage as specified herein, at all 715 
+times in force and effect, incidental malpractice insurance coverage specific to the duties of a 716 
+medical director. 717
+
+32
+ (d) The provisions of this section shall not apply to emergency medical response vehicles, 718 
+emergency medical services training facilities, and emergency medical services agencies owned 719 
+and operated by agencies of the District government. 720 
+ (e) The Mayor shall promulgate rules further specifying the insurance to be required of 721 
+all emergency medical response vehicles, emergency medical services training facilities, and 722 
+emergency medical services agencies licensed pursuant to this act. 723 
+ (f) The cancellation or other termination of any insurance policy required pursuant to this 724 
+section shall nullify or invalidate any licenses issued for emergency medical response vehicles, 725 
+emergency medical services training facilities, and emergency medical services agencies covered 726 
+by the policy, unless another insurance policy complying with the provisions of this section has 727 
+been obtained and is in effect at the time of the cancellation or termination. 728 
+ Sec. 212. Provisional and restricted licenses.  729 
+ (a) The Mayor may issue a provisional license to a new emergency medical services 730 
+agency or emergency medical services training facility to afford the Mayor sufficient time and 731 
+evidence to evaluate whether the new emergency medical services agency or emergency medical 732 
+services training facility is capable of complying with the provisions of this act, rules 733 
+promulgated pursuant to this act, and other applicable provisions of law. 734 
+ (b) As an alternative to denial, nonrenewal, suspension, or revocation of a license, when 735 
+an emergency medical services agency, emergency medical services training facility, or 736 
+emergency medical response vehicle is not in substantial compliance with the provisions of this 737 
+act, rules promulgated pursuant to this act, or other applicable provisions of law, and the Mayor 738 
+finds that the public interest would be served thereby, the Mayor may: 739
+
+33
+  (1) Issue a provisional license if the owner or operator of the emergency medical 740 
+services agency, emergency medical services training facility, or emergency medical response 741 
+vehicle is taking appropriate ameliorative action in accordance with an agreed-upon timetable; or 742 
+  (2) Issue a restricted license that prohibits the emergency medical services 743 
+agency, emergency medical services training facility, or emergency medical response vehicle 744 
+from accepting new patients or students, or from delivering certain specified services that it 745 
+would otherwise be authorized to deliver, or from other activities designated by the Mayor, until 746 
+appropriate ameliorative action is taken. 747 
+ (c) Provisional licenses issued pursuant to this section may be granted for a period of 748 
+time not to exceed 180 days and may be renewed no more than once. 749 
+ Sec. 213. Licenses and certifications issued pursuant to prior authority.  750 
+ Except as otherwise provided in this act, any emergency medical services agency, 751 
+ambulance or other emergency medical response vehicle, or emergency medical services training 752 
+facility licensed or certified pursuant to the Emergency Medical Services Act of 2008, effective 753 
+March 25, 2009 (D.C. Law 17-357; D.C. Official Code § 7–2341.01 et seq.) as of the effective 754 
+date of the District of Columbia Health Care Act of 2026, shall be considered licensed or 755 
+certified pursuant to this act, and shall be subject to the renewal requirements established by this 756 
+act and by rules promulgated pursuant to this act. 757 
+ Sec. 214. Powers and duties of the Mayor.  758 
+ (a) To ensure compliance with the provisions of this act and of any rules issued pursuant 759 
+to this act, the Mayor may at any time conduct an inspection of an emergency medical services 760 
+agency, emergency medical response vehicle, or emergency medical services training facility for 761 
+which a license has been issued or application for licensure has been submitted. The licensee or 762
+
+34
+applicant subject to inspection shall cooperate with the Mayor and provide timely access to the 763 
+site or equipment. 764 
+ (b) In the alternative or in addition to conducting an inspection or evaluation, the Mayor 765 
+may demand the production of all records relating to the operation of an emergency medical 766 
+services agency, emergency medical response vehicle, or emergency medical services training 767 
+facility, or to the performance of duties by any person acting as an agent of an emergency 768 
+medical service agency or emergency medical service training facility licensed pursuant to this 769 
+act or for which an application has been submitted. The licensee or applicant subject to 770 
+inspection or evaluation shall cooperate with the Mayor and provide timely and full access to all 771 
+such records. 772 
+ (c) To ensure compliance with the provisions of this act and of any rules promulgated 773 
+pursuant to this act, the Mayor may conduct investigations, as needed, and may administer oaths, 774 
+examine witnesses, and issue subpoenas to compel the attendance and testimony of witnesses or 775 
+the production of books, records, or other documents. In case of contempt or refusal to obey a 776 
+subpoena, the Mayor shall refer the matter to the Office of the Attorney General who may 777 
+petition the Superior Court of the District of Columbia to issue an order requiring the person to 778 
+appear and testify or to produce books, papers, or other evidence bearing on the investigation. 779 
+ (d) The Mayor shall maintain and make available to the public information concerning: 780 
+  (1) Application, licensure, and renewal requirements and procedures; and 781 
+  (2) An official register of licensed emergency medical services agencies and 782 
+emergency medical services training facilities.  783 
+ (e) The Mayor may establish medical control systems and protocols that are applicable to 784 
+all emergency medical services agencies. 785
+
+35
+ Sec. 215. License renewal.  786 
+ (a) An application for renewal of a license shall be submitted to the Mayor no later than 787 
+90 days before expiration of the license, on a form approved by the Mayor, accompanied by the 788 
+appropriate renewal fee established by the Mayor through rulemaking. An application for 789 
+renewal for an emergency medical services agency or an emergency medical services training 790 
+facility submitted later than 90 days before expiration shall be subject to a late fee as established 791 
+by the Mayor through rulemaking. 792 
+ (b) A license issued pursuant to this act for which timely renewal application is made 793 
+shall continue in force beyond the expiration date until the Mayor acts on the renewal 794 
+application. 795 
+ Sec. 16. Denial, suspension, and revocation of license or designation.  796 
+ (a) The Mayor, subject to the right to a hearing as provided in section 18, may deny 797 
+issuance of, deny renewal of, suspend, or revoke a license to operate an emergency medical 798 
+services agency, an emergency medical response vehicle, or an emergency medical services 799 
+training facility to a person or entity which is found to have: 800 
+  (1) Failed to comply with the applicable provisions of this act or of rules 801 
+promulgated pursuant to this act; 802 
+  (2) Failed to comply with any other federal or District law applicable to the 803 
+operation of an emergency medical services agency, an emergency medical response vehicle, or 804 
+an emergency medical services training facility; or 805 
+  (3) Committed, aided, abetted, or permitted to be committed any act of 806 
+dishonesty, fraud, gross negligence, abuse, assault, or other illegal act related to the operation of 807
+
+36
+an emergency medical services agency, emergency medical response vehicle, or emergency 808 
+medical services training facility. 809 
+ (b) Upon suspension, revocation, or termination of a license issued pursuant to this act, 810 
+the owner or operator of the license shall immediately surrender the license and immediately 811 
+cease operations under the license. In the case of a vehicle used to transport patients, no person 812 
+or entity shall permit the vehicle to be used for that purpose. 813 
+ Sec. 217. Summary suspension.  814 
+ (a) If, after an investigation, the Mayor determines that an emergency medical services 815 
+agency, emergency medical response vehicle, or emergency medical services training facility 816 
+licensed pursuant to this act has failed to comply with the provisions of this act or with rules 817 
+promulgated pursuant to this act, in such a manner as to present an imminent danger to the 818 
+health, safety, or welfare of any person or of the general public, the Mayor may summarily 819 
+suspend the license prior to a hearing. 820 
+ (b) The Mayor shall provide, as soon as possible, the owner or operator of the emergency 821 
+medical services agency, emergency medical response vehicle, or emergency medical services 822 
+training facility, with written notice of the summary suspension. The notice shall inform the 823 
+affected owner, operator, or entity of the reason for the suspension and of the right to request a 824 
+hearing. 825 
+ (c) The owner or operator of the emergency medical services agency, emergency medical 826 
+response vehicle, or emergency medical services training facility shall have 5 business days after 827 
+service of the notice of summary suspension in which to request a hearing to challenge the 828 
+summary suspension. If requested, the hearing shall be conducted by the Office of 829
+
+37
+Administrative Hearings. A hearing shall be held within 5 business days of a timely request, and 830 
+a decision shall be issued within 5 business days after the record is closed. 831 
+ Sec.218. Hearings.  832 
+ (a) Except in the case of a summary suspension as provided in section 17, before the 833 
+Mayor denies an application for initial or renewal licensure or suspends or revokes a license, or 834 
+imposes a civil fine, the Mayor shall give the owner or operator of the emergency medical 835 
+services agency, emergency medical response vehicle, or emergency medical services training 836 
+facility, against whom the action is contemplated written notice of the contemplated action. The 837 
+notice shall inform the affected entity of the reason for the action and of the right to request a 838 
+hearing. 839 
+ (b) If requested, the hearing shall be conducted by the Office of Administrative Hearings. 840 
+ Sec. 219. Judicial review.  841 
+ An individual or entity aggrieved by a decision of the Office of Administrative Hearings 842 
+may appeal the decision to the District of Columbia Court of Appeals, in accordance with the 843 
+District of Columbia Administrative Procedure Act of 1968, approved October 21, 1968 (82 Stat. 844 
+1204; D.C. Official Code § 2-501 et seq.), and pursuant to the Office of Administrative Hearings 845 
+Establishment Act of 2001, effective March 6, 2002 (D.C. Law 14-76; D.C. Official Code § 2- 846 
+1831.01 et seq.). 847 
+ Sec. 220. Specialty systems of care. 848 
+ (a) The Mayor shall establish criteria for the designation of hospitals capable of 849 
+supporting specialty systems of care within the District. The Mayor shall adopt classifications of 850 
+specialty systems of care, including criteria, data reporting standards, and other requirements for 851 
+each classification.  852
+
+38
+ (b) No hospital shall advertise or hold itself out as providing a specialized level of care 853 
+without holding a designation as issued by the Mayor in accordance with this section. 854 
+ (c) An applicant for designation as a specialty care facility shall establish to the 855 
+satisfaction of the Mayor that the hospital meets all requirements set forth in this act and in rules 856 
+issued pursuant to this act. 857 
+ (d) An applicant for a designation shall: 858 
+  (1) Submit an application to the Mayor, on a form approved by the Mayor; 859 
+  (2) Submit supporting documentation as required by the Mayor; 860 
+  (3) Pay the applicable designation fee as established by the Mayor through 861 
+rulemaking; and 862 
+  (4) Pay the applicable inspection fee as established by the Mayor through 863 
+rulemaking. 864 
+ (e) A designation as a specialty care facility shall be issued for a period of time not to 865 
+exceed 2 years.  866 
+ (f) A designation shall be valid only for the person and premises named as the applicants 867 
+in the application. Any change in the ownership of a designated hospital owned by an individual, 868 
+partnership, or partnership or in the legal or beneficial ownership of 25% or more of the stock of 869 
+the corporation that owns or operates a designated hospital, shall require a new application for 870 
+designation. 871 
+ (g) The Mayor may establish and maintain a database of information regarding specialty 872 
+systems of care and emergency medical care services provided within the District of Columbia. 873 
+All hospitals, healthcare facilities, and treatment facilities receiving patients, either by an 874 
+emergency medical services response vehicle or through other means of arrival, and all entities 875
+
+39
+providing emergency medical care services, shall provide data to the Mayor as specified in 876 
+rulemaking promulgated pursuant to this act. 877 
+ (h) To the extent that specialty systems of care and emergency medical care records 878 
+compiled and maintained by the Mayor, hospitals, other health care facilities, treatment facilities, 879 
+or emergency medical services providers in connection with the specialty systems of care and 880 
+emergency medical care information system pursuant to this act contain patient identifiable data, 881 
+that data shall be maintained pursuant to applicable privacy laws. 882 
+ Sec. 221. Advertising.  883 
+ (a) No person, entity, or government agency shall advertise or disseminate information or 884 
+otherwise hold itself out to the public as offering emergency medical services, ambulance 885 
+services, mobile integrated health services, special event medical services, or stretcher van 886 
+services unless that service is provided by a person, entity, or governmental agency that is 887 
+licensed to provide such services pursuant to this act and the rules issued pursuant to this act.   888 
+ (b) No person, entity, or government agency shall advertise or disseminate information, 889 
+or otherwise hold itself out to the public as offering emergency medical services training, unless 890 
+that training is provided by persons certified as emergency medical services instructors pursuant 891 
+to this act and to rules promulgated pursuant to this act. 892 
+ Sec. 222.  Emergency medical services for children.  893 
+ The Mayor shall establish, in collaboration with a licensed hospital within the District of 894 
+Columbia specializing in pediatric care, a program of emergency medical services for children. 895 
+The purpose of this program shall be to continue, to the extent that funds are made available 896 
+through federal government grants, District appropriated funds, or private sources, the operation 897
+
+40
+and development of programs designed to improve the emergency medical care provided to 898 
+children within the District of Columbia. 899 
+ Sec. 223. Establishment of Emergency Medical Services Advisory Committees.  900 
+ (a) The Mayor may establish one or more advisory committees to provide advice on: 901 
+  (1) Best practices in emergency medical services across the United States to assist 902 
+in establishing performance goals for emergency medical services in the District; 903 
+  (2) Recommend standards, or revisions to existing standards, to be applied to the 904 
+delivery of emergency medical services in accordance with the appropriate District, federal, and 905 
+regional laws, rules, regulations, and inter-jurisdictional agreements; 906 
+  (3) The development of a program of public information and education with 907 
+respect to emergency medical services; 908 
+  (4) The development of an emergency medical data collection system for the 909 
+District and on the categorization of emergency facilities and services;  910 
+  (5) The coordination of District emergency medical services with those 911 
+emergency medical service activities and projects coordinated through the Metropolitan 912 
+Washington Council of Governments; 913 
+  (6) Any other area related to emergency medical services as designated by the 914 
+Mayor. 915 
+ (c) Members of advisory committees shall serve without compensation. 916 
+ Sec. 224. Rulemaking.  917 
+ The Mayor, pursuant to the District of Columbia Administrative Procedure Act, approved 918 
+October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 et seq.), shall issue rules to 919 
+implement the provisions of this act, including: 920
+
+41
+  (1) Minimum standards of operation of an emergency medical services agency, 921 
+including: 922 
+   (A) Medical director and staff qualifications and responsibilities; 923 
+   (B) Premises and equipment standards; 924 
+   (C) Hours and scope of operation; 925 
+   (D) Safety and health standards; and 926 
+   (E) Record keeping and reporting requirements; 927 
+  (2) Minimum standards of operation of an emergency medical response vehicle, 928 
+including: 929 
+   (A) Operator and attendant qualifications; 930 
+   (B) Vehicle, equipment, and supplies requirements; 931 
+   (C) Safety and health standards; and 932 
+   (D) Record keeping and reporting requirements; 933 
+  (3) Minimum standards of operation of an emergency medical services training 934 
+facility, including: 935 
+   (A) Premises and equipment standards; 936 
+   (B) Director and instructor qualifications and responsibilities; 937 
+   (C) Curricula and course contents; 938 
+   (D) Competency evaluations; and 939 
+   (E) Record keeping and reporting requirements; 940 
+  (4) Minimum standards of operation of a mobile integrated health service, 941 
+including: 942 
+   (A) Minimum standards for mobile integrated healthcare service delivery; 943
+
+42
+   (B) Program application, designation, renewal, and inspection procedures; 944 
+   (C) Documentation and confidentiality requirements; 945 
+   (D) Patient consent, privacy, and rights protections; and 946 
+   (E) Coordination with existing emergency medical services, public health, 947 
+and social services infrastructure. 948 
+  (5) Licensure application, issuance, and renewal procedures; 949 
+  (6) Grounds and procedures for , denial, non-renewal, suspension, and revocation 950 
+of a license, or any other appropriate discipline; 951 
+  (7) Standards and requirements for the operation of a 24-hour emergency 952 
+response vehicle service; 953 
+  (8) Minimum standards and criteria for the designation of specialty care facilities 954 
+and for the designation of other specialized emergency medical care facilities as considered 955 
+warranted by the Mayor; 956 
+  (9) Standards and criteria for emergency medical care data collection; 957 
+  (10) Encouraging healthcare facilities, including long-term care and assisted 958 
+living facilities, to provide or procure inter-facility transport services independent of the 911 959 
+emergency system for their non-emergent needs; provided, that this does not limit the authority 960 
+of the Medical Director of the Fire and Emergency Medical Services Department pursuant to An 961 
+Act To classify the officers and members of the fire department of the District of Columbia, and 962 
+for other purposes, approved June 20, 1906 (34 Stat. 314; D.C. Official Code § 5-401 et seq.); 963 
+and 964 
+  (11) The establishment of a fee schedule to recover the costs of regulating entities 965 
+established pursuant to this act.  966
+
+43
+ Sec. 225.  Criminal and civil penalties.  967 
+ (a) Any person or entity who violates any provision of this act shall, upon conviction, be 968 
+subject to a fine not to exceed $1,000, imprisonment not to exceed 180 days, or both. Each 969 
+unlawful act shall constitute a separate violation. 970 
+ (b) Any person or entity who has been previously convicted pursuant to this act shall, 971 
+upon conviction for a subsequent violation, be subject to a fine not to exceed $5,000, 972 
+imprisonment not to exceed one year, or both. 973 
+ (c) Civil fines and penalties may be imposed as alternative sanctions for any violations of 974 
+the provisions of this act or of rules promulgated under the authority of this act, pursuant to the 975 
+Department of Consumer and Regulatory Affairs Civil Infractions Act of 1985, effective October 976 
+5, 1985 (D.C. Law 6-42; D.C. Official Code § 2-1801.01 et seq.). The adjudication of any 977 
+infraction shall be conducted by the Office of Administrative Hearings, pursuant to the Office of 978 
+Administrative Hearings Establishment Act of 2001, effective March 6, 2002 (D.C. Law 14-76; 979 
+D.C. Official Code § 2-1831.01 et seq.), the Department of Consumer and Regulatory Affairs 980 
+Civil Infractions Act of 1985, effective October 5, 1985 (D.C. Law 6-42; D.C. Official Code § 2-981 
+1801.01 et seq.), and to rules promulgated pursuant to those acts. 982 
+ Sec. 226. Prosecutions.  983 
+ (a) Criminal prosecutions for violations of this act shall be brought by the Attorney 984 
+General for the District of Columbia in the name of the District of Columbia. 985 
+ (b) In any prosecution initiated pursuant to this act, a person or entity claiming an 986 
+exemption from a licensing or certification requirement of this act shall have the burden of 987 
+proving entitlement to the exemption. 988 
+ Sec. 227. Injunctions.  989
+
+44
+ (a) The Attorney General for the District of Columbia may bring an action in the Superior 990 
+Court of the District of Columbia, in the name of the District of Columbia, to enjoin any 991 
+violation of this act. 992 
+ (b) The remedy established by this section shall be in addition to disciplinary action 993 
+initiated by the Mayor, civil sanctions, and criminal prosecution. 994 
+ (c) In any proceeding brought pursuant to this section, it shall not be necessary to prove 995 
+that any person has been injured by the violation alleged. 996 
+ Sec. 228. Pending actions and proceedings; existing orders.  997 
+ (a) No judicial or administrative proceeding commenced by or against an emergency 998 
+medical services agency, emergency medical response vehicle owner or operator, emergency 999 
+medical services training facility or instructor, emergency medical technician, or paramedic shall 1000 
+abate by reason of the taking effect of this Act. Each such action or proceeding shall be 1001 
+continued with substitution as to parties and government agencies as appropriate. 1002 
+ (b) The Emergency Medical Services Regulations (29 DCMR § 500 et seq.) in effect on 1003 
+the effective date of this act shall continue in effect until modified, rescinded, or superseded by 1004 
+rules issued pursuant to this act. 1005 
+ (c) All decisions issued pursuant to such Emergency Medical Services Regulations shall 1006 
+remain valid, in effect, and subject to review as provided in such regulations.”. 1007 
+ TITLE III.  CONFORMING AMENDMENTS, REPEALERS, AND STANDARD 1008 
+PROVISIONS 1009 
+ Sec. 301.  The Emergency Medical Services Act of 2008, effective March 25, 2009 (D.C. 1010 
+Law 17-357; D.C. Official Code § 7-2341.01 et seq.), is repealed. 1011
+
+45
+ Sec. 302. Section 2(a)(7) of the Health-Care and Community Residence Facility, Hospice 1012 
+and Home Care Licensure Act of 1983, effective February 24, 1984 (D.C. Law 5-48; D.C. 1013 
+Official Code § 44-501(a)(7)) is amended by striking the phrase “other than a hospice,” and 1014 
+inserting the phrase “other than a hospice or licensed mobile integrated health service,” in its 1015 
+place.   1016 
+ Sec. 303. Fiscal impact statement.  1017 
+ The Council adopts the fiscal impact statement in the committee report as the fiscal 1018 
+impact statement required by section 4a of the General Legislative Procedures Act of 1975, 1019 
+approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a). 1020 
+ Sec. 304. Effective date. 1021 
+ This act shall take effect following approval by the Mayor (or in the event of veto by the 1022 
+Mayor, action by the Council to override the veto) and a 30-day period of congressional review 1023 
+as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 1024 
+24, 1973 (87 Stat. 813; D. C. Official Code § 1-206.02(c)(1)), and publication in the District of 1025 
+Columbia Register. 1026
+
+GOVERNMENT OF THE DISTRICT OF COLUMBIA 
+OFFICE OF THE ATTORNEY GENERAL 
+ 
+ 
+BRIAN L. SCHWALB     PRIVILEGED AND CONFIDENTIAL  
+ATTORNEY GENERAL       ATTORNEY-CLIENT COMMUNICATION 
+ 
+ 
+ 
+LEGAL COUNSEL DIVISION 
+ 
+  
+MEMORANDUM 
+ 
+TO:   Tomás Talamante   
+Director 
+Office of Policy and Legislative Affairs  
+  
+FROM:  Adele El-Khouri 
+Deputy Attorney General  
+Legal Counsel Division  
+  
+DATE:  September 25, 2026 
+  
+SUBJECT:   Legal Sufficiency Review of the “Health Occupations and Emergency Medical 
+Services Amendment Act of 2026” (AD-26-296) 
+_____________________________________________________________________________________ 
+ 
+This is to Certify that the Office of the Attorney General has reviewed the 
+above-referenced legislation and found it to be legally sufficient. If you have any questions in this 
+regard, please do not hesitate to call me at (202) 262-6402. 
+ 
+ 
+ 
+_________________________________ 
+Adele El-Khouri
+
+Government of the District of Columbia 
+Office of the Chief Financial Officer 
+ 
+Glen Lee 
+Chief Financial Officer 
+ 
+ 
+ 
+ 
+ 
+1350 Pennsylvania Avenue, NW, Suite 203, Washington, DC 20004 (202)727-2476 
+www.cfo.dc.gov 
+MEMORANDUM 
+ 
+TO:    The Honorable Phil Mendelson 
+   Chairman, Council of the District of Columbia 
+ 
+FROM:    Glen Lee  
+   Chief Financial Officer 
+ 
+DATE:    December 3, 2025 
+  
+SUBJECT:  Fiscal Impact Statement – District of Columbia Health Care Act of 2025 
+ 
+REFERENCE:  Draft Introduction as provided to the Office of Revenue Analysis on 
+November 21, 2025 
+ 
+ 
+Conclusion 
+ 
+Funds are sufficient in the fiscal year 2026 through fiscal year 2029 budget and financial plan to 
+implement the bill.  
+ 
+Background 
+ 
+The bill updates1 how Emergency Medical Services (EMS) professionals practicing in the District of 
+Columbia are licensed and regulated. The bill establishes a nine-member Emergency Medical 
+Services Board (Board) to regulate EMS clinicians and educators within the District of Columbia. The 
+Board will have regulatory authority over Emergency Medical Responders, Emergency Medical 
+Technicians, Advanced Emergency Medical Technicians, Paramedics,  Advanced Practice Paramedics, 
+Mobile Integrated Healthcare Clinicians, Emergency Medical Services Instructors, and Emergency 
+Medical Dispatchers. The Board will be supported by a full-time Executive Director, who will 
+implement and administer the Board's orders. The bill expands2 the types of EMS agencies regulated 
+by DC Health and transitions the regulation of EMS professionals to the new Board. 
+ 
+ 
+1 By amending The District of Columbia Health Occupations Revision Act of 1985, effective March 25, 1986 
+(D.C. Law 6-99; D.C. Official Code § 3-1201.01 et seq.). 
+2 By repealing and replacing  The Emergency Medical Services Act of 2008, effective January 16, 2009 (D.C. 
+Law 17-691; D.C. Official Code § 7-2341.01 et seq.).
+
+The Honorable Phil Mendelson 
+FIS: “District of Columbia Health Care Act of 2025,” Draft Introduction as provided to the Office of Revenue 
+Analysis on November 21, 2025. 
+Page 2 of 2 
+ 
+The bill allows3 the Director of DC Health to appoint a temporary member to boards when vacancies 
+on a board are equal to or more than 50 percent of the total number of members. Temporary 
+members must meet all qualifications required of members and cannot be appointed for more than 
+120 days. Temporary members cannot be appointed more than once to a specific board as a 
+temporary member.    
+ 
+The bill establishes a license and scope of practice for Certified Community Health Workers and Oral 
+and Maxillofacial Surgeons. 
+ 
+Finally, the bill clarifies4 that licensed mobile integrated health agencies are not considered home 
+health agencies under the law. Mobile integrated health agencies bring healthcare directly to 
+patients' homes for services such as follow-up care, chronic disease management, and connecting 
+individuals to social services.  
+ 
+Financial Plan Impact 
+ 
+Funds are sufficient in the fiscal year 2026 through fiscal year 2029 budget and financial plan to 
+implement the bill. DC Health can establish the new Board, regulate EMS agencies, appoint temporary 
+board members, and establish new licenses with existing staff and resources. There is no cost to 
+clarifying the definition of home health agencies.  
+ 
+3 Id. 
+4 By amending The Health-Care and Community Residence Facility, Hospice and Home Care Licensure Act of 
+1983, effective February 24, 1984 (D.C. Law 5-48; D.C. Official Code § 44-501 et seq.).

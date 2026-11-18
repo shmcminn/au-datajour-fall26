@@ -1,0 +1,896 @@
+Government of the District of Columbia 
+UNIFORM LAW COMMISSION          
+   
+ 
+ 
+January 7. 2025 
+ 
+The Honorable Phil Mendelson 
+Chairman 
+Council of the District of Columbia 
+The John A. Wilson Building, 
+1350 Pennsylvania Avenue, NW        
+Washington, DC 20004 
+ 
+RE: Request for introduction of the Uniform Electronic Estate Planning Documents 
+Act. 
+ 
+Dear Chairman Mendelson: 
+ 
+ Pursuant to Rule 401(b)(1) of the Rules of Organization and Procedure for the 
+Council, this is to request, on behalf of the District of Columbia Uniform Law 
+Commission, that you introduce the proposed “Uniform Electronic Estate Planning 
+Documents Act of 2025.”  The act was completed by the Uniform Law Commission in 
+2022 and has been enacted thus far in four states and introduced in two additional states, 
+including Virginia. 
+ 
+ The Uniform Electronic Estate Planning Documents Act would fill a gap in the 
+law regarding the execution of certain estate planning documents, including trusts and 
+powers of attorney.   The act would complement two laws enacted by the Council—the 
+Uniform Electronic Transactions Act, D.C. Law 14-38, Chapter 35, which authorizes the 
+electronic execution of bilateral contracts if the parties to a transaction agree, and the 
+Uniform Electronic Wills Act, D.C. Law 24-296, which authorizes the testator of a will 
+and witnesses to execute the will in electronic form.  Neither of these acts expressly 
+authorizes electronic execution of trusts, powers of attorney, and other types of estate 
+planning documents.  The Uniform Electronic Estate Planning Documents Act would 
+clarify that these estate planning documents may also be executed in electronic form.  It 
+would give District residents the same convenience and efficiency they have in handling 
+other financial transactions electronically. 
+ 
+ A proposed “Uniform Electronic Estate Planning Documents Act of 2025” is 
+being filed with this letter.  In addition, the following documents have been filed:  (1) a
+
+2 
+ 
+summary of the uniform act; (2) a statement as to why the uniform act should be adopted; 
+and (3) the official version of the uniform act with comments. 
+ 
+ I would be pleased to answer any questions and to provide any additional 
+information requested. 
+ 
+        Sincerely, 
+        
+     
+     
+    
+ 
+ 
+        James C. McKay, Jr. 
+        Chair 
+        D.C. Uniform Law Commission 
+ 
+cc:  Uniform Law Commissioners
+
+1 
+2 Ch Mendelson at the request of the 
+3 District of Columbia Law Revision Commission 
+4 
+5 
+6 
+7 
+8 
+9 A BILL 
+10 
+11 
+12 
+13 
+14 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA 
+15 
+16 To enact the Uniform Electronic Estate Planning Documents Act, to authorize non-testamentary 
+17 estate planning documents to be in electronic form and to be electronically signed, and 
+18 for other purposes. 
+19 
+20 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 
+21 act may be cited as the "Uniform Electronic Estate Planning Documents Act of 2025". 
+22 Sec. 2. Title 18 of the District of Columbia Official Code is amended as follows: 
+23 (a) The table of contents is amended by adding at the end thereof the phrase "11. 
+24 Uniform Electronic Estate Planning Documents Act". 
+25 (b) The following new Chapter 11 is added: 
+26 "Chapter 11. Uniform Electronic Estate Planning Documents Act 
+27 "Sec. 
+28 "Part 1. General Provisions and Definitions. 
+29 "18-1101.01 Short title. 
+30 "18-1101.02 Definitions. 
+31 "18-1101. 03. Construction. 
+32 "Part 2. Electronic Non-Testamentary Estate Planning Documents. 
+33 "18-1102.01 Scope. 
+1
+
+2 
+“18-1102.02.  Principles of law and equity. 34 
+“18-1102.03.  Use of electronic record or signature not required. 35 
+“18-1102.04.  Recognition of electronic non-testamentary estate planning documents and 36 
+electronic signature. 37 
+“18-1102.05.  Attribution and effect of electronic record and electronic signature.. 38 
+“18-1102.06.  Notarization and acknowledgment.. 39 
+“18-1102.07.  Witnessing and attestation. 40 
+“18-1102.08.  Retention of electronic record; original. 41 
+“18-1102.09.  Certification of paper copy. 42 
+“18-1102.10.  Admissibility in evidence. 43 
+“Part 3.  Miscellaneous Provisions. 44 
+“18-1103.01  Uniformity of application and construction. 45 
+“18-1103.02.  Relation to Electronic Signatures in Global and National Commerce Act. 46 
+“18-1103.03.  Transition provisions. 47 
+“Part 1.  General Provisions and Definitions. 48 
+ “§ 18-1101.01  Short title. 49 
+ “This chapter may be cited as the Uniform Electronic Estate Planning Documents Act. 50 
+ “§ 18-1102.  Definitions. 51 
+ “In this chapter: 52 
+  “(1) “District” means the District of Columbia 53 
+  “(2) “Electronic” means relating to technology having electrical, digital, 54 
+magnetic, wireless, optical, electromagnetic, or similar capabilities. 55 
+  “(3) “Electronic record” means a record created, generated, sent, communicated, 56
+
+3 
+received, or stored by electronic means. 57 
+  “(4) “Electronic signature” means an electronic symbol or process attached to or 58 
+logically associated with a record and executed or adopted by a person with the intent to sign the 59 
+record. 60 
+  “(5) “Information” includes data, text, images, codes, computer programs, 61 
+software, and databases. 62 
+  “(6) “Non-testamentary estate planning document” means a record relating to 63 
+estate planning that is readable as text at the time of signing and is not a will or contained in a 64 
+will.  The term: 65 
+  “(A) Includes a record readable as text at the time of signing that creates, 66 
+exercises, modifies, releases, or revokes: 67 
+    “(i) A trust instrument; 68 
+    “(ii) A trust power that under the terms of the trust requires a 69 
+signed record; 70 
+    “(iii) A certification of a trust under § 19-1310.13; 71 
+    “(iv) A power of attorney that is durable under Chapter 20 of Title 72 
+21; 73 
+    “(v) An agent’s certification under § 21-2603.02 of the validity of 74 
+a power of attorney and the agent’s authority; 75 
+    “(vi) A power of appointment; 76 
+    “(vii) An advance directive, including a health-care power of 77 
+attorney, directive to physicians, natural death statement, living will, and medical or physician 78 
+order for life-sustaining treatment; 79
+
+4 
+    “(viii) A record directing disposition of an individual’s body after 80 
+death; 81 
+    “(ix) A nomination of a guardian for the signing individual; 82 
+    “(x) A nomination of a guardian for a minor child or disabled adult 83 
+child; 84 
+    “(xi) A mental health treatment declaration; 85 
+    “(xii) A disclaimer under § 19-1502(3); and 86 
+    “(xiii) Any other record intended to carry out an individual’s intent 87 
+regarding property or health care while incapacitated or on death; and 88 
+“(B) Does not include a deed of real property or certificate of title for a 89 
+motor vehicle, watercraft, or aircraft. 90 
+  “(7) “Person” means an individual, estate, business or nonprofit entity, 91 
+government or governmental subdivision, agency, or instrumentality, or other legal entity. 92 
+  “(8) “Power of attorney” means a record that grants authority to an agent to act in 93 
+place of the principal, even if the term is not used in the record. 94 
+  “(9) “Record” means information: 95 
+   “(A) Inscribed on a tangible medium; or 96 
+   “(B) Stored in an electronic or other medium and retrievable in 97 
+perceivable form. 98 
+  “(10) “Security procedure” means a procedure to verify that an electronic 99 
+signature, record, or performance is that of a specific person or to detect a change or error in an 100 
+electronic record. The term includes a procedure that uses an algorithm, code, identifying word 101 
+or number, encryption, or callback or other acknowledgment procedure. 102
+
+5 
+  “(11) “Settlor” means a person, including a testator, that creates or contributes 103 
+property to a trust. 104 
+  “(12) “Sign” means, with present intent to authenticate or adopt a record: 105 
+   “(A) Execute or adopt a tangible symbol; or 106 
+   “(B) Attach to or logically associate with the record an electronic 107 
+signature. 108 
+  “(13) “State” means a state of the United States, the District of Columbia, Puerto 109 
+Rico, the United States Virgin Islands, or other territory or possession subject to the jurisdiction 110 
+of the United States.  The term includes a federally recognized Indian tribe. 111 
+  “(14) “Terms of a trust” means: 112 
+   “(A) Except as provided in subparagraph (B) of this paragraph, the 113 
+manifestation of the settlor’s intent regarding a trust’s provisions as: 114 
+    “(i) Expressed in the trust instrument; or 115 
+    “(ii) Established by other evidence that would be admissible in a 116 
+judicial proceeding; or 117 
+   “(B) The trust’s provisions as established, determined, or amended by: 118 
+    “(i) A trustee or other person in accordance with applicable law;  119 
+    “(ii) A court order; or 120 
+    “(iii) A nonjudicial settlement agreement under § 19-1301.11. 121 
+  (15) “Trust instrument” means an instrument executed by the settlor that contains 122 
+terms of the trust, including any amendments. 123 
+  (16) “Will” includes a codicil and a testamentary instrument that merely appoints 124 
+an executor, revokes or revises another will, nominates a guardian, or expressly excludes or 125 
+limits the right of an individual or class to succeed to property of the decedent passing by 126
+
+6 
+intestate succession. 127 
+“§ 18-1101.03.  Construction. 128 
+ “This chapter must be construed and applied to: 129 
+  “(1) Facilitate electronic estate planning documents and signatures consistent with 130 
+other law; and 131 
+  “(2) Be consistent with reasonable practices concerning electronic documents and 132 
+signatures and continued expansion of those practices. 133 
+“Part 2.   Electronic Non-Testamentary Estate Planning Documents. 134 
+ “§ 18-1102.01  Scope. 135 
+ “(a) Except as provided in subsection (b) of this section, this part applies to an electronic 136 
+non-testamentary estate planning document and an electronic signature on a non-testamentary 137 
+estate planning document. 138 
+ “(b) This part does not apply to a non-testamentary estate planning document if the 139 
+document precludes use of an electronic record or electronic signature. 140 
+ “(c) This part does not affect the validity of an electronic record or electronic signature 141 
+that is valid under: 142 
+“(1) Chapter 49 of Title 28; or 143 
+  “(2) Chapter 9 of this title. 144 
+ “§ 18-1102.02.  Principles of law and equity. 145 
+ “The law of the District and principles of equity applicable to a non-testamentary estate 146 
+planning document apply to an electronic non-testamentary estate planning document except as 147 
+modified by thispart. 148 
+ “§ 18-1102.03.  Use of electronic record or signature not required. 149
+
+7 
+ “(a) This part does not require a non-testamentary estate planning document or signature 150 
+on a non-testamentary estate planning document to be created, generated, sent, communicated, 151 
+received, stored, or otherwise processed or used by electronic means or in electronic form. 152 
+ “(b) A person is not required to have a non-testamentary estate planning document in 153 
+electronic form or signed electronically even if the person previously created or signed a non-154 
+testamentary estate planning document by electronic means.  155 
+“(c) A person may not waive the provisions of this section. 156 
+ “§ 18-1102.04.  Recognition of electronic non-testamentary estate planning documents 157 
+and electronic signature. 158 
+ “(a) A non-testamentary estate planning document or a signature on a non-testamentary 159 
+estate planning document may not be denied legal effect or enforceability solely because it is in 160 
+electronic form. 161 
+ “(b) If other law of the District requires a non-testamentary estate planning document to 162 
+be in writing, an electronic record of the document satisfies the requirement. 163 
+ “(c) If other law of the District requires a signature on a non-testamentary estate planning 164 
+document, an electronic signature satisfies the requirement. 165 
+ “§ 18-1102.05.  Attribution and effect of electronic record and electronic signature.. 166 
+ “(a) An electronic non-testamentary estate planning document or electronic signature on 167 
+an electronic non-testamentary estate planning document is attributable to a person if it was the 168 
+act of the person. The act of the person may be shown in any manner, including by showing the 169 
+efficacy of a security procedure applied to determine the person to which the electronic record or 170 
+electronic signature was attributable. 171 
+ “(b) The effect of attribution to a person under subsection (a) of this section of a 172
+
+8 
+document or signature is determined from the context and surrounding circumstances at the time 173 
+of its creation, execution, or adoption and as provided by other law. 174 
+ “§ 18-1102.06.  Notarization and acknowledgment. 175 
+ “If other law of the District requires a signature or record to be notarized, acknowledged, 176 
+verified, or made under oath, the requirement is satisfied with respect to an electronic non-177 
+testamentary estate planning document if an individual authorized to perform the notarization, 178 
+acknowledgment, verification, or oath attaches or logically associates the individual’s electronic 179 
+signature on the document together with all other information required to be included under the 180 
+other law. 181 
+ “§ 18-1102.07.  Witnessing and attestation. 182 
+ (a) If other law of the District bases the validity of a non-testamentary estate planning 183 
+document on whether it is signed, witnessed, or attested by another individual, the signature, 184 
+witnessing, or attestation of that individual may be electronic. 185 
+ (b) In this subsection, “electronic presence” means that two or more individuals in 186 
+different locations are able to communicate in real time to the same extent as if the individuals 187 
+were physically present in the same location. If other law of the District bases the validity of a 188 
+non-testamentary estate planning document on whether it is signed, witnessed, or attested by 189 
+another individual in the presence of the individual signing the document, the presence 190 
+requirement is satisfied if the individuals are in each other’s electronic presence. 191 
+ “§ 18-1102.08.  Retention of electronic record; original. 192 
+ “(a) Except as provided in subsection (b) of this section, if other law of the District 193 
+requires an electronic non-testamentary estate planning document to be retained, transmitted, 194 
+copied, or filed, the requirement is satisfied by retaining, transmitting, copying, or filing an 195
+
+9 
+electronic record that: 196 
+  “(1) Accurately reflects the information in the document after it was first 197 
+generated in final form as an electronic record or under§ 18-1102.09; and 198 
+  “(2) Remains accessible to the extent required by the other law. 199 
+ “(b) A requirement under subsection (a) of this section to retain a record does not apply 200 
+to information the sole purpose of which is to enable the record to be sent, communicated, or 201 
+received. 202 
+ “(c) A person may satisfy subsection (a) of this section by using the services of another 203 
+person. 204 
+ “(d) If other law of the District requires a non-testamentary estate planning document to 205 
+be presented or retained in its original form, or provides consequences if a non-testamentary 206 
+estate planning document is not presented or retained in its original form, an electronic record 207 
+retained in accordance with subsection (a) of this section satisfies the other law. 208 
+ “(e) This section does not preclude a governmental agency from specifying requirements 209 
+for the retention of a record subject to the agency’s jurisdiction in addition to those in this 210 
+section.  In this section, “governmental agency” means an executive, legislative, or judicial 211 
+agency, department, board, commission, authority, institution, or instrumentality of the federal 212 
+government or ofthe District. 213 
+ “§ 18-1102.09.  Certification of paper copy. 214 
+ “An individual may create a certified paper copy of an electronic non-testamentary estate 215 
+planning document by affirming under penalty of perjury that the paper copy is a complete and 216 
+accurate copy of the document. 217 
+ “§ 18-1102.10.  Admissibility in evidence. 218
+
+10 
+ “Evidence relating to an electronic non-testamentary estate planning document or an 219 
+electronic signature on the document may not be excluded in a proceeding solely because it is in 220 
+electronic form. 221 
+  “Part 3.  Miscellaneous Provisions. 222 
+ “§ 18-1103.01  Uniformity of application and construction. 223 
+ “In applying and construing this uniform act, a court shall consider the promotion of 224 
+uniformity of the law among jurisdictions that enact it. 225 
+ “§ 18-1103.02.  Relation to Electronic Signatures in Global and National Commerce Act. 226 
+ “This chapter modifies, limits, or supersedes the Electronic Signatures in Global and 227 
+National Commerce Act, 15 U.S.C. § 7001 et seq, but does not modify, limit, or supersede 15 228 
+U.S.C. §  7001(c), or authorize electronic delivery of any of the notices described in 15 U.S.C. §  229 
+7003(b).  230 
+ “§ 18-1103.03.  Transition provision. 231 
+ “This chapter applies to an electronic non-testamentary estate planning document created, 232 
+signed, generated, sent, communicated, received, or stored before, on, or after the effective date 233 
+of this chapter.” 234 
+Sec. 3.  Fiscal impact statement. 235 
+ The Council adopts the attached fiscal impact statement as the fiscal impact statement 236 
+required by section 602(c)(3) of the District of Columbia Home Rule Act, approved December 237 
+24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(3)). 238 
+ Sec. 4.  Effective date. 239 
+ This act shall take effect following approval by the Mayor (or in the event of veto by the 240 
+Mayor, action by the Council to override the veto), a 30-day period of Congressional review as 241
+
+11 
+provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December  242 
+24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of 243 
+Columbia Register. 244
+
+111 N. Wabash Ave. 
+Suite 1010 Uniform Law Commission Chicago, IL 60602 
+NATIONAL CONFERENCE OF COMMISSIONERS ON UNIFORM STATE LAWS (312) 450-6600 tel
+(312) 450-6601 fax
+www.uniformlaws.org
+THE UNIFORM ELECTRONIC ESTATE PLANNING DOCUMENTS ACT
+- A Summary -
+The Uniform Electronic Estate Planning Documents Act (UEEPDA) expressly authorizes the use of 
+electronic documents and electronic signatures for common estate planning documents. The act fills a 
+gap in the law that created uncertainty as to whether some electronic estate planning documents were 
+valid. 
+The UEEPDA is based on a successful model. The Uniform Electronic Transactions Act (UETA), which 
+the Uniform Law Commission approved in 1999 and since adopted in 49 states, authorizes the use of 
+electronic contracts and signatures in commerce. This uniform state law helped facilitate the growth of 
+internet-based commerce by ensuring the enforceability of electronically executed transactions. However, 
+UETA applies only to bilateral agreements between two parties who agree to conduct business 
+electronically.  
+Estate planning documents, such as trusts and powers of attorney, are executed by a single individual 
+for the purpose of carrying out the individual’s wishes regarding property or health care at the time of the 
+individual’s death or disability. Because these unilateral documents do not fall within the scope of 
+UETA, their validity could potentially be challenged. This uncertain legal status caused estate planners to 
+require paper and ink documents even for clients who preferred to conduct business electronically. 
+The UEEPDA corrects this anomaly by providing UETA-like rules for electronic estate plans: 
+1. The use of electronic estate planning documents and signatures is optional.
+2. An estate-planning document may not be denied legal effect solely because it is in electronic form 
+or electronically signed.
+3. An electronic signature is attributable to a person if it was created by the act of the person, 
+which can be shown in any manner, including by showing the efficacy of a security procedure 
+applied.
+The UEEPDA applies only to non-testamentary documents. Testamentary documents, such as 
+an individual’s will, are subject to special rules covered in the Uniform Electronic Wills Act. 
+UEEPDA was drafted to complement that act, which can be inserted as Article 3 of UEEPDA to provide 
+states with a comprehensive set of rules for both testamentary and non-testamentary electronic 
+estate planning documents. 
+For further inf ormation about the Uniform Electronic Estate Planning Documents Act, please 
+contact ULC Chief Counsel Benjamin Orzeske at (312) 450-6621 or borzeske@uniformlaws.org. 
+The ULC is a nonprofit formed in 1892 to create nonpartisan state legislation. Over 350 volunteer commissioners—lawyers, judges, 
+law professors, legislative staff, and others—work together to draft laws ranging from the Uniform Commercial Code to acts on 
+property, trusts and estates, family law, criminal law and other areas where uniformity of state law is desirable.
+
+111 N. Wabash Ave. 
+Suite 1010 Uniform Law Commission Chicago, IL 60602 
+NATIONAL CONFERENCE OF COMMISSIONERS ON UNIFORM STATE LAWS (312)
+450-6600 tel
+(312)
+450-6601 fax
+www.uni
+formlaws.org
+WHY YOUR STATE SHOULD ADOPT THE
+UNIFORM ELECTRONIC ESTATE PLANNING DOCUMENTS ACT
+The Uniform Electronic Estate Planning Document Act (UEEPDA) authorizes the use of 
+electronic documents and signatures for non-testamentary documents like trusts and powers 
+of attorney. This uniform law allows estate planners and their clients to conduct their business online 
+in the same manner that is already legal for electronic banking and commercial transactions. 
+It should be adopted in your state because: 
+• The UEEPDA modernizes the law of estate planning. Most people already handle their
+finances and sign leases, mortgage and loan documents and other business transaction
+documents electronically. That’s possible because another uniform state law ensures
+electronic transactions are enforceable. UEEPDA provides similar rules for estate planning
+documents, filling a gap in the law and allowing estate planners to also serve their clients
+online.
+• The UEEPDA will enable more people to make an estate plan. Enacting UEEPDA will
+increase access to legal services for people who are homebound, travel frequently, or who just
+prefer the convenience of electronic signing.
+• The UEEPDA is forward-looking. Like other uniform laws, the UEEPDA uses
+technology-neutral terminology to ensure the law will not become obsolete with the next
+technological advancement in document security or electronic signature protocol.
+• The UEEPDA complements state laws governing electronic wills. Testamentary documents
+like wills are subject to different execution requirements than non-testamentary
+documents such as trusts and powers of attorney. The UEEPDA was drafted to complement
+the Uniform Electronic Wills Act and can be easily combined with that act into a single
+statute that will govern electronic versions of both testamentary and non-testamentary
+estate planning documents.
+For further information about the Uniform Electronic Estate Planning Act, please contact ULC 
+Chief Counsel Benjamin Orzeske at (312) 450-6621 or borzeske@uniformlaws.org. 
+The ULC is a nonprofit formed in 1892 to create nonpartisan state legislation. Over 350 volunteer commissioners—lawyers, 
+judges, law professors, legislative staff, and others—work together to draft laws ranging from the Uniform Commercial Code to 
+acts on property, trusts and estates, family law, criminal law and other areas where uniformity of state law is desirable.
+
+Uniform Electronic Estate Planning Documents Act 
+drafted by the 
+NATIONAL CONFERENCE OF COMMISSIONERS 
+ON UNIFORM STATE LAWS 
+and by it 
+APPROVED AND RECOMMENDED FOR ENACTMENT 
+IN ALL THE STATES 
+at its 
+ANNUAL CONFERENCE 
+MEETING IN ITS ONE-HUNDRED-AND-THIRTY-FIRST YEAR 
+PHILADELPHIA, PENNSYLVANIA 
+JULY 8–13, 2022 
+WITH PREFATORY NOTE AND COMMENTS 
+Copyright © 2022 
+By 
+NATIONAL CONFERENCE OF COMMISSIONERS 
+ON UNIFORM STATE LAWS 
+September 28, 2022
+
+ABOUT ULC 
+The Uniform Law Commission (ULC), also known as National Conference of Commissioners 
+on Uniform State Laws (NCCUSL), now in its 131st year, provides states with non-partisan, 
+well-conceived and well-drafted legislation that brings clarity and stability to critical areas of 
+state statutory law. 
+ULC members must be lawyers, qualified to practice law. They are practicing lawyers, judges, 
+legislators and legislative staff and law professors, who have been appointed by state 
+governments as well as the District of Columbia, Puerto Rico and the U.S. Virgin Islands to 
+research, draft and promote enactment of uniform state laws in areas of state law where 
+uniformity is desirable and practical. 
+• ULC strengthens the federal system by providing rules and procedures that are consistent from 
+state to state but that also reflect the diverse experience of the states. 
+•  ULC statutes are representative of state experience because the organization is made up of 
+representatives from each state, appointed by state government. 
+•  ULC keeps state law up to date by addressing important and timely legal issues. 
+• ULC’s efforts reduce the need for individuals and businesses to deal with different laws as 
+they move and do business in different states. 
+• ULC’s work facilitates economic development and provides a legal platform for foreign 
+entities to deal with U.S. citizens and businesses. 
+• Uniform Law Commissioners donate thousands of hours of their time and legal and drafting 
+expertise every year as a public service and receive no salary or compensation for their work. 
+• ULC’s deliberative and uniquely open drafting process draws on the expertise of 
+commissioners, but also utilizes input from legal experts, and advisors and observers 
+representing the views of other legal organizations or interests that will be subject to the 
+proposed laws. 
+•  ULC is a state-supported organization that represents true value for the states, providing 
+services that most states could not otherwise afford or duplicate.
+
+Uniform Electronic Estate Planning Documents Act 
+The Committee appointed by and representing the National Conference of Commissioners on 
+Uniform State Laws in preparing this Act consists of the following individuals: 
+Suzanne B. Walsh Connecticut, Chair 
+Mary Ackerly Connecticut 
+Turney P. Berry Kentucky 
+James W. Dodge Illinois 
+David M. English Missouri 
+Marc S. Feinstein South Dakota 
+Jacqueline T. Lenmark Montana 
+Donald E. Mielke Colorado 
+Bradley Myers North Dakota 
+David G. Nixon Arkansas 
+Robert H. Sitkoff Massachusetts 
+Susan D. Snyder Illinois 
+Dan Robbins California, President 
+Nora Winkelman Pennsylvania, Division Chair 
+Other Participants 
+Gerry W. Beyer Texas, Reporter 
+Benjamin K. Sanchez Texas, American Bar Association Advisor 
+John T. Rogers California, American Bar Association Section  
+Advisor 
+Nathaniel Sterling California, Style Liaison 
+Tim Schnabel Illinois, Executive Director 
+Copies of this act may be obtained from: 
+Uniform Law Commission 
+111 N. Wabash Ave., Suite 1010 
+Chicago, Illinois 60602 
+(312) 450-6600 
+www.uniformlaws.org
+
+Uniform Electronic Estate Planning Documents Act 
+Table of Contents 
+Prefatory Note................................................................................................................................. 1 
+[Article] 1 
+General Provisions and Definitions 
+Section 101. Title............................................................................................................................ 3 
+Section 102. Definitions.................................................................................................................. 3 
+Section 103. Construction ............................................................................................................... 7 
+[Article] 2 
+Electronic Non-Testamentary Estate Planning Documents 
+Section 201. Scope.......................................................................................................................... 7 
+Section 202. Principles of Law and Equity ..................................................................................... 8 
+Section 203. Use of Electronic Record or Signature Not Required................................................ 8 
+Section 204. Recognition of Electronic Non-Testamentary Estate Planning Document and 
+Electronic Signature............................................................................................................ 9 
+Section 205. Attribution and Effect of Electronic Record and Electronic Signature ..................... 9 
+Section 206. Notarization and Acknowledgment ......................................................................... 10 
+Section 207. Witnessing and Attestation ...................................................................................... 10 
+Section 208. Retention of Electronic Record; Original ................................................................ 11 
+Section 209. Certification of Paper Copy ..................................................................................... 12 
+Section 210. Admissibility in Evidence........................................................................................ 12 
+[[Article] 3 
+Uniform Electronic Wills Act] 
+[Article] 4 
+Miscellaneous Provisions 
+Section 401. Uniformity of Application and Construction ........................................................... 13 
+Section 402. Relation to Electronic Signatures in Global and National Commerce Act.............. 13 
+Section 403. Transitional Provision.............................................................................................. 14 
+[Section 404. Severability]............................................................................................................ 14 
+[Section 405. Repeals; Conforming Amendments] ...................................................................... 14 
+Section 406. Effective Date .......................................................................................................... 14
+
+Electronic Estate Planning Documents Act 
+Prefatory Note 
+Times are changing. Reliance on traditional paper documents is waning. Many areas of 
+the law have already embraced the transition from written to electronic documents which are 
+electronically signed. For example, virtually all states have enacted the Uniform Electronic 
+Transactions Act (UETA) and the electronic filing of pleadings and appellate briefs is widely 
+accepted. 
+Left out of this transition were non-transactional documents relating to estate planning 
+which hung on to the requirement of paper documents with actual pen-to-paper (wet) signatures. 
+Recently, however, this trend has reversed with at least ten states embracing electronic wills 
+either through the adoption of the Uniform Electronic Wills Act or through their own unique 
+statutes. Regrettably, other estate planning documents have been left behind in this transition. 
+Why is this? 
+A primary reason is the failure of state laws to expressly authorize these documents to be 
+in electronic form and electronically signed. For example, UETA provides that when both parties 
+to a transaction agree, a record or signature cannot be “denied legal effect or enforceability solely 
+because it is in electronic form.” UETA § 7(a). However, UETA does not expressly authorize the 
+electronic signing of estate planning documents. UETA § 3(a) limits UETA’s application to 
+“transaction[s],” defined in UETA § 2(16) as “actions occurring between two or more persons 
+relating to the conduct of business, commercial, or governmental affairs.” (emphasis added). 
+Accordingly, unilateral documents such as trusts and powers of attorney are not directly within 
+UETA’s scope. This conclusion is bolstered by Comment 1 to UETA § 3 which states: 
+The scope of this Act is inherently limited by the fact that it only applies to 
+transactions related to business, commercial (including consumer) and governmental 
+matters. Consequently, transactions with no relation to business, commercial or 
+governmental transactions would not be subject to this Act. Unilaterally generated 
+electronic records and signatures which are not part of a transaction also are not covered 
+by this Act. 
+UETA does not “prohibit” the electronic signing of estate planning documents. However, 
+its failure to include them within its scope leaves such electronically signed documents 
+vulnerable to attack. As a result, the underlying state laws governing estate planning documents 
+must be amended. Absent such amendment, parties to unilateral estate planning documents could 
+not be certain that electronically signed originals would be valid. 
+The Uniform Electronic Wills Act (2019) (UEWA) solves this problem with respect to 
+testamentary documents such as wills, codicils, and testamentary trusts. The Uniform Electronic 
+Estate Planning Documents Act (UEEPDA) solves this problem for all other estate planning 
+documents such as powers of attorney and trusts. For states that have yet to adopt the UEWA or 
+their own electronic will statute, Article 3 of the UEEPDA provides the state with the 
+opportunity to adopt the UEWA. 
+1
+
+UEEPDA is designed to authorize estate planning documents to be in electronic form and 
+electronically signed. There is no intent to change the requirements for the validity of these 
+documents imposed by state law in any other manner. UEEPDA is modeled after UETA so that 
+it will cleanly interface with existing laws. 
+2
+
+Uniform Electronic Estate Planning Documents Act 
+[Article] 1 
+General Provisions and Definitions 
+Section 101. Title 
+This [act] may be cited as the Uniform Electronic Estate Planning Documents Act. 
+Section 102. Definitions 
+In this [act]: 
+(1) “Electronic” means relating to technology having electrical, digital, magnetic, 
+wireless, optical, electromagnetic, or similar capabilities. 
+(2) “Electronic record” means a record created, generated, sent, communicated, 
+received, or stored by electronic means. 
+(3) “Electronic signature” means an electronic symbol or process attached to or 
+logically associated with a record and executed or adopted by a person with the intent to sign the 
+record. 
+(4) “Information” includes data, text, images, codes, computer programs, 
+software, and databases. 
+(5) “Non-testamentary estate planning document” means a record relating to 
+estate planning that is readable as text at the time of signing and is not a will or contained in a 
+will. The term: 
+(A) includes a record readable as text at the time of signing that creates, 
+exercises, modifies, releases, or revokes: 
+(i) a trust instrument; 
+(ii) a trust power that under the terms of the trust requires a signed 
+3
+
+record; 
+(iii) a certification of a trust under [cite to Uniform Trust Code 
+Section 1013]; 
+(iv) a power of attorney that is durable under [cite to Uniform 
+Power of Attorney Act]; 
+(v) an agent’s certification under [cite to Uniform Power of 
+Attorney Act Section 302] of the validity of a power of attorney and the agent’s authority; 
+(vi) a power of appointment; 
+(vii) an advance directive, including a [health-care power of 
+attorney], directive to physicians, natural death statement, living will, and medical or physician 
+order for life-sustaining treatment; 
+(viii) a record directing disposition of an individual’s body after 
+death; 
+(ix) a nomination of a guardian for the signing individual; 
+(x) a nomination of a guardian for a minor child or disabled adult 
+child; 
+(xi) a mental health treatment declaration; 
+(xii) a community property survivorship agreement; 
+(xiii) a disclaimer under [cite to Uniform Disclaimer of Property 
+Interests Act Section 2(3)]; and 
+(xiv) any other record intended to carry out an individual’s intent 
+regarding property or health care while incapacitated or on death; and 
+(B) does not include a deed of real property[,][, or] certificate of title for a 
+4
+
+motor vehicle, watercraft, or aircraft[, or [list other documents the state intends to exclude from 
+Article 2]]. 
+(6) “Person” means an individual, estate, business or nonprofit entity, government 
+or governmental subdivision, agency, or instrumentality, or other legal entity. 
+(7) “Power of attorney” means a record that grants authority to an agent to act in 
+place of the principal, even if the term is not used in the record. 
+(8) “Record” means information: 
+(A) inscribed on a tangible medium; or 
+(B) stored in an electronic or other medium and retrievable in perceivable 
+form. 
+(9) “Security procedure” means a procedure to verify that an electronic signature, 
+record, or performance is that of a specific person or to detect a change or error in an electronic 
+record. The term includes a procedure that uses an algorithm, code, identifying word or number, 
+encryption, or callback or other acknowledgment procedure. 
+(10) “Settlor” means a person, including a testator, that creates or contributes 
+property to a trust. 
+(11) “Sign” means, with present intent to authenticate or adopt a record: 
+(A) execute or adopt a tangible symbol; or 
+(B) attach to or logically associate with the record an electronic signature. 
+(12) “State” means a state of the United States, the District of Columbia, Puerto 
+Rico, the United States Virgin Islands, or other territory or possession subject to the jurisdiction 
+of the United States. The term includes a federally recognized Indian tribe. 
+(13) “Terms of a trust” means: 
+5
+
+(A) except as provided in subparagraph (B), the manifestation of the 
+settlor’s intent regarding a trust’s provisions as: 
+(i) expressed in the trust instrument; or 
+(ii) established by other evidence that would be admissible in a 
+judicial proceeding; or 
+(B) the trust’s provisions as established, determined, or amended by: 
+(i) a trustee or other person in accordance with applicable law; [or] 
+(ii) a court order[; or 
+(iii) a nonjudicial settlement agreement under [cite to Uniform 
+Trust Code Section 111]]. 
+(14) “Trust instrument” means an instrument executed by the settlor that contains 
+terms of the trust, including any amendments. 
+(15) “Will” includes a codicil and a testamentary instrument that merely appoints 
+an executor, revokes or revises another will, nominates a guardian, or expressly excludes or 
+limits the right of an individual or class to succeed to property of the decedent passing by 
+intestate succession. 
+Legislative Note: In paragraph (5), the definition of “non-testamentary estate planning 
+document” may be expanded or contracted to conform with the state’s substantive, 
+administrative, or regulatory law or practices. A signature on a non-testamentary estate 
+planning document and on a document excluded from the definition may still be effective under 
+other state law. Likewise, an audio or audio-visual record still may be effective under other state 
+law. This act is designed to validate a signature that is in electronic form when other state law 
+has not addressed the issue. 
+In paragraph (5), a state should conform the name of the documents to match other state law. 
+For example, in subparagraph (A)(vii), a state that uses the term “medical power of attorney”, 
+“health-care proxy”, or other term should revise the bracketed text accordingly. 
+In paragraph (5), if a state does not authorize a particular non-testamentary estate planning 
+document, that document should be omitted from the enumerated list. For example, a state 
+following a common-law marital property system would delete subparagraph (A)(xii) referring 
+6
+
+to a community property survivorship agreement. 
+Comment 
+The definition of “electronic signature” is designed to exclude authentication via verbal 
+or video methods. 
+Paragraph (5) requires the non-testamentary estate planning document to be readable as 
+text such as an Adobe pdf file or a Word docx file; audio and audio-video records are not 
+included. However, other state law that authorizes audio and audio-video non-testamentary estate 
+planning documents is not impacted by this act and thus non-textual records authorized by other 
+state law are still effective if they comply with the applicable state law. 
+The definition of “sign” is designed to exclude authentication via verbal or video 
+methods. 
+Section 103. Construction 
+This [act] must be construed and applied to: 
+(1) facilitate electronic estate planning documents and signatures consistent with 
+other law; and 
+(2) be consistent with reasonable practices concerning electronic documents and 
+signatures and continued expansion of those practices. 
+Comment 
+This section is based on the Uniform Electronic Transactions Act Section 6. 
+[Article] 2 
+Electronic Non-Testamentary Estate Planning Documents 
+Section 201. Scope 
+(a) Except as provided in subsection (b), this [article] applies to an electronic non-
+testamentary estate planning document and an electronic signature on a non-testamentary estate 
+planning document. 
+(b) This [article] does not apply to a non-testamentary estate planning document if the 
+document precludes use of an electronic record or electronic signature. 
+7
+
+(c) This [article] does not affect the validity of an electronic record or electronic signature 
+that is valid under: 
+(1) [cite to Uniform Electronic Transactions Act]; [or] 
+(2) [[Article] 3] [cite to other state law governing creation and execution of an 
+electronic will, codicil, or testamentary trust][; or 
+(3) [cite to other state law relating to non-testamentary estate planning documents 
+the state excludes from this [article]]]. 
+Comment 
+This section makes certain that the scope of this act is restricted to validating electronic 
+documents and signatures and is not intended to impact the validity of electronic signatures 
+already authorized under other state law. If an electronic non-testamentary estate planning 
+document, or a signature on such a document, is granted legal recognition by UETA, this act 
+does not limit the legal recognition of the document or signature, but if the document or 
+signature is not granted legal recognition by UETA, it will be granted legal recognition by this 
+act. 
+Section 202. Principles of Law and Equity 
+The law of this state and principles of equity applicable to a non-testamentary estate 
+planning document apply to an electronic non-testamentary estate planning document except as 
+modified by this [article]. 
+Comment 
+This section makes it clear that the act supplants, but does not negate, other state law 
+requirements that must be satisfied to validate a non-testamentary estate planning document. 
+Section 203. Use of Electronic Record or Signature Not Required 
+(a) This [article] does not require a non-testamentary estate planning document or 
+signature on a non-testamentary estate planning document to be created, generated, sent, 
+communicated, received, stored, or otherwise processed or used by electronic means or in 
+electronic form. 
+8
+
+(b) A person is not required to have a non-testamentary estate planning document in 
+electronic form or signed electronically even if the person previously created or signed a non-
+testamentary estate planning document by electronic means. 
+(c) A person may not waive the provisions of this section. 
+Comment 
+This section is based on the Uniform Electronic Transactions Act Section 5. 
+In subsection (b), the term “person” rather than “individual” is used because a trustee 
+may be a corporation or other legal entity. Accordingly, “person” is appropriate as it 
+encompasses these entities. 
+Subsection (c) makes clear that a person cannot waive the right to require future non-
+testamentary estate planning documents to be in physical form and signed with a wet signature. 
+Section 204. Recognition of Electronic Non-Testamentary Estate Planning 
+Document and Electronic Signature 
+(a) A non-testamentary estate planning document or a signature on a non-testamentary 
+estate planning document may not be denied legal effect or enforceability solely because it is in 
+electronic form. 
+(b) If other law of this state requires a non-testamentary estate planning document to be 
+in writing, an electronic record of the document satisfies the requirement. 
+(c) If other law of this state requires a signature on a non-testamentary estate planning 
+document, an electronic signature satisfies the requirement. 
+Comment 
+This section is based on the Uniform Electronic Transactions Act Section 7. 
+Section 205. Attribution and Effect of Electronic Record and Electronic Signature 
+(a) An electronic non-testamentary estate planning document or electronic signature on 
+an electronic non-testamentary estate planning document is attributable to a person if it was the 
+9
+
+act of the person. The act of the person may be shown in any manner, including by showing the 
+efficacy of a security procedure applied to determine the person to which the electronic record or 
+electronic signature was attributable. 
+(b) The effect of attribution to a person under subsection (a) of a document or signature is 
+determined from the context and surrounding circumstances at the time of its creation, execution, 
+or adoption and as provided by other law. 
+Comment 
+This section is based on the Uniform Electronic Transactions Act Section 9. 
+Section 206. Notarization and Acknowledgment 
+If other law of this state requires a signature or record to be notarized, acknowledged, 
+verified, or made under oath, the requirement is satisfied with respect to an electronic non-
+testamentary estate planning document if an individual authorized to perform the notarization, 
+acknowledgment, verification, or oath attaches or logically associates the individual’s electronic 
+signature on the document together with all other information required to be included under the 
+other law. 
+Comment 
+This act does not address whether the notarization of electronic estate planning 
+documents must be done in the physical presence of the signer or whether an electronic (remote) 
+presence is sufficient. These are matters for state substantive law to address such as by the 
+enactment of the Revised Uniform Law on Notarial Acts. 
+Section 207. Witnessing and Attestation 
+[(a)] If other law of this state bases the validity of a non-testamentary estate planning 
+document on whether it is signed, witnessed, or attested by another individual, the signature, 
+witnessing, or attestation of that individual may be electronic. 
+[(b) In this subsection, “electronic presence” means that two or more individuals in 
+10
+
+different locations are able to communicate in real time to the same extent as if the individuals 
+were physically present in the same location. If other law of this state bases the validity of a non-
+testamentary estate planning document on whether it is signed, witnessed, or attested by another 
+individual in the presence of the individual signing the document, the presence requirement is 
+satisfied if the individuals are in each other’s electronic presence.] 
+Legislative Note: Optional subsection (b) provides the state the opportunity to authorize 
+electronic presence, or remote, witnessing. If a state has enacted the Uniform Electronic Wills 
+Act, the state should consider making the “presence” rules the same for a non-testamentary as 
+for a testamentary document. 
+Comment 
+This act does not take a position on whether the witnesses who are required by state law 
+to be in the physical presence of the individual signing the document may satisfy the presence 
+requirement by a virtual or electronic presence. Optional subsection (b) provides the state with 
+the opportunity to authorize remote witnessing if the state believes doing so would be a prudent 
+addition to its jurisprudence. 
+Section 208. Retention of Electronic Record; Original 
+(a) Except as provided in subsection (b), if other law of this state requires an electronic 
+non-testamentary estate planning document to be retained, transmitted, copied, or filed, the 
+requirement is satisfied by retaining, transmitting, copying, or filing an electronic record that: 
+(1) accurately reflects the information in the document after it was first generated 
+in final form as an electronic record or under Section 209; and 
+(2) remains accessible to the extent required by the other law. 
+(b) A requirement under subsection (a) to retain a record does not apply to information 
+the sole purpose of which is to enable the record to be sent, communicated, or received. 
+(c) A person may satisfy subsection (a) by using the services of another person. 
+(d) If other law of this state requires a non-testamentary estate planning document to be 
+presented or retained in its original form, or provides consequences if a non-testamentary estate 
+11
+
+planning document is not presented or retained in its original form, an electronic record retained 
+in accordance with subsection (a) satisfies the other law. 
+(e) This section does not preclude a governmental agency from specifying requirements 
+for the retention of a record subject to the agency’s jurisdiction in addition to those in this 
+section. In this section, “governmental agency” means an executive, legislative, or judicial 
+agency, department, board, commission, authority, institution, or instrumentality of the federal 
+government or of a state or of a county, municipality, or other political subdivision of a state. 
+Comment 
+This section is based on the Uniform Electronic Transactions Act Section 12. 
+This section is not intended to replace or alter existing state law governing the filing, 
+transmission, or retention of paper non-testamentary estate planning documents. 
+Section 209. Certification of Paper Copy 
+An individual may create a certified paper copy of an electronic non-testamentary estate 
+planning document by affirming under penalty of perjury that the paper copy is a complete and 
+accurate copy of the document. 
+Comment 
+This section is based on the Uniform Electronic Wills Act Section 9. Using this 
+procedure to obtain a paper copy will not cure any defect that existed regarding the validity of 
+the electronic non-testamentary estate planning document or electronic signature thereon. 
+Section 210. Admissibility in Evidence 
+Evidence relating to an electronic non-testamentary estate planning document or an 
+electronic signature on the document may not be excluded in a proceeding solely because it is in 
+electronic form. 
+Comment 
+This section is based on the Uniform Electronic Transactions Act Section 13. 
+12
+
+[[Article] 3 
+Uniform Electronic Wills Act] 
+Legislative Note: A state that wishes to expand state law to include electronic creation and 
+execution of a testamentary document, including a will, testamentary trust, or codicil, has two 
+options: 
+(1) The state may insert the Uniform Electronic Wills Act or similar statute as Article 3 in this 
+act, making adjustments to this act or to the incorporated act as appropriate. If the Uniform 
+Electronic Wills Act is the statute being included, the only definition in Section 2 of that act 
+necessary is “electronic will.” If remote witnessing is desired for an electronic will, the 
+definition of “electronic presence” in Section 207(b) of this act also is necessary in this article. 
+Sections 10 (uniformity of application and construction), 11 (transitional provision), and 12 
+(effective date) should be deleted from the Uniform Electronic Wills Act. 
+(2) The state may omit Article 3 and enact the Uniform Electronic Wills Act as a freestanding 
+act. 
+[Article] 4 
+Miscellaneous Provisions 
+Section 401. Uniformity of Application and Construction 
+In applying and construing this uniform act, a court shall consider the promotion of 
+uniformity of the law among jurisdictions that enact it. 
+Section 402. Relation to Electronic Signatures in Global and National Commerce 
+Act 
+This [act] modifies, limits, or supersedes the Electronic Signatures in Global and National 
+Commerce Act, 15 U.S.C. Section 7001 et seq.[, as amended], but does not modify, limit, or 
+supersede 15 U.S.C. Section 7001(c), or authorize electronic delivery of any of the notices 
+described in 15 U.S.C. Section 7003(b). 
+Legislative Note: It is the intent of this act to incorporate future amendments to the cited federal 
+law. A state in which the constitution or other law does not permit incorporation of future 
+amendments when a federal statute is incorporated into state law should omit the phrase “, as 
+amended”. A state in which, in the absence of a legislative declaration, future amendments are 
+incorporated into state law also should omit the phrase. 
+13
+
+Section 403. Transitional Provision 
+[(a)] This [act] applies to an electronic non-testamentary estate planning document 
+created, signed, generated, sent, communicated, received, or stored before, on, or after [the 
+effective date of this [act]]. 
+[(b) This [act] applies to the will of a decedent who dies on or after [the effective date of 
+this [act]].] 
+Legislative Note: A state that enacts this act with optional Article 3 (Uniform Electronic Wills 
+Act) should adopt this section in its entirety, including all of the bracketed text. A state that 
+enacts this act without Article 3 should adopt this section omitting both the bracketed text 
+“[(a)]” and the entirety of bracketed subsection (b). 
+[Section 404. Severability 
+If a provision of this [act] or its application to a person or circumstance is held invalid, 
+the invalidity does not affect another provision or application that can be given effect without the 
+invalid provision.] 
+Legislative Note: Include this section only if the state lacks a general severability statute or a 
+decision by the highest court of the state adopting a general rule of severability. 
+[Section 405. Repeals; Conforming Amendments 
+(a). . . 
+(b). . .] 
+Legislative Note: A state should examine its statutes to determine whether conforming revisions 
+are required by provisions of this act relating to the execution of testamentary and non-
+testamentary estate planning documents. 
+Section 406. Effective Date 
+This [act] takes effect . . . 
+14

@@ -1,0 +1,1133 @@
+MURIEL BOWSER
+MAYOR 
+October 9, 2026 
+The Honorable Phil Mendelson 
+Chairman 
+Council of the District of Columbia 
+John A. Wilson Building 
+1350 Pennsylvania Avenue, NW, Suite 504 
+Washington, DC 20004 
+Dear Chairman Mendelson: 
+Enclosed for consideration and adoption by the Council of the District of Columbia is the Business 
+Organizations Amendment Act of 2026.  The legislation would update the District of Columbia’s laws 
+for entity registration and filings to align with current practices and industry best practices.  The 
+legislation also seeks to clarify areas of ambiguity, confirm the responsibilities for registered agents, and 
+standardizes entity filings where appropriate.  The legislation also seeks to ensure that the District’s 
+business registration and entity process is consistent with current practices in light of the launch of the 
+Department of Licensing and Consumer Protection’s new Corporate Online System, which the Council of 
+the District of Columbia funded.  The new system, which will require electronic filings, and registration 
+will go live in December 2026.  These conforming amendments are necessary for the success of the new 
+system. 
+Below are a few highlights of the Business Organizations Amendment Act of 2026: 
+1. Requiring registered agents and those executing entity filings to be at least 18 years or age;
+2. Making electronic filings the default;
+3. Updating the entity filing and registration requirements;
+4. Updating the trade name filing and registration requirements;
+5. Standardizing the submission of records to the Mayor;
+6. Clarifying when the Mayor can terminate the listings for commercial registered agents and
+remove registered agents;
+7. Allowing for electronic service of process; and
+8. Clarifying the filing of a series of a statutory trust.
+I encourage the Council to take immediate action to approve this legislation.  If you have any questions 
+regarding this legislation, please contact Tiffany Crowe, Director, Department of Licensing and 
+Consumer Protection, at tiffany.crowe@dc.gov. 
+Sincerely, 
+Muriel Bowser
+
+; ~ hJ&::-
+3 at the request of the Mayor 
+4 
+5 
+6 AB~L 
+7 
+8 
+9 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA 
+10 
+11 To amend Chapter 1 of Title 29 of the District of Columbia Official Code to transfer the 
+12 registration of trade names from Title 47 of the District of Columbia Official Code; to 
+13 amend Chapters 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, and 13 of Title 29 of the District of 
+14 Columbia Official Code to require registered agents and individuals signing entity filings 
+15 or forming an entity to be 18 years of age or older, to require electronic filing as the 
+16 default means to file documents with the Mayor, to update entity filing and entity 
+1 7 registration filing requirements, to update the contents of formation documents, to amend 
+18 the definition of a professional limited liability company, to update the information in 
+19 trade name applications, to clarify the effective date of entity filings, to standardize the 
+20 submission of records by the Mayor, to clarify the use of a statement of correction to 
+21 update a biennial report, to repeal the requirement that Council approve rules regarding 
+22 fees for entity filings, to standardize the use of corporate suffixes in entity names, to 
+23 clarify when the Mayor may terminate the listings of commercial registered agents and 
+24 remove registered agents, to clarify that an entity be served process, notice, or demand by 
+25 service on a registered agent, to clarify how the Mayor notifies domestic filing entities of 
+26 administrative dissolutions, to allow service of process by electronic mail, to codify the 
+27 evidence to show an entity transaction was adopted or authorized, to codify the evidence 
+28 to show a domestication or merger of a business corporation or nonprofit corporation was 
+29 authorized or approved, to clarify the revocation of statements of qualification, to clarify 
+30 the dissolution of limited partnerships, to clarify the reinstatement of limited liability 
+31 partnerships, to clarify the dissociation of partners in limited liability partnerships, to 
+32 codify the evidence to show a merger or domestication of a limited liability company was 
+33 approved, to codify the requirement that limited liability companies have at least one 
+34 member to form, to standardize when limited liability companies may rescind dissolution, 
+35 to clarify that general cooperative associations are formed by one or more persons, to 
+36 address limited terms of existence for general cooperative associations and limited 
+3 7 cooperated associations, and to clarify the filing of a series of a statutory trust. 
+38 
+39 BE IT ENACTED BY THE COUNC~ OF THE DISTRICT OF COLUMBIA, that this 
+40 act may be cited as the "Business Organizations Amendment Act of 2026". 
+41 Sec. 2. Chapter 1 of Title 29 of the District of Columbia Official Code is amended as 
+42 follows : 
+1
+
+2 
+ 
+ (a) The table of contents is amended by adding new subchapter and section designations 43 
+to read as follows: 44 
+ “Subchapter VIII. Trade Names. 45 
+ “§ 29-108.01. Definitions. 46 
+ “§ 29-108.02. Registration required. 47 
+ “§ 29-108.03. Changes in registration; filing amendment. 48 
+ “§ 29-108.04. Rules. 49 
+ “§ 29-108.05. Collection and deposit of fees.”. 50 
+ (b) Section 29-101.02 is amended as follows: 51 
+  (1) A new paragraph (1A) is added to read as follows: 52 
+  “(1A) “Beneficial owner” means each person: 53 
+   “(A) Who controls the financial or operational decisions of the entity; 54 
+   “(B) Who has the ability to direct the day-to-day operations of the entity; 55 
+or 56 
+   “(C) Whose aggregate share of direct or indirect, legal, or beneficial 57 
+ownership of a governance or total distributional interest of the entity exceeds 10%.”. 58 
+  (2) Paragraph (11) is amended by striking the word “delivered” and inserting the 59 
+word “submitted” in its place. 60 
+  (3) A new paragraph (18A) is added to read as follows: 61 
+  “(18A) “Incorporator” means a person that acts to form an entity organized under 62 
+Chapters 3, 4, 5, 9, and 13 of this title.”. 63 
+  (4) A new paragraph (22A) is added to read as follows: 64
+
+3 
+ 
+  “(22A) “License” means a license, certification, certificate, registration, or other 65 
+legal authorization required by law as a condition precedent to operating a business or rendering 66 
+professional or occupational service within the District.”. 67 
+  (5) A new paragraph (33A) is added to read as follows: 68 
+  “(33A) “Organizer” means a person that acts to form an entity organized under 69 
+Chapters 8, 10, and 12 of this title.”. 70 
+  (6) Paragraph (38) is amended by striking the word “professional” and inserting 71 
+the phrase “professional or occupational,” in its place. 72 
+  (7) A new paragraph (38A) is added to read as follows: 73 
+  “(38A) “Professional or occupational service” means a service provided to the 74 
+public, which may be lawfully rendered only pursuant to an occupational or professional license 75 
+issued by the District.”.  76 
+  (8) New paragraphs (44A) and (44B) are added to read as follows: 77 
+  “(44A) “Series limited liability company” means a limited liability company that 78 
+has one or more series created under § 29-802.06. 79 
+  “(44B) “Series trust” means a statutory trust that has one or more series created 80 
+under § 29-1204.01.”. 81 
+ (c) Section 29-101.04 is amended as follows: 82 
+  (1) Subsection (a) is amended to read as follows: 83 
+ “(a) Delivery of a record to the Mayor under this title shall be made by electronically 84 
+filing the record through an online system designated by the Mayor unless prior approval to 85 
+deliver another means of delivery is provided by the Mayor.”. 86 
+  (b) A new section (c) is added to read as follows:  87
+
+4 
+ 
+ “(c) Permissible means of delivery of a record under this title to a person other than the 88 
+Mayor include delivery by hand, mail by the United States Postal Service, commercial delivery 89 
+service, and electronic transmission.”. 90 
+ (d) Section 29-102.01 is amended as follows: 91 
+  (1) Subsection (a) is amended as follows: 92 
+   (A) Paragraph (2) is amended to read as follows: 93 
+  “(2) The entity filing shall be by electronic delivery, unless the Mayor allows for 94 
+another means of delivery.”.  95 
+   (B) Paragraph (5) is amended to read as follows: 96 
+  “(5) The entity filing shall state the name and capacity of each individual who 97 
+signed it, either by or on behalf of the individual authorized or required to sign the filing, but 98 
+need not contain a seal, an attestation, an acknowledgment, or a verification. An individual 99 
+signing an entity filing shall be 18 years of age or older.”. 100 
+   (C) A new paragraph (5A) is added to read as follows: 101 
+  “(5A) Each entity registration filing shall state the purpose for which the entity 102 
+was formed.”. 103 
+   (D) Paragraph (6) is amended to read as follows: 104 
+  “(6) Each entity registration filing shall state the name, residence address, 105 
+business address, email address, and telephone number of each beneficial owner.”. 106 
+   (E) Paragraph (7) is amended to read as follows: 107 
+  “(7) The entity registration filing shall state, for each foreign entity that is 108 
+identified pursuant to paragraph (6) of this subsection, the names, residence address, business 109 
+address,  email address, and telephone number of each beneficial owner.”. 110
+
+5 
+ 
+ (e) Section 29-102.02(d) is amended to read as follows: 111 
+ “(d) The Mayor, by rule, may prescribe forms and procedures for electronic filings under 112 
+this title.”. 113 
+ (f) Section 29-102.03(1) is amended by striking the phrase “as provided in § 29-102.06;” 114 
+and inserting a semicolon in its place. 115 
+(g) Section 20-102.05 is amended to read as follows:  116 
+(e)(1) The Mayor may correct a filed record without a statement of correction if the inaccuracy 117 
+resulted from an error by the Mayor in receiving, recording, processing, indexing, or transmitting 118 
+the record, including a data entry or system error. 119 
+ (h) Section 29-102.06 is amended as follows: 120 
+  (1) Subsection (a) is amended by striking the word “delivered” and inserting the 121 
+word “submitted” in its place. 122 
+(2) Subsection (a) is amended to read as follows: 123 
+“(a) The Mayor shall file an entity filing delivered to the Mayor for filing which satisfies this 124 
+title. The duty of the Mayor under this section is ministerial, except as provided in subsection (c-125 
+1) of this section, the Mayor shall file an entity filing delivered to the Mayor for filing which 126 
+satisfies this title. 127 
+  (3) Subsection (b) is amended to read as follows: 128 
+ “(b) When the Mayor files an entity filing, the Mayor shall record it as filed on the date 129 
+and at the time of its submission.  After filing an entity filing, the Mayor shall provide the person 130 
+that submitted the filing a copy of the filing with an acknowledgment of the date and time of 131 
+filing.” 132
+
+6 
+ 
+  (4) Subsection (c) is amended by striking the word “delivered” and inserting the 133 
+word “submitted” in its place. 134 
+  (5) A new subsection (c-1) is added to read as follows:  135 
+“(c-1)(1) The Department of Licensing and Consumer Protection may: 136 
+   “(A) Refuse to file a record delivered to the Mayor for filing if the Mayor 137 
+determines the record contains false, fraudulent, or erroneous information; and 138 
+   “(B) Amend a filed record, or revoke the filing or terminate the existence 139 
+or registration of a domestic or foreign filing entity, if the Mayor determines that a person has 140 
+submitted false or fraudulent information in a record, or has attempted or submitted a record for  141 
+filing in bad faith, without lawful authority, or to commit fraud or cause injury. 142 
+“(2) Before taking action under paragraph (1)(B) of this subsection, the Mayor shall deliver 143 
+written notice to each affected person at the person’s last known email address or at the email 144 
+address of the person’s registered agent, stating the record or records at issue, the basis for the 145 
+proposed action, and the person’s right to respond and/or request a hearing.”. 146 
+(3) An affected person may, within 10 business days after delivery of the notice under paragraph 147 
+(2) of this subsection, submit a written response showing cause why the proposed action should 148 
+be reversed. If the person does not respond within that period, or if the Mayor determines that the 149 
+response does not show sufficient cause, the Mayor’s decision will be deemed final and shall 150 
+deliver written notice of the final decision to the affected person. 151 
+           (4) A final decision under paragraph (3) of this subsection may be appealed to the 152 
+Superior Court of the District of Columbia within 30 business days after the notice of final 153 
+decision is delivered. The final decision shall remain in effect pending appeal unless the Court 154 
+orders otherwise. 155
+
+7 
+ 
+(5) The Mayor may act under this subsection without regard to whether a civil or criminal 156 
+proceeding concerning the same conduct is pending or has been resolved.  157 
+  (6) A new subsection (d-1) is added to read as follows:  158 
+ “(d-1) If the Mayor terminates the existence or registration of an entity pursuant to this 159 
+section, or the Mayor’s rejection or amendment of a record pursuant to this section results in the 160 
+entity not having a registered agent for service of process, the Mayor shall be the agent of the 161 
+entity upon whom any process against the entity may be served, pursuant to § 29-104.12(d).” 162 
+ (i) Section 29-102.10 is amended to read as follows: 163 
+ “§ 29-102.10. Delivery by the Mayor. 164 
+ “Except as otherwise provided by law other than this title, the Mayor may deliver any 165 
+record to a person by physically delivering it to the person that submitted it, to the street address 166 
+of the person’s registered agent, to the principal office address of the person, or to another 167 
+address the person provides to the Mayor for physical delivery, or by submitting the record or 168 
+notice by electronic delivery.”.  169 
+ (j) Section 29-102.11 is amended as follows: 170 
+  (1) Subsection (a) is amended as follows: 171 
+   (A) The lead-in language is amended by striking the word “deliver” and 172 
+inserting the word “submit” in its place.  173 
+   (B) A new paragraph (1A) is added to read as follows:  174 
+  “(1A) The purpose for which the entity was formed;”. 175 
+   (C) Paragraph (2) is amended by striking the phrase “street and mailing 176 
+address” and inserting the phrase “street address, mailing address, email address, and telephone 177 
+number” in its place.  178
+
+8 
+ 
+   (D) Paragraph (3) is amended by striking the phrase “street and mailing 179 
+address” and inserting the phrase “street address, mailing address, email address, and telephone 180 
+number” in its place. 181 
+   (E) Paragraph (5) is amended to read as follows: 182 
+  “(5) In the case of a registered foreign entity, a statement whether the entity is in 183 
+good standing in its state of formation, the unique identifier assigned to the entity by its 184 
+jurisdiction of formation or, if the jurisdiction of formation did not assign a unique identifier, the 185 
+file number, work order number or case number that the jurisdiction of formation assigned to the 186 
+filing that created entity.”. 187 
+   (F) Paragraph (6) is amended to read as follows: 188 
+  “(6) The biennial report shall state the name, residence address, business address, 189 
+email address, and telephone number of beneficial owner.”. 190 
+   (G) Paragraph (7) is amended to read as follows: 191 
+  “(7) The biennial report shall state, for each foreign entity that is identified 192 
+pursuant to paragraph (6) of this subsection, the name, residence address, business address, and 193 
+email address of each beneficial owner.”. 194 
+  (2) Subsection (b) is amended by striking the phrase “a statement of correction as 195 
+specified under § 29-102.05” and inserting the phrase “an article of amendment” in its place.  196 
+  (3) Subsection (c) is amended by striking the word “delivered” both times it 197 
+appears and inserting the word “submitted” in its place.  198 
+ (k) Section 29-102.12(d) is repealed. 199
+
+9 
+ 
+ (l) Section 29-102.13(a)(3) is amended by striking the phrase “renewals, fines” and 200 
+inserting the phrase “reinstatements, penalty fees, trade name fees, and expedited fees” in its 201 
+place. 202 
+ (m) Section 29-103.02 is amended to read as follows: 203 
+  (1) Subsection (a) is amended by striking the phrase “Inc.” and inserting “Inc.”, 204 
+“Inc” in its place.  205 
+  (2) Subsection (c) is amended by striking the phrase “P.C.” and inserting “P.C.”, 206 
+“PC” in its place.  207 
+  (3) New subsections (j) and (k) are added to read as follows: 208 
+ “(j) If subsections (a) through (i) of this section require a filing entity’s name to contain a 209 
+specific word, the specific word shall be the last word of the filing entity’s name. 210 
+ “(k) A filing entity shall not include in its name more than one of the words or 211 
+abbreviations required by subsections (a) through (i) of this section.”. 212 
+ (n) Section 29-104.02 is amended as follows: 213 
+  (1) The existing text is designated as subsection (a) 214 
+  (2) The lead-in language of subsection (a) is amended by striking the word 215 
+“following” and inserting the phrase “following entities” in its place.  216 
+ (2) A new subsection (b) is added to read as follows:  217 
+ “(b) If the registered agent of the entity is an individual, that individual shall be 18 years 218 
+of age or older.”. 219 
+ (o) Section 29-104.03 is amended as follows: 220 
+  (1) Paragraph (1) is amended by striking the phrase “; and” and inserting a 221 
+semicolon in its place. 222
+
+10 
+ 
+  (2) Paragraph (2) is amended to read as follows: 223 
+  “(2) Email address; and”. 224 
+  (3) A new paragraph (3) is added to read as follows: 225 
+  “(3) Telephone number.”. 226 
+ (p) Section 29-104.04(a)(2) is amended to read as follows: 227 
+  “(2) If the entity does not have a commercial registered agent: 228 
+   “(A) The name, street address and email address, and telephone number of 229 
+the entity’s noncommercial registered agent; or 230 
+   “(B) If the entity designates an officer or employee to accept service of 231 
+process, the title of the office or other position and the street address, email address, and 232 
+telephone number of the business office of that person, pursuant to § 29-104.03.”. 233 
+ (q) Section 29-104.04(b) is amended by striking the phrase “subsection (a)(1) or (2)(A)” 234 
+and inserting the phrase “subsection (a)” in its place. 235 
+ (r) Section 29-104.05 is amended as follows: 236 
+  (1) Subsection (a)(3) is amended to read as follows: 237 
+  “(3) The street address, email address, and telephone number of a place of 238 
+business of the person in the District to which service of process, notices, and demands being 239 
+served on or sent to entities represented by the person may be delivered.”. 240 
+  (2) Subsection (b) is amended to read as follows: 241 
+ “(b) A commercial registered agent listing statement shall include information regarding 242 
+acceptance by the agent of service of process by email.”. 243 
+ (s) Section 29-104.06 is amended as follows: 244
+
+11 
+ 
+  (1) Subsection (a) is amended by striking the word “delivering” and inserting the 245 
+word “submitting” in its place. 246 
+  (2) Subsection (b) is amended by striking the word “delivered” and inserting the 247 
+word “submitted” in its place.  248 
+  (3) A new subsection (e) is added to read as follows:  249 
+ “(e) If a commercial registered agent is a filing entity and has been administratively 250 
+dissolved, or otherwise is not in good standing, the Mayor may cancel the listing of the 251 
+commercial registered agent.”. 252 
+ (t) Section 29-104.09(a)(3) is amended to read as follows: 253 
+  “(3) If the street address, email address, or telephone number of the agent has 254 
+changed, the new street address, email address, or telephone number.”. 255 
+ (u) Section 29-104.10 is amended as follows: 256 
+  (1) Subsection (a) is amended by striking the word “delivering” and inserting the 257 
+word “submitting” in its place. 258 
+  (2) A new subsection (f) is added to read as follows:  259 
+ “(f) The Mayor may remove the registered agent on record if the information required by 260 
+§ 29-104.04(a) is not current.”. 261 
+ (v) Section 29-104.12 is amended as follows:  262 
+  (1) Subsection (d) is amended by: 263 
+   (A) Striking the word “his” and inserting the phrase “the Mayor’s” in its 264 
+place; and 265 
+   (B) Striking the phrase “by registered or certified mail to the entity at  266
+
+12 
+ 
+its principal office or at its last known address” and inserting the phrase “to the entity by email or 267 
+by registered or certified mail at the street address of the entity’s registered agent, principal 268 
+office, or last known address” in its place.  269 
+  (2) Subsection (e) is amended to read as follows: 270 
+ “(e) Service of process, notice, or demand on a registered agent and a commercial 271 
+registered agent shall be in a written record. Service may be made on a commercial registered 272 
+agent by email or other forms, and subject to such requirements, as the agent states in its listing 273 
+under § 29-104.05 that it will accept. Commercial registered agents may not require service by 274 
+physical mail as a condition of accepting service by email.”. 275 
+ (w) Section 29-105.03 is amended as follows: 276 
+  (1) The lead-in language is amended by striking the word “deliver” and inserting  277 
+the word “submit” in its place.  278 
+  (2) Paragraph (4) is amended by striking the word “street” and inserting the 279 
+phrase “street address” in its place.  280 
+  (3) Paragraph (6) is amended to read as follows:  281 
+  “(6) The name, street address, and mailing address of a governor;”. 282 
+  (4) Paragraph (8) is amended by striking the phrase “; and” and inserting a 283 
+semicolon in its place. 284 
+  (5) Paragraph (9) is amended by striking the period at the end and inserting a 285 
+semicolon in its place. 286 
+  (6) New paragraphs (10) and (11) are added to read as follows: 287 
+  “(10) The unique identifier or initial filing number assigned to the entity by its 288 
+jurisdiction of formation or, if the jurisdiction of formation did not assign a unique identifier, the 289
+
+13 
+ 
+file number, work order number, or case number that the jurisdiction of formation assigned to the 290 
+filing that created the entity; and 291 
+  “(11) The date of formation of the entity in its jurisdiction of formation.”. 292 
+ (x) Section 29-106.02 is amended as follows: 293 
+  (1) Subsection (a) is amended to read as follows: 294 
+ “(a) If the Mayor determines that one or more grounds exist under § 29-106.01 for 295 
+dissolving a domestic filing entity, the Mayor shall submit notice of the determination to the 296 
+entity’s registered agent on record pursuant to § 29-104.12. The notice of determination shall 297 
+state the grounds for the intended dissolution and its intended effective date and shall provide the 298 
+entity 60 days to cure and respond.”. 299 
+  (2) Subsection (b) is amended to read as follows: 300 
+ “(b) If a domestic filing entity, not later than 60 days after submission of the notice 301 
+required by subsection (a) of this section, does not cure each ground for dissolution or 302 
+demonstrate to the satisfaction of the Mayor that each ground does not exist, the Mayor shall 303 
+dissolve the entity administratively after the 60-day period expires. The Mayor shall publish a 304 
+notice of the on an appropriate website.”. 305 
+ (y) A new subchapter VIII is added to read as follows: 306 
+ “Subchapter VIII. Trade Names. 307 
+ “§ 29-108.01. Definitions. 308 
+ “For the purposes of this subchapter: 309 
+  “(1) “Business” shall have the same meaning as provided in § 47-2851.01(3).  310 
+  “(2) “Trade name” means a word or name, or any combination of a word or name, 311 
+used by a person to identify the person’s business that is not the true name of the business. 312
+
+14 
+ 
+  “(3) “True name” means: 313 
+   “(A) For a sole proprietorship, the surname of the proprietor the 314 
+proprietor’s first name or initials.. 315 
+   “(B) For an unincorporated non-profit associations, the surname coupled 316 
+with the first name or initials of the associations members;  317 
+   “(C) The registered corporate name of a domestic corporation as filed with 318 
+the Mayor; 319 
+   “(D) The registered company name of a domestic and foreign limited 320 
+liability company as filed by the Mayor; 321 
+   “(E) The registered partnership name of a domestic limited partnership as 322 
+filed with the Mayor; 323 
+   “(F) The registered partnership name of a domestic and foreign limited 324 
+liability partnership as filed by the Mayor; 325 
+   “(G) The name of a general partnership which includes in its name the true 326 
+and real names, as defined in subparagraphs (A) through (F) of this paragraph, of each general 327 
+partner as required by § 29-108.03; 328 
+   “(H) The registered name of a domestic and foreign statutory trust as filed 329 
+by the Mayor; 330 
+   “(I) The registered name of a domestic and foreign limited cooperative 331 
+association as filed by the Mayor; or 332 
+   “(J) The registered name of a domestic and foreign general cooperative 333 
+association as filed by the Mayor. 334 
+ “§ 29-108.02. Registration required. 335
+
+15 
+ 
+ “(a) A person who carries on, conducts, or transacts business in the District under any 336 
+trade name shall register that trade name with the Mayor as follows: 337 
+  “(1) A sole proprietorship shall register by setting forth the name and street 338 
+address, mailing address, and e mail address of the person comprising the sole proprietorship and 339 
+the trade name of the business. 340 
+  “(2) A general partnership shall register by setting forth the name and street 341 
+address, mailing address, and email addresses of each person comprising the general partnership 342 
+and the name of the general partnership. 343 
+  “(3) A foreign or domestic limited partnership shall register by setting forth the 344 
+limited partnership’s name as filed with the Mayor pursuant to § 29–702.01(a)(1) and the trade 345 
+name of the foreign or domestic limited partnership. 346 
+  “(4) A foreign or domestic limited liability company shall register by setting forth 347 
+the limited liability company’s name as filed with the Mayor pursuant to § 29-802.01(b)(1) and 348 
+the trade name of the foreign or domestic limited liability company. 349 
+  “(5) A foreign or domestic for-profit corporation shall register by  setting forth the 350 
+corporate name as filed with the Mayor pursuant to § 29-302.02(a)(1) and the trade name of the 351 
+foreign or domestic for-profit corporation. 352 
+  “(6) A foreign or domestic nonprofit corporation shall register by setting forth the 353 
+corporate name as filed with the Mayor pursuant to § 29-402.02(a)(1) and the trade name of the 354 
+foreign or domestic nonprofit corporation. 355 
+  “(7) A domestic or foreign statutory trust shall register by setting forth the 356 
+statutory trust’s name as filed with the Mayor pursuant to § 29-1202.01(b)(1) and the trade name 357 
+of the domestic or foreign statutory trust. 358
+
+16 
+ 
+  “(8) A domestic or foreign limited cooperative association shall register by setting 359 
+forth the association’s name as filed with the Mayor pursuant to § 29-1003.02(a)(1) and the trade 360 
+name of the domestic or foreign limited cooperative association. 361 
+  “(9) A domestic or foreign general cooperative association shall register by 362 
+setting forth the association’s name as with by the Mayor pursuant to § 29-906(b)(2) and the 363 
+trade name of the domestic or foreign general cooperative association. 364 
+  “(10) A domestic or foreign limited liability partnership shall register by setting 365 
+forth the partnership’s name as filed with the Mayor pursuant to § 29-610.01(c)(1) and the trade 366 
+name of the domestic or foreign limited liability partnership. 367 
+ “(b) The trade name application shall contain the following information: 368 
+  “(1) The name of the person applying for the trade name; 369 
+  “(2) The registered name of the business; 370 
+  “(3) The name of the proposed trade name; 371 
+  “(4) The name, street address, mailing address, and email address of the governor 372 
+of the entity;  373 
+  “(5) The name, street address, email address, and telephone number  of the 374 
+registered agent; and  375 
+  “(6) Such additional information as the Mayor may require. 376 
+ “(c) The trade name application may include additional information, including the phone 377 
+number of the registered agent. 378 
+ “(d) The trade name application shall be executed by: 379 
+  “(1) The sole proprietor of a sole proprietorship; or 380 
+  “(2) The governor or a person authorized to act on behalf of the governor. 381
+
+17 
+ 
+ “(e) The trade name shall be distinguishable on the records of the Mayor from any: 382 
+  “(1) Name of domestic or foreign filing entity; 383 
+  “(2) Name that is reserved under § 29-103.03; 384 
+  “(3) Name that is registered under § 29-103.04; 385 
+  “(4) Other trade name registered under this subchapter; or 386 
+  “(5) Name of an agency or instrumentality of the United States, the District of 387 
+Columbia, another state, or a subdivision thereof. 388 
+ “(f) An initial trade name registration and the renewal of a trade name registration shall in 389 
+the time period prescribed by rules established by the Mayor: 390 
+ “(g) A trade name renewal application shall be filed in the time period prescribed by the 391 
+rules.”. established by the Mayor. 392 
+ “§ 29-108.03. Changes in trade name registration; filing amendment. 393 
+ “(a) An amendment to a registration shall be filed with the Mayor when a change occurs 394 
+in any of the following: 395 
+  “(1) The name the business with a trade name registered under this subchapter; 396 
+  “(2) The mailing address or email address set forth on the trade name application 397 
+or on a subsequently filed amendment; or 398 
+  “(3) The registered agent’s information set forth on the application. 399 
+ “(b) The amendment to a registration shall be executed by the governor or a person 400 
+authorized to act on behalf of the governor. 401 
+ “(c) For the purposes of this section, changes in a registered agent’s information are 402 
+governed by subchapter IV of Chapter 1 of Title 29. 403
+
+18 
+ 
+ “(d)(1) A notice of cancellation shall be filed with the Mayor when use of a trade name is 404 
+discontinued. 405 
+  “(2) A notice of cancellation, together with a new registration application, shall be 406 
+filed with the Mayor before there is a change in the wording or spelling of the trade name or 407 
+there is a change of person conducting business under the trade name. A business shall not 408 
+operate under the new trade name until the new registration is approved. 409 
+ “(e) No person carrying on, conducting, or transacting business under any trade name 410 
+shall be entitled to maintain any suit in any of the courts of the District under the trade name of 411 
+the business until the person has properly completed the registration as required by this section. 412 
+ “(f) Failure of a person to register a trade name under which the person is carrying on, 413 
+conducting, or transacting business shall not impair the validity of any contract or act of such 414 
+person and shall not prevent such person from defending any suit in any court of the District.”. 415 
+ Sec. 3. Chapter 2 of Title 29 of the District of Columbia Official Code is amended as 416 
+follows:  417 
+ (a) Section 29-202.05 is amended as follows:  418 
+  (1) Subsection (a) is amended by striking the word “delivered” and inserting the 419 
+word “submitted” in its place. 420 
+  (2) Subsection (b)(4) is amended by striking the phrase “merging entity, if any,” 421 
+and inserting the phrase “merging entity,” in its place.. 422 
+  (3) Subsection (b)(4) is amended by striking the phrase “formation;” and inserting 423 
+the phrase “formation, evidenced by submission of a copy of the filing effectuating the approval, 424 
+certified by the Secretary of State or authorized officer of that jurisdiction and dated within 90 425 
+days of the date of submission;” in its place. 426
+
+19 
+ 
+  (3) Subsection (e) is amended by striking the word “delivered” and inserting the 427 
+word “submitted” in its place.  428 
+ (b) Section 29-204.05 is amended as follows: 429 
+  (1) Subsection (a) is amended by striking the word “delivered” and inserting the 430 
+word “submitted” in its place. 431 
+  (2) Subsection (b)(4) is amended by striking the phrase “which shall consist of 432 
+submission of a copy of the filing effectuating the approval that is certified by the secretary of 433 
+state and dated within 90 days of the date that it is submitted;” and inserting a semicolon in its 434 
+place.  435 
+  (3) Subsection (b)(5) is amended to read as follows:  436 
+  “(5) If the converting entity is a foreign entity, or a domestic entity who is 437 
+becoming a foreign entity of a different type, a statement that the plan of conversion was 438 
+approved in accordance with the law of the current or intended foreign jurisdiction of formation, 439 
+which evidenced by submission of a copy of the filing effectuating the approval certified by the 440 
+Secretary of State or authorized officer of that jurisdiction and dated within 90 days of the date 441 
+of submission.”. 442 
+  (4) Subsection (b)(6) is amended by striking the phrase “; and” and inserting a 443 
+semicolon in its place. 444 
+  (5) Subsection (e) is amended by striking the word “delivered” and inserting the 445 
+word “submitted” in its place.  446 
+ (c) Section 29-205.05 is amended as follows: 447 
+  (1) Subsection (a) is amended by striking the word “delivered” and inserting the 448 
+word “submitted” in its place. 449
+
+20 
+ 
+  (2) Subsection (b) is amended as follows: 450 
+   (A) Paragraph (4) is amended by striking the phrase “or,” and inserting the 451 
+phrase “,and in accordance with the laws of the entity’s intended jurisdiction of formations 452 
+evidenced by submission of a copy of the filing effectuating the approval, certified by the 453 
+Secretary of State or authorized officer of that jurisdiction and dated within 90 days of the date 454 
+of submission;” in its palce. 455 
+   (B) A new paragraph (4A) is added to read as follows:  456 
+  “(4A) If the domesticating entity is a foreign entity, a statement that the plan of 457 
+domestication was approved in accordance with the law of its jurisdiction of formation, the 458 
+approval shall be evidenced by submission of a copy of the filing effectuating the approval, 459 
+certified by the Secretary of State or authorized officer of the jurisdiction of formation and dated 460 
+within 90 days of the date of submission. 461 
+   (C) Paragraph (5) is amended by striking the phrase “; and” and inserting a 462 
+semicolon in its place. 463 
+  (3) Subsection (e) is amended by striking the word “delivered” and inserting the 464 
+word “submitted” in its place.  465 
+ Sec. 4. Chapter 3 of Title 29 of the District of Columbia Official Code is amended as 466 
+follows: 467 
+ (a) Section 29-302.02 is amended as follows: 468 
+  (1) Subsection (a) is amended as follows: 469 
+   (A) Paragraph (3) is amended by striking the phrase “; and” and inserting 470 
+a semicolon in its place. 471 
+   (B) Paragraph (4) is amended to read as follows: 472
+
+21 
+ 
+  “(4) The name and street address of each incorporator; and”. 473 
+   (C) A new paragraph (5) is added to read as follows: 474 
+  “(5) The street address, mailing address, and email address of the initial principal 475 
+office.”. 476 
+  (2) Subsection (b) is amended as follows: 477 
+   (A) Paragraph (1) is amended by striking the word “and addresses” and  478 
+inserting the phrase “and business address, residential address, and email address” in its place. 479 
+   (B) A new paragraph (1A) is added to read as follows: 480 
+  “(1A) The telephone number of the corporation;”. 481 
+   (C) Paragraph (2)(A) is repealed. 482 
+ (b) Section 29-307.03 is amended as follows: 483 
+  (1) Subsection (a)(3) is amended by adding a new sentence at the end to read as 484 
+follows: “The statement shall consist of submission of a copy of the filing effectuating the 485 
+authorization, certified by the secretary of state or authorized officer of the jurisdiction of 486 
+formation, and dated within 90 days of the date that it is submitted.”. 487 
+  (2) Subsection (c) is amended by striking the word “delivered” and inserting the 488 
+word “submitted” in its place. 489 
+ (c) Section 29-309.06 is amended as follows: 490 
+  (1) Subsection (a)(5) is amended by adding a new sentence at the end to read as 491 
+follows: “The statement shall consist of submission of a copy of the filing effectuating the 492 
+authorization, certified by the secretary of state or authorized officer of the jurisdiction of 493 
+formation, and dated within 90 days of the date that it is submitted.”. 494
+
+22 
+ 
+  (2) Subsection (b) is amended by striking the word “delivered” and inserting the 495 
+word “submitted” in its place.  496 
+ Sec. 5. Chapter 4 of Title 29 of the District of Columbia Official Code is amended as 497 
+follows: 498 
+ (a) Section 29-402.02 is amended as follows:  499 
+  (1) Subsection (a) is amended as follows: 500 
+   (A) Paragraph (5) is amended by striking the period at the end and 501 
+inserting the phrase “; and” in its place. 502 
+   (B) A new paragraph (6) is added to read as follows: 503 
+  “(6) The street address, mailing address, and email address of the initial principal 504 
+office.”. 505 
+  (2) Subsection (b) is amended as follows: 506 
+   (A) Paragraph (1) is amended by striking the word “names” and inserting 507 
+the phrase “names and business, residential, and email addresses” in its place. 508 
+   (B) A new paragraph (1A) is added to read as follows: 509 
+  “(1A) The telephone number of the nonprofit corporation;”. 510 
+   (C) Paragraph (5)(A) is repealed. 511 
+ (b) Section 29-407.04 is amended as follows: 512 
+  (1) Subsection (a)(3) is amended by adding a new sentence at the end to read as 513 
+follows:  “The statement shall consist of submission of a copy of the filing effectuating the 514 
+approval, certified by the secretary of state or authorized officer of the jurisdiction of formation 515 
+and dated within 90 days of the date that it is submitted.”.  516 
+  (2) Subsection (a)(3) is amended to read as follows: 517
+
+23 
+ 
+  “(3) If the domesticating corporation is a domestic nonprofit corporation, a 518 
+statement that the plan of domestication was approved in accordance with this subtitle or, if the 519 
+domesticating corporation is a foreign nonprofit corporation, a statement that the domestication 520 
+was approved in accordance with the law of its jurisdiction of incorporation. The statement shall 521 
+consist of submission of a copy of the filing effectuating the approval, certified by the secretary 522 
+of state or authorized officer of the jurisdiction of formation and dated within 90 days of the date 523 
+that it is submitted.”. 524 
+  (3) Subsection (c) is amended by striking the word “delivered” and inserting the 525 
+word “submitted” in its place.  526 
+ (c) Section 29-409.06 is amended as follows:  527 
+  (1) Subsection (a)(5) is amended by adding a new sentence at the end to read as 528 
+follows: “The statement shall consist of submission of a copy of the filing effectuating the 529 
+approval, certified by the secretary of state or authorized officer of the jurisdiction of formation 530 
+and dated within 90 days of the date that it is submitted.”. 531 
+  (2) Subsection (c) is amended by striking the word “delivered” and inserting the 532 
+word “submitted” in its place. 533 
+ Sec. 6. Chapter 5 of Title 29 of the District of Columbia Official Code is amended as 534 
+follows:  535 
+ (a) Section 29-502 is amended by repealing paragraphs (1) and (3).   536 
+ (b) Section 29-506 is amended as follows: 537 
+  (1) The lead-in language is amended to read as follows:  538
+
+24 
+ 
+ “One or more individuals may incorporate a professional corporation by submitting 539 
+articles of incorporation for filing to the Mayor. The articles of incorporation shall meet the 540 
+requirements of Chapter 3 of this title and shall also set forth:”. 541 
+  (2) Paragraph (1) is amended by striking the word “services” and inserting the 542 
+phrase “and occupational services” in its place.  543 
+  (3) Paragraph (2) is amended by striking the phrase “addresses, including street 544 
+address, if any,” and inserting “street address, mailing address, and email address” in its place. 545 
+  (4) Paragraph (3) is amended by striking the word “service” and inserting the 546 
+phrase “and occupational” in its place.  547 
+ Sec. 7. Chapter 6 of Title 29 of the District of Columbia Official Code is amended as 548 
+follows: 549 
+ (a) Section 29-601.05 is amended as follows: 550 
+  (1) Subsection (a) is amended by striking the phrase “delivered to the Mayor for 551 
+filing by a partnership” and inserting the phrase “submitted to the Mayor for filing by a limited 552 
+liability partnership” in its place. 553 
+  (2) Subsection (b) is amended by striking the word “delivers” and inserting the 554 
+word “submits” in its place. 555 
+  (3) Subsection (c) is amended by striking the word “delivered” and inserting the 556 
+word “submitted” in its place. 557 
+  (4) Subsection (d) is amended by striking the phrase “deliver a statement to the 558 
+Mayor for filing may amend or cancel the statement by delivering” and inserting the phrase 559 
+“submit a statement to the Mayor for filing may amend or cancel the statement by submitting” in 560 
+its place. 561
+
+25 
+ 
+  (5) Subsection (e) is amended by striking the word “delivers” and inserting the 562 
+word “submits” in its place.  563 
+ (b) Subchapter X is amended as follows: 564 
+  (1) The table of contents is amended by adding a new section designation to read 565 
+as follows: 566 
+ “29-610.07. Dissociation of a partner.”. 567 
+  (2) Section 29-610.01 is amended as follows: 568 
+   (A) Subsection (c) is amended as follows: 569 
+    (i) The lead-in language is amended by striking the word 570 
+“delivering” and inserting the word “submitting” in its place. 571 
+    (ii) Paragraph (2) is amended to read as follows: 572 
+  “(2) The street address and mailing address of the partnership’s principal office 573 
+and the email address of the partnership.”.  574 
+    (iii) Paragraph (3) is amended to read as follows:  575 
+  “(3) The registered agent information required by § 29-104.04;”. 576 
+   (B) Subsection (d) is amended to read as follows: 577 
+ “(d) A statement of qualification may include additional information, including the 578 
+telephone number of the partnership.”. 579 
+  (3) Section 29-610.04 is amended as follows: 580 
+   (A) Subsection (a)(2) is amended by striking the word “Deliver” and 581 
+inserting the word “Submit” in its place. 582 
+   (B) Subsection (b) is amended to read as follows: 583
+
+26 
+ 
+ “(b) If the Mayor determines that one or more grounds exist for administratively revoking 584 
+a statement of qualification, the Mayor shall submit notice to the entity’s registered agent on 585 
+record. The notice of administrative dissolution shall state the grounds for dissolution and its 586 
+effective date.”. 587 
+   (C) Subsection (c) is amended to read as follows: 588 
+ “(c) If a limited liability partnership, not later than 60 days after submission of the notice 589 
+is effected under subsection (b) of this section, does not cure or demonstrate to the satisfaction of 590 
+the Mayor the nonexistence of each ground, the Mayor shall administratively revoke the 591 
+statement of qualification and publish a notice of the revocation on an appropriate website. The 592 
+Mayor shall also submit a notice of revocation to the entity’s registered agent on record.”. 593 
+  (4) Section 29-610.05(a) is amended by striking the phrase “not later than 2 years 594 
+after the effective date of the revocation.” and inserting a period in its place. 595 
+  (5) A new section 29-610.07 is added to read as follows: 596 
+ “§ 29-610.07. Dissociation of a partner. 597 
+ “Upon a person’s dissociation as a partner of a limited liability partnership, an authorized 598 
+person shall sign and submit to the Mayor, for filing, a statement of dissociation pertaining to the 599 
+person, and, at the request of the limited liability partnership, the dissociating partner shall sign 600 
+an amendment to the certificate of limited liability partnership stating that the person has 601 
+dissociated from the partnership.”. 602 
+ Sec. 8. Chapter 7 of Title 29 of the District of Columbia Official Code is amended as 603 
+follows: 604 
+ (a) Section 29-702.01 is amended as follows: 605 
+  (1) Subsection (a) is amended as follows: 606
+
+27 
+ 
+   (A) The lead-in language is amended by striking the word “delivered” and 607 
+inserting the word “submitted” in its place. 608 
+   (B) Paragraph (3) is amended to read as follows: 609 
+  “(2) The name, street address, mailing address, and email address of each general 610 
+partner and the street address, mailing address, and email address of the limited partnership’s 611 
+principal office;”. 612 
+  (3) A new subsection (a-1) is added to read as follows: 613 
+ “(a-1) A certificate of limited partnership may include additional information, including 614 
+the telephone number of the limited partnership.”.  615 
+ (b) Section 29-708.03(b)(1) is amended by striking the phrase “amend its certificate of 616 
+limited partnership to state that the limited partnership is dissolved, preserve” and inserting the 617 
+word “preserve” in its place. 618 
+ (c) Section 29-708.03(c)(2)(C) is amended by striking the word “street” and inserting the 619 
+phrase “street address” in its place. 620 
+ (c) Section 29-708.10(b)(2) is amended to read as follows:  621 
+  “(1) If the limited partnership has submitted to the Mayor for filing a statement of 622 
+dissolution and if: 623 
+   “(A) The statement of dissolution is not effective, the filing by the 624 
+partnership of a statement of withdrawal under § 29-102.04 applicable to the amendment; or 625 
+   “(B) The statement of dissolution is effective, the submission by the 626 
+partnership to the Mayor for filing of a statement of correction stating that dissolution has been 627 
+rescinded under this section.”. 628
+
+28 
+ 
+ Sec. 9. Chapter 8 of Title 29 of the District of Columbia Official Code is amended as 629 
+follows: 630 
+ (a) The table of contents is amended by adding a new section designation to read as 631 
+follows: 632 
+ “§ 29-801.10. Managers and members of a professional limited liability company.”. 633 
+ (b) A new section 29-801.10 is added to read as follows: 634 
+ “§ 29-801.10. Managers and members of a professional limited liability company. 635 
+ “The managers and members of a professional limited liability company shall be duly 636 
+licensed to render the same professional or occupational service as the limited liability 637 
+company.”. 638 
+ (c) Section 29-802.01 is amended as follows: 639 
+  (1) Subsection (a) is amended by striking the word “delivering” and inserting the 640 
+word “submitting” in its place.  641 
+  (2) Subsection (a) is amended by adding a new sentence at the end to read as 642 
+follows: “If an organizer is an individual, the individual shall be 18 years of age or older.”. 643 
+  (3) Subsection (b) is amended as follows: 644 
+   (A) Paragraph (2) is amended to read as follows:  645 
+  “(2) The street address, mailing address, and email address of the initial principal 646 
+office of the limited liability company and the information required by § 29-104.04;”.  647 
+   (B) Paragraph (3) is amended by striking the period at the end and 648 
+inserting a semicolon in its place. 649 
+   (C) New paragraphs (4) and (5) are added to read as follows: 650 
+  “(4) The name and street address of each organizer; and 651
+
+29 
+ 
+  “(5) Whether at least one person has become a member of the limited liability 652 
+company.”. 653 
+  (4) A new subsection (b-1) is added to read as follows: 654 
+ “(b-1) A certificate of organization may include additional information, including the 655 
+telephone number of the limited liability company.”. 656 
+  (4) Subsection (c) is amended by striking the phrase “subsection” and inserting 657 
+the word “section” in its place.  658 
+  (5) Subsection (d) is amended by striking the phrase “and it becomes effective 659 
+and at least one person becomes a member.” and inserting a period in its place. 660 
+  (6) A new subsection (e) is added to read as follows: 661 
+ “(e) A person shall not be a member or manager of a professional limited liability 662 
+company or render a professional or occupational service on its behalf, unless such person is an 663 
+individual licensed in the District to render a professional or occupational service for which the 664 
+limited liability company is organized; provided, that if a limited liability company has only one 665 
+member, the secretary of the limited liability company need not be licensed in the District to 666 
+perform a professional or occupational service but shall not perform such service if not so 667 
+licensed.”. 668 
+ (c) Section 29-802.06 is amended as follows: 669 
+  (1) Subsection (c) is amended by striking the phrase “certificate or organization” 670 
+and inserting the phrase “certificate of organization” in its place.  671 
+  (2) Subsection (d)(2) is amended to read as follows: 672 
+  “(2) A street and mailing address of the principal office, if it is different from that 673 
+specified for the limited liability company.”. 674
+
+30 
+ 
+ (d) Section 29-807.06 is amended as follows: 675 
+  (1) Subsection (a) is amended by striking the word “dissolution” and inserting the 676 
+phrase “dissolution within 120 days of its effective date” in its place. 677 
+  (2) Subsection (b) is amended by striking the word “delivery” both times it 678 
+appears and inserting the word “submission” in its place.  679 
+ (e) Section 29-809.04 is amended as follows: 680 
+  (1) Subsection (b) is amended as follows: 681 
+   (A) Paragraph (6) is amended by striking the word “statute” and inserting 682 
+the phrase “statute, which shall consist of submission of a copy of the filing effectuating the 683 
+approval, certified by the secretary of state or authorized officer of the jurisdiction of formation, 684 
+and dated within 90 days of the date it is submitted;” in its place. 685 
+   (B) Paragraph (7) is amended by striking the phrase “street and mailing 686 
+addresses” and insert the phrase “street address and mailing address” in its place.  687 
+  (2) Subsection (c) is amended by striking the word “deliver” and inserting the 688 
+word “submit” in its place. 689 
+ (f) Section 29-809.08(a) is amended as follows: 690 
+  (1) The lead-in language is amended by striking the word “deliver” and inserting 691 
+the word “submit” in its place. 692 
+  (2) Paragraph (6) is amended by striking the word “jurisdiction” and inserting the 693 
+phrase “jurisdiction, which shall consist of submission of a copy of the filing effectuating the 694 
+approval, certified by the secretary of state or authorized officer of the jurisdiction of formation, 695 
+and dated within 90 days of the date it is submitted; and” in its place. 696
+
+31 
+ 
+  (3) Paragraph (7) is amended by striking the phrase “street and mailing addresses” 697 
+and inserting the phrase “street address and mailing address” in its place. 698 
+ Sec. 10. Chapter 9 of Title 29 of the District of Columbia Official Code is amended as 699 
+follows: 700 
+ (a) The table of contents is amended by adding a new section designation to read as 701 
+follows: 702 
+ “29-940. Limited term of existence.”. 703 
+ (b) Section 29-903 is amended by striking the phrase “5 or more natural persons or 2 or 704 
+more associations” and inserting the phrase “one or more persons” in its place. 705 
+ (c) Section 29-906 is amended as follows: 706 
+  (1) Subsection (a) is repealed. 707 
+  (2) Subsection (b) is amended as follows: 708 
+   (A) Paragraph (1) is amended by striking the phrase “purpose or purposes” 709 
+and inserting the word “purpose” in its place.  710 
+   (B) Paragraph (4) is amended by striking the phrase “location and 711 
+address” and inserting the phrase “street address mailing address, and email address” in its place. 712 
+   (C) Paragraph (6) is amended by striking the word “addresses” and 713 
+inserting the phrase “street addresses” in its place. 714 
+  (3) Subsection (c) is amended by striking the word “any” and inserting the phrase 715 
+“the telephone number of the association and any” in its place.  716 
+ (d) Section 29-936(a) is amended by striking the phrase “§ 29-105.03” and inserting the 717 
+phrase “§ 29-105.03 and comply with the other requirements in Chapter 1 of this Title” in its 718 
+place. 719
+
+32 
+ 
+ (e) A new section 29-940 is added to read as follows: 720 
+ “§ 29-940. Limited term of existence. 721 
+ “(a) A general cooperative association that set a limited term of existence in its articles of 722 
+incorporation shall, prior to reaching the end of the term: 723 
+  “(1) File an amendment to extend the term or change the term to perpetual as 724 
+provided in § 29-907; or  725 
+  “(2) File to dissolve the association as provided in § 29-934.”. 726 
+ “(b) Failure to comply with subsection (a) of this section may result in the dissolution of 727 
+the association in accordance with § 29-106.02.”. 728 
+ Sec. 11. Chapter 10 of Title 29 of the District of Columbia Official Code is amended as 729 
+follows: 730 
+ (a) The table of contents is amended by adding a new section designation to read as 731 
+follows: 732 
+ “29-1016. Limited term of existence.”. 733 
+ (b) Section 29-1003.01 is amended by adding a new sentence at the end to read as 734 
+follows: “If an organizer is an individual, the individual shall be 18 years of age or older. 735 
+ (c) Section 29-1003.02 is amended as follows:  736 
+  (1) Subsection (a) is amended as follows: 737 
+   (A) The lead-in language is amended by striking the word “deliver” and 738 
+inserting the word “submit” in its place. 739 
+   (B) Paragraph (2) is amended by striking the phrase “the purposes” and 740 
+inserting the phrase “the purpose” in its place.  741
+
+33 
+ 
+   (C) Paragraph (3) is amended by striking the phrase “street address and, if 742 
+different, mailing address” and inserting the phrase “street address, mailing address, and email 743 
+address” in its place.  744 
+  (2) Subsection (b) is amended by striking the word “any” and inserting the phrase 745 
+“the phone number of the association and any” in its place.  746 
+  (3) Subsection (c) is amended by striking the word “delivered” and inserting the 747 
+word “submitted” in its place. 748 
+  (4) Subsection (d) is amended by striking the word “delivers” and inserting the 749 
+word “submits” in its place.  750 
+ (d) A new section 29-1016 is added to read as follows: 751 
+ “§ 29-1016 Limited term of existence. 752 
+ “(a) A limited cooperative association that has set a limited term of existence in its 753 
+articles of organization pursuant to § 29-1003.02(a)(5) shall, prior to reaching the end of the 754 
+term: 755 
+  “(1) File an amendment to extend the term or change the term to perpetual as  756 
+provided in Subchapter IV of this Chapter; or  757 
+  “(2) File to dissolve the association as provided in Subchapter XII of this chapter. 758 
+ “(b) Failure to comply with subsection (a) of this section may result in the dissolution of 759 
+the association in accordance with § 29-106.02.”. 760 
+ Sec. 12. Chapter 12 of Title 29 of the District of Columbia Official Code is amended as 761 
+follows:  762 
+ (a) Section 29-1201.02(11) is repealed.  763 
+ (b) Section 29-1201.02 is amended by adding a new paragraph (7A) to read as follows:  764
+
+34 
+ 
+  “(7A) Organizer” means a person that acts under § 29-1202.01 to file a certificate 765 
+of trust to form a statutory trust. 766 
+ (b) Section 29-1202.01 is amended as follows: 767 
+  (1) Subsection (a) is amended to read as follows:  768 
+ “(a) To form a statutory trust, an organizer shall submit a certificate of trust to the Mayor 769 
+for filing. If an organizer is an individual, the individual shall be 18 years of age or older.”. 770 
+  (2) Subsection (b) is amended as follows: 771 
+   (A) Paragraph (2) is amended by striking the phrase “and mailing address” 772 
+and inserting the phrase “street address, mailing address, and email address” in its place. 773 
+   (B) Paragraph (3) is amended by striking the phrase “; and” and inserting a 774 
+semicolon in its place. 775 
+   (C) Paragraph (4) is amended by striking the period at the end and 776 
+inserting the phrase “; and” in its place.  777 
+   (D) A new paragraph (5) is added to read as follows: 778 
+  “(5) The name and street address of each organizer.”. 779 
+  (3) Subsection (c) is amended by striking the word “any” and inserting the phrase 780 
+“the telephone number of the trust and any” in its place. 781 
+ (c) Section 29-1204.01 is amended by adding a new subsection (e) to read as follows: 782 
+ “(e) The filing of a series of a statutory trust shall be in accordance with the filing of a 783 
+series of a limited liability company pursuant to § 29-802.06.”. 784 
+ Sec. 13. Section 29-1302.01 of the District of Columbia Official Code is amended as 785 
+follows: 786
+
+35 
+ 
+ (a) Subsection (b) is amended by striking the word “may” and inserting the word “shall” 787 
+in its place. 788 
+ (b) Subsection (d) is amended by striking the phrase “add, amend, or delete” and 789 
+inserting the phrase “add or amend” in its place. 790 
+ Sec. 14. Subchapter I-C of Chapter 28 of Title 47 of the District of Columbia Official 791 
+Code is repealed. 792 
+ Sec. 15. Fiscal impact statement. 793 
+ The Council adopts the fiscal impact statement in the committee report as the fiscal 794 
+impact statement required by section 4a of the General Legislative Procedures Act of 1975, 795 
+approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a). 796 
+ Sec. 16. Effective date. 797 
+ This act shall take effect following approval by the Mayor (or in the event of veto by the 798 
+Mayor, action by the Council to override the veto), a 30-day period of Congressional review as 799 
+provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 800 
+24, 1973 (87 Stat. 813; D.C. Official Code §1-206.02(c)(1)), and publication in the District of 801 
+Columbia Register. 802
+
+Government of the District of Columbia 
+Office of the Chief Financial Officer 
+ 
+Glen Lee 
+Chief Financial Officer 
+ 
+ 
+ 
+ 
+ 
+1350 Pennsylvania Avenue, NW, Suite 203, Washington, DC 20004 (202)727-2476 
+www.cfo.dc.gov 
+MEMORANDUM 
+ 
+TO:    The Honorable Phil Mendelson 
+   Chairman, Council of the District of Columbia 
+ 
+FROM:    Glen Lee 
+   Chief Financial Officer 
+ 
+DATE:    March 5, 2026 
+  
+SUBJECT:  Fiscal Impact Statement – Business Organizations Amendment Act of 
+2026 
+ 
+REFERENCE:  Draft bill as provided to the Office of Revenue Analysis on February 26, 
+2026 
+ 
+ 
+Conclusion 
+ 
+Funds are sufficient in the fiscal year 2026 through fiscal year 2029 budget and financial plan to 
+implement the bill. The Department of Licensing and Consumer Protection (DLCP) can implement 
+the bill within current resources. 
+ 
+Background 
+ 
+Title 29 of the District of Columbia Code governs entities1, both domestic and foreign, that are formed 
+or conduct business in the District, providing the legal framework for operation and dissolution.  
+Entities must register with the DLCP’s Corporation Division, a process that is separate from, and in 
+advance of, an entity’s application for a business license, permit, tax registration and the like, within 
+the District. 
+ 
+The bill requires electronic filing, updates address rules, clarifies who can form certain business 
+entities, revises procedures for registered agents and dissolutions, updates rules for partners leaving 
+ 
+1 Defined as business corporations; nonprofit corporations; general partnerships; limited partnerships; 
+limited liability companies; general cooperative associations; limited cooperative associations; 
+unincorporated nonprofit associations; statutory, business, or common-law business trusts; or any other 
+person that has a legal existence separate from any interest holder of that person or that has the power to 
+acquire an interest in real property in its own name.
+
+The Honorable Phil Mendelson 
+FIS: “Business Organizations Amendment Act of 2026”, Draft Bill as provided to the Office of Revenue 
+Analysis on February 26, 2026 
+Page 2 of 3 
+ 
+or merging limited liability partnerships, addresses limited terms of existence for cooperative 
+associations, and clarifies how to file a series within a statutory trust. 
+ 
+The bill makes technical changes to the code, which include: 
+• Modifying, updating or transferring existing definitions and adding new terms to the law.2   
+• Updating and adding references to electronic mail (e-mail) addresses and phone numbers as 
+methods for communication, notification, and required contact information. 
+• Repealing the 45-day period of Council review3 of the establishment or revision of fees4 by 
+the Mayor for entity filings, and for copying and certifying a copy of any entity filing. 
+• Standardizing the use of “submit” instead of “deliver” within the chapter and amended code. 
+• Requiring specific declarations submitted—when completing articles of domestication, 
+merger, or membership exchange—include a certified5 copy of the filing effectuating the 
+approval dated within 90 days of the date of submittal. 
+• Repealing Subchapter I-C of Title 47, governing Trade Names, and transferring that language 
+to Title 29, under a newly established Subchapter VIII.  
+• Amending code6 to allow one or more persons to incorporate7 in the District, instead of the 
+current five or more natural persons or two or more associations.  
+• Requiring an incorporator, organizer, or registered agent to be 18-years of age or older.  
+• Requiring general and limited cooperative associations that set a limited term of existence in 
+their respective articles of incorporation and organization, to address the terms of existence 
+prior to reaching the end of the term. 
+• Requiring the filing of a series of a statutory trust be in accordance with the filing of a series 
+of a limited liability company (LLC)8.  
+ 
+Current law9 defines permissible means of delivery to include delivery by hand, mail, commercial 
+delivery service, and electronic transmission, effective only upon receipt by the Mayor.  The bill 
+makes electronic delivery the required method, unless prior approval is provided for another means, 
+and clarifies that documents are considered received when submitted to the Mayor. 
+ 
+Current law10 requires business entities11 to submit biennial reports to the Mayor.  The bill expands 
+the disclosure guidelines to include the purpose of the entity; list beneficial owners and their contact 
+information, including applicable email addresses; and in the case of a foreign entity, whether the 
+entity is in good standing in its state of formation, the unique identifier assigned to the entity by its 
+ 
+2 The bill inserts definitions for “beneficial owner”; “incorporator”; license; “organizer”; “professional 
+service”; “series limited liability company”; and “series trust.”   
+3 D.C. Official Code § 29–102.12(d). 
+4 D.C. Official Code § 29–102.12(a). 
+5 By the Secretary of State or authorized officer of the jurisdiction of formation. 
+6 D.C. Official Code § 29–903. 
+7 An association may be incorporated to engage in any one or more lawful mode or modes of acquiring, 
+producing, building, operating, manufacturing, furnishing, exchanging, or distributing any type or types of 
+property, commodities, goods, or services for the primary and mutual benefit of the patrons of the 
+association, or their patrons, if any, as ultimate consumers. D.C. Official Code § 29–904. 
+8 The operating agreement for an LLC may establish one or more designated series of members, managers, or 
+interests of LLC, in which those individuals have separate rights, powers, or duties with respect to specified 
+property or obligations of the LLC. D.C. Official Code § 29–802.06. 
+9 D.C. Official Code § 29–101.04.  
+10 D.C. Official Code § 29–102.11.  
+11 Defined as a domestic filing entity; a domestic limited liability partnership; and a registered foreign entity.
+
+The Honorable Phil Mendelson 
+FIS: “Business Organizations Amendment Act of 2026”, Draft Bill as provided to the Office of Revenue 
+Analysis on February 26, 2026 
+Page 3 of 3 
+ 
+jurisdiction of formation, and the entity’s date of formation in that respective jurisdiction.  The bill 
+authorizes the Mayor to remove registered agents whose information is not current; allows service 
+of process via e-mail for commercial registered agents; and adds grounds to revoke a commercial 
+registered agent’s listing if the entity is dissolved or not in good standing. 
+ 
+Current law12 allows the Mayor to commence administrative dissolution of a domestic filing entity 
+through service if the entity fails to satisfy requirements13 outlined in the law. The bill amends the 
+code to clarify that the notice state the grounds for dissolution and its effective date; specify that the 
+60-day cure period starts after the submission of notice, instead of the service of the notice; and 
+require the Mayor to notify the entity’s registered agent of the administrative dissolution.  
+ 
+Current law14 allows the Mayor to commence administrative revocation of a statement of 
+qualification of a limited liability partnership if the entity fails to satisfy requirements13 outlined in 
+law.  The bill amends the code to clarify that the Mayor must submit notice, instead of serve notice; 
+and that if the grounds stated in the notice are not cured within the 60 day period, the Mayor shall 
+administratively revoke the statement of qualification, publish the notice online, and notify the 
+entity’s registered agent.  Presently, the Mayor is required to file the statement and serve the 
+partnership.   
+ 
+Current law15 provides that an LLC is formed and effective when the Mayor files the certification of 
+organization and at least one person becomes a member.  The bill specifies for a professional LLC 
+that only individuals licensed in the District can be members, managers, or perform the professional 
+work of the corporate entity; however, if the LLC has just one member, the secretary of the LLC 
+doesn’t require licensure, but any professional work cannot be performed without it. 
+ 
+Financial Plan Impact 
+ 
+Funds are sufficient in the fiscal year 2026 through fiscal year 2029 budget and financial plan to 
+implement the bill. The DLCP can implement the bill within current resources.  Processes outlined in 
+the bill were built into the new CorpOnline System, which was launched by the DLCP in December 
+2025. 
+ 
+12 D.C. Official Code § 29–106.01.  
+13 To pay any fee or penalty over five months after it is due; deliver a biennial report to the Mayor over five 
+months after it is due; or have a registered agent in the District for 60 days. 
+14 D.C. Official Code § 29–610.04.  
+15 D.C. Official Code § 29–802.01(d).
+
+1350 Pennsylvania Avenue, N.W., Suite 409, Washington, D.C. 20004  
+Phone (202) 262-6402    Email: adele.el-khouri@dc.gov 
+ 
+ 
+GOVERNMENT OF THE DISTRICT OF COLUMBIA 
+OFFICE OF THE ATTORNEY GENERAL 
+ 
+ 
+BRIAN L. SCHWALB      PRIVILEGED AND CONFIDENTIAL  
+ATTORNEY GENERAL        ATTORNEY-CLIENT COMMUNICATION 
+ 
+ 
+ 
+LEGAL COUNSEL DIVISION 
+ 
+  
+MEMORANDUM 
+ 
+TO:   Tomás Talamante 
+  Director 
+  Office of Policy and Legislative Affairs 
+  
+FROM:  Adele El-Khouri 
+Deputy Attorney General  
+Legal Counsel Division  
+  
+DATE:  January 12, 2026 
+  
+SUBJECT:   Legal Sufficiency Review of Draft Legislation, the “Business Organizations 
+Amendment Act of 2026” 
+ (AE-25-59) 
+_____________________________________________________________________________________ 
+ 
+This is to Certify that the Office of the Attorney General has reviewed the 
+above-referenced legislation and found it to be legally sufficient. If you have any questions in this 
+regard, please do not hesitate to call me at (202) 262-6402. 
+ 
+ 
+ 
+_________________________________ 
+Adele El-Khouri

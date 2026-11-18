@@ -1,0 +1,180 @@
+COUNCIL OF THE DISTRICT OF COLUMBIA 
+OFFICE OF COUNCILMEMBER BROOKE PINTO 
+THE JOHN A. WILSON BUILDING 
+1350 PENNSYLVANIA AVENUE, N.W., SUITE 106 
+WASHINGTON, D.C. 20004 
+ 
+   
+ 
+November 17, 2025 
+ 
+Nyasha Howard, Secretary 
+Council of the District of Columbia 
+1350 Pennsylvania Avenue, N.W. 
+Washington, DC 20004 
+ 
+Dear Secretary Howard, 
+ 
+Today, along with Councilmember Christina Henderson, I am introducing the Youth Links App Act of 
+2025. Please find enclosed a signed copy of the legislation. 
+ 
+Employment access remains a critical challenge for youth in DC. Throughout numerous conversations over 
+the last several years, I have heard from young people who are trying to stay out of trouble and build a 
+positive future for themselves that one of the biggest challenges they face is needing to find ways to earn 
+money. Despite numerous programs available for in-school and out-of-school youth, navigating the web of 
+opportunities as a young person can be onerous. Many young people express that they struggle to find 
+productive work opportunities that are flexible with their school and family responsibilities. Meanwhile, 
+many employers indicate that they are ready and willing to provide opportunities for young people, but do 
+not know how to find and connect with those young people. 
+ 
+This bill requires the Deputy Mayor for Education (“DME”) to create the DC Youth Links app and website, 
+a coordinated communication platform to bridge the opportunity and equity gap by streamlining 
+connections to low-barrier, tailored job opportunities for young people. The bill requires DME to vet 
+employers before they post opportunities on the app, prioritize recruiting employers from across all eight 
+wards, work with young people to ensure they are ready for the workforce, and collect data to evaluate the 
+program. 
+ 
+Should you have any questions about this legislation, please contact my Committee and Legislative 
+Director, Linn Groft, at lgroft@dccouncil.gov. 
+ 
+Thank you, 
+ 
+ 
+ 
+Brooke Pinto 
+Councilmember, Ward 2 
+Chairwoman, Committee on the Judiciary and Public Safety 
+Council of the District of Columbia
+
+1 
+ 
+_____________________________       _____________________________ 1 
+Councilmember Christina Henderson       Councilmember Brooke Pinto 2 
+ 3 
+ 4 
+ 5 
+A BILL 6 
+ 7 
+_________________________ 8 
+ 9 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA 10 
+ 11 
+_________________________ 12 
+ 13 
+ 14 
+To direct the Deputy Mayor for Education to contract with a third-party contractor to develop a 15 
+smartphone application that directly connects youth and young adults in the District to 16 
+flexible, paid work opportunities in the private sector. 17 
+ 18 
+BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may 19 
+be cited as the “DC Youth Links App Act of 2025”. 20 
+ Sec. 2. Definitions. 21 
+ For the purposes of this title, the term:  22 
+  (1) “Economic hardship” means circumstances that significantly hinder an 23 
+individual's ability to access or sustain employment opportunities and shall include the following 24 
+conditions: homelessness or housing instability; lack of a high school diploma or general 25 
+education development test or not being on track to complete a high school diploma or general 26 
+education development test; pregnancy or parenting youth; current or prior involvement in the 27 
+juvenile or criminal legal systems; living with a disability; or being within or aging out of the 28 
+foster care system.  29 
+  (2) “Smartphone” means an electronic device capable of Internet access, data 30 
+storage, and communication features through text, email, and similar digital functionalities. 31
+
+2 
+ 
+  (3) “Smartphone application” means a software program developed to operate on 32 
+a smartphone with specific functionalities or services, including data processing, communication, 33 
+Internet access, and access to online resources. 34 
+   (4) “Youth” means an individual who is at least 14 years of age and under 24 35 
+years of age.  36 
+(5) “Youth participant” means any youth who has provided informed consent and 37 
+has registered and created an account on the smartphone application. 38 
+ Sec. 3. Establishment of a smartphone application and website for youth employment. 39 
+ (a) The Deputy Mayor for Education (“DME”) shall hire a contractor to establish a 40 
+centralized platform to directly connect youth to paid employment opportunities called DC 41 
+Youth Links, which shall be administered by the DME. DME shall oversee the development and 42 
+operation of DC Youth Links and streamline employment pathways and reduce barriers to 43 
+workforce entry for District youth. 44 
+ (b) DME shall have the authority to issue grants or enter into contracts or partnership 45 
+agreements for the development of DC Youth Links. 46 
+ (c) DC Youth Links shall be accessible through a smartphone application and through a 47 
+publicly accessible website. The smartphone application and website shall: 48 
+  (1) Maintain a centralized platform of paid employment opportunities for District 49 
+youth; 50 
+  (2) Provide users the ability to filter employment opportunities by: 51 
+(A) Skills required; 52 
+(B) Hourly wage;  53 
+(C) Location; and  54
+
+3 
+ 
+(D) Hours available.  55 
+(3) Provide users the ability to apply for employment opportunities through the 56 
+app and website; 57 
+(4) Feature a feedback tool for youth and employers to rate their experience; 58 
+(5) Collect and report data to DME pursuant to section 5 of this Act; and 59 
+  (6) Comply with federal and District data privacy standards. 60 
+ Sec. 4. Requirements and eligibility. 61 
+ (a) DME shall: 62 
+  (1) Require employers to complete training on applicable federal and District 63 
+labor laws, including the Fair Labor Standards Act, the Minimum Wage Act Revision Act of 64 
+1992, effective March 25, 1993 (D.C. Law 9-248; D.C. Official Code § 32-1003 et al), the Child 65 
+Labor Amendments Act of 1976 (D.C. Law 1-68; D.C. Official Code § 32-201 et al), workplace 66 
+safety standards outlined in the Occupational Safety and Health Act, and relevant reporting 67 
+requirements, prior to accessing DC Youth Links; 68 
+  (2) Develop terms and conditions of use for employers, employer onboarding, and 69 
+job postings;  70 
+  (3) Create an agreement for all participating employers to adhere to the terms and 71 
+conditions, including paragraph (1) of this subsection;  72 
+  (4) Implement a vetting process to evaluate and approve new employers; 73 
+(5) Recruit employers located in all eight wards, offering opportunities that are 74 
+suitable for youth employment and prioritizing opportunities that are public transit accessible; 75 
+and 76 
+(6) Develop and implement a public engagement campaign to promote youth 77
+
+4 
+ 
+participation, including strategies to engage youth experiencing economic hardship. 78 
+ (b) Employers shall: 79 
+  (1) Be licensed to do business in the District; 80 
+  (2) Respond to workplace abuse reports within 5 business days, unless more 81 
+immediate attention is warranted;  82 
+  (3) Provide information on youth labor laws and training on workplace 83 
+expectations to youth participants; and 84 
+  (4) Comply with any other requirements deemed appropriate by DME. 85 
+(c) Eligible youth participants shall be District residents.  86 
+Sec. 5. Reporting requirements. 87 
+ (a) On October 1 of the year after the establishment of DC Youth Links, and annually 88 
+thereafter, the DME shall publish on its website the following information regarding DC Youth 89 
+Links for the previous year:  90 
+  (1) Total number of youth accounts created on DC Youth Links, disaggregated by 91 
+age, sex, race/ethnicity, ward of residence, and individuals with disabilities; 92 
+  (2) Total number of employers participating in DC Youth Links, categorized by 93 
+industry, location, average length of employment, average wage, and number of youth employed; 94 
+and  95 
+  (3) The total number of youth participants placed in employment opportunities, 96 
+disaggregated by: 97 
+    (A) Job type categorized by full-time, part-time, or internship; 98 
+    (B) Employer industry; 99 
+    (C) Average length of employment;  100
+
+5 
+ 
+    (D) Average hourly wage or total earnings of youth participants; and 101 
+(E) Job site location; 102 
+  (5) The average time between a youth participant creating an account and 103 
+securing a job placement;  104 
+  (6) Number of reports of workplace abuse, safety violations, skill mismatches, 105 
+and employer resolution; and 106 
+  (7) Feedback from employers and youth participants on the quality of job matches 107 
+and youth readiness. 108 
+ Sec. 6. Fiscal impact statement. 109 
+ The Council adopts the fiscal impact statement in the committee report as the fiscal 110 
+impact statement required by section 4a of the General Legislative Procedures Act of 1975, 111 
+approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a). 112 
+ Sec. 7. Effective date. 113 
+ This act shall take effect after approval by the Mayor (or in the event of veto by the 114 
+Mayor, action by the Council to override the veto), a 30-day period of congressional review as 115 
+provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 116 
+24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of 117 
+Columbia Register. 118

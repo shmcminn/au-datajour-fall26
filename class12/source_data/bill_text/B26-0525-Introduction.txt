@@ -1,0 +1,274 @@
+COUNCIL OF THE DISTRICT OF COLUMBIA 
+The John A. Wilson Building 
+1350 Pennsylvania Avenue, NW 
+Washington, D.C. 20004 
+Statement of Introduction 
+Personal Health Data Security Amendment Act of 2025 
+December 1, 2025 
+Today, I am proud to introduce the Personal Health Data Security Amendment Act of 
+2025, alongside Councilmembers Brianne K. Nadeau, Matthew Frumin, Anita Bonds, Janeese 
+Lewis George, Charles Allen, and Robert White. This legislation would establish privacy 
+protections for the personal health data of District residents. Every day, thousands of DC 
+residents use ap ps, search engin es, and devices to  track their health, sch edule medical 
+appointments, and access critical care.  At the same time, private companies can collect and 
+share that same data with hundreds of third parties for purposes beyond the app’s core 
+functionality or disclosed third-party sharing, often without an individual’s consent or 
+knowledge. 
+Even when health-related apps have privacy policies, they often do not fully disclose how personal 
+health data is shared. In a study of 36 popular smartphone apps for depression and smoking 
+cessation, only 43% of apps that sent data to Google and 50% of apps that sent data to Facebook 
+fully disclosed these practices.1
+As more companies continue to collect personal health data for corporate purposes, states are 
+seeking to regulate  the collection and use of personal health information by private entities . 
+Currently, 20 states have enacted comprehensive legislation strengthening protections for personal 
+data, and twenty additional state legislatures have introduced data privacy bills.2 
+The Personal Health Data Security Amendment Act establishes clear rules for transparency, 
+consent, and accountability. This bill would: 
+• Prohibit geofencing around facilities that provide health services, preventing the tracking
+or targeting of individuals based on their location.
+• Require controllers (the entities that determine how and why personal health data is used)
+to publish clear, accessible privacy policies describing what data is collected, how it is
+used, and with whom it is shared.
+• Mandate consent before any collection, processing, or disclosure of personal health data,
+and allows individuals to withdraw consent at any time.
+• Create a right to deletion, requiring entities to establish a deletion process, honor verified
+deletion requests within 183 days, and ensure that their partners do the same.
+I look forward to working with my colleagues to advance this bill and provide residents with the 
+ability to control their personal health data and privacy.
+
+1 
+   1 
+____________________________                       ____________________________ 2 
+Councilmember Janeese Lewis George            Councilmember Christina Henderson   3 
+ 4 
+ 5 
+_____________________________    _____________________________ 6 
+ Councilmember Brianne K. Nadeau     Councilmember Anita Bonds 7 
+    8 
+ 9 
+ 10 
+ 11 
+_____________________________    _____________________________ 12 
+Councilmember Matthew Frumin                 Councilmember Charles Allen 13 
+ 14 
+ 15 
+____________________________                         16 
+Councilmember Robert White 17 
+A BILL 18 
+ 19 
+_______________ 20 
+ 21 
+ 22 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA 23 
+ 24 
+_______________________ 25 
+ 26 
+To amend Chapter 38 of Title 28 of the District of Columbia Official Code to prohibit the use of 27 
+geofencing technology around entities providing in-person health care services, to 28 
+prohibit the processing of personal health data by controllers without first gaining consent 29 
+from a data subject, to require controllers to maintain a publicly available personal health 30 
+data privacy policy, to ban the processing of personal health data in a manner inconsistent 31 
+with a controller’s published personal health data privacy policy, to require controllers to 32 
+establish and maintain a process for the deletion of personal health data, to require 33 
+controllers to delete personal health data upon request from a data subject and to notify 34 
+and direct processors, affiliates, and third parties to delete such data, to require processors 35 
+to notify sub-processors of a deletion request and confirm deletion in writing, and to 36 
+grant data subjects the right to confirm whether a controller is processing their personal 37 
+health data, to request deletion of their personal health data, and to withdraw consent 38 
+from a controller.   39 
+ 40 
+BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 41 
+act may be cited as the “Personal Health Data Security Amendment Act of 2025”.   42
+
+2 
+ Sec. 2. Chapter 39 of Title 28 of the District of Columbia Official Code is amended as 43 
+follows: 44 
+(a) The table of contents is amended by adding a new subchapter designation to read as 45 
+follows:  46 
+“Subchapter V. Personal Health Data Security. 47 
+“28-3881. Definitions. 48 
+“28-3882. Personal health data security protections.”. 49 
+(b) A new subchapter V is added to read as follows: 50 
+“Subchapter V. Personal Health Data Security. 51 
+“§ 28-3881. Definitions. 52 
+ “For purposes of this subchapter, the term: 53 
+“(1) “Affiliate” means an entity that controls, is controlled by, or is under 54 
+common control with another entity. 55 
+“(2) “Control” means ownership or the power to exercise a controlling influence 56 
+over the management or policies of an entity.  57 
+“(3) “Controller” means a person, organization, entity, or affiliate that determines 58 
+the purposes and means of processing personal health data, which includes how and why 59 
+personal health data is collected, shared, disclosed, used, and stored.  60 
+“(4) “Data subject” means an individual who is identified or identifiable, directly 61 
+or indirectly, through their personal health data, including byname, identification number, online 62 
+identifier, location data, or other factors specific to the individual’s physical or mental health, 63 
+reproductive or gender-affirming care status, or biometric information. 64
+
+3 
+“(5) “Deidentified data” means information that cannot reasonably be used to 65 
+infer information about, or otherwise be linked to a particular individual, household, or device.  66 
+“(6) “Geofence” means technology that uses global positioning coordinates, cell 67 
+tower connectivity, cellular data, radio frequency identification, Wi-fi data, or any other form of 68 
+spatial or location detection to establish a virtual boundary or to locate an individual within a 69 
+virtual boundary 2,000 feet or less from the perimeter of a specific physical location. 70 
+“(7) “Personal health data” means any information that is reasonably linkable to 71 
+an individual in connection with the physical or mental health of that individual, including:  72 
+“(A) Medical records, histories, or diagnoses; 73 
+“(B) Genetic information, biometric data, or other physiological 74 
+indicators; 75 
+“(C) Prescription and medication information; 76 
+“(D) Laboratory test results; 77 
+“(E) Health insurance, billing, or payment records related to health care or 78 
+services; and 79 
+“(F) Any information collected by a health care provider, health plan, or 80 
+legal entity regarding the individual’s health status, care, or related payments. 81 
+“(8) “Process” means an operation or set of operations performed on personal 82 
+health data, including the collection, use, access, sharing, sale, monetization, analysis, retention, 83 
+creation, generation, derivation, recording, organization, structuring, storage, disclosure, 84 
+transmission, disposal, licensing, destruction, deletion, or modification of personal health data. 85
+
+4 
+“(9) “Processor” means any person, organization, entity, or affiliate that processes 86 
+personal health data on behalf of a controller but does not independently determine the purposes 87 
+or means of processing. 88 
+“(10) “Sell” means to transfer personal health data to a third party for monetary 89 
+value or other forms of consideration. The term “sell” does not include the transferring of 90 
+personal health data to a third party as part of a merger, acquisition, bankruptcy, or other 91 
+transaction in which the third party assumes control of all or part of the controller’s assets. 92 
+“(11) “Sub-processor” means a person or entity engaged by a data processor to 93 
+process personal data on behalf of a data controller. 94 
+“(12) “Third party” means a person or entity, other than the individual who is the 95 
+subject of the personal health data, a controller, or a processor, that receives, obtains, or 96 
+otherwise accesses personal health data for the third party’s own independent purposes.”.  97 
+“§ 28-3882. Personal health data protection procedures. 98 
+“(a) No person or entity may implement a geofence around a location that 99 
+provides in-person health care services where the geofence is used to: 100 
+“(1) Identify or track individuals seeking health care services; 101 
+“(2) Collect personal health data; or 102 
+“(3) Send notifications, messages, or advertisements to individuals related 103 
+to their personal health data or health care services. 104 
+“(b) A controller that enters into an agreement with a processor to process personal health 105 
+data on behalf of the controller shall: 106 
+“(1) Maintain a health data privacy policy thar clear and conspicuously discloses:  107 
+ “(A) The categories of personal health data collected; 108
+
+5 
+“(B) The purposes for which the personal health data is collected, 109 
+including how the data will be used;  110 
+“(C) The categories of sources from which the personal health data is 111 
+collected;  112 
+“(D) The categories of personal health data that are shared; 113 
+“(E) A list of the categories of third parties and the specific affiliates with 114 
+whom the controller shares the personal health data, whether actively or passively, and the 115 
+purposes for such sharing;  116 
+“(F) The length of time the controller intends to retain each category of 117 
+personal health data, or if that is not possible, the criteria used to determine that period; and 118 
+“(G) How an individual can exercise the rights provided in subsection (d) 119 
+of this section; and  120 
+“(2) Limit access to personal health data to individuals or entities who need it to: 121 
+“(A) carry out the purposes for which the data subject gave consent; or 122 
+“(B) provide a product or service requested by the data subject. 123 
+“(c) A controller may not: 124 
+    “(1) Sell or offer to sell personal health data without the data subject’s affirmative 125 
+consent; 126 
+“(2) Collect or disclose personal health data for a purpose not reasonably 127 
+necessary to provide a product or service requested by the data subject without obtaining 128 
+consent; 129 
+“(3) Retaliate against or deny services to a data subject for exercising rights 130 
+provided under this section; 131
+
+6 
+“(4) Fail to delete personal health data upon verified request from the data 132 
+subject;  133 
+                        “(5) Contract with a processor to process personal health data in a manner 134 
+inconsistent with the controller’s privacy policy; or 135 
+“(6) Disclose personal health data to a third party unless the disclosure is 136 
+consistent with the controller’s published policy and the data subject’s consent. 137 
+“(d) Data subjects may exercise the right to:  138 
+“(1) Confirm whether a controller is processing personal health data in relation to 139 
+the data subject;  140 
+“(2) Withdraw consent that was once given to a controller to process personal 141 
+health data at any time for whatever reason; and 142 
+“(3) Request to delete personal health data that is associated with the data subject 143 
+within the database of the controller and any other legal entity whom the controller disclosed the 144 
+personal health data to, except to the extent necessary to comply with the controller’s legal 145 
+obligations. 146 
+“(e) Each controller shall establish, maintain, and make publicly available a secure and 147 
+accessible process by which a data subject may request the deletion of their personal health data. 148 
+The deletion process shall: 149 
+“(1) Allow a data subject to submit a request electronically and, where applicable, 150 
+through the interface the data subject regularly uses to access the controller’s product or service; 151 
+“(2) Include commercially reasonable methods for authenticating the identity of 152 
+the requesting data subject; 153
+
+7 
+“(3) Provide a mechanism for a data subject to track the status of their deletion 154 
+request; and 155 
+“(4) Establish internal procedures for promptly transmitting verified deletion 156 
+requests to all processors and third parties with whom the controller has shared the data.  157 
+“(f) Upon receiving a valid request for data deletion from a data subject, the controller 158 
+shall:  159 
+“(1) Delete the personal health data of the data subject from all systems within its 160 
+possession or control, including active databases, archived storage, and backup systems within 161 
+183 days, unless retention is required by District or federal law; and 162 
+“(2) Notify all processors, affiliates, and third parties to whom the controller has 163 
+disclosed the personal health data of the data subject’s deletion request and direct each to delete 164 
+such data in accordance with this subchapter within the preceding 24 months, unless retention is 165 
+required by District or federal law; or 166 
+“(3) Where deletion within 183 days is not feasible, the controller shall, within 167 
+that period, submit a written explanation to the Office of the Attorney General identifying the 168 
+reason for the delay, the data retained, and any other relevant information.  169 
+“(g)(1) Each processor who is notified by a controller of a deletion request pursuant to 170 
+subsection (f) of this section shall, in turn, notify all sub-processors engaged in processing the 171 
+data of the deletion request and ensure deletion is completed and confirmed in writing to the 172 
+controller. 173 
+ “(2) Processors and third parties shall complete deletion within 120 days of 174 
+receiving the controller’s direction and shall confirm deletion in writing to the controller. 175
+
+8 
+“(h)(1) A controller shall respond to a verified deletion request within 183 days of receipt 176 
+of the request. 177 
+“(2) The controller may extend the response period once for an additional 60 days 178 
+when reasonably necessary, taking into account the complexity and number of requests. Any 179 
+such extension shall be communicated to the data subject within the initial 183-day period, 180 
+including the reasons for the delay. 181 
+“(3) A controller shall provide information in response to a deletion request at 182 
+least twice during any 12-month period.  183 
+“(h)(1) The controller shall take reasonable steps to authenticate the request for data 184 
+deletion promptly and shall not use authentication procedures to delay compliance with this 185 
+section.  186 
+“(2) If a controller is unable to authenticate a data subject’s request for data 187 
+deletion using commercially reasonable efforts, the controller shall not required to comply with 188 
+the request and may request that the data subject provide additional information reasonably 189 
+necessary to authenticate the individual and the request. 190 
+“(3) In the event that a controller determines that a data subject’s requests for 191 
+deletion are excessive or repetitive, the controller may: 192 
+“(A) Charge a reasonable fee to cover administrative costs; or 193 
+“(B) Decline to act on the request; provided, that the controller bears the 194 
+burden of demonstrating the manifestly unfounded, excessive, or repetitive nature of the request.  195 
+“(4) Controllers shall maintain written documentation of all deletion requests, actions 196 
+taken, and confirmations received for at least two years for inspection by the Office of the 197 
+Attorney General. 198
+
+9 
+“(i)(1) The Office of the Attorney General shall have exclusive authority to enforce the 199 
+provisions of this subchapter. 200 
+“(2) The Attorney General may investigate alleged violations of this act, issue 201 
+subpoenas, compel the production of documents or testimony, and bring a civil action in the 202 
+Superior Court of the District of Columbia to: 203 
+   “(A) Enjoin further violations of this subchapter; 204 
+“(B) Obtain restitution or other appropriate relief for individuals whose 205 
+personal health data was processed in violation of this subchapter; and 206 
+   “(C) Seek civil penalties of not more than $10,000 for each violation, or 207 
+such other amount as the court deems just and reasonable. 208 
+“(m) The Office of the Attorney General, pursuant to § 2-501 et seq., shall issue rules to 209 
+implement the provisions of this subchapter. 210 
+Sec. 3. Fiscal impact statement. 211 
+The Council adopts the fiscal impact statement in the committee report as the fiscal 212 
+impact statement required by section 4a of the General Legislative Procedures Act of 1975, 213 
+approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a). 214 
+Sec. 4. Effective date. 215 
+This act shall take effect following approval by the Mayor (or in the event of veto by the 216 
+Mayor, action by the Council to override the veto) and a 30-day period of congressional review 217 
+as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 218 
+24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)). 219

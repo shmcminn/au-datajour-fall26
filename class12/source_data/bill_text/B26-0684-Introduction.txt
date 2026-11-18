@@ -1,0 +1,686 @@
+May 1, 2026 
+ 
+Nyasha Howard 
+Secretary to the Council 
+Council of the District of Columbia 
+1350 Pennsylvania Avenue, NW 
+Washington, D.C. 20004 
+ 
+Secretary Howard: 
+ 
+Today, along with Councilmembers Pinto and Frumin, I am introducing the “Autonomous Vehicle 
+Deployment Authorization Amendment Act of 2026.” Please find enclosed a signed copy of the 
+legislation. 
+ 
+The growing proliferation of autonomous vehicles (“AVs”) presents an opportunity to improve traffic 
+safety and consumer choice in the District. Autonomous vehicle proponents tout AVs’ traffic safety 
+record, claiming that AVs are already safer than the average human driver and are continuously 
+improving. AVs can also provide more equitable access to rideshare services, as they can better 
+accommodate people with disabilities.  
+ 
+Despite the numerous benefits associated with autonomous vehicles, there are legitimate concerns 
+about their use. The deployment of more vehicles on District roadways can exacerbate traffic 
+congestion, increase demand for limited curbside space, and draw riders away from more sustainable 
+options like public transit and active transportation. Additionally, the deployment of commercial AV 
+operations will compete with existing taxi, rideshare, and delivery workers, potentially displacing 
+them in the transportation sector. Crashes or moving violations involving AVs present novel questions 
+regarding who is held responsible for any resulting civil or legal liability. And some people are simply 
+skeptical that AVs enhance traffic safety based on recent incidents where AVs were disabled following 
+a power outages and dangerously passed a stopped school bus.  
+ 
+Currently, the District only allows AV companies to engage in testing with a test operator physically 
+present in the vehicle. The District Department of Transportation has been tasked with developing a 
+driverless testing permit for years now, but progress has stalled. This bill will pave the way for 
+deployment of commercial AVs through an iterative process.  Specifically, the bill:
+
+Establishes a Commercial Autonomous Vehicle Program within the District Department of 
+Transportation (“DDOT”) that will issue and monitor compliance with commercial AV permits. 
+Eligibility for a permit is limited to applicants with a demonstrated record of safe testing in the District.  
+Applicants must submit documents in support of their application, including a first responder 
+interaction plan that ensure police, fire, EMS, and other emergency personnel can safely interact with 
+AVs on the road, as well as a continuity of operations plan that outlines how the AV will maintain 
+operational or otherwise respond to challenges like power outages or network failures. 
+ 
+Creates a phased timeline for the deployment of commercial AVs. The bill requires that DDOT release 
+a permit for driverless AV testing within 60 days of the law’s effective date. This advances the District 
+to the next phase of testing, and allows operators to demonstrate that their vehicles can safely 
+operate without a human driver present.  120 days after the release of the driverless testing permit,  
+DDOT would then release its commercial AV permit, which allows AV operators to begin offering rides 
+in the District. Until January 1, 2028, commercial AV operators’ fleet size would be limited to 200 
+vehicles. After January 1, 2028, commercial AV operators can submit an on-demand vehicle network 
+comprehensive plan that, if approved, will allow the operator to increase their fleet size. The 
+comprehensive plan explains how the operator will lawfully park and store their vehicles, minimize 
+passenger-less vehicle trips (i.e., “deadheading”) and the associated traffic congestion, ensure riders 
+from all eight wards have equitable access to AVs, and develop a user interface that allows people 
+with disabilities to request a ride.  
+ 
+Establishes Clear Rules for Engaging Autonomous Driving Features (Personal and Commercial). The 
+bill also establishes clear rules governing when an AV’s autonomous driving system can be engaged 
+that account for the various levels of autonomous driving technology that are available, their 
+respective capabilities, and the risks associated with their use. The bill broadly allows for the use of 
+Level 1 and Level 2 autonomous driving systems, which are driver assistance systems that still require 
+the human driver to remain in control. The bill generally restricts the use of Level 3, 4, and 5 systems, 
+except when an operator has received a permit for either commercial operations or testing. To ensure 
+the District is aware of vehicles with Level 3, 4, and 5 autonomous driving systems (e.g., fully or semi-
+autonomous vehicles), manufacturers of these systems must register their products with DDOT. 
+ 
+Establishes a Vehicle Miles Traveled Tax. The bill establishes a vehicle miles traveled (“VMT”) tax for 
+commercial AV operators of $0.15/mile. The VMT encourages AV operators to minimize passenger-
+less operations and circuitous routing.  
+ 
+Improves Public Transit. To address concerns that AV deployment will contribute to traffic congestion 
+and pull riders away from public transit, the bill invests a portion of the revenue collected from AV 
+operations into public transit infrastructure and service improvements. The bill also encourages AV 
+operators to collaborate with WMATA to develop a system that offers discounted fares for AV rides 
+that connect to public transit.  
+ 
+Supporting Existing Taxi and Rideshare Workers. The bill requires that DDOT, in collaboration with 
+the Department of For-Hire Vehicles and the Department of Employment Services, publish a report 
+analyzing the impact of AV deployment on the taxi and rideshare industries. The bill invests the 
+remaining portion of the revenue collected from AV operations to support taxi and rideshare drivers 
+through education, vocational training, and workforce development.
+
+Clarifies how existing traffic safety laws and liability rules apply to autonomous vehicles. The bill 
+provides guidance on when the human driver or the autonomous driving system should be considered 
+the “driver” for the purposes of liability, tailored to the vehicle’s level of automation. This clarification 
+will help litigants avoid lengthy product liability disputes. 
+ 
+ Together, these provisions will allow for the safe deployment of commercial AVs while 
+legitimate concerns regarding this exciting, but nascent, technology.  
+ 
+Sincerely, 
+ 
+ 
+ 
+Councilmember Charles Allen, Ward 6 
+Chairperson, Committee on Transportation & the Environment
+
+1 
+         _____________________________  1 
+                         Councilmember Charles Allen        2 
+ 3 
+    4 
+ 5 
+_____________________________                    _____________________________ 6 
+Councilmember Matthew Frumin        Councilmember Brooke Pinto   7 
+ 8 
+ 9 
+A BILL 10 
+  11 
+________  12 
+  13 
+ 14 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA  15 
+ 16 
+_________________________  17 
+ 18 
+ 19 
+To amend the Autonomous Vehicle Act of 2012 to establish a Commercial Autonomous Vehicles 20 
+Program within the District Department of Transportation (“DDOT”) allowing for certain 21 
+autonomous vehicles to transport passengers and goods in the District, to require that 22 
+applicants and recipients of a commercial AV permit submit planning documents, reports, 23 
+and data to DDOT, to enumerate the conditions under which an autonomous driving system 24 
+can be engaged, to establish penalties for noncompliance with program requirements and 25 
+an appeals process, to establish the Autonomous Vehicle Deployment Fund, to create a 26 
+vehicle miles traveled tax that applies to commercial AV operations, and to require that 27 
+autonomous driving system manufacturers register their products with DDOT.  28 
+ 29 
+ BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 30 
+act may be cited as the “Autonomous Vehicle Deployment Authorization Amendment Act of 31 
+2026”. 32 
+ Sec. 2.   The Autonomous Vehicle Act of 2012, effective April 23, 2013 (D.C. Law 19-33 
+278); D.C. Official Code § 50-2351 et seq.) is amended as follows: 34 
+ (a) Section 2 (D.C. Official Code § 50-2351) is amended as follows: 35 
+  (1) Paragraph (2D) is amended to read as follows: 36
+
+2 
+“(2D) “Minimal risk condition” means a condition to which a human driver or an 37 
+autonomous driving system brings an autonomous vehicle to reduce the risk of a collision when a 38 
+given trip cannot or should not be completed.”. 39 
+  (2) New paragraphs (1A-i), (1F), (1G), (2C-i), (2C-ii), (2C-iii), (2C-iv), (2D-i), (2F-40 
+i), (2F-ii), (2F-iii), and (5) are added to read as follows:  41 
+  “(1A-i) “Autonomous driving system manufacturer” or “ADS manufacturer” 42 
+means any person that designs, produces, sells, or distributes, for operation or use within the 43 
+District: 44 
+   “(A) A covered autonomous driving system;  45 
+   “(B) A covered semi-autonomous driving system; or 46 
+   “(C) A motor vehicle equipped with an autonomous driving system 47 
+described in subparagraphs (A) or (B) of this paragraph.  48 
+  “(1F) “Commercial AV permit” means a permit to operate autonomous vehicles 49 
+with its covered autonomous driving system engaged and without an in-person driver on roadways 50 
+in the District in furtherance of a commercial activity. 51 
+  “(1G) “Covered autonomous driving system” means an autonomous driving system 52 
+that meets the SAE J3016 Level 4 or 5 criteria. 53 
+  “(1H) “Covered semi-autonomous driving system” means an autonomous driving 54 
+system that meets the SAE J3016 Level 3 criteria. 55 
+“(2C-i) “First responder” means a natural person who provides firefighting, law 56 
+enforcement, ambulance, medical, or other emergency services. 57 
+  “(2C-ii) “First responder interaction plan” means a document providing guidance 58 
+to first responders on potential interactions with autonomous vehicles, including:  59
+
+3 
+   “(A) How to communicate with the permittee’s or the ADS manufacturer’s 60 
+fleet support specialist who is available while the autonomous vehicle is in operation;   61 
+   “(B) How to safely tow or remove an autonomous vehicle from a roadway; 62 
+   “(C) How to recognize whether an autonomous vehicle has its autonomous 63 
+driving system engaged;  64 
+   “(D) A technical description of how autonomous vehicles detect and are 65 
+designed to respond to the presence of first response vehicles;  66 
+   “(E) How law enforcement agencies can retrieve data, for use in crash 67 
+investigations, from an autonomous vehicle’s event data recorder, black box, or any other device 68 
+within the autonomous vehicle that collects and stores data; and 69 
+   “(F) Any additional information the Department considers necessary to 70 
+assess and mitigate the public safety risks associated with the operation of autonomous vehicles. 71 
+“(2C-iii) “Good standing” means the commercial AV testing permit applicant:  72 
+ “(A) Holds a valid AV testing permit against which there are no pending 73 
+enforcement actions; and  74 
+   “(B) Has met all reporting obligations required by Chapter 23A. 75 
+“(2C-iv) “In-vehicle driver” means a natural person in the autonomous vehicle who 76 
+is responsible for all or part of the dynamic driving task. 77 
+“(2D-i) “On-demand autonomous vehicle network” means a transportation service 78 
+network that uses an internet browser-based or mobile application through which a permittee can 79 
+dispatch autonomous vehicles to transport passengers or goods for compensation pursuant to a 80 
+commercial AV permit. 81
+
+4 
+ “(2F-i) “Permittee” means a person who holds a valid commercial AV permit 82 
+issued by the Department.   83 
+“(2F-ii) “Person” means a natural person, corporation, estate, trust, partnership, 84 
+limited liability company, association, joint venture, governmental agency, public corporation, or 85 
+any other legal or commercial entity. 86 
+  “(2F-iii) “Privately owned ADS vehicle” means a motor vehicle equipped with a 87 
+covered autonomous driving system or a covered semi-autonomous driving system that is operated 88 
+by a natural person who owns or leases the vehicle for personal, family, or household use, and is 89 
+not operated pursuant to a commercial AV permit under this act. 90 
+“(5) “Unreasonable risk to public safety” means a risk of physical injury or death 91 
+to any roadway user that is greater than the risks presented by a human driver of average 92 
+competence.”. 93 
+ (b) Section 3 (D.C. Official Code § 50-2352) is revived and amended to read as follows: 94 
+ “Sec. 3. Autonomous vehicles permitted. 95 
+ “(a) No autonomous driving system shall be engaged on public roadways in the District 96 
+except as described in subsection (b). 97 
+ “(b)(1) A permittee or the permittee’s agents may engage a covered autonomous driving 98 
+system in any autonomous vehicle for which the permittee has a commercial AV permit issued as 99 
+described in section 3a.  100 
+  “(2) A test operator or remote operator may engage a covered autonomous driving 101 
+system or covered semi-autonomous driving system if the AV testing entity employing the 102 
+operator has received an AV testing permit or is testing without a permit as described in section 103 
+3a(d) of this act. 104
+
+5 
+  “(3) A person may engage a Level 1 or Level 2 autonomous driving system.  105 
+ “(c) In any grand jury, criminal, delinquency, or civil proceeding where a trier of fact must 106 
+determine the driver at the time of an incident, the trier of fact shall determine whether the in-107 
+person driver or the autonomous driving system was in control of the dynamic driving task at the 108 
+time of the incident based on the totality of the circumstances.”. 109 
+ (c) New sections 3a-1 and 3a-2 are added to read as follows: 110 
+ “Section 3a-1. Commercial Autonomous Vehicles Program.  111 
+ “(a)(1) There is established a Commercial Autonomous Vehicle Program within the 112 
+Department that shall issue and monitor compliance with commercial AV permits.   113 
+  “(2) The Department shall create an application through which a person may apply 114 
+for a commercial AV permit.  115 
+ “(b) The application for a commercial AV permit shall, at a minimum, require that the 116 
+following information be submitted to the Department: 117 
+  “(1) The name, address, and principal point-of-contact of the applicant;  118 
+  “(2) For each autonomous vehicle to be operated in the District under the permit:  119 
+   “(A) The Vehicle Information Number (“VIN”); 120 
+   “(B) The vehicle’s make, model, and year;  121 
+   “(C) The vehicle’s tag number and state of issuance;  122 
+   “(D) Proof of current vehicle registration; and 123 
+   “(E) Technical documentation establishing that the vehicle is: 124 
+    “(i) Equipped with a covered autonomous driving system; and  125
+
+6 
+    “(ii) Is capable of achieving a minimal risk condition if a failure of 126 
+the covered autonomous driving system renders it unable to perform the dynamic driving task 127 
+relevant to its intended operational design domain;  128 
+  “(3) A statement signed by the applicant certifying that: 129 
+   “(A) The applicant: 130 
+    “(i) For an initial permit has participated in the Autonomous Vehicle 131 
+Testing Program established by section 3a of this act for at least 180 days before submission of its 132 
+application for a commercial AV permit, during which the applicant recorded at least 250,000 133 
+miles of AV testing within the District; or 134 
+    “(ii) For a subsequent permit has received a commercial AV permit 135 
+and operated in the District under that permit for at least 2 years;  136 
+   “(B) Each autonomous vehicle to be operated under the commercial AV 137 
+permit shall operate in compliance with the laws and regulations of the District and of the United 138 
+States, except with respect to: 139 
+    “(i) Laws and regulations that relate to equipment, licensure, or 140 
+processes that contemplate an in-person driver and are not relevant to the safe operation, transport, 141 
+or storage of a vehicle equipped with a covered autonomous driving system; or 142 
+    “(ii) Conditions for which the applicant is requesting or has received 143 
+an exemption from the department.  144 
+  “(4) Proof that each autonomous vehicle is covered by motor vehicle liability 145 
+coverage or self-insurance in an amount not less than $5,000,000;    146 
+  “(5) A first responder interaction plan that addresses the unique challenges of 147 
+operating in the District, including official motorcades and public demonstrations; and 148
+
+7 
+  “(6) A description of the strategies or technologies used to ensure that the 149 
+autonomous vehicles are lawfully parked;  150 
+  “(7) A continuity of operations plan that explains the redundancy and resiliency 151 
+measures the applicant has implemented to maintain operations during emergency circumstances, 152 
+such as power outages, cellular or wireless data network outages, or extreme weather events, and 153 
+to mitigate the resulting impacts to traffic safety and roadway congestion;  154 
+  “(8) A nonrefundable application fee of: 155 
+   “(A) $1,000,000 for an initial permit; and 156 
+   “(B) $500,000 for any subsequent permits.   157 
+ “(c)(1) Upon receipt of a complete application, the Department shall review the application 158 
+and inform the applicant of the Department’s determination within 90 calendar days.  159 
+  “(2)(A) If the Department determines that the application is incomplete, the 160 
+Department shall notify the applicant of the issue and grant the applicant 30 calendar days to 161 
+resubmit its application.   162 
+   “(B) The Department shall not require an applicant to pay the application 163 
+fee for any application resubmitted pursuant to subparagraph (A) of this paragraph.  164 
+  “(3) The Department shall deny the application only if: 165 
+   “(A) The applicant is not in good standing at the time of the application with 166 
+the Autonomous Vehicle Testing Program; 167 
+   “(B) The applicant fails to provide the information required by subsection 168 
+(b) after an opportunity to resubmit its application as described in paragraph (2) of this subsection; 169 
+or  170
+
+8 
+   “(C) The Department determines that the applicant’s operation of 171 
+autonomous vehicles would pose an unreasonable risk to public safety, based on the applicant’s 172 
+performance under the Autonomous Vehicle Testing Program, a previously issued commercial AV 173 
+permit, or the applicant’s performance in another jurisdiction.  174 
+  “(4) If the Department fails to act within the 90-day period described in paragraph 175 
+(1) of this subsection, the Department shall: 176 
+   “(A) Provide a written response to the applicant explaining the reasons for 177 
+the delay and the anticipated date by which the Department will complete its review; and  178 
+   “(B) Extend the duration of the permit by the amount of time that has passed 179 
+since the expiration of the 90-day period, if the Department ultimately approves the application.  180 
+  “(5) To avoid a lapse in a commercial AV permit during the renewal process, a 181 
+permittee seeking to renew a permit shall apply for renewal at least 150 days before the date on 182 
+which the current permit is set to expire; provided, that the permittee’s existing permit shall remain 183 
+in effect until the Department has made a final determination on the renewal application. 184 
+ “(d)(1) Upon approval of an initial permit, the permittee shall submit a non-refundable 185 
+permit fee of $5,000,000 to the Department.   186 
+  “(2) Renewal permits shall be subject to a non-refundable permit fee of $1,000,000 187 
+payable to the Department. 188 
+ “(e) A permit issued under this section shall be valid for three years after the date of 189 
+issuance, unless the permit is: 190 
+  “(1) Suspended, revoked, or canceled by the Department; or 191 
+  “(2) The duration of the permit is extended as described in subsection (c)(4)(B).  192
+
+9 
+ “(f) If there is a material change in the information provided to the Department pursuant to 193 
+subsection (c) of this section, a permittee shall inform the Department of the material change no 194 
+later than 14 calendar days after its discovery.   195 
+ “(g)(1) The permittee, or if there is not a permittee the ADS manufacturer, is considered to 196 
+be the licensed driver or operator of the autonomous vehicle engaged in autonomous operation for 197 
+the purpose of assessing compliance with applicable traffic or motor vehicle laws and liability, and 198 
+shall be deemed to be responsible for all physical acts required by a driver or operator of the 199 
+vehicle. 200 
+  “(2)(A) The permittee, or if there is not a permittee the ADS manufacturer, is 201 
+deemed to be the licensed operator of the autonomous vehicle engaged in autonomous operation 202 
+for the purposes of issuing and adjudicating notices of infraction or other tickets related to the 203 
+violation of District law or regulations.  204 
+   “(B) A permittee is responsible for resolving any notices of infraction or 205 
+other tickets issued against vehicles in its commercial AV fleet or any covered autonomous driving 206 
+system equipped to vehicles within its fleet, including the payment of any applicable fine or 207 
+penalty.  208 
+ “(h) No permittee shall require a customer to agree to arbitration regarding real or potential 209 
+liability as a condition for service involving the transportation of passengers or goods. 210 
+ “(i) A motor vehicle, which is designed to be operated exclusively by a covered 211 
+autonomous driving system for all trips, shall not be subject to motor vehicle equipment laws or 212 
+equipment regulations of the District that relate to or support motor vehicle operation by an in-213 
+person driver and are not relevant to the safe operation or storage of a vehicle equipped with a 214 
+covered autonomous driving system. 215
+
+10 
+ “(j) A permittee shall make available to the Department a digitized log of significant 216 
+infrastructure defects identified within the District by its commercial fleet vehicles’ sensors, such 217 
+as: 218 
+  “(1) The precise GPS coordinates and timestamps of identified potholes, sinkholes, 219 
+or significant pavement degradation; and  220 
+  “(2) Impairment to the visibility, legibility, or operational integrity of official traffic 221 
+control devices, such as damage or defacement, obstructions, or operational issues.  222 
+ “(k) Except as provided in this section, the issuance of a commercial AV permit shall not 223 
+be interpreted to abrogate or amend any statutory or regulatory provisions or any aspects of law 224 
+pertaining to liability for any harm or injury caused.  225 
+ “(l) The Department may issue rules to implement this act.  226 
+   “(B) The Department shall not be required to hold a public hearing on, or 227 
+make available for public comment, a proposed decision on a permit application.”. 228 
+ “Sec 3a-2. Deployment of commercial autonomous vehicles; on-demand autonomous 229 
+vehicle networks. 230 
+ “(a)(1) Within 60 days of the effective date of the Autonomous Vehicle Deployment 231 
+Authorization Amendment Act of 2026, the Department shall make available a driverless AV 232 
+testing permit that allows for AV testing without a test operator physically present in the vehicle.  233 
+  “(2) Before the Department has approved a permittee’s on-demand autonomous 234 
+vehicle network comprehensive plan, a permittee may operate up to 200 autonomous vehicles 235 
+within the District.  236
+
+11 
+  “(3) After approval of a permittee’s on-demand autonomous vehicle network 237 
+comprehensive plan, a permittee may operate a number of autonomous vehicles to be determined 238 
+by the Department through rulemaking. 239 
+ “(b)(1) Within 180 days of the effective date of the Autonomous Vehicle Deployment 240 
+Authorization Amendment Act of 2026, the Department shall make available the commercial AV 241 
+permit described in section 3a-1.  242 
+ “(c)(1) Beginning January 1, 2028, a permittee may launch on-demand autonomous vehicle 243 
+network to be operated in the District. 244 
+  “(2) An on-demand autonomous vehicle network shall: 245 
+   “(A) Comply with District laws governing the operation of transportation 246 
+network companies, taxis, or any other for-hire ground transportation of passengers, except that 247 
+any provision of law that reasonably applies only to an in-person driver shall not apply to the 248 
+operation of vehicles operated exclusively by a covered autonomous driving system for all trips; 249 
+and 250 
+   “(B) Provide a user interface, available through a browser-based or mobile 251 
+device application, that enables individuals with disabilities to request and receive transportation 252 
+services.  253 
+ “(d) Prior to launching an on-demand autonomous vehicle network within the District, a 254 
+permittee shall submit a comprehensive plan to the Department describing the strategies and 255 
+technology it will use to: 256 
+  “(1) Lawfully park and store commercial AV vehicles, which are subject to its 257 
+permit, in the District when they are not in operation, including:  258
+
+12 
+   “(A) Identification of any parking facilities licensed pursuant to section 1 259 
+of the District of Columbia Motor Vehicle Parking Facility Act of 1942, approved February 16, 260 
+1942 (56 Stat. 90; D.C. Official Code § 50-2601 et seq.), that will be used for parking and storing 261 
+autonomous vehicles; and 262 
+   “(B) Acknowledgment of the applicable parking tax, as described in section 263 
+47-2002(a)(1), to the designated facilities and assurance of compliance with applicable tax 264 
+obligations; and   265 
+  “(2) Minimize the operation of an autonomous vehicle without a passenger or a 266 
+destination; and  267 
+  “(3) Fairly rebalance fleet vehicles to reduce disparate availability or wait times 268 
+across wards.  269 
+ “(e)(1) The Department shall review the submitted plans for compliance with all relevant 270 
+District laws and regulations, including parking laws, tax requirements, and vehicle operations.   271 
+  “(2) The Department may impose additional requirements or conditions as 272 
+necessary to ensure safe, efficient, and lawful operation within the District. 273 
+ “(f) Driverless autonomous vehicles shall make every effort not to idle in a travel lane 274 
+while loading or unloading passengers or goods. 275 
+ “(g) A permittee that operates an on-demand autonomous vehicle network in the District 276 
+shall, upon request, respond to any request for proposal issued by the District government for 277 
+autonomous vehicle services. 278 
+ “(h) To facilitate seamless multimodal travel, a permittee operating an on-demand 279 
+autonomous vehicle network shall: 280
+
+13 
+  “(1) Seek to support payment systems and initiatives and ensure that its digital 281 
+platforms are compatible with widely adopted, industry-recognized standards for secure, 282 
+interoperable contactless payments, including any successor or emerging standards; and 283 
+  “(2) Collaborate with the Washington Area Metropolitan Transit Authority and 284 
+other transit agencies in the region to explore the feasibility of a transit incentive program that 285 
+allows enrolled commercial AV customers to receive credits or discounts for commercial AV rides 286 
+that connect to public transit; and  287 
+ “(i) A permittee’s failure to comply with the requirements of this section may result in 288 
+penalties, including the revocation or suspension of a commercial AV permit or the imposition of 289 
+fines. 290 
+ (d) Section 3c (D.C. Official Code § 50-2352.03) is amended by adding new subsections 291 
+to read as follows: 292 
+ “(e) On a quarterly basis, a permittee shall provide to the Department, in a form to be 293 
+determined by the Department, the following information from each reporting period: 294 
+  “(1) The total number of vehicle miles traveled by its commercial AV fleet, broken 295 
+down by miles during which vehicles in the commercial AV fleet were: 296 
+   “(A) Actively transporting passengers or goods;  297 
+   “(B) Dispatched and traveling to the pickup location in response to a request 298 
+for service; or  299 
+   “(B) Traveling for any other purpose, such as the fair redistribution of the 300 
+commercial AV fleet across the District; 301 
+  “(2) The number of trips provided by its commercial AV fleet; 302
+
+14 
+  “(3) The number of times a vehicle in its commercial AV fleet entered a minimal 303 
+risk condition; 304 
+  “(4)(A) The number of times a vehicle in its commercial AV fleet was disabled to 305 
+the point of requiring physical removal by a first responder, permittee, or another entity; and  306 
+   “(B) The amount of time that elapsed between the autonomous vehicle 307 
+becoming disabled and its removal;  308 
+  “(5) The number of crashes involving a vehicle within its commercial AV fleet that 309 
+resulted in property damage, bodily injury, or death; and 310 
+  “(6) A description of any changes the permittee has implemented or intends to 311 
+implement following a crash that occurred during the reporting period, such as upgrades to the 312 
+autonomous vehicle’s hardware or software systems, or an explanation of why the permittee has 313 
+not implemented or does not intend to implement changes. 314 
+ “(f) The Department shall publish the reports required by subsection (e) of this section on 315 
+its website no later than five business days after receipt; provided that the Department shall redact 316 
+or exclude any proprietary, confidential, or security-sensitive information in accordance with 317 
+applicable law. 318 
+ “(g)(1) A permittee shall notify the Department of a crash involving a vehicle within its 319 
+commercial AV fleet that results in property damage, bodily injury, or death within 8 hours after 320 
+the crash.  321 
+  “(2) The notification provided pursuant to paragraph (1) of this subsection shall 322 
+include, to the extent known: 323 
+   “(A) The name of the permittee; 324 
+   “(B) The date, time, and location of the crash; 325
+
+15 
+   “(C) The severity of the crash, including any injuries to passengers or other 326 
+roadway users; and  327 
+   “(D) The name, title, and contact information of the permittee’s 328 
+representative reporting the crash. 329 
+  “(3) Within 5 business days of the crash, the permittee shall submit a crash report 330 
+to the Department that contains the following information: 331 
+   “(A) The date, time, location, type of roadway, weather conditions, and a 332 
+brief description of the event; 333 
+   “(B) A summary of the movement of the vehicle preceding the crash, such 334 
+as whether the vehicle was parked, stopped, accelerating, reversing, making a turn, and its speed 335 
+of travel; 336 
+   “(C) The name, title, and contact information for permittee’s representative 337 
+submitting the crash report. 338 
+ “(h)(1) The Department may require the permittee to submit additional information 339 
+necessary to investigate a crash.  340 
+  “(2) Upon receipt of a reasonable request for information related to a crash from 341 
+the Department, the permittee, shall provide that information to the Department. 342 
+ “(i) A permittee shall provide copies of any collision or incident reports submitted to the 343 
+National Highway Traffic Safety Administration (“NHTSA”) pursuant to federal standing general 344 
+orders or other written guidance to the Department within one business day after its submission to 345 
+NHTSA. 346 
+ (e) Section 3f (D.C. Official Code § 50-2352.06) is amended by adding new subsections to 347 
+read as follows: 348
+
+16 
+ “(c) If the Department determines that a permittee’s operations create an unreasonable risk 349 
+to public safety, the Department shall issue to the permittee a written notice of infraction that: 350 
+  “(1) States that the Department seeks to revoke, suspend, or impose restrictions on 351 
+the permittee’s commercial AV permit, including which specific enforcement actions the 352 
+Department will take if the notice of infraction is upheld;  353 
+  “(2) Explains the Department’s reasoning for its initial determination, including 354 
+any supporting documentation or evidence; and 355 
+  “(3) Provides the permittee with a reasonable period to:  356 
+   “(A) Dispute the underlying facts or initial determination of the notice of 357 
+intent; or 358 
+   “(B) Correct the issues identified in the Department’s notice.  359 
+ “(d)(1) Before the expiration of the period specified in a notice of intent, a permittee shall 360 
+provide a written response to the notice of intent that: 361 
+   “(A) Disputes the underlying facts or initial determination of the notice of 362 
+intent; or  363 
+   “(B) Explains how the issues identified in the notice of intent have been 364 
+corrected, such as identifying new strategies or technologies that the permittee has implemented.  365 
+  “(2) The Department shall review a permittee’s response to a notice of intent upon 366 
+its receipt.  367 
+ “(e)(1) If permittee’s response disputes underlying facts or initial determination, and the 368 
+Department: 369 
+   “(A) Is persuaded that the permittee’s operations do not create an 370 
+unreasonable risk to public safety, the notice of intent shall be dismissed; or  371
+
+17 
+   “(B) Upholds its determination that the permittee’s operations create an 372 
+unreasonable risk to public safety, the Department shall notify the permittee of its determination 373 
+and give the permittee a reasonable time to correct the issues identified in the notice of intent.  374 
+  “(2) If permittee’s attempts to correct the issues identified in the notice, and the 375 
+Department: 376 
+   “(A) Is persuaded that the permittee’s operations do not create an 377 
+unreasonable risk to public safety, the notice of intent shall be dismissed; or   378 
+   “(B) Upholds its determination that the permittee’s operations create an 379 
+unreasonable risk to public safety, the Department may take any enforcement action specified in 380 
+the original notice of intent. 381 
+  “(3) If the permittee fails to respond to the notice of intent, the Department may 382 
+take any enforcement action specified in the original notice of intent. 383 
+ “(f)(1) If the Department takes an enforcement action against a permittee as described in 384 
+subsection (e) of this section: 385 
+   “(A) The permittee may appeal the action to the Office of Administrative 386 
+Hearings as described in section 3g of this act; or  387 
+   “(B) Submit proof to the Department that the issues identified in the notice 388 
+have been corrected.  389 
+  “(2) If the Department determines, based on the proof submitted as described in 390 
+subsection (f)(1)(B), that the permittee’s operations no longer create an unreasonable risk to public 391 
+safety, the Department may rescind any enforcement action taken, provided that the Department 392 
+shall not remit to a permittee any fines or fees lawfully imposed under this act.  393
+
+18 
+ (f) Section 3g (D.C. Official Code § 50-2352.07) is amended by adding new subsections 394 
+(c) and (d) to read as follows: 395 
+ “(c)(1) The Office of Administrative Hearings (“OAH”) shall hold a hearing requested 396 
+under this subsection no later than 90 days after the date of the Department’s final determination 397 
+under section 3f of this act.   398 
+  “(2) If a hearing is not held during the period required by paragraph (1) of this 399 
+subsection, any enforcement action against the permittee shall be reversed. 400 
+ “(d) OAH shall dismiss the Department’s notice of intent if it finds, by clear and convincing 401 
+evidence, that the permittee’s commercial AV operations do not create an unreasonable risk to 402 
+public safety.  403 
+ (g) New sections 3h and 3i are added to read as follows: 404 
+ “Sec. 3h. Vehicle miles traveled tax; rate.  405 
+ “(a) The District shall levy and collect a tax on the aggregate number of vehicle miles 406 
+traveled by autonomous vehicles operated pursuant to a commercial AV permit issued by the 407 
+District Department of Transportation.  408 
+ “(b) The rate of tax shall be $0.15 for each vehicle miles traveled. 409 
+ “Sec. 3i. Autonomous Vehicle Deployment Fund establishment. 410 
+ “(a) There is established as a special fund the Autonomous Vehicle Deployment Fund 411 
+(“Fund”), which shall be administered by the District Department of Transportation (“DDOT”) in 412 
+accordance with this section.   413 
+ “(b) All special purpose funds collected from the following sources shall be deposited into 414 
+the Fund:  415 
+  “(1) The application fee described at section 3(c)(6) of this act;  416
+
+19 
+  “(2) The permit fee described at section 3(e) of this act; 417 
+  “(3) The vehicle miles tax described at section 3h; and 418 
+  “(4) Any other fines or fees assessed under this act.   419 
+ “(c)(1) After funding the ongoing implementation costs of the Autonomous Vehicle 420 
+Deployment Authorization Amendment Act of 2026, money in the Fund shall be used for the 421 
+following purposes:   422 
+   “(A) 50% of the remaining deposits shall be used to support public transit 423 
+infrastructure and service; and 424 
+   “(B) 50% of the remaining deposits shall be used to support education, 425 
+vocational training, and workforce development programming aimed at ride-share drivers who 426 
+have been or are at-risk of job displacement due to the adoption of commercial autonomous 427 
+vehicles. 428 
+  “(2) No later than 180 days after the effective date of the Autonomous Vehicle 429 
+Deployment Authorization Amendment Act of 2026, the Department shall publish a report that:  430 
+   “(A) Analyzes the impact of the deployment of autonomous vehicles on the 431 
+taxi and ride-share industries, including any lost jobs or displaced workers;  432 
+   “(B) Proposes a spending plan for the deposits described in subsection 433 
+(c)(1)(B) developed in consultation with the Department of Employment Services and the 434 
+Department of For-Hire Vehicles.  435 
+ “(d) Subject to authorization in an approved budget and financial plan, any funds 436 
+appropriated in the Fund shall be continually available without regard to fiscal year limitation.  437
+
+20 
+ “(e) The money deposited into the Fund but not expended in a fiscal year shall not revert 438 
+to the unassigned fund balance of the General Fund of the District of Columbia at the end of a 439 
+fiscal year, or at any other time.”. 440 
+ Sec. 3j. Private Autonomous Driving System Registration and Liability. 441 
+ “(a)(1) No ADS manufacturer shall sell, offer for sale, lease, operate, or otherwise make 442 
+available for use on public roadways in the District an autonomous driving system or a motor 443 
+vehicle equipped with an autonomous driving system unless the ADS manufacturer has registered 444 
+with the Department as described in this subsection. 445 
+  “(2) An application for ADS manufacturer registration shall include, at a minimum: 446 
+   “(A) The name, principal place of business, and a designated agent for 447 
+service of process within the District of the ADS manufacturer; 448 
+   “(B) A description of each autonomous driving system offered for use in 449 
+the District, including the vehicle makes, models, and model years in which the feature is installed 450 
+or available, the SAE automation level of each such feature; 451 
+   “(C) Proof of insurance or self-insurance as required by subsection (c) of 452 
+this section; 453 
+   “(D) A first responder interaction plan; and 454 
+   “(E) A non-refundable annual registration fee of $10,000. 455 
+  “(3) An ADS manufacturer shall notify the Department of any material change to 456 
+its autonomous driving system’s software, capabilities, or operational design domain no later than 457 
+30 calendar days before deploying such change to vehicles operating in the District. 458 
+ “(c)(1) Each ADS manufacturer registered under this section shall maintain motor vehicle 459 
+liability coverage or self-insurance in an amount not less than $5,000,000 per occurrence for bodily 460
+
+21 
+injury, death, and property damage arising from the operation of an autonomous driving feature in 461 
+the District, regardless of liability coverage or insurance maintained by the vehicle owner or 462 
+operator. 463 
+  “(2) The liability coverage or self-insurance required by paragraph (1) shall be 464 
+primary over any personal motor vehicle insurance held by the vehicle owner or operator when a 465 
+crash occurs while an autonomous driving system is engaged. 466 
+  “(3) An ADS manufacturer shall maintain a publicly accessible claims process 467 
+through which any person harmed in a crash involving an autonomous vehicle with its autonomous 468 
+driving system engaged may initiate a claim directly against the ADS manufacturer without first 469 
+initiating a claim against the vehicle owner or operator. 470 
+ “(d)(1) When an autonomous driving system is engaged at the time of a crash or traffic 471 
+infraction, the ADS manufacturer of that system shall be deemed the operator of the vehicle for 472 
+purposes of: 473 
+   “(A) Civil liability for violations of applicable traffic laws and regulations, 474 
+including responding to the issuance of any notices of infraction; and 475 
+   “(B) Tort liability for bodily injury, death, or property damage caused by 476 
+the conduct of the vehicle while the autonomous driving system is engaged, without the necessity 477 
+of pleading or proving a product defect under applicable products liability law. 478 
+  “(2)(A) For the purposes of paragraph (1) of this subsection, a rebuttable 479 
+presumption shall exist that an autonomous driving system was engaged at the time of a crash if 480 
+the ADS manufacturer’s vehicle data logs, event data recorder, or other onboard system indicate 481 
+that the autonomous driving system was active in the 30 seconds preceding the crash.  482
+
+22 
+  “(B) The ADS manufacturer shall bear the burden of rebutting this presumption 483 
+with clear and convincing evidence. 484 
+  “(3) Nothing in this section shall be construed to: 485 
+   “(A) Relieve a vehicle owner or operator of liability for actions taken 486 
+outside the operational parameters of the autonomous driving system, including manual overrides, 487 
+disabling of safety systems, or operation of the vehicle while the autonomous driving system is 488 
+disengaged; 489 
+   “(B) Limit or abrogate any right of contribution or indemnification between 490 
+an ADS manufacturer and a vehicle owner or operator; or 491 
+   “(C) Preclude any claim grounded in negligence, strict products liability, 492 
+breach of warranty, or any other theory of liability available under District or federal law, including 493 
+any claim that a defect in the autonomous driving system caused or contributed to harm. 494 
+ “(e)(1) An ADS manufacturer shall notify the Department of any crash involving a 495 
+privately owned ADS vehicle occurring on public roadways in the District that results in bodily 496 
+injury, death, or property damage exceeding $5,000, within 72 hours of the ADS manufacturer’s 497 
+knowledge of the crash. 498 
+  “(2) An ADS manufacturer shall preserve all vehicle data logs, sensor data, 499 
+software state records, and event data recorder information related to any crash reportable under 500 
+paragraph (1) for no fewer than 3 years after the date of the incident, and shall make such data 501 
+available to the Department, the Metropolitan Police Department, or any court of competent 502 
+jurisdiction upon lawful request. 503 
+  “(3) An ADS manufacturer shall provide copies of any collision or incident reports 504 
+submitted to the National Highway Traffic Safety Administration pursuant to federal standing 505
+
+23 
+general orders or other written guidance to the Department within one business day after its 506 
+submission to NHTSA. 507 
+ “(f)(1) Prior to sale, lease, or delivery of a vehicle equipped with an autonomous driving 508 
+system for use in the District, an ADS manufacturer shall provide the purchaser or lessee with a 509 
+written disclosure that clearly and conspicuously states: 510 
+   “(A) The SAE automation level of the autonomous driving system and the 511 
+nature and extent of driver attention and readiness to assume manual control that the feature 512 
+requires; 513 
+   “(B) That under District law, when the autonomous driving system is 514 
+engaged, the ADS manufacturer and not the vehicle operator bears primary liability for violations 515 
+of the rules of the road and for crashes caused by the conduct of the feature;  516 
+   “(C) The contact information for the ADS manufacturer’s claims process 517 
+required by subsection (c)(3) of this section;  518 
+   “(D) Limitations on the engagement of autonomous driving systems as 519 
+described in section 3 of this act.  520 
+ “(g)(1) An ADS manufacturer that operates in the District without registering as required 521 
+by subsection (b) of this section shall be subject to a civil fine of not less than $1,000 and not more 522 
+than $10,000 per day for each day of noncompliance. 523 
+  “(2) An ADS manufacturer that fails to maintain the insurance coverage required 524 
+by subsection (c) of this section shall be subject to immediate suspension of its registration and a 525 
+civil fine of not less than $10,000 per day for each day of noncompliance. 526 
+  “(3) Civil fines assessed under this subsection shall be deposited into the 527 
+Autonomous Vehicle Deployment Fund established under section 3i of this act. 528
+
+24 
+ “(h) The Department may issue rules to implement this section, including rules establishing 529 
+procedures for ADS manufacturer registration, standards for determining when an autonomous 530 
+driving system is engaged for purposes of this section, and any exemptions for low-speed or limited 531 
+operational domain autonomous driving systems that the Department determines do not present 532 
+material public safety risks.”.  533 
+ Sec. 4. Fiscal Impact Statement.  534 
+ The Council adopts the fiscal impact statement in the committee report as the fiscal impact 535 
+statement required by section 4a of the General Legislative Procedures Act of 1975, approved 536 
+October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a). 537 
+ Sec. 5.  Effective Date.  538 
+ This act shall take effect following approval by the Mayor (or in the event of veto by the 539 
+Mayor, action by the Council to override the veto) and a 30-day period of congressional review as 540 
+provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 24, 541 
+1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)). 542

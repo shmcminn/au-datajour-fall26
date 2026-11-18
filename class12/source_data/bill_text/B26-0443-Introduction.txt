@@ -1,0 +1,677 @@
+October 21, 2025 
+ 
+Nyasha Howard 
+Secretary to the Council 
+Council of the District of Columbia 
+1350 Pennsylvania Avenue, N.W. 
+Washington, DC 20004 
+ 
+Dear Secretary Howard: 
+ 
+ Today, I am introducing the “DC Water Billing and Disconnection Modernization 
+Amendment Act of 2025,” along with Councilmembers R. White, Pinto, Lewis George, Frumin, T. 
+White, and Nadeau. Please find enclosed a signed copy of the bill.  
+ 
+ The District of Columbia Water and Sewer Authority (“DC Water”) faces a growing balance of 
+unpaid water bills and, earlier this year, launched a more active campaign to discontinue water 
+service to properties with an outstanding balance. This campaign has revealed several practical 
+challenges with DC Water’s billing and disconnection practices. In some cases, DC Water has 
+proposed a disconnection at rental properties where the landlord has failed to pay the water bill, 
+even though the tenants have been paying their rent. In these cases, tenants would lose access to 
+critical water services through no fault of their own. District agencies have also not developed an 
+effective system for holding landlords accountable when unpaid water bills result in loss of water 
+service for renters. District residents need a dignified billing and disconnection process that 
+recognizes that loss of water service jeopardizes people’s health and hygiene and should be a tool of 
+last resort. This bill does that, creating a fairer billing and disconnection process for both property 
+owners and tenants. The bill also requires better coordination between DC Water and District 
+agencies to increase accountability for the mismanagement of rental properties and provide more 
+support to affected residents. 
+ 
+ For background, at my Committee’s February 20, 2025, performance oversight hearing, DC 
+Water explained that it is owed $36 million in unpaid water bills from customers.1 The amount of 
+ 
+1 D.C. Water and Sewer Authority: Performance Oversight Hearing Before the Committee on Transportation and the 
+Environment, Council of the District of Columbia, https://lims.dccouncil.gov/Hearings/hearings/668 (see testimony 
+of CEO and GM-DC Water). See also District of Columbia Water and Sewer Authority, Financial Report to the  Finance 
+and Budget Committee (July 23, 2025), www.dcwater.com/sites/default/files/document/2025-
+07/documents/Monthly%20Financial%20Report%20July%202025.pdf.
+
+2 
+ 
+unpaid bills undermines the long-term financial health of the District’s water utility and the critical 
+water and sewer services it provides. If the utility cannot address this growing balance through its 
+various cost-recovery tools, it may need to raise rates for all customers, which would 
+disproportionately impact low-income residents.  
+ 
+ The main tools that DC Water has to incentivize the timely payment of water and sewer 
+service bills are assessing fees against a customer for late payments,2 discontinuing water service to 
+a property with a delinquent account,3 or placing a lien on the property at issue.4 Historically, DC 
+Water has mostly initiated service disconnections against single-family residential properties. For 
+example, from September 30, 2019, through September 30, 2024, DC Water completed 12,254 
+disconnections, which affected 711 commercial properties and 11,537 single-family properties. 
+However, during that same time, DC Water initiated disconnections at only 6 multifamily properties.  
+ 
+ There are practical reasons for the disparity, as multifamily rental properties present unique 
+challenges compared to single-family homes. Many multifamily residential properties in the District, 
+such as apartments or condominiums, are “master-metered”—i.e., a single water meter serves the 
+entire building. In a master-metered building, water usage by individual occupants or units cannot be 
+determined. Instead, the owner or property manager often covers the bill for the entire property, 
+incorporating the cost of water service in the rental payments charged to tenants. Most importantly, 
+in a master-metered building, DC Water cannot maintain service in some units while disconnecting 
+service at other units—it is an all-or-nothing approach. If a property owner or landlord allows their 
+account with DC Water to become delinquent, even as tenants have been making timely rent 
+payments with the understanding that a portion of that money is used to cover water and sewer 
+service, disconnecting service to the entire building is unfair to those tenants; tenants would lose 
+access to critical water and sewer services through no fault of their own. DC Water’s understandable 
+reluctance to pursue disconnections at these properties has, unfortunately, contributed to arrears 
+ballooning to the nearly $35 million balance it now faces today.  
+ 
+ In response, on March 19 of this year, DC Water launched a more active campaign to collect 
+the outstanding balances owed by initiating a series of disconnections, with a particular emphasis on 
+multi-family properties. Between March 19, 2025, and May 30, 2025, DC Water initiated 331 water 
+service disconnections, of which 327 involved small multi-family properties, and four involved larger 
+multifamily buildings. Forty-two of those properties experienced a water service disconnection, and 
+24 remained disconnected. As a result, many property owners and housing providers set up payment 
+plans or paid the bill in full, after which water service was restored. But others still have not, leaving 
+residents—many of whom are tenants who have paid their rent and expected that the utilities were 
+being paid—without water. In some of these cases, tenants may not have known that their building 
+was in arrears until they saw a notice of disconnection or experienced a disconnection. This includes 
+families with young children, seniors, and individuals with disabilities. Without more information 
+about individual occupants in these buildings, it has been difficult for District agencies (such as the 
+Office of the Tenant Advocate or the Office of People’s Counsel) or legal services providers to contact 
+ 
+2 D.C. Official Code § 34–2202.16(d).  
+3 D.C. Official Code § 34–2407.01(a)(2).  
+4 D.C. Official Code § 34–2407.02.
+
+3 
+ 
+families who have experienced or are facing disconnection to provide them with assistance or 
+guidance. 
+  
+ This past summer, I introduced, and the Council passed, the DC Water Disconnection and 
+Billing Clarification Emergency Amendment Act of 2025. The emergency legislation requires that DC 
+Water provide earlier, more detailed notices to tenants regarding a property owner’s delinquency 
+and the resulting possibility of service disconnection. This more advanced notice gives residents more 
+time and additional information to arrange to receive water service in their own name,5 petition for 
+receivership,6 or find an alternative housing arrangement. The legislation also requires that DC Water 
+provide this notice to tenants in their spoken language, ensuring they understand the actions being 
+taken and the advice being offered. Finally, to allow for greater oversight over the disconnection 
+process, the legislation mandates that DC Water submit monthly reports on its water service 
+disconnection activities. Providing residents with more advanced warning of a potential water service 
+disconnection gives them time to plan around the disruption and minimize its impact on their lives.   
+ 
+ A permanent solution is needed to comprehensively reform DC Water’s billing and 
+disconnection practices, balancing the need to recover timely payments from customers with the 
+protection of tenants and other residents from abrupt service disconnections. The DC Water Billing 
+and Disconnection Modernization Amendment Act of 2025 accomplishes this by reforming DC 
+Water’s billing and disconnection practices. Specifically, the bill: 
+ 
+• Establishes a detailed timeline for when DC Water issues a bill, a customer’s payment is due, 
+and an account is deemed delinquent. Once an account is deemed delinquent, both the 
+property owner and any residents in the building at issue are notified of the delinquency. This 
+notice gives tenants time to arrange to receive service in their own name or find a new 
+residence before a disconnection. Currently, a bill for water service charges becomes 
+delinquent after 30 days from when the bill was issued, after which a late fee of up to 10% 
+may be applied.7  
+• Requires that DC Water wait a certain number of days following a delinquency before 
+disconnecting water service, with longer waiting periods provided for tenants who may be 
+unaware of the owner’s delinquency and vulnerable residents.  
+• Prohibits DC Water from disconnecting service during periods of extreme heat or cold. 
+• Expands options for tenants of a rental property or owner-occupants of a multi-unit property 
+(e.g., a condominium) to receive water and sewer service themselves instead of through their 
+landlord or unit owners’ association. 
+• Requires DC Water to establish an amnesty program through which participating customers 
+can have a portion of their outstanding balance for water and sewer services waived. 
+ 
+5 D.C. Official Code § 34–2303. 
+6 D.C. Official Code § 34–2304.  
+7 See supra note 3
+
+4 
+ 
+• Requires DC Water to establish customer incentive programs through which it offers 
+customers a discount for enrolling in an automatic payment program or setting up a third-
+party guarantor. 
+• Updates the receivership process to be less burdensome on tenants and to allow the receiver 
+to use a portion of the money collected to make improvements to the property.  
+• Updates the process for initiating a lien proceeding against real property with delinquent 
+water and sewer service charges to: (1) limit DC Water’s authority to initiate liens on 
+properties with at least $25,000 in outstanding charges and (2) restrict DC Water’s ability to 
+sell a property on which a lien has been placed unless it has at least $75,000 in outstanding 
+charges.  
+o Currently, a lien on a property may be filed after 60 days8 and the property may be 
+subject to a tax sale after 180 days, regardless of the amount owed.9 
+• Requires that DC Water provide notice of delinquent accounts to the Department of 
+Buildings, the Department of Licensing and Consumer Protection, the Office of the Tenant 
+Advocate, the Office of the Attorney General, the Office of People’s Counsel, the Department 
+of Disability Services, and the Department of Aging and Community Living, which would allow 
+these agencies to pursues enforcement actions against the owner or provide resources to the 
+owner/owner-occupants/tenants  
+• Requires monthly reporting from DC Water to the Council on delinquency, disconnections, 
+receivership petitions, liens, and other essential enforcement actions  
+• Adds DC Water to the list of agencies to which the language access requirements apply for 
+the purposes of issuing notices of disconnection based on the procedures outlined in this bill. 
+ 
+ DC Water’s recent efforts at collecting outstanding charges for water service have revealed 
+significant challenges associated with water service disconnections at multifamily residential 
+buildings. This legislation takes a comprehensive approach to ensure that DC Water can collect 
+outstanding water debts while balancing the need for transparency, service reliability, and 
+accountability for responsible parties during water disconnection proceedings. 
+ 
+Sincerely.  
+ 
+ 
+ 
+Councilmember Charles Allen, Ward 6 
+Chair, Committee on Transportation and the Environment 
+Vice Chair, Metropolitan Washington Council of Governments 
+ 
+8 See supra note 4. 
+9 Id.
+
+1 
+ 1 
+_______________________________        _____________________________ 2 
+Councilmember Robert C. White, Jr.  Councilmember Charles Allen 3 
+ 4 
+ 5 
+_______________________________ _____________________________ 6 
+Councilmember Janeese Lewis George Councilmember Brooke Pinto 7 
+ 8 
+ 9 
+_____________________________ _____________________________ 10 
+Councilmember Trayon White Councilmember Matthew Frumin 11 
+ 12 
+ 13 
+_____________________________ 14 
+ Councilmember Brianne K. Nadeau 15 
+ 16 
+ 17 
+  18 
+A BILL 19 
+  20 
+__________  21 
+  22 
+ 23 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA  24 
+ 25 
+___________________  26 
+  27 
+  28 
+To amend the District of Columbia Public Works Act of 1954 to require that the District of 29 
+Columbia Water and Sewer Authority establish an amnesty program through which 30 
+participating customers can have a portion of their outstanding balance for water and sewer 31 
+services waived by the Authority, to modify the process by which tenants of a rental 32 
+property or owner-occupants of a multi-unit property can receive water and sewer service 33 
+from the Authority in their own name, including in cases where the property is master-34 
+metered and individual residents’ water usage cannot be determined, to establish a process 35 
+for the Authority to continue or resume water and sewer service to a property after a tenant 36 
+or owner-occupant has agreed to receive service in their name, to require the Authority to 37 
+establish customer incentive programs through which the Authority offers customers a 38 
+discount for enrolling in an automatic payment program or establishing a third-party 39 
+guarantor, to clarify the rules for petitioning for and administering a receivership for 40 
+properties with delinquent water and sewer service charges, to clarify the process for 41 
+initiating a lien proceeding against real property with delinquent water and sewer service 42 
+charges, to establish a timeline for the Authority to issue bills to customers and determine 43 
+when  customers’ accounts are past due or delinquent, to require that the Authority provide 44 
+notice to District agencies and customers when an account becomes delinquent, to require 45 
+that an account be delinquent for a certain period of time before the Authority is authorized 46 
+to terminate service to a property, to prohibit water disconnections during forecasts of 47
+
+2 
+extreme temperature, and to require specific data to be reported to the Council on a monthly 48 
+basis; to amend the Water and Sewer Authority Establishment and Department of Public 49 
+Works Reorganization Act of 1996 to authorize the Authority to impose additional charges 50 
+and penalties for the late payment of bills, to clarify the bill dispute process and timeframes; 51 
+and to empower the Director of the Department of Energy and Environment to provide to 52 
+grants to nonprofit organizations or private entities providing free legal services to 53 
+ratepayers related to water and sewer service and to require that the Authority make 54 
+conforming amendments to the applicable regulations 55 
+ 56 
+ BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may 57 
+be cited as the “DC Water Billing and Disconnection Modernization Amendment Act of 2025”.  58 
+ Sec. 2. The District of Columbia Public Works Act of 1954, effective May 18, 1954 (68 Stat. 101; 59 
+D.C. Official Code § 34-2301 et seq.), is amended as follows: 60 
+ (a) Section 1801 (D.C. Official Code § 34–2301) is amended to read as follows: 61 
+  “(1) “Authority” or “DC Water” means the District of Columbia Water and Sewer 62 
+Authority.  63 
+  “(2) “Owner” means any individual, corporation, association, or partnership listed as the 64 
+legal titleholder of record for any real property located in the District. 65 
+  “(3) “Owner-occupant” means the owner of a residential unit that serves as the owner’s 66 
+primary residence and is located within a multi-unit building that is managed by a unit owners’ association.  67 
+  “(4) “Rental payment” means any monetary payment or other form of consideration 68 
+transferred from a tenant to an owner for the occupation or use of a unit within a rental property.  69 
+  “(5) “Rental property” means any real property consisting of one or more residential units 70 
+that are being rented, leased, or subleased to any person other than the owner.  71 
+  “(6) “Responsible party” means: 72 
+   “(A) Any owner of a rental unit that receives the bill for water and sewer service 73 
+for a rental property they own in their name or the name of their agent; or 74 
+   “(B) Any owner-occupant or tenant that receives the bill for water and sewer 75 
+service in their own name as described in section 1803. 76
+
+3 
+  “(7) “Tenant” means any person who is entitled to the possession, occupancy, or the 77 
+benefits of any rental property in exchange for rental payments. 78 
+  “(8) “Unit owners’ association” means any condominium association, community 79 
+association, unit owners’ association, or any other common interest development that manages a multi-unit 80 
+building in which owner-occupants separately own individual units.”.  81 
+ (b) New section 1802a (D.C. Official Code § 34–2302) is amended as follows: 82 
+ “Sec. 1802a. 2026 Amnesty program.  83 
+ “(a)(1) DC Water shall establish an Amnesty Program (“Program”) for any responsible party that 84 
+is liable for delinquent water and sanitary sewer services. 85 
+  “(2) DC Water shall, through the Program: 86 
+    “(A) Waive all fees or interest assessed against a responsible party for late 87 
+payments if the responsible party pays off all other outstanding charges for water and sanitary sewer 88 
+services;  89 
+   “(B) Waive a portion of the responsible party’s outstanding balance if the 90 
+responsible party enters into a payment plan with DC Water; or 91 
+   “(C) Waive a portion of an owner’s outstanding balance for any expenditures made 92 
+by the owner to improve water service, including expenditures to repair a leak or to sub-meter units in the 93 
+property.   94 
+ “(b) DC Water shall conduct a continuous public awareness campaign regarding the Program from 95 
+September 1, 2026 through December 15, 2026.  96 
+ “(c) DC Water shall accept applications to the Program from October 1, 2026, through December 97 
+31, 2026.”. 98 
+ (c) Section 1803 (D.C. Official Code § 34–2303) is amended to read as follows: 99 
+ “Sec. 1803. Right of tenant or owner-occupant to receive water and sewer service in their own 100 
+name; payment owed by owner-occupant or tenant. 101
+
+4 
+ “(a)(1) If an owner of a rental property or their agent is billed directly by DC Water for water and 102 
+sewer services provided to a rental property, and the owner or agent’s account is deemed delinquent 103 
+pursuant to section 103(c), any tenant residing in that rental property may enter into an agreement with DC 104 
+Water to have water and sewer service continued or resumed in the tenant’s own name as described in this 105 
+section.  106 
+  “(2) For tenants who wish to receive service in their name pursuant to paragraph (1) of this 107 
+section and who reside in a master-metered rental property in which tenants’ water and sewer usage cannot 108 
+otherwise be determined, DC Water shall either: 109 
+   “(A) Enter into an agreement with the owner or their agent to sub-meter each unit 110 
+in the rental property and: 111 
+    “(i) Continue or resume service in the owner or their agent’s name 112 
+pursuant to a payment plan; or  113 
+    “(ii) Continue or resume service in the name of any individual tenant who 114 
+agrees to have water and sewer service continued in their own name as described in this section;  115 
+   “(B) Enter into an agreement with a tenant association representing tenants in the 116 
+rental property, if that tenant association has voted to continue or resume service in the tenant association’s 117 
+name; or 118 
+   “(C) Enter into direct agreements with tenants to continue or resume service in 119 
+their name, provided that tenants representing at least 70% of occupied units in the building agree to 120 
+continue or resume service. 121 
+  “(3) If a unit owners’ association or their agent is billed directly by DC Water for water 122 
+and sewer services to a multi-unit building, and the unit owners’ association’s account is deemed delinquent 123 
+pursuant to section 103(c), any owner-occupant residing in that multi-unit building unit may enter into an 124 
+agreement with DC Water to have water and sewer service continued or resumed in the owner-occupant’s 125 
+own name as described in this section. 126
+
+5 
+  “(4) For owner-occupants who wish to receive service in their name pursuant to paragraph 127 
+(3) of this subsection and who reside in a master-metered rental property in which owner-occupants’ water 128 
+and sewer usage cannot otherwise be determined, DC Water shall either: 129 
+   “(A) Enter into an agreement with the unit owner’s association or their agent to 130 
+sub-meter each unit in the rental property and: 131 
+    “(i) Continue or resume service in the unit owner’s association’s name 132 
+pursuant to a payment plan; or  133 
+    “(ii) Continue or resume service in the name of any individual owner-134 
+occupant who agrees to have water and sewer service continued in their own name as described in this 135 
+section;  136 
+   “(B) Enter into direct agreements with owner-occupants to continue or resume 137 
+service in their name, provided that owner-occupants representing at least 70% of units in the building agree 138 
+to continue or resume service. 139 
+ “(b)(1) DC Water shall enter into an agreement with a tenant or owner-occupant to continue or 140 
+resume water service in the tenant or owner-occupant’s name upon request of the tenant or owner-occupant. 141 
+  “(2) Notwithstanding paragraph (1) of this subsection, DC Water may refuse to enter into 142 
+an agreement with any tenant or owner-occupant whose account, while under a prior agreement to receive 143 
+service in their name, was deemed delinquent within the last six months.  144 
+  “(3) An owner shall not prohibit a tenant or owner-occupant from entering into an 145 
+agreement with DC Water to have water and sewer service in the tenant or owner-occupant’s name, 146 
+provided the tenant or owner-occupant is otherwise eligible to do so.  147 
+ “(c) If a tenant, tenant association, or owner-occupant enters into an agreement to receive water 148 
+and sewer service in their own name pursuant to subsection (a) of this section: 149 
+  “(1) DC Water shall establish a new account for the tenant, tenant association, or owner-150 
+occupant, through which DC Water will provide the tenant, tenant association, or owner-occupant with a 151
+
+6 
+receipt of all payments made to DC Water and to which the tenant, tenant association and owner-occupant 152 
+will maintain access after they vacate the rental property or service is returned to the owner’s name;  153 
+  “(2) DC Water shall not disconnect service, or shall resume service that was previously 154 
+disconnected due to the owner’s delinquency, unless the tenant, tenant association, or owner-occupant fails 155 
+to comply with the terms of the agreement and DC Water complies with section 103 of this act;  156 
+  “(3) DC Water, the owner, and the unit owner’s association shall not require a tenant or 157 
+owner-occupant to assume liability for any charges or fees billed to the owner or unit owners’ association 158 
+for any period of service prior to when the tenant or owner-occupant entered into an agreement to have 159 
+service continued or resumed in tenant or owner-occupant’s name;  160 
+  “(4) For any rental property or multi-unit buildings that is master-metered and for which a 161 
+tenants’ or owner-occupants’ water usage cannot be determined, DC Water shall not require a tenant to pay 162 
+more than the total water and sewer service bill divided by the number of occupied units at the time of the 163 
+proposed shut-off for any period of service for which the tenant or owner-occupant is being billed.  164 
+  “(5) Notwithstanding any other provision of law, the tenant may withhold the amount paid 165 
+to DC Water for the cost of such service from any rental payment due to the owner, unit owners’ association, 166 
+or their agent, except when the cost of such service has already been deducted from the rental payment 167 
+owed for the same time period.    168 
+ “(d) If a tenant does not enter into an agreement with DC Water to receive service in their own 169 
+name, DC Water may commence termination procedures, provided that DC Water complies with section 170 
+103 of this act.  171 
+ “(e) Nothing in this section shall prevent the Mayor or the Attorney General from pursuing any 172 
+other appropriate action or remedy at law or equity against an owner, agent, lessor, manager, or tenant of a 173 
+rental property.”. 174 
+ (d) New section 1803a is added to read as follows: 175 
+ “Sec. 1803a. Customer incentive programs. 176
+
+7 
+ “(a) DC Water shall launch incentive programs through which it may offer responsible parties a 177 
+discount, in an amount to be determined by DC Water, if the responsible party: 178 
+  “(1) Enrolls in an automatic payment program through which the amount due to DC Water 179 
+for a responsible party’s most recent bill is automatically charged to, debited from, or otherwise transferred 180 
+from a banking or credit account owned or controlled by the responsible party; or  181 
+ “(2) Enters into an agreement with DC Water establishing a third-party guarantor that assumes 182 
+liability for any payment owed to DC Water by the responsible party if their account is deemed delinquent 183 
+pursuant to section 103(c).”. 184 
+(e) Section 1804 (D.C. Official Code § 34-2304) is amended to read follows: 185 
+“(a) If the account belonging to the owner of a rental property is deemed delinquent, DC Water or 186 
+any tenant residing in that rental property may petition the Superior Court of the District of Columbia 187 
+(“Court”) for the appointment of a receiver. 188 
+ “(b)(1)(A) The Chief Judge of the Superior Court, or their designee, upon receipt of a petition that 189 
+makes a prima facie showing that an owner’s account is delinquent, shall immediately issue an order 190 
+requiring such owner or their agent to show cause why a receiver should not be appointed.  191 
+   “(B) For the purposes of this section, a copy of the notice provided to tenants 192 
+indicating that an owner account has been deemed delinquent, as described in section 103(c)(2) shall 193 
+constitute a prima facie showing that an owner’s account is delinquent.  194 
+  “(2) The order of the Court, together with a copy of the verified petition: 195 
+   “(A) Shall be served on the owner or their agent at their last known address, or by 196 
+any other method as the Court may direct, and shall be posted in a conspicuous place upon the rental 197 
+property in question; and  198 
+   “(B) Transmitted to DC Water.  199 
+  “(3) A hearing on the show cause order shall be held no later than three business days after 200 
+its issuance or the first court day thereafter.  201 
+  “(4) Prior to the show cause hearing:  202
+
+8 
+   “(A) Respondent may file an answer to the petition raising any appropriate 203 
+defenses, including any evidence that they have resolved the delinquency through payment or by entering 204 
+a payment plan, provided that any set-offs, counterclaims, or third-party claims shall not be grounds for 205 
+refusing to appoint a receiver; and  206 
+   “(B) DC Water shall transmit to the Court the most recent billing statement for the 207 
+rental property that is the subject of the receivership petition.  208 
+  “(5) If the Court finds, by a preponderance of the evidence, that the owner’s account with 209 
+DC Water remains delinquent, the Court shall appoint a receiver to collect from the tenants of that rental 210 
+property any rental payments owed. 211 
+ “(c)(1) A receiver appointed pursuant to subsection (b)(5) of this section may take any action it 212 
+deems necessary to collect all rental  payments for use and occupancy from the tenants of the rental property 213 
+in lieu of the owner or their agent.   214 
+  “(2) The Court may sua sponte or upon request by the receiver: 215 
+   “(A) Impose a binding payment plan on the respondent; or  216 
+   “(B) Appoint the receiver as the trustee of any escrow account or other funds into 217 
+which rental payments are deposited.  218 
+  “(3) The receiver shall deposit any rental payments collected from tenants of the rental 219 
+property into an escrow account for which the receiver has been appointed by trustee as described in 220 
+paragraph (2)(B) of this subsection.   221 
+  “(3)(A) The receiver shall pay DC Water for water and sewer services provided to the 222 
+rental property using money from the escrow account. 223 
+   “(B) Notwithstanding subparagraph (A), the Court may: 224 
+    “(i) Allow the receiver to expend up to 20% of the rental payments 225 
+collected from tenants for the operation and maintenance of, or improvements to, the rental property; or 226 
+    “(ii) Require that the receiver equitably apportion payments to any other 227 
+person or entity to whom the owner is indebted and with respect to which any court has appointed a receiver, 228
+
+9 
+including any electric company, electricity supplier, or natural gas supplier as described in section 4 of the 229 
+Prohibition of Electric and Gas Utility Service Terminations to Master-Metered Apartment Buildings Act 230 
+of 1980, effective September 13, 1980 (D.C. Law 3-94; D.C. Official Code § 42–3303). 231 
+  “(4) The owner or their agent shall be liable for the reasonable fees and costs determined 232 
+by the Court to be owed to the receiver, which the receiver may recover from the escrow account for which 233 
+the receiver serves as trustee. 234 
+  “(5) Any money remaining after the receiver makes the payments described in paragraph 235 
+(3) of this subsection and recovers fees and costs as described in paragraph (4) of this subsection shall be 236 
+transferred to the owner or their agent.   237 
+  “(6) The Court may require the receiver to provide an accounting of the escrow account or 238 
+other components of the receivership.  239 
+ “(c) Any receivership established pursuant to this section shall be terminated by the Court upon a 240 
+finding that: 241 
+  “(1) The delinquency which was the subject of the original petition has been resolved; 242 
+  “(2) All tenants have entered into an agreement with DC Water to receive service in their 243 
+own names; or  244 
+  “(3) The rental property has been sold and the new owner has assumed liability for 245 
+prospective service supplied by DC Water.  246 
+ “(d) Nothing in this section shall prevent the Mayor, DC Water, or a tenant from pursuing any other 247 
+appropriate action or remedy at law or equity against the owner of the rental property or their agent. 248 
+ “(e) Any owner, agent, lessor, or manager who collects or attempts to collect a rental payment from 249 
+a tenant of the rental property subject to an order appointing a receiver pursuant to this section shall be 250 
+found to be in contempt of court, after due notice and hearing. 251 
+“(f) If the tenant or DC Water prevails in an action to appoint a receiver brought under this section, 252 
+the court shall award costs and reasonable attorney’s fees. 253
+
+10 
+ “(g) An owner, agent, lessor, or manager of a structure or property that is placed in receivership 254 
+pursuant to this section shall not service debt owed to themselves or another structure, property, or entity 255 
+in which the owner or owners have a beneficial interest.”. 256 
+ (f) Section 101(a) (D.C. Official Code § 34–2407.02(a)) is amended to read as follows: 257 
+ “(a)(1)(A) DC Water may initiate a lien proceeding against any property for which the owner’s 258 
+account has been deemed delinquent by filing a lien request with the Recorder of Deeds.  259 
+   “(B) DC Water shall not initiate a lien as described in paragraph (1) of this 260 
+subsection unless: 261 
+    “(i) At least 60 days have elapsed from the determination of delinquency 262 
+as described in section 103(c) of this act;  263 
+    “(ii) The outstanding charges for the property exceed $25,000; and 264 
+    “(iii) DC Water has provided the owner with notice of its intent to initiate 265 
+a lien proceeding against the owner no less than 30 days prior to DC Water’s filing of a certificate of 266 
+delinquency.  267 
+   “(C) A lien request shall include:  268 
+    “(i) The date on which the account for the property was deemed delinquent 269 
+pursuant to section 103(c);  270 
+    “(ii) The account’s current outstanding balance;  271 
+    “(iii) A summary of any prior attempts to resolve the delinquent account 272 
+with the owner; and 273 
+    “(iv) A copy of the notice provided to the owner of DC Water’s intent to 274 
+initiate a lien proceeding against the owner.  275 
+  “(2) The Recorder of Deeds shall approve a lien request filed by DC Water that meets the 276 
+requirements of this section.  277
+
+11 
+  “(3)(A) If the Recorder of Deeds approves of a lien request as described in paragraph (2) 278 
+of this subsection, the Recorder of Deeds shall place a continuing lien against the real property and show 279 
+the amount of unpaid charges for District water and sanitary sewer services.  280 
+   “(B) The continuing lien shall be for the current balance of all unpaid water and 281 
+sewer service charges, penalties, interest, and administrative costs owed by the owner. 282 
+  “(4) If the owner’s account remains delinquent for more than 90 days after the Record of 283 
+Deeds’ approval of the lien request, DC Water may seek enforcement of the lien in the same manner that 284 
+real property tax liens are enforced pursuant to Chapter 13 and Subchapter IV of Chapter 13A of Title 47.  285 
+  “(5)(A) If the owner’s account remains delinquent for more than 180 days after the Record 286 
+of Deeds’ approval of the lien request and the outstanding charges for the property exceed $75,000, the real 287 
+property may be sold at a tax sale in accordance with the provisions for the sale of property for delinquent 288 
+real property taxes pursuant to Chapter 13 of Title 47. 289 
+   “(B) Any real property sold for unpaid water and sanitary sewer service charges is 290 
+not redeemed by the owner within 180 days from the date of sale, including payment of 2% interest for 291 
+each month until the property is redeemed, the Mayor shall furnish a deed to the purchaser or holder of the 292 
+certificate of sale in accordance with § 47-1304. 293 
+  “(6) Any proceeds from an enforcement action taken pursuant to paragraph (4) of this 294 
+subsection or any tax sale of real property as described in paragraph (5) of this subsection shall be 295 
+transmitted to DC Water to satisfy the owner’s outstanding charges. 296 
+  “(7) If an owner whose property is subject to a lien resolves all outstanding charges, DC 297 
+Water shall request, no later than five business days from the owner’s resolution of outstanding charges, 298 
+that the Recorder of Deeds remove the lien from the owner’s property.  299 
+  “(8) The Recorder of Deeds shall, no later than three business days after receipt of a request 300 
+to remove a lien from the owner’s property as described in paragraph (7) of this subsection, remove said 301 
+lien. 302 
+ (g) Section 103 (D.C. Official Code § 34–2407.01) is amended to read follows:  303
+
+12 
+ “Sec. 103. Billing; delinquent accounts; notice to District agencies; disconnection of service for 304 
+delinquency.  305 
+ “(a)(1) DC Water shall, for the most recent period of service, issue a bill to the responsible party, 306 
+as that term is defined in section 1801(6), that itemizes all charges, fees, and credits. 307 
+  “(2) DC Water shall not require, for any bill issued pursuant to paragraph (1) of this 308 
+subsection, payment by the responsible party sooner than 30 calendar days after issuance of the bill. 309 
+“(b)(1) If after 30 days have elapsed from issuance of the bill, full payment has not been made on 310 
+the bill, or the responsible party has not enrolled in a payment plan or disputed the bill as described in 311 
+section 216(f)(1) of the Water and Sewer Authority Establishment and Department of Public Works 312 
+Reorganization Act of 1996, effective April 18, 1996 (D.C. Law 11-111; D.C. Official Code § 34–313 
+2202.16(f)(1)), DC Water shall send notice to the owner that: 314 
+  “(A) The account for the property is past due;  315 
+  “(B) Failure to resolve the past due account by paying the full amount or entering 316 
+into a payment plan will result in the account being deemed delinquent; 317 
+  “(C) Once the account is deemed delinquent, DC Water is authorized to terminate 318 
+service as described in subsection (e); and 319 
+  “(D) Assistance may be sought through the Office of People’s Counsel (“OPC”), 320 
+the Office of the Tenant Advocate (“OTA”), and any other entity that DC Water ascertains may be a 321 
+resource to the responsible party  322 
+ “(2) The notice required by paragraph (1) of this subsection shall be developed in 323 
+consultation with OTA and OPC, and sent to the responsible party’s address of record via first class mail.  324 
+“(c)(1) If full payment has not been made, or the responsible party has not entered into a payment 325 
+plan after 30 days have elapsed from issuance of the notice described in subsection (b), DC Water shall 326 
+deem the responsible party’s account delinquent and send notice to the owner stating: 327 
+  “(A) That the account has been deemed delinquent;   328 
+  “(B) The amount due; and  329
+
+13 
+  “(C) That DC Water is authorized to terminate service as described in subsection 330 
+(e).   331 
+ “(2) The notice required by paragraph (1) of this subsection shall, no more than five 332 
+business days after deeming the responsible party’s account delinquent, be: 333 
+  “(A) Sent to the responsible party’s address of record via first class mail; 334 
+“(B) For any multi-unit property occupied by an owner-occupant or any rental 335 
+property occupied by a tenant, posted at each entry to the affected multi-unit building or rental property; 336 
+and:     337 
+ “(i) Posted each affected unit within the multi-unit building or rental 338 
+property, if there is public access to each unit; or  339 
+ “(ii) Mailed to each unit within the rental property occupied by a tenant or 340 
+owner-occupant.  341 
+  “(3) The notice required by paragraph (1) of this subsection shall be developed in 342 
+consultation with the Office of the Tenant Advocate (“OTA”) and the Office of People’s Counsel (“OPC”). 343 
+ “(d)(1) If the account belonging to an owner or unit owners’ association for a rental property that 344 
+is occupied by a tenant or owner-occupant is deemed delinquent pursuant to this section, DC Water shall, 345 
+within five business days, notify the Department of Buildings (“DOB”), the Department of Licensing and 346 
+Consumer Protection (“DLCP”), Department on Disability Services (“DDS”), the Department of Aging 347 
+and Community Living (“DACL”) the Office of the Attorney General (“OAG”), OPC, and OTA of the 348 
+owner’s delinquency, including: 349 
+   “(A) The name of the owner; 350 
+   “(B) The address for which the account is delinquent;  351 
+   “(C) The amount owed by owner; 352 
+   “(D) The total number of days or months the owner’s account has been delinquent, 353 
+including any time the owner was enrolled in a payment plan with which the owner failed to comply; and 354
+
+14 
+   “(E) The earliest date by which DC Water may disconnect water and sewer service 355 
+under the notice requirements of section 103(e) of this act.  356 
+ “(e) Upon receipt of the information from DC Water required by subsection (d)(1): 357 
+  “(1) DACL shall: 358 
+   “(A) Immediately notify DC Water if it believes that an individual 65 years of age 359 
+or older resides in the rental property or multi-unit building; and 360 
+   “(B) Directly engage the resident to confirm their age and offer any appropriate 361 
+supports or services.  362 
+  “(2) DDS shall: 363 
+   “(A) Immediately notify DC Water if it believes that a person with a disability 364 
+resides in the rental property or multi-unit building; and 365 
+   “(B) Directly engage the resident to confirm their disability and offer any 366 
+appropriate supports or services.  367 
+  “(3) DOB and DLCP shall keep a record of the delinquency for the purposes of enforcing 368 
+section 3(a)(5) of the Clean Hands Before Receiving a License or Permit Act of 1996, effective May 11, 369 
+1996 (D.C. Law 11-118; D.C. Official Code § 47–2862(a)(5)). 370 
+“(f)(1) DC Water may terminate water service to any building, property, or location only if the 371 
+responsible party’s account has been deemed delinquent pursuant to this section.  372 
+ “(2) After an account has been deemed delinquent pursuant to this section, DC Water is 373 
+authorized to terminate service no sooner than: 374 
+  “(A) 60 days after the account has been deemed delinquent pursuant to this section, 375 
+for any property occupied by the owner, or any tenant or owner-occupant that receives service in their own 376 
+name; or  377 
+  “(B) 90 days after the account has been deemed delinquent pursuant to this section, 378 
+for any tenant or owner-occupant who does not receive service in their own name.  379
+
+15 
+  “(C) 120 days after the account has been deemed delinquent pursuant to this 380 
+section, for any tenant or owner-occupant who DACL has determined to be a person 65 years of age or 381 
+older or who DDS has determined to be a person with a disability.  382 
+ “(3) Notwithstanding paragraph (2) of this subsection, for any rental property to which DC 383 
+Water cannot terminate water and sewer service on a unit-by-unit basis, DC Water is authorized to terminate 384 
+service no sooner than 100 days after the account has been deemed delinquent pursuant to this section, for 385 
+any tenant or owner-occupant who does not receive service in their own name. 386 
+ “(g)(1) Notwithstanding any other law, DC Water shall not shut off residential water or sewage 387 
+service due to the responsible party’s delinquent account during any day preceding, and any day of, a 388 
+forecast of extreme temperature or if the forecast of extreme temperature precedes a holiday or weekend 389 
+day, on any day during the holiday or weekend. 390 
+  “(2) For the purposes of this subsection, the term “forecast of extreme temperature” means 391 
+a National Weather Service (“NWS”) forecast for the District of Columbia during any time of day of: 392 
+   “(A) 95 degrees Fahrenheit or above during any time of the day, based on the NWS 393 
+actual temperature forecasts or the NWS heat and wind chill indices, whichever is higher; or 394 
+   “(B) 32 degrees Fahrenheit or below during any time of the day, based on the NWS 395 
+actual temperature forecasts or the NWS heat and wind chill indices, whichever is lower.  396 
+ “(h) DC Water shall submit on the 10th day of each month, the following information to the Council, 397 
+the Office of the Attorney General, the Office of People’s Counsel, and the Office of the Tenant Advocate 398 
+for the preceding month: 399 
+  “(1) The number of properties that received a notice of disconnection, including a separate 400 
+count of the number of multi-unit residential properties with the owner as the responsible party that received 401 
+a notice of disconnection; 402 
+  “(2) Of those properties that were issued a notice, the number of properties that experienced 403 
+a disconnection; 404
+
+16 
+  “(3) Of those properties that experienced a disconnection, the number of properties that 405 
+had service restored; 406 
+  “(4) The number of properties that entered into a payment plan; 407 
+  “(5) The number of properties that have had bill payment assumed by the tenants through 408 
+a tenant association or by direct agreement with tenants;  409 
+  “(6) The number of properties that have been placed in receivership; and 410 
+  “(7) The number of properties for which DC Water has requested a lien. 411 
+“(i) DC Water shall provide translations of the notices required under subsections (b)(1) and (c)(1) 412 
+of this section in any non-English language spoken by a limited or no-English proficient population that 413 
+constitutes 3% or 500 individuals, whichever is less, of the population served or encountered at the 414 
+property.”. 415 
+ Sec. 3. Section 216 of the Water and Sewer Authority Establishment and Department of Public 416 
+Works Reorganization Act of 1996, effective April 18, 1996 (D.C. Law 11-111; D.C. Official Code § 34-417 
+2202.16), is amended as follows: 418 
+(a) Subsection (d) is amended to read as follows: 419 
+ “(d) The Authority may impose additional charges and penalties for late payment of bills 420 
+not exceeding a charge of 10% for any charges or bills remaining unpaid for more than 30 days, and a 421 
+penalty at the rate of 1% per month compounded monthly for any charges or bills that remain unpaid for 422 
+more than 60 days.”. 423 
+(b) Subsection (e) is repealed. 424 
+(c) Subsection (f) is amended to read as follows:  425 
+ “(f)(1) A responsible party, as that term is defined in section 1801(6) of the District of Columbia 426 
+Public Works Act of 1954, effective May 18, 1954 (68 Stat. 101; D.C. Official Code § 34–2301(6)), may 427 
+dispute a bill issued to them by the Authority, provided that the responsible party transmits the dispute to 428 
+the Authority in writing, through an online application, or by telephone no later than 30 days after rendition 429
+
+17 
+of the bill being disputed as described in section 103(a)(1) of the District of Columbia Public Works Act of 430 
+1954, effective May 18, 1954 (68 Stat. 101; D.C. Official Code § 34–2407.01).   431 
+  “(2) If a residential customer's dispute meets the requirements of this subsection, the 432 
+Authority shall suspend the residential customer's obligation to pay the disputed bill until the customer has 433 
+received the result of the Authority's investigation of the dispute in writing or by email. 434 
+  “(3) The Authority shall include on the front of a residential customers' bill the specific 435 
+date by which a dispute must be communicated to the Authority by a responsible party, or someone acting 436 
+on behalf of the responsible party.  437 
+ “(4) If a responsible party disputes a bill in accordance with the requirements of this 438 
+subsection, the Authority shall review: 439 
+  “(A) The bill being disputed; 440 
+  “(B) Any bill issued between the date the responsible party made their dispute 441 
+pursuant to paragraph (1) and the resolution of that challenge; and 442 
+   “(C) The two bills preceding the bill being disputed. 443 
+ “(5)(A) The Authority shall respond to a dispute made in accordance with this subsection 444 
+no later than 30 calendar days from the date it was received.”. 445 
+ Sec. 5. Grants for legal assistance for water service ratepayers. 446 
+ (a) The Director of the Department of Energy and Environment (“Director”) may issue grants to 447 
+any eligible nonprofit organization or private entity for the provision of pro bono legal services to DC Water 448 
+ratepayers related to water and sewer service disconnection, petitions for receivership, or the initiation of a 449 
+lien for water charges.  450 
+ (b) The Director, pursuant to subchapter I of Chapter 5 of Title 2, may issue rules to implement this 451 
+section. 452 
+ Sec. 6. Regulations. 453 
+ (a)(1) No later than 90 days after the effective date of this act, DC Water shall issue new regulations 454 
+that conform to the requirements of this act. 455
+
+18 
+  (2) DC Water shall submit the proposed regulations to the Council for a 45-day period of 456 
+review, excluding Saturdays, Sundays, legal holidays, and days of Council recess. The Council may approve 457 
+the proposed regulations in whole or in part. If the Council does not disapprove the proposed regulations 458 
+within this 45-day period, the regulations shall be deemed approved. 459 
+ Section 7. Fiscal impact statement.  460 
+ The Council adopts the fiscal impact statement in the committee report as the fiscal impact 461 
+statement required by section 4a of the General Legislative Procedures Act of 1975, approved October 16, 462 
+2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).  463 
+ Sec. 7. Applicability. 464 
+ Section 3 shall apply as of April 18, 1996. 465 
+ Sec. 8. Effective date.  466 
+ This act shall take effect after approval by the Mayor (or in the event of veto by the 467 
+Mayor, action by the Council to override the veto), a 30-day period of congressional review as provided in 468 
+section 602(c)(1) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 813; 469 
+D.C. Official Code § 1-206.02(c)(1)), and publication in the District of Columbia Register. 470

@@ -1,0 +1,238 @@
+COUNCIL OF THE DISTRICT OF COLUMBIA 
+The John A. Wilson Building 
+1350 Pennsylvania Avenue, NW 
+Washington, D.C. 20004 
+ 
+  
+ 
+ 
+Statement of Introduction 
+E911 Modernization Amendment Act of 2025 
+ December 15, 2025  
+ 
+Today, along with Councilmember Matthew Frumin, I am introducing the E911 Modernization 
+Amendment Act of 2025. This legislation would update and strengthen the District’s emergency 
+communications system by modernizing the 911 and 311 telecommunications fees, clarifying the 
+allowable uses of the Emergency and Non-Emergency Number Telephone Calling Systems Fund, 
+and establishing an updated service fee structure that reflects the real costs of operating a 21st-
+century emergency response system. 
+ 
+For more than two decades, the District’s Emergency and Non-Emergency Number Telephone 
+Calling Systems Fund has supported core 911 operations, including call handling and routing. 
+While this foundation has been critical, the technological landscape and the expectations of 
+residents have evolved significantly. Across the country, jurisdictions are transitioning to Next 
+Generation 911 (NG911), an Internet Protocol based system that enables voice, text, photos, video, 
+and precise geolocation. These capabilities are essential for delivering accurate, real-time 
+information to emergency responders and for ensuring that residents can reach 911 using the 
+communication methods they rely on every day. 
+ 
+The Office of Unified Communications (OUC) has already made progress toward transitioning to 
+a modern emergency communications system and has demonstrated a strong commitment to this 
+work. Each year, OUC handles hundreds of thousands of emergency and non-emergency calls, 
+and its infrastructure must be equipped to support rapid call routing, improved resiliency, enhanced 
+cybersecurity protections, and seamless coordination across public safety agencies. The proposed 
+funding will allow OUC to continue and expand its modernization efforts, helping the District 
+remain a leader in emergency response technology and service delivery. These critical upgrades 
+require sustained and dedicated funding, rather than one-time grants or unpredictable general fund 
+allocations, to ensure the system keeps pace with evolving technology and the needs of District 
+residents. 
+ 
+This legislation would:  
+ 
+• Modernize outdated definitions by updating statutory terms to include wireless, wireline, VoIP, 
+IP-based, and prepaid wireless services, and by adding definitions for “access line,” “family or 
+shared plan,” and “Next Generation 911.”  
+ 
+• Update the E911 Fund’s allowable uses by explicitly authorizing funding for Next Generation 
+911 infrastructure, IP-based networks, GIS systems, cybersecurity, multimedia-to-911 
+Christina Henderson Committee Member 
+Councilmember, At-Large Facilities 
+Chairperson, Committee on Health Human Services 
+ Transportation and the Environment
+
+COUNCIL OF THE DISTRICT OF COLUMBIA 
+The John A. Wilson Building 
+1350 Pennsylvania Avenue, NW 
+Washington, D.C. 20004 
+ 
+  
+ 
+capabilities, and training, and by directing OUC to develop and maintain a Districtwide NG911 
+implementation and readiness plan. 
+ 
+• Revise the 911 surcharge structure by establishing a uniform $1.00 monthly fee per access line 
+across non-prepaid technologies, converting the PBX fee to a per-trunk model, and increasing 
+the prepaid wireless surcharge from 2% to 5%. 
+ 
+• Strengthen oversight and accountability by requiring annual reporting on revenues, 
+expenditures, performance metrics, and NG911 progress, and by mandating an annual 
+independent audit conducted by the Chief Financial Officer. 
+ 
+• Ensure long-term sustainability by requiring a triennial review of the surcharge that considers 
+inflation (CPI-U), call volume trends, modernization costs, and overall system needs. 
+ 
+The Council has prioritized the modernization and integrity of the District’s emergency response 
+system through prior oversight and legislative action. This bill would advance that commitment 
+by ensuring that OUC has the resources to build a resilient, technologically advanced, and reliable 
+emergency communications network that meets national standards and serves residents with the 
+urgency and accuracy they deserve. 
+ 
+With this legislation, the District takes an important step toward a safer and more responsive public 
+safety system. A strong and sustainable E911 infrastructure is foundational to every emergency 
+response. I look forward to working with my colleagues, OUC, public safety agencies, and 
+telecommunications partners to move this bill forward and ensure the District’s emergency 
+communications system is equipped for the future.
+
+_________________________  _____________________________ 1 
+Councilmember Matthew Frumin Councilmember Christina Henderson 2 
+ 3 
+ 4 
+ 5 
+  6 
+  7 
+A BILL     8 
+  9 
+_______________  10 
+  11 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA  12 
+  13 
+___________________  14 
+  15 
+  16 
+To amend the Emergency and Non-Emergency Number Telephone Calling Systems Fund Act of 17 
+2000 to modernize the District’s 911 and 311 telecommunications tax and fees, to update 18 
+the structure and allowable uses of the Emergency and Non-Emergency Number Telephone 19 
+Calling Systems Fund, and to establish an updated service fee on telecommunication 20 
+services to support the District’s emergency communications system, including call routing, 21 
+technology upgrades, staffing, and operations..  22 
+  23 
+BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act 24 
+may be cited as the “E911 Modernization Amendment Act of 2025.”  25 
+Sec. 2. The Emergency and Non-Emergency Number Telephone Calling Systems Fund Act 26 
+of 2000, effective October 19, 2000 (D.C. Law 13-172; D.C. Official Code § 34-1801 et seq.), is 27 
+amended as follows:  28 
+(a) Section 602 (D.C. Official Code § 34-1801) is amended as follows:  29 
+ (1) A new paragraph (1A) is added to read as follows:  30 
+ “(1A) “Access line” means a wireline, Voice over Internet Protocol (“VoIP”) line, 31 
+wireless telephone number, trunk, or other communication path that can initiate a 911 call. 32 
+ (2) A new paragraph (2B) is added to read as follows:  33
+
+2  
+  
+ “(2B) “Family or shared plan” means a telecommunications service plan offered by a 34 
+provider under a single customer account that includes multiple individual access lines or mobile 35 
+numbers, whether the plan is marketed as a family plan, shared plan, multi-line plan, group plan, or 36 
+any similar offering that allows two or more users to share voice, text, data, or billing features. Each 37 
+individual access line or mobile number capable of accessing or connecting with the District’s 911 38 
+system shall be considered a separate line for purpose of assessing the tax or fee under this chapter.”   39 
+(3) Paragraph (5) is amended to read as follows:   40 
+“(5) “Local exchange service” means a telecommunications service provided within an 41 
+exchange area, including VoIP, wireless services, interconnected Internet Protocol (“IP”)-based 42 
+services, and any voice-capable telecommunications service that enables connection to 911.”  43 
+ (4) A new paragraph (5A) is added to read as follows:  44 
+ “(5A) “Next Generation 911” means an IP-based, secure, and resilient emergency 45 
+communications system designed to enhance and modernize the District’s 911 system, including 46 
+enabling the transmission of voice, text, data, video, and geolocation information between the public 47 
+and public safety answering points and among emergency response agencies.”.  48 
+ (5) Paragraph (6C) is amended to read as follows:  49 
+“(6C) “Provider” means a person that provides wireline, wireless, VoIP, or prepaid 50 
+telecommunications services to consumers within the District.”. 51 
+(b) Subsection 603(c) (D.C. Official Code § 34-1802(c)) is amended to read as follows: 52 
+“(c) Money in the Fund shall be used for the following purposes as it relates to the District’s 53 
+911 system: 54 
+“(1) Planning, implementing, operating, maintaining, and modernizing the District’s 55 
+911 system, including the next generation 911 infrastructure;  56
+
+3  
+  
+“(2) Internet Protocol-based emergency services networks;  57 
+“(3) Call-handling equipment;  58 
+“(4) Geolocation and geographic information systems;  59 
+“(5) Cybersecurity;  60 
+“(6) Text and multimedia communications capabilities;  61 
+“(7) Personnel training;  62 
+“(8) Developing, maintaining, and implementing a Districtwide next generation 911 63 
+implementation and readiness plan to ensure that OUC’s operations, infrastructure, and systems meet 64 
+national next generation 911standards and operational requirements; and  65 
+“(9) Necessary costs associated with personnel, technology hardware, software and 66 
+software maintenance, contractual services, public outreach, training, supplies, and equipment 67 
+required to support the District’s 911 system.”. 68 
+(c) Section 604(a) (D.C. Official Code § 34-1803(a)) is amended to read as follows:  69 
+“(a)(1) There is imposed upon all providers that enable end users to initiate a 911 call or 70 
+communication to the District’s 911 system, a $1.00 tax calculated based on each individual line, 71 
+voice channel, or equivalent sold or leased in the District of Columbia.  72 
+“(a)(2) For interconnected VoIP service, as defined by 47 C.F.R. § 9.3, $1.00 for each line, 73 
+trunk, or path that can access to, connect with, or interface with 911 service based on primary place of 74 
+use. 75 
+“(2) The PBX fee per station shall be converted into a per-trunk fee based on a ratio of 15 PBX 76 
+stations to one PBX trunk.”.  77 
+(b) Section 604b (D.C. Official Code § 34-1803.02) is amended as follows:  78
+
+4  
+  
+ “(A) Subsection (a)(1) is amended by striking the phrase “A prepaid  wireless E911 79 
+charge of 2.0% of the sales price per retail transaction occurring in the District shall be collected by 80 
+the seller from the consumer, and remitted to the District.” and inserting the phrase “A prepaid 81 
+wireless E911 charge of 5.0% of the sales price per retail transaction occurring in the District shall be 82 
+collected by the seller from the consumer, and remitted to the District.” in its place.  83 
+ “(B) Subsection (f) is repealed.  84 
+(c) Section 605a (D.C. Official Code § 34-1804) is amended to read as follows:  85 
+“Sec. 605a Reporting.  86 
+“(a) (1) By February 1, 2027, and annually thereafter by December 31, the Mayor shall submit 87 
+to the Council a report on the Fund, that shall include the following information:   88 
+“(A) The total revenue collected during the preceding fiscal year, disaggregated 89 
+by wireline, wireless, Voice over Internet Protocol (“VoIP”), and prepaid sources; 90 
+“(B) The Fund balance at the beginning and end of the fiscal year; 91 
+“(C) An itemized list of all expenditures from the Fund, including capital, 92 
+operational, and personnel costs; 93 
+   “(D) A description of the status of all ongoing and planned next generation 911 94 
+projects or system upgrades, including implementation timelines, key milestones, and anticipated 95 
+costs; 96 
+   “(E) An assessment of the sufficiency of surcharge revenue to meet the 97 
+District’s operational and modernization needs, including any recommended adjustments to surcharge 98 
+rates; and 99
+
+5  
+  
+“(F) A summary of performance indicators for the Office of Unified 100 
+Communications, including call-handling metrics, technology performance indicators, and next 101 
+generation 911 readiness benchmarks. 102 
+  “(2) By April 1, 2027, and annually thereafter by April 1, the Chief Financial Officer 103 
+shall conduct an audit and submit an audit report to the Mayor and the Council detailing all revenues 104 
+deposited into, and expenditures made from, the Fund, which shall include:   105 
+  “(A) Verification of the surcharge amounts collected and remitted by providers 106 
+and sellers;  107 
+  “(B) Evaluation of internal controls to prevent misuse, diversion, or improper 108 
+expenditure of funds;  109 
+  “(C) Assessment of compliance with the authorized uses described in section 110 
+603(c);  111 
+  “(D) Review of procurement practices associated with next generation 911 and 112 
+911 system upgrades; and  113 
+  “(E) Identification of any material weaknesses, irregularities, or deficiencies, 114 
+and recommendations for corrective action.  115 
+ “(b) Beginning October 1, 2029, and every 3 years thereafter, the Mayor shall conduct a 116 
+comprehensive review of the tax imposed by this act. By December 31, 2029, and by December 31 117 
+each subsequent review year, the Mayor shall submit to the Council a written recommendation 118 
+indicating whether the rates should be adjusted based on the following factors: 119 
+“(1) The Consumer Price Index for All Urban Consumers for the Washington-120 
+Arlington-Alexandria Metropolitan Area, including the cumulative percentage change 121 
+in the index since the prior rate adjustment, which shall serve as the minimum 122
+
+6  
+  
+recommended increase to the surcharge unless the Mayor determines that a different 123 
+adjustment is warranted based on operational need or fiscal impact;  124 
+“(2) Call volume trends and overall system demand; 125 
+“(3) Costs associated with next generation 911 upgrades and lifecycle replacements; 126 
+“(4) Personnel and training requirements; 127 
+“(5) Long-term capital planning for emergency communications infrastructure; and 128 
+“(6) Availability of federal grants or matching fund requirements.”.  129 
+Sec. 3. Fiscal impact statement.  130 
+The Council adopts the fiscal impact statement in the committee report as the fiscal impact 131 
+statement required by section 4a of the General Legislative Procedures Act of 1975, approved 132 
+October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).  133 
+Sec. 4. Effective date.  134 
+This act shall take effect following approval by the Mayor (or in the event of veto by the 135 
+Mayor, action by the Council to override the veto) and a 30-day period of congressional review as 136 
+provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 24, 137 
+1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)). 138

@@ -1,0 +1,1837 @@
+1 
+C o u n c i l  o f  t h e  D i s t r i c t  o f  C o l u m b i a  
+C O M M I T T E E  ON P U B L I C  W O R K S  &  O P E R A T I O N S   
+1 3 5 0  P e n n s y l v a n i a  A v e n u e  N W ,  S u i t e  1 1 2 ,  W a s h i n g t o n ,  D C  2 0 0 0 4       
+TO:  Nyasha Howard, Secretary of the Council 
+FROM: Brianne K. Nadeau, Chairperson of the Committee on Public Works & Operations 
+RE: For-Hire Passenger Service Reform Act of 2026 
+DATE: September 25, 2026 
+ 
+ 
+Secretary Howard, 
+ 
+ Today I am introducing the “For-Hire Passenger Service Reform Act of 2026”, a comprehensive 
+package that modernizes the District’s laws governing for-hire vehicles in order to protect consumers 
+and the public, streamline regulations, and ensure that the District has strong tools to investigate and 
+enforce unlicensed and illegal operators. This text was developed based on lessons learned from the 
+Committee’s oversight roundtable on “The State of the For-Hire Vehicle Industry” held on May 26 and 
+June 3, 2026, and after an extensive review of comparable for-hire statutes and regulations in more than 
+20 other jurisdictions, including peer cities and states as well as international best practices. 
+ Introducing this legislation today advances recommendations approved by the Committee on 
+Public Works and Operations on September 16, 2026, when the Committee adopted the “Preliminary 
+Report on Unauthorized Private For-Hire Vehicle Investigation”. This investigation by the Committee 
+has found that the District’s current for-hire vehicle laws contain extensive vulnerabilities for 
+exploitation by bad-faith actors. The report as adopted by the Committee recommends nothing less than 
+a comprehensive update of relevant laws, including the following priorities: 
+• Ensuring that all for-hire vehicle activity is covered by the law, even if some or all of a trip in the 
+District occurs without direct monetary compensation; 
+• Ensuring that for-hire vehicle companies cannot offload their obligations to ensure safe operation 
+by shifting the regulatory burden of supervising driver activity to the District, in areas that the 
+District cannot easily supervise;
+
+2 
+• Leveling the playing field in the industry by right sizing the regulatory burden and barriers to 
+entry for operators; 
+• Establishing definitions based on types of service and without multiple co-dependencies. 
+• Ensuring that autonomous vehicles providing for-hire trips are covered by the FHV Law and 
+subject to the same service standards as any comparable for-hire trip; and 
+• Providing dignified and equitable access to WAV service. 
+ 
+ Included in this proposal are updates to the District’s for-hire laws that align with international 
+best practices – addressing criticisms that have been identified by public witnesses, industry experts, and 
+agency partners over the course of many years. These reforms will break down barriers in the District’s 
+highly unequal and divided for-hire vehicle market, more fairly apply rules across the industry, remove 
+outdated requirements, bolster consumer protections and price transparency, and create more safeguards 
+against discrimination. In particular, the bill includes provisions to make for-hire service more 
+accessible, create a clearer and more enforceable “level of service” standard for wheelchair-accessible 
+vehicles, and establish a dedicated Accessible Passenger Service Fund.  
+ In advance of a hearing, the Committee will provide the public and industry stakeholders with 
+further background materials that summarize the provisions of this legislation. 
+ 
+ 
+ 
+ 
+NOTE: This legislation does not amend or include any new policies or regulations related to carriers-for-hire 
+(food and parcel delivery). While conforming amendments may be needed to ensure consistency in terms used, 
+any changes to the law regarding carriers-for-hire are outside the scope of this bill.
+
+1 
+ 
+A BILL 
+ 
+_________________________ 
+ 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA 
+_________________________ 
+ 
+ 
+To amend Title 47 of the District of Columbia Official Code to establish regulations governing 1 
+for-hire passenger service and strengthening the ability of the Department of For-Hire 2 
+Vehicles to enforce unlicensed activity, to define for-hire passenger service, to categorize 3 
+for-hire passenger service as consisting of pre-arranged or street hail service, to authorize 4 
+the Department of For-Hire Vehicles to establish a provisional licensing program for an 5 
+emerging for-hire passenger service model, to authorize reciprocal agreements with other 6 
+jurisdictions, to establish minimum insurance coverage requirements for motor vehicles 7 
+used in passenger for-hire service, to establish a definition for dispatch service, to require 8 
+the licensing of dispatch service providers, to define smart meter systems for use in street 9 
+hail service, to require operator agreements, to specify an ongoing and affirmative 10 
+responsibility of dispatch service providers to provide an equivalent level of service to 11 
+individuals with disabilities and establish level-of-service standards for wheelchair 12 
+accessible vehicles, to require the maintenance of trip records, to establish data 13 
+specifications to be used by the Department of For-Hire Vehicles, to provide for the 14 
+establishment of taxi stands and geofencing policies, to replace existing for-hire taxes and 15 
+surcharges with a vehicle miles travelled charge on for-hire passenger service, to require 16 
+the registration of vehicles providing for-hire passenger service and vehicle fleet providers, 17 
+to establish uniform vehicle standards and requirements for street hail vehicles, to establish 18 
+requirements of wheelchair-accessible vehicles, to require a uniform emblem denoting 19 
+registered for-hire passenger vehicles, to establish operator licensing and provide for 20 
+provisional operator licensing, to establish operator license endorsements for street hail and 21 
+wheelchair-accessible vehicle service and set forth requirements thereof, to establish 22 
+procedures for operator background checks and driving history checks, to define fare 23 
+structures applicable to for-hire passenger service, to specify fare transparency standards, 24 
+to prohibit surveillance-based fare discrimination, to establish a policy of non-25 
+discrimination in for-hire passenger service, to allow for the designation of certain areas of 26 
+the District of Columbia as underserved areas based on an established need for improved 27 
+or additional service, to establish a For-Hire Industry Service Fund, to establish an 28 
+Accessible Passenger Service Fund and an accessible vehicle surcharge, and to provide for 29 
+strengthened cease-and-desist authority and enforcement capabilities by the Department of 30 
+For-Hire Vehicles for violations of this act. 31 
+ 32 
+ 
+_____________________________ 
+Councilmember Brianne K. Nadeau
+
+2 
+ BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 33 
+act may be cited as the “For-Hire Passenger Service Reform Act of 2026”. 34 
+ Sec. 2. Title 47 of the District of Columbia Official Code is amended by adding a new 35 
+chapter 28A to read as follows: 36 
+ “CHAPTER 28A. FOR-HIRE VEHICLES. 37 
+“TABLE OF CONTENTS 38 
+“SUBCHAPTER I. GENERAL PROVISIONS. ................................................................ 3 39 
+“§ 47-2890.01. General Definitions. ............................................................................... 4 40 
+“§ 47-2890.02. For-hire passenger service defined. ....................................................... 9 41 
+“§ 47-2890.03. Classifications of for-hire passenger service. ...................................... 11 42 
+“§ 47-2890.04. Emerging markets. ............................................................................... 12 43 
+“§ 47-2890.05. Reciprocal agreements. ........................................................................ 14 44 
+“§ 47-2890.06. Insurance. ............................................................................................. 14 45 
+“§ 47-2890.07. General licensing provisions. ............................................................... 18 46 
+“SUBCHAPTER II. DISPATCH AND METER PROVIDERS. ..................................... 18 47 
+“§ 47-2891.01. Dispatch service defined. ..................................................................... 18 48 
+“§ 47-2891.02. Dispatch service provider license. ....................................................... 19 49 
+“§ 47-2891.03. Dispatch service provider requirements. ............................................. 21 50 
+“§ 47-2891.04. Smart meter system requirements. ....................................................... 23 51 
+“§ 47-2891.05. Operator agreements. ........................................................................... 25 52 
+“§ 47-2891.06. Operator payment and tips. .................................................................. 27 53 
+“§ 47-2891.07. Wheelchair-accessible trips – level of service standard. ..................... 27 54 
+“§ 47-2891.08. Maintenance of trip records. ................................................................ 29 55 
+“§ 47-2891.09. Data specifications. .............................................................................. 30 56 
+“§ 47-2891.10. Taxi stands and geofencing policy....................................................... 30 57 
+“§ 47-2891.11. Vehicle-miles travelled fee. ................................................................. 31 58 
+“SUBCHAPTER III. PASSENGER VEHICLES............................................................. 32 59 
+“§ 47-2892.01. Vehicle registration. ............................................................................. 32 60 
+“§ 47-2892.02. Uniform vehicle requirements. ............................................................ 33 61 
+“§ 47-2892.03. Vehicle safety inspection. .................................................................... 34 62 
+“§ 47-2892.05. Requirements of street hail vehicles. ................................................... 35 63
+
+3 
+“§ 47-2892.06. Requirements of wheelchair-accessible vehicles. ................................ 37 64 
+“§ 47-2892.07. Vehicle fleet provider. ......................................................................... 37 65 
+“§ 47-2892.08. Vehicle lease agreements. .................................................................... 38 66 
+“§ 47-2892.09. Vehicle emblem and trade dress. ......................................................... 39 67 
+“SUBCHAPTER IV. OPERATORS. ............................................................................... 40 68 
+“§ 47-2893.01. Operator license. .................................................................................. 40 69 
+“§ 47-2893.02. Provisional operator license. ................................................................ 43 70 
+“§ 47-2893.03. Street hail operator endorsement. ........................................................ 44 71 
+“§ 47-2893.04. Wheelchair-accessible vehicle operator endorsement. ........................ 45 72 
+“§ 47-2893.05. Background check and driving history. ............................................... 46 73 
+“§ 47-2893.06. Suspension of operator license . .......................................................... 48 74 
+“SUBCHAPTER V. PASSENGER RIGHTS AND CONSUMER PROTECTION. ....... 49 75 
+“§ 47-2894.01. Fare structures. ..................................................................................... 49 76 
+“§ 47-2894.02. Street hail and accessible rate structures.............................................. 50 77 
+“§ 47-2894.03. Fare transparency. ................................................................................ 52 78 
+“§ 47-2894.04. Prohibition on surveillance-based fare discrimination. ....................... 53 79 
+“§ 47-2894.05. Accessibility and non-discrimination. ................................................. 54 80 
+“§ 47-2894.06. Underserved areas. ............................................................................... 56 81 
+“SUBCHAPTER VI. AGENCY ORGANIZATION. ...................................................... 57 82 
+“§ 47-2895.01. Department of For-Hire Vehicles – Established. ................................. 57 83 
+“§ 47-2895.02. Department of For-Hire Vehicles – Director. ...................................... 59 84 
+“§ 47-2895.03. Advisory Council. ................................................................................ 60 85 
+“§ 47-2895.04. For-Hire Industry Service Fund. .......................................................... 61 86 
+“§ 47-2895.05. Accessibility Advisory Committee. ..................................................... 62 87 
+“§ 47-2895.06. Accessible Passenger Service Fund. .................................................... 63 88 
+“SUBCHAPTER VII. ENFORCEMENT. ........................................................................ 64 89 
+“§ 47-2896.01. Complaint procedures. ......................................................................... 64 90 
+“§ 47-2896.02. Vehicle Inspection Officers. ................................................................ 65 91 
+“§ 47-2896.03. Cease-and-desist orders. ...................................................................... 66 92 
+“§ 47-2896.04. Immobilization and impoundment of a vehicle for hire. ..................... 67 93 
+“§ 47-2896.05. Construction. ........................................................................................ 69 94 
+“§ 47-2896.07. Fees and penalties. ............................................................................... 69 95 
+ 96 
+ “SUBCHAPTER I. GENERAL PROVISIONS. 97
+
+4 
+ “§ 47-2890.01. General Definitions. 98 
+ “For the purposes of this chapter, the term: 99 
+  “(1) “Affiliated operator” means an operator providing for-hire passenger service 100 
+by utilizing services provided by a dispatch service provider. 101 
+  “(2) “Affiliated vehicle” means a vehicle used to provide for-hire passenger 102 
+service in association with a dispatch service provider. 103 
+  “(3) “Autonomous vehicle”, “autonomous driving system” and “autonomous 104 
+driving system manufacturer” shall have the same meaning as set forth in section 2 of the 105 
+Autonomous Vehicle Act of 2012, effective April 23, 2013 (D.C. Law 19-278; D.C. Official 106 
+Code § 50-2351). 107 
+  “(4) “Base fare” means the fare charged to a passenger prior to the addition of any 108 
+fees, surcharges, or fare modifiers. 109 
+  “(5) “Carpooling” means the transportation of one or more passengers on a trip to 110 
+which all of the following applies: 111 
+   “(A) The transportation of the passengers is incidental to the main purpose 112 
+of the trip; 113 
+   “(B) The transportation is not the result of soliciting for passengers by a 114 
+driver or any other person; 115 
+   “(C) The consideration for the trip is limited to:  116 
+    “(i) An undertaking by a passenger to carry the operator on a 117 
+similar trip on the same basis; 118 
+    “(ii) The payment by a passenger of a share of the costs incurred in 119 
+making the trip, with neither the operator nor any other person making a profit from the trip. 120
+
+5 
+  “(6) “Charitable passenger service” means the transportation of one or more 121 
+passengers on a trip to which all of the following applies: 122 
+   “(A) The main purpose of the trip is to carry the passengers; 123 
+   “(B) The trip itself is made for or on behalf of: 124 
+    “(i) A government entity; or 125 
+    “(ii) A nonprofit entity, as part of its stated charitable work for 126 
+members of the public; 127 
+   “(C) The operator receives no renumeration for the trip, except as 128 
+provided in sub-paragraph (D); 129 
+   “(D) The consideration for the trip is limited to the payment, by a 130 
+passenger or the entity set forth in paragraph (B), of all or part of the costs incurred in making 131 
+the trip, with neither the operator nor any other person making, or intending to make, a profit 132 
+from the trip. 133 
+  “(7) “Commercial AV fleet endorsement” shall have the same meaning as 134 
+established in section 2 of the Autonomous Vehicle Act of 2012, effective April 23, 2013 (D.C. 135 
+Law 19-278; D.C. Official Code § 50-2351). 136 
+  “(8) “Costs incurred in making the trip” means the following costs specific to an 137 
+individual trip, or proportionally imputed to that trip: 138 
+   “(A) Fuel costs; 139 
+   “(B) Maintenance costs; 140 
+   “(C) Parking costs; 141 
+   “(D) Toll costs; 142 
+   “(E) Insurance costs;  143
+
+6 
+   “(F) Vehicle depreciation; and 144 
+   “(G) Any other cost determined by the Department. 145 
+  “(9) “Customer” means the person requesting a pre-arranged for-hire passenger 146 
+service trip, regardless of whether the person is a passenger for that trip. 147 
+  “(10) “Department” or “DFHV” means the Department of For-Hire Vehicles 148 
+established in subchapter VI. 149 
+  “(11) "Director" means the Director of the Department of For-Hire Vehicles. 150 
+  “(12) “Dispatch service” shall have the meaning set forth in § 47-2891.01. 151 
+  “(13) “Digital dispatch” means any online-enabled application, software, website 152 
+or system that facilitates pre-arranged for-hire passenger trips. 153 
+  “(14) “Dispatch service provider” means a person providing dispatch service as 154 
+defined in § 47-2891.01. 155 
+  “(15) “Fare” means the total value charged to a passenger for a trip. 156 
+  “(16) “Fare modifier” means a cost or multiplier added to a base fare for a pre-157 
+arranged trip, including surge pricing, multipliers for periods of high customer demand or low 158 
+operator availability, and other fees added by a dispatch service provider or smart meter system 159 
+provider. The following are not considered a fare modifier: 160 
+   “(A) Electronic payment processing fees; and 161 
+   “(B) Taxes or surcharges levied under this Title. 162 
+  “(17) “In-vehicle driver” shall have the same meaning as set forth in section 2 of 163 
+the Autonomous Vehicle Act of 2012, effective April 23, 2013 (D.C. Law 19-278; D.C. Official 164 
+Code § 50-2351). 165 
+  “(18) “Licensed operator” means a person who holds a valid and unexpired for-166
+
+7 
+hire passenger service license issued under to this chapter. 167 
+  “(19) “Motor vehicle” shall have the same meaning as set forth in Section 8 of An 168 
+Act To provide for the annual inspection of all motor vehicles in the District of Columbia, 169 
+effective March 15, 1985 (D.C. Law 5-176; D.C. Official Code § 50-1108). 170 
+  “(20)(A) “Operator” means a person in full or partial control of a vehicle used to 171 
+provide for-hire passenger service.  172 
+   “(B) The definition of “operator” includes: 173 
+    “(i) For a vehicle operated by an autonomous driving system, the 174 
+person that owns, operates, or controls the deployment of that system; 175 
+     “(ii) An in-vehicle driver or remote assistant, as those terms are 176 
+defined in section 2 of the Autonomous Vehicle Act of 2012, effective April 23, 2013 (D.C. Law 177 
+19-278; D.C. Official Code § 50-2351). 178 
+  “(21) “Operator agreement” means an agreement enter into between an operator 179 
+and a dispatch service provider or smart meter system provider, pursuant to § 47-2891.05. 180 
+  “(22) “Owner” means the person that holds legal title to a vehicle. If a vehicle is 181 
+the subject of an agreement for the conditional sale or lease with right of purchase upon 182 
+performance of the condition stated in the agreement and with an immediate right of possession 183 
+vested in the conditional vendee or lessee, or if a mortgagor of a vehicle is entitled to possession, 184 
+the conditional vendee, lessee, or mortgagor shall be considered the owner for the purpose of this 185 
+chapter. 186 
+  “(23) “Passenger” means any individual who is transported or is to be transported 187 
+by means of any for-hire passenger service. 188 
+  “(24) “Response time” means the time between a customer requesting a pre-189
+
+8 
+arranged trip and the dispatched vehicle arriving at the requested passenger pick-up location. 190 
+  “(25) “Smart meter” means an instrument or device by which a fare is measured 191 
+or calculated in real time and fulfills the requirements of § 47-2891.04. 192 
+  “(26) “Street hail rate structure” means the rates, fares, charges, and 193 
+methodologies used to determine the price of street hail service, as established by the 194 
+Department. 195 
+  “(27) “Taxi stand” means a designated area on a street or other publicly-196 
+accessible space where a street hail vehicle may park and be available to accept trips for hire. 197 
+  “(28) “Trip” means a single instance of for-hire passenger service provided in 198 
+response to a single request for service, from acceptance of request through fulfillment or 199 
+cancellation, including operation of the vehicle en route to the passenger, regardless of the 200 
+number of passengers transported and the number of stops made. 201 
+  “(29) “Registered vehicle” means a vehicle registered by the Department pursuant 202 
+to § 47-2892.01. 203 
+  “(30) “Street hail” means the classification of for-hire passenger service as 204 
+defined in § 47-2890.03. 205 
+  “(31) "Trade dress" means a unique marketing logo, insignia, or emblem for 206 
+display on a vehicle that identifies, distinguishes, and is substantially inseparable from the source 207 
+of a product or service, using a specific style to differentiate from competitors. 208 
+  “(32) “Vehicle” shall have the same meaning as set forth in section 2(17) of the 209 
+District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1119; D.C. Official 210 
+Code § 50-2201.01(17)). 211 
+  “(33) “Vehicle fleet provider” means a person or association engaged in the 212
+
+9 
+business of owning [3] or more vehicles for the purposes of providing for-hire passenger service. 213 
+  “(34) “Vehicle inspection officer” or “VIO” means an enforcement officer 214 
+employed by DFHV, as established in § 47-2896.02. 215 
+  “(35) “Wheelchair-accessible vehicle” or “WAV” means a vehicle compliant with 216 
+the Americans with Disabilities Act of 1990, approved July 26, 1990 (104 Stat. 328; 42 U.S.C. § 217 
+12101 et seq.) that accommodates a passenger using a wheelchair or other personal mobility 218 
+device and requires a ramp or lift to enter or exit the vehicle. The vehicle must comply with the 219 
+provisions of 49 C.F.R. Part 38.1 - 38.39. 220 
+  “(36) “WAV passenger” means a passenger provided with for-hire passenger 221 
+service wherein: 222 
+   “(A) For pre-arranged trips, a wheelchair-accessible vehicle is requested 223 
+by the customer; or 224 
+   “(B) For street hail trips, at the passenger requires a wheelchair-accessible. 225 
+  “(37) “Wheelchair-accessible vehicle trip” or “WAV trip” means a trip provided 226 
+to a WAV passenger by a wheelchair-accessible vehicle. 227 
+ “§ 47-2890.02. For-hire passenger service defined. 228 
+ “(a) For the purposes of this chapter, “for-hire passenger service” means the provision of 229 
+transportation of one or more passengers from one location to another, where the trip originates 230 
+in, terminates in, or travels through the District of Columbia, including: 231 
+  “(1) The operation or direction of a vehicle while available to provide for-hire 232 
+passenger service; 233 
+  “(2) Operating a vehicle while en route to a passenger. 234 
+ “(b) The definition of for-hire passenger service includes, but is not limited to, any of the 235
+
+10 
+following: 236 
+  “(1) The coordination or dispatch of for-hire passenger vehicles; 237 
+  “(2) The provision of dispatch service, as defined in § 47-2891.01; 238 
+  “(3) Pre-arranged and street hail service, as defined in § 47-2891.03; 239 
+  “(4) Non-emergency medical transportation not otherwise regulated by another 240 
+subordinate agency of the District; 241 
+  “(5) Pedicab service; 242 
+  “(6) Taxicab service, as that term is defined in the Washington Metropolitan Area 243 
+Transit Regulation Compact (D.C. Official Code § 9-1103.01); 244 
+  “(7) Trips provided by a vehicle operated in whole or in part by an autonomous 245 
+driving system; 246 
+  “(8) A trip paid for, in whole or in part, by a person who is not the passenger, or 247 
+another third party; 248 
+  “(9) Promotional or complimentary rides provided by a dispatch service provider, 249 
+operator, or another party; 250 
+  “(10) Operating or directing a vehicle while available to provide, or en route to 251 
+provide, a service listed in this subsection. 252 
+ “(c) The definition of for-hire passenger service does not include: 253 
+  “(1) Transportation provided by a vehicle with a passenger capacity of 10 or 254 
+more, exclusive of a driver. 255 
+  “(2) Carpooling; 256 
+  “(3) A charitable passenger service; 257 
+  “(4) Trips provided by a vehicle owned or operated by a state or local 258
+
+11 
+government, or a subdivision or instrumentality thereof, to transport school children, their 259 
+teachers, or escorts to the District of Columbia from the state in which their school is located; 260 
+  “(5) Vehicles and trips regulated by the Washington Metropolitan Area Transit 261 
+Commission; 262 
+  “(6) Vehicles and trips provided by the Washington Metropolitan Area Transit 263 
+Authority; 264 
+  “(7) A vehicle used exclusively for funeral purposes; 265 
+  “(8) Operating or directing a vehicle while available to provide, or en route to 266 
+provide, any service in this subsection. 267 
+ “§ 47-2890.03. Classifications of for-hire passenger service. 268 
+  “(a) Classifications of for-hire passenger service are as follows: 269 
+  “(1) “Pre-arranged” means for-hire passenger service that is provided as the result 270 
+of an interaction with a dispatch service, including: 271 
+   “(A) Digital dispatch;  272 
+   “(B) Other means of dispatch, as approved by the Department;  273 
+   “(C) Trips requested on an on-demand basis; and 274 
+   “(D) Trips requested, booked, or reserved in advance. 275 
+  “(2) “Street hail” means for-hire passenger service that is requested, arranged, or 276 
+provided by means other than a dispatch service, including: 277 
+   “(A) A trip solicited by a passenger; 278 
+   “(B) A trip arranged at a taxi stand; and 279 
+   “(C) Taxicab service, as defined in the Washington Metropolitan Area 280 
+Transit Regulation Compact, approved September 15, 1960 (74 Stat. 1031; D.C. Official Code § 281
+
+12 
+9- 1103.01). 282 
+ “(b) For the purposes of this chapter and any other provision of District law or 283 
+regulations, the term “street hail vehicle” and “taxicab” shall be synonymous. 284 
+ “(c) Classifications established under this section shall be interpreted as subordinate to 285 
+status as for-hire passenger service. Activity which falls under the definition of for-hire 286 
+passenger service as set forth in § 47-2890.02 shall be considered for-hire passenger service, 287 
+regardless of its classification.  288 
+ “(d) Activity that does not clearly fall within the classifications set forth in this section 289 
+shall still be considered for-hire passenger service if the activity meets the definition set forth in 290 
+§ 47-2890.02 and shall be subject to all requirements and prohibitions thereof. 291 
+ “§ 47-2890.04. Emerging markets. 292 
+ “(a) Notwithstanding § 47-2890.03, the Department may prescribe by rule the 293 
+implementation of a discrete licensing program for an emerging for-hire passenger service model 294 
+that does not fit within the parameters of this chapter.  295 
+ “(b) The Department shall determine whether a proposed activity is an emerging for-hire 296 
+passenger service model that falls outside the parameters of any existing license under this 297 
+chapter, and whether the proposed activity presents potential risks to the public health, safety, 298 
+and welfare such that, for the protection of the public, the activity must be regulated and 299 
+licensed. 300 
+ “(c) The Department may grant an applicant an emerging for-hire industry service license 301 
+on a provisional basis, which may be renewed annually for a maximum of two years, after which 302 
+the license shall expire.  303 
+ “(d)(1) A license issued pursuant to this section shall be a personal privilege and not 304
+
+13 
+property, and shall not be transferrable to another location, person, or entity. 305 
+  “(2) The Department shall require proof of good standing pursuant to § 29-102.08 306 
+of an applicant for a license pursuant to this subchapter and may, in addition, require certification 307 
+that the Citywide Clean Hands Database indicates that the proposed licensee is current with its 308 
+District taxes and any surcharges applicable to for-hire passenger service trips. 309 
+ “(e)(1) The Department may attach conditions to the emerging for-hire industry license as 310 
+are reasonably required to protect the public health, safety, labor harmony, and welfare from 311 
+risks including: 312 
+   “(A) Public health; 313 
+   “(B) Public safety; 314 
+   “(C) Consumer protection; 315 
+   “(D) Increased demand on public services; 316 
+   “(E) Environmental impacts; or 317 
+   “(F) Vehicle traffic or congestion. 318 
+  “(2) Such conditions may include a required data-sharing agreement and other 319 
+reporting requirements. 320 
+  “(3) The Department may attach any such conditions when the license is issued, 321 
+or may attach, remove, or modify conditions at any time during the term of the license, upon 322 
+reasonable notice to the licensee. 323 
+ “(f) The Department may determine at any time during the term of the license that the 324 
+licensed activity as conducted presents an unreasonable risk to public health, safety, or 325 
+transportation operations that cannot be mitigated, and may summarily revoke the license with or 326 
+without prior notice. If a license is revoked, the licensee shall be given the opportunity to appear 327
+
+14 
+before the Department for an informal hearing to introduce any evidence to appeal the revocation 328 
+before the revocation is effective, or no later than 10 days after the revocation is effective. The 329 
+Department shall render a final decision affirming or reversing the revocation within three 330 
+business days after the conclusion of the hearing. 331 
+ “(g) If the Department determines that an emerging for-hire industry model that has been 332 
+issued a license under this section should be regulated on a permanent basis, the Department 333 
+shall convey the determination to Council prior to the expiration of the license. 334 
+ “(h)(1) Any rule issued under authority granted in this section shall be subject to a 45-day 335 
+period of Council review, excluding days of Council recess. 336 
+  “(2) The Council may approve the proposed regulations in whole or in part. If the 337 
+Council has not approved the regulations upon expiration of the 45-day review period, the 338 
+regulations shall be deemed approved. 339 
+ “§ 47-2890.05. Reciprocal agreements. 340 
+ The Department is authorized to establish and terminate reciprocal agreements allowing 341 
+operators, vehicles, or dispatch services authorized in another jurisdiction to provide for-hire 342 
+vehicle service in the District, subject to requirements of the agreement.  343 
+ “§ 47-2890.06. Insurance. 344 
+ “(a) Except as otherwise provided, any motor vehicle used to provide for-hire passenger 345 
+service shall be subject to the requirements of this section. 346 
+  “(1) The requirements of this section shall not apply to pedicabs, motorized 347 
+bicycles, as that term is defined in section 2(11A) of the District of Columbia Traffic Act, 1925, 348 
+approved March 3, 1925 (43 Stat. 1119; D.C. Official Code § 50-2201.02(11A)), or a vehicle 349 
+equipped with a motor incapable of propelling the vehicle at a speed of more than 20 miles per 350
+
+15 
+hour on level ground. 351 
+  “(2) The requirements of this subsection shall apply: 352 
+   “(A) At all times while a vehicle is providing for-hire passenger service, 353 
+including while en route to a passenger; 354 
+   “(B) For pre-arranged service, at any time an operator is available to 355 
+accept a trip from a dispatch service provider, including being logged in and available on digital 356 
+dispatch; and; 357 
+   “(C) For street hail service, while the vehicle roof light indicates that the 358 
+vehicle is available for-hire, the vehicle is stopped at a taxi stand, or the operator is otherwise 359 
+available to accept a street hail trip request. 360 
+ “(b) Coverage required under this section may be satisfied by an insurance policy 361 
+maintained by: 362 
+  “(1) An operator; 363 
+  “(2) A vehicle owner; 364 
+  “(3) A dispatch service provider;  365 
+  “(4) A vehicle fleet provider; or 366 
+  “(5) Any combination thereof. 367 
+ “(c) The Department shall establish procedures for the submission, v 368 
+ “(d)(1) Except as otherwise provided, for-hire passenger service subject to this subsection 369 
+shall be covered by a bond or policy of liability insurance with the following minimum coverage: 370 
+   “(A) A least $2 million per occurrence for incidents involving a for-hire 371 
+passenger operator or vehicle; 372 
+   “(B) Uninsured motorist coverage and underinsured motorist coverage of 373
+
+16 
+at least $1 million per occurrence for incidents involving a for-hire passenger operator or vehicle. 374 
+  “(2) Starting 10 years from the effective date of this section, and every 10 years 375 
+thereafter, the minimum coverage requirements established in this subsection shall be adjusted to 376 
+account for inflation, as determined by the Department of Insurance, Securities, and Banking. 377 
+ “(e) Insurers providing motor vehicle insurance coverage under this section shall have the 378 
+exclusive duty to defend any liability claim, including any claim against an operator, arising 379 
+from an incident occurring within the time periods specified in this section. Neither the operator 380 
+nor the vehicle owner’s personal automobile insurance policy shall have the duty to defend or 381 
+indemnify the operator’s activities when providing for-hire passenger service, unless the policy 382 
+expressly provides otherwise for the period of time to which this section is applicable or the 383 
+policy contains an amendment or endorsement to provide that coverage. 384 
+ “(f) Coverage under an insurance policy required by this section shall not be dependent 385 
+on a personal automobile insurance policy first denying a claim, nor shall a personal automobile 386 
+insurance policy be required to first deny a claim. 387 
+ “(g) Nothing in this section shall be construed to require a personal automobile insurance 388 
+policy to provide primary or excess coverage.  389 
+ “(h) The department shall establish procedures for verification and maintenance of a 390 
+record of liability coverage for all vehicles providing for-hire passenger service in the District. 391 
+  “(1) An agreement between an operator and dispatch service provider or smart 392 
+meter provider or any other attestation that does not include evidence of coverage, may not be 393 
+used to verify compliance with the requirements of this section. 394 
+ “(j) A dispatch service provider shall not allow an operator to accept a trip request by any 395 
+means of dispatch until the dispatch service provider verifies that the vehicle maintains insurance 396
+
+17 
+required under this section. If insurance maintained by an operator to fulfill the insurance 397 
+requirements of this section has lapsed or ceased to exist, the dispatch service provider shall 398 
+provide the coverage required by this section beginning with the first dollar of a claim. 399 
+ “(k) A dispatch service provider that purchases insurance on an operator’s behalf under 400 
+this section shall disclose in writing to the operator, as part of its agreement with the operator: 401 
+  “(2) The insurance coverage and limits of liability provided while the operator is 402 
+available to pick up passengers; and 403 
+  “(3) That the operator’s personal automobile insurance policy may not provide 404 
+coverage, including collision physical damage coverage, comprehensive physical damage 405 
+coverage, uninsured and underinsured motorist coverage, or medical payments coverage because 406 
+the operator uses a vehicle to provide for-hire passenger service. 407 
+ “(l) No contract, receipt, rule, or regulation shall exempt any dispatch service provider 408 
+from the liability that would exist had no contract been made or entered into, and no such 409 
+contract, receipt, rule, or regulation for exemption from liability for injury or loss occasioned by 410 
+the neglect or misconduct of such dispatch service provider shall be valid. The liability referred 411 
+to in this subsection shall mean the liability imposed by law upon a dispatch service provider for 412 
+any loss, damage, or injury to passengers in its custody and care as a dispatch service provider. 413 
+ “(m) A smart meter system shall not allow an operator to be shown as available to 414 
+provide for-hire passenger service, whether street hail or pre-arranged, until the smart meter 415 
+system provider verifies that the vehicle maintains insurance required under this section. 416 
+ “(n) An insurance policy required by this section may be obtained from an insurance 417 
+company authorized to do business in the District or with a surplus lines insurance company with 418 
+an AM Best rating of at least A-. 419
+
+18 
+ “(o) This section shall not limit the liability of a dispatch service provider arising out of 420 
+an incident involving an affiliated vehicle in any action for damages against a dispatch service 421 
+provider for an amount above the required insurance coverage. 422 
+ “§ 47-2890.07. General licensing provisions. 423 
+ “(a) In the case of licensure by another jurisdiction, a person may provide for-hire 424 
+passenger service in the District only pursuant to, and in compliance with, a DFHV-approved 425 
+reciprocity agreement or regulation. 426 
+ “(b) Ability to satisfy the stated criteria for a license or endorsement under this chapter 427 
+does not establish a right to that license or endorsement. 428 
+ “(c) The Department shall reject any application submitted under this section in the name 429 
+of a business entity that is not compliant with the entity filing requirements of § 29-102.01. The 430 
+Department may audit records, or request such an audit from the Department of Licensing and 431 
+Consumer Protection or the Office of the Chief Financial Officer, to ensure compliance with the 432 
+beneficial owner filing requirements set forth in subsection (a)(6) of that section.  433 
+ “SUBCHAPTER II. DISPATCH AND METER PROVIDERS. 434 
+ “§ 47-2891.01. Dispatch service defined. 435 
+ “(a) For the purposes of this chapter, a person provides a dispatch service if the person 436 
+carries on the business of: 437 
+  “(1) Receiving requests for persons to be provided with for-hire passenger 438 
+service; or 439 
+  “(2) Arranging or facilitating the acceptance of those requests by or on behalf of 440 
+operators of for-hire passenger vehicles. 441 
+ “(b) In determining whether a person provides a dispatch service, it does not matter: 442
+
+19 
+  “(1) Whether or not the activities set forth in this section are fulfilled by digital 443 
+dispatch, telephone, radio, or other means. 444 
+  “(2) Whether or not the for-hire passenger service is provided by the operator as 445 
+an agent or employee of the dispatch service provider; 446 
+  “(3) Whether the agreement or arrangement in accordance with which the for-hire 447 
+passenger service is provided is between: 448 
+   “(A) The operator and the passenger; 449 
+   “(B) The dispatch provider and either the operator or the passenger; or 450 
+   “(C) Any other persons; 451 
+  “(4) Whether the fare or other consideration for the for-hire passenger service is 452 
+paid to the operator by: 453 
+   “(A) The dispatch service provider; 454 
+   “(B) The passenger; or 455 
+   “(C) Any other person;  456 
+  “(5) Whether or not an arranged trip, or portion of the trip, is provided without 457 
+compensation, except as provided in § 47-2890.02(c); or 458 
+  “(6) Whether or not the dispatch service provider operates or is located outside of 459 
+the District of Columbia. 460 
+ “(c) A person does not solely provide dispatch service by developing, supplying, or 461 
+maintaining an approved smart meter system or a customer-facing application on behalf of a 462 
+dispatch service provider. 463 
+ “§ 47-2891.02. Dispatch service provider license. 464 
+ “(a) It is unlawful for a person to provide dispatch service in the District of Columbia 465
+
+20 
+unless the person is licensed by the Department pursuant to this chapter. 466 
+ “(b) It is unlawful for a person to advertise or in any way present themselves as able or 467 
+willing to provide a dispatch service unless the person is licensed pursuant to this subchapter. 468 
+ “(c) It is unlawful for a person to accept a request from a dispatch service provider to 469 
+provide for-hire passenger service, if the person knows, or ought reasonably to know, that the 470 
+dispatch service provider is not licensed to operate in the District of Columbia pursuant to this 471 
+chapter. 472 
+ “(d) A dispatch service provider license shall only be valid for the provision of a single 473 
+digital dispatch system. A licensed dispatch service provider shall not lease, permit, or otherwise 474 
+allow others to use its digital dispatch system to provide for-hire passenger service in the 475 
+District. 476 
+ “(e) Unless otherwise provided, a dispatch service provider license issued by the 477 
+Department is valid for two years and is not transferable. 478 
+ “(f) The Department may issue a dispatch service provider license to a person who: 479 
+  “(1) Submits a complete application, on a form or in a format established by the 480 
+Department, which shall include: 481 
+  “(2) The dispatch service provider’s standard operator agreement, as set forth in § 482 
+47-2891.05; 483 
+  “(3) Proof that the applicant: 484 
+   “(A) Is licensed to do business in the District of Columbia; 485 
+   “(B) Maintains a registered agent in the District; 486 
+   “(C) Has secured the insurance policies required under this chapter and 487 
+any other provision of law; 488
+
+21 
+  “(4) An illustration or photograph of any trade dress established by the dispatch 489 
+service provider, not including the standard vehicle emblem required by the Department pursuant 490 
+to § 47-2892.09; 491 
+  “(5) For applicants providing digital dispatch services, a description of how the 492 
+digital dispatch system operates; and 493 
+  “(6) The fare structure or structures used by the dispatch service provider to 494 
+calculate fares, as set forth in subchapter V, including a description of any fare modifiers. 495 
+ “§ 47-2891.03. Dispatch service provider requirements. 496 
+ “(a) At all times, a dispatch service provider shall: 497 
+  “(1) Operate with a valid license under this chapter; 498 
+  “(2) Provide service throughout the entire District, unless otherwise authorized by 499 
+the Department; 500 
+  “(3) Maintain an up-to-date registry of affiliated operators and affiliated vehicles, 501 
+which shall be submitted to the Department on a monthly basis pursuant to a data-sharing 502 
+agreement entered into pursuant to § 47-2891.09; 503 
+  “(4) Ensure an affiliated operator possesses a valid license under this chapter and 504 
+any necessary endorsements, as applicable; 505 
+  “(5) Require an affiliated vehicle to meet all requirements of this chapter, 506 
+including passing an annual vehicle safety inspection and being registered and insured; 507 
+  “(6) Accept service of general correspondence, license actions, citations, and 508 
+notices of complaints on behalf of an affiliated operator or vehicle owner, and forward such to 509 
+the respective affiliated operator or vehicle owner.  510 
+  “(7) Satisfy every request for passenger service as long as there are qualified 511
+
+22 
+operators and vehicles available; 512 
+  “(8) Establish and enforce a zero-tolerance policy regarding alcohol and illegal 513 
+drugs, as set forth in § 47-2891.05(c)(2); 514 
+  “(9) Establish and enforce a zero-tolerance policy regarding discrimination and 515 
+discriminatory practices, as set forth in § 47-2891.05(c)(3); 516 
+  “(10) Record all trips, process all payments, and issue a receipt for all payments 517 
+through a digital dispatch system or smart meter system; 518 
+  “(11) Comply with data specifications established by the Department pursuant to 519 
+§ 47-2891.09; 520 
+  “(12) Provide dispatch services to passengers in wheelchairs or other mobility 521 
+devices when dispatching affiliated wheelchair-accessible vehicles; 522 
+  “(13) Allow passengers to indicate whether they require a WAV and connect 523 
+passengers to those services; 524 
+  “(14) Require affiliated vehicles to operate on a Department-approved smart 525 
+meter or digital dispatch system; 526 
+  “(15) Provide the following information on its website: 527 
+   “(A) The dispatch service provider’s customer service telephone number 528 
+and electronic mail address; 529 
+   “(B) The private vehicle-for-hire company’s zero tolerance policies 530 
+established pursuant to § 47-2891.05(c), paragraphs (2) and (3), and the procedure for reporting a 531 
+complaint about an operator who a passenger reasonably suspects violated a zero tolerance 532 
+policy; and 533 
+   “(C) A telephone number or electronic mail address for the Department; 534
+
+23 
+  “(16) Ensure that all information provided to the Department does not misstate or 535 
+omit material facts; 536 
+  “(17) Inform the Department in writing within seven days if any information 537 
+provided in the dispatch service provider license changes, including if it ceases to be true or is 538 
+superseded in any way by new information; 539 
+  “(18) Meet any other requirement as established by the Department by 540 
+rulemaking or administrative issuance. 541 
+ “(b) A dispatch service provider utilizing digital dispatch shall: 542 
+  “(1) Display the vehicle license plate number and a photo of the in-vehicle driver 543 
+on the device used to connect with the digital dispatch application, before a trip is initiated; 544 
+  “(2) Ensure that the digital dispatch system not be utilized to provide street hail 545 
+service unless it has approved by the Department as a smart meter system pursuant to § 47-546 
+2891.04; 547 
+  “(3) Maintain all associated websites and electronic interfaces as accessible to the 548 
+blind and visually impaired, and to the deaf and hard of hearing. 549 
+ “§ 47-2891.04. Smart meter system requirements. 550 
+ “(a) It is unlawful to provide street hail service without the use of a smart meter system 551 
+approved by the Department pursuant to this section. 552 
+ “(b) The Department shall establish, by rule, a process to approve a smart meter system 553 
+for use under this chapter. 554 
+ “(c) A digital dispatch system associated with a licensed dispatch service provider may 555 
+simultaneously be approved by the Department as a smart meter system, provided the digital 556 
+dispatch system meets the requirements of this section and provides an operator the ability to opt 557
+
+24 
+out of pre-arranged trips to provide street hail service.  558 
+ “(d) An approved smart meter system shall include, at minimum, the following features: 559 
+  “(1) The capability of metering a trip using an onboard diagnostic connection to 560 
+the vehicle or the use of location tracking technology, or some combination of the two, to 561 
+measure time and distance traveled;  562 
+  “(2) An integrated payment and receipting system that accepts cash payment, 563 
+credit cards, and other electronic payments; 564 
+  “(3) The ability to communicate with a Department-approved roof light as may be 565 
+required under § 47-2892.05; 566 
+  “(4) An integrated dispatch system that:  567 
+   “(A) Supports two-way communication between a dispatch service 568 
+provider and operator;  569 
+   “(B) Is able to track vehicle location in real time; 570 
+   “(D) Does not exclusively dispatch calls by phone or radio; and  571 
+   “(C) Provides a duress alarm for the operator.  572 
+  “(5) Supports pricing based on static and dynamic market conditions;  573 
+  “(6) Has the ability to calculate an upfront fare to present to a passenger before 574 
+the passenger accepts a street hail ride, pursuant to subchapter V; 575 
+  “(7) Is capable of notifying a passenger if a fee for electronic payment, and other 576 
+known fees, will be added to the fare; 577 
+  “(8) Includes driver authentication and system security features;  578 
+  “(9) Automates data collection and reporting;  579 
+  “(10) Incorporates a mobility data standard as established by the Department 580
+
+25 
+pursuant to § 47-2891.09; 581 
+  “(11) Is capable of accepting geofencing rules issued pursuant to § 47-2891.10; 582 
+  “(12) Can be used and configured for one or more dispatch service providers; 583 
+  “(13) Is capable of connecting to a Department-approved application 584 
+programming interface to automate data collection and reporting and allow for the fulfillment of 585 
+trip requests via third party providers approved by the Department; 586 
+  “(14) If required by the Department by rule, is connected to a Department-587 
+approved external dispatch system for the purpose of dispatching wheelchair accessible vehicles. 588 
+ “§ 47-2891.05. Operator agreements. 589 
+ “(a) Before allowing an operator to provide for-hire passenger service or be available for 590 
+dispatch to provide such service in association with a dispatch service provider or smart meter 591 
+provider, the dispatch service provider or smart meter provider shall first confirm with the 592 
+Department that the operator is licensed and possesses all valid endorsements necessary to 593 
+provide for-hire passenger service under this chapter. 594 
+ “(b) A dispatch service provider or smart meter provider shall enter into a signed 595 
+agreement with a licensed operator prior to the operator being dispatched trips in association 596 
+with the dispatch service provider or shown as available on a licensed dispatch service provider’s 597 
+digital dispatch. 598 
+ “(c) A valid operator agreement shall include:  599 
+  “(1) The means of calculating the amount that shall paid respectively to the 600 
+operator and dispatch service provider or smart meter provider for the provision of for-hire 601 
+vehicle service, whether in the form of: 602 
+   “(A) Percentage of a trip’s fare; 603
+
+26 
+   “(B) A fixed amount per trip; or 604 
+   “(C) An amount paid by the operator to for the operator’s utilization of a 605 
+digital dispatch system, smart meter system, or other service provided. 606 
+  “(2) A policy of zero tolerance for the use of alcohol or illegal drugs, or being 607 
+impaired by the use of alcohol or drugs while an operator is providing or available to provide 608 
+for-hire passenger service in association with the dispatch service provider or utilizing the smart 609 
+meter system; 610 
+  “(3) A policy of zero tolerance for discrimination or discriminatory conduct, as 611 
+set forth in § 47-2894.05 while an operator is providing or available to provide for-hire passenger 612 
+service in association with the dispatch service provider or utilizing the smart meter system; 613 
+ “(d) An operator agreement shall not include any provision: 614 
+  “(1) Prohibiting an operator from providing for-hire passenger service in 615 
+association with another licensed dispatch service provider or approved smart meter system; 616 
+  “(2) Prohibiting a duly-licensed and endorsed operator from providing street hail 617 
+service or a WAV trip while available for dispatch. 618 
+ “(e) In case of a violation of an operator agreement by an operator, a dispatch service 619 
+provider may temporarily or permanently suspend an operator from providing for-hire passenger 620 
+service in association with that dispatch service provider. Such a suspension shall not prohibit 621 
+the operator from providing for-hire passenger service in association with other dispatch service 622 
+providers. 623 
+ “(f) Upon receipt of a written complaint from a passenger or customer submitted through 624 
+regular mail or electronic means containing a reasonable allegation that an operator has violated 625 
+a zero tolerance policy as set forth in § 47-2891.05(c), a dispatch service provider or smart meter 626
+
+27 
+system provider shall immediately suspend the operator for the duration of an investigation into 627 
+the alleged violation of the zero tolerance policy. 628 
+ “(g) Within 3 business days of a temporary or permanent suspension of an operator, a 629 
+dispatch service provider shall report the suspension to the Department, including the reason for 630 
+suspension under the terms of the signed operator agreement.  631 
+  “(1) Upon receipt of a report of suspension, the Department shall determine 632 
+whether the reason for suspension merits further investigation or action by the Department and 633 
+may suspend or revoke the operator’s license pursuant to procedures established in subchapter 634 
+IV. 635 
+ “§ 47-2891.06. Operator payment and tips. 636 
+ “(a) A dispatch service provider and smart meter provider shall: 637 
+  “(1) Display to an operator the same upfront fare provided to the customer, and an 638 
+estimate of the payment to the operator for providing the trip, pursuant to a valid operator 639 
+agreement. 640 
+  “(2) Remit a fare payment to licensed operators within five business days of the 641 
+completion of the trip, in an amount not less than the full fare paid by the passenger, excluding 642 
+deductions agreed to in accordance with § 47-2891.05; and 643 
+  “(3) Remit to a licensed operator 100% of any amount paid by a passenger in the 644 
+form of a tip or gratuity. 645 
+ “(4) An operator shall be paid the same percentage of any fare modifier as any agreed 646 
+percentage from a base fare, pursuant to an operator agreement as established in § 47-2891.05. 647 
+ “§ 47-2891.07. Wheelchair-accessible trips – level of service standard. 648 
+ “(a) A dispatch service provider shall have an ongoing and affirmative responsibility as a 649
+
+28 
+demand responsive system to provide an equivalent level of service to individuals with 650 
+disabilities, as set forth in section 12144 of Title III of the Americans with Disabilities Act of 651 
+1990, approved July 26, 1990 (104 Stat. 328; 42 U.S.C. § 12144). 652 
+ “(b) A dispatch service provider shall provide the ability to request a wheelchair-653 
+accessible vehicle and shall dispatch a wheelchair-accessible vehicle trip. 654 
+ “(c) A dispatch service provider shall maintain a WAV level of service standard for trips 655 
+that begin in the District of Columbia such that: 656 
+  “(1) The average response time for a WAV trip request is no greater than [110%] 657 
+of the average response time for a request of a comparable non-WAV trip; and 658 
+  “(2) The rate of WAV trips requested but not fulfilled is no higher than the 659 
+equivalent rate for non-WAV trips, regardless of whether a requested trip was not fulfilled due to 660 
+cancellation by the passenger, cancellation by the operator, or another reason. 661 
+  “(3) The Department shall issue rules to:  662 
+   “(A) Establish data sharing and measurement methodology necessary to 663 
+enforce the requirements of this section; and 664 
+    “(i) Establish penalties for a dispatch service provider’s failure to 665 
+comply with the WAV level of service standard established under this section, which may 666 
+include:  667 
+    “(ii) A monetary penalty for a trip that exceeds the level of service 668 
+standard and escalates based on the amount of time elapsed above the level of service standard; 669 
+    “(iii) Other penalties;  670 
+    “(iv) For serious violations, the suspension or revocation of a 671 
+license or other authorization issued under this chapter. 672
+
+29 
+  “(4) The Department may issue rules to modify the WAV level of service 673 
+standard. 674 
+ “§ 47-2891.08. Maintenance of trip records. 675 
+ “(a) A dispatch service provider and a smart meter provider shall maintain the following 676 
+information for no fewer than 3 years from the date of the creation of the record, pursuant to 677 
+rules issued by the Department under § 47-2891.09: 678 
+  “(1) For all completed trips: 679 
+   “(A) For pre-arranged trips, the date and time of the trip request; 680 
+   “(B) The date and time at which the trip commenced; 681 
+   “(C) The date and time at which the trip was completed; 682 
+   “(D) The operator license number; 683 
+   “(E) The vehicle registration number issued by the Department; 684 
+   “(F) The location of the trip origin; 685 
+   “(G) The location of the trip destination; 686 
+   “(H) The distance travelled; 687 
+   “(J) The base fare and total fare charged for the trip; 688 
+   “(K) Whether or not the trip fare was paid for in whole or in part by a 689 
+subsidy administered by the Department or other third party; 690 
+   “(L) An indication of whether the trip was a WAV trip; and 691 
+   “(M) An indication of whether the trip was operated in whole or in part by 692 
+an autonomous driving system. 693 
+  “(2) For pre-arranged trips requested and not completed: 694 
+   “(A) The date and time of the trip request; 695
+
+30 
+   “(B) The location of the requested trip origin; 696 
+   “(C) The location of the requested trip destination; 697 
+   “(D) An indication of whether a WAV was requested; and 698 
+   “(E) Any other information as may be required by the Department to 699 
+enforce the requirements of § 47-2894.06. 700 
+ “§ 47-2891.09. Data specifications. 701 
+ “(a) A dispatch service provider and smart meter provider shall be required to provide the 702 
+Department with accurate and authenticated data through documented Application Programming 703 
+Interfaces (“API”) built to the Mobility Data Specification (“MDS”) and Curb Data Specification 704 
+(“CDS”), as established by the Open Mobility Foundation. The Department may specify the 705 
+version of MDS and CDS it requires, what API endpoints and fields are required, any additional 706 
+fields necessary to implement and enforce the provisions this chapter. 707 
+ “(b) To ensure individual privacy, data provided to the Department shall not be shared, 708 
+published, or disclosed pursuant to public records requests without prior aggregation or 709 
+anonymization. 710 
+ “§ 47-2891.10. Taxi stands and geofencing policy. 711 
+ “(a) The Mayor may designate a curb lane or other public space as a taxi stand at the 712 
+advice of the Department. 713 
+ “(b) A taxi stand designation may apply at all times of day or during select hours.  714 
+ “(c) No operator of a vehicle-for-hire shall loiter around or in front of hotels, restaurants, 715 
+theaters, or public buildings in the District. For the purposes of this section, the term “loitering” 716 
+means the willful operation of a vehicle-for-hire for the purpose of soliciting passengers by 717 
+stopping the vehicle or by driving at such a slow speed as may impede or block the normal and 718
+
+31 
+reasonable movement of traffic. 719 
+ “(d) It shall be unlawful for a hotel, restaurant, or theater, or an agent thereof to prevent a 720 
+licensed operator in an authorized street hail vehicle from accessing a taxi stand. 721 
+ “(e) The Department shall regularly advise the District Department of Transportation on 722 
+designating areas of short-term parking to facilitate the pick-up and drop-off of for-hire 723 
+passenger vehicles.  724 
+ “(f) The Department is authorized to establish geofencing areas and other geography-725 
+specific policies on a temporary or ongoing basis, including:  726 
+  “(1) Requiring that a passenger pick-up or drop-off point utilize a specific 727 
+curbside area within a reasonable distance from the customer’s requested origin or destination 728 
+point; or 729 
+  “(2) Prohibiting an operator from entering a specific area for the purpose of 730 
+facilitating public safety or traffic management. 731 
+ “(g) The Department shall transmit notice of geofencing or other policy under this section 732 
+to a dispatch service provider or smart meter provider by utilizing the data specifications and 733 
+API established pursuant to § 47-2891.09. 734 
+ “§ 47-2891.11. Vehicle-miles travelled fee. 735 
+ “(a) The Department shall levy and collect a dispatch service provider or smart meter 736 
+provider a fee (“VMT charge”) based on the number of vehicle miles traveled while a motor 737 
+vehicle is engaged in a for-hire passenger service trip. 738 
+ “(b) The VMT charge per trip shall be:  739 
+  “(1) The higher of: 740 
+   “(A) 50 cents; or 741
+
+32 
+   “(B) The rate established by the Department pursuant to subsection (c) 742 
+(“VMT rate”). 743 
+ “(c)(1) No later than [90 days] after the effective date of this section, the Department shall 744 
+issue rules establishing a VMT rate that shall be certified by the Chief Financial Officer as 745 
+generating revenue at least equal to revenue certified in the Fiscal Year 2027 through 2030 746 
+financial plan from taxes, fees, and surcharges assessed by the Department prior to the effective 747 
+date of this chapter. 748 
+ “(d) The Department may modify the VMT rate by vehicle type to incentivize the use of 749 
+low-emission and electric vehicles. 750 
+ “(e) The VMT charge levied pursuant to this section shall be in addition to, and not in lieu 751 
+of, a VMT tax as may be levied pursuant to the Autonomous Vehicle Act of 2012, effective April 752 
+23, 2013 (D.C. Law 19-278); D.C. Official Code § 50-2351 et seq.). 753 
+ “SUBCHAPTER III. PASSENGER VEHICLES. 754 
+ “§ 47-2892.01. Vehicle registration. 755 
+ “(a) It is unlawful for any person to operate a vehicle, or for the owner thereof to permit it 756 
+to be operated, to provide for-hire passenger service unless the vehicle is registered pursuant to 757 
+this section in and compliance with the requirements of this subchapter. 758 
+ “(b) A vehicle associated with a valid commercial AV fleet endorsement issued pursuant 759 
+to the Autonomous Vehicle Act of 2012, effective April 23, 2013 (D.C. Law 19-278; D.C. 760 
+Official Code § 50-2351 et seq.) shall be considered duly registered under this section, provided 761 
+that each commercial AV fleet vehicle is provided with a unique identification number. 762 
+ “(c) The Department shall issue a certificate of registration to a vehicle that meets the 763 
+requirements of this subchapter. 764
+
+33 
+  “(1) The Department shall assign each registered vehicle a unique identification 765 
+number and include it on the certificate of registration. 766 
+  “(2) A certificate of registration shall be valid for one year unless otherwise 767 
+provided.  768 
+ “(d) The owner of a vehicle or a person who has the owner’s permission may submit an 769 
+application to register the vehicle in a form provided by the Department.  An application for 770 
+registration or re-registration shall include: 771 
+  “(1) Vehicle information including the make, model, year, engine type, and 772 
+vehicle identification number; 773 
+  “(2) License plate number; 774 
+  “(3) For-hire identification number, if previously provided by the Department; 775 
+  “(4) Proof that the vehicle is compliant with the safety inspection requirements 776 
+established in § 47-2892.03; and 777 
+  “(5) If the applicant is not the owner of the vehicle, the name and contact 778 
+information of the owner  and a signed statement confirming the owner’s authorization for the 779 
+applicant to register the vehicle. 780 
+ “§ 47-2892.02. Uniform vehicle requirements. 781 
+ “(a) The requirements of this section shall apply to all vehicles providing for-hire 782 
+passenger service, regardless of classification, unless otherwise provided. 783 
+ “(b) It shall be unlawful for a person to register a vehicle, operate a vehicle, or permit the 784 
+operation of a vehicle of which the person is the owner, to provide for-hire passenger service 785 
+unless the vehicle meets the requirements set forth in this section. 786 
+ “(c) Unless otherwise provided, a registered for-hire vehicle shall: 787
+
+34 
+  “(1) Have manufacturer’s rated seating capacity of 9 persons or fewer, including 788 
+the operator; 789 
+  “(2) Meet applicable federal motor vehicle safety standards for vehicles of its 790 
+size, type, and proposed use; 791 
+  “(3) Not be equipped with anything that may be used to shield the operator from 792 
+observation from outside the vehicle, including shades, curtains, and after-market tint on 793 
+windshields and windows; 794 
+  “(4) Not be eligible for immobilization or impoundment due to assessed vehicle 795 
+points or other criteria established in the Parking Enforcement Modernization Act of 2025, 796 
+effective May 2, 2025 (D.C. Law 25-325; D.C. Official Code § 50-2431 et seq.); 797 
+  “(5) Meets any other criteria established by the Department, by rule, that provide 798 
+a minimum acceptable standard for passenger and public safety, accessibility, environmental 799 
+sustainability, and customer satisfaction. Such rules may include vehicle age and milage, or an 800 
+alternative performance-based standard, as feasible. 801 
+ “(d) An owner shall notify the Department of any substantial change in vehicle 802 
+conditions, including a change in vehicle identification tags. 803 
+ “(e) The Department shall summarily suspend or revoke a vehicle’s certificate of 804 
+registration if the vehicle fails a vehicle safety inspection or the Director determines that a 805 
+violation of this chapter is an immediate safety hazard and suspension or revocation is necessary 806 
+to prevent a clear, substantial, and imminent hazard to life, safety, or property. 807 
+ “§ 47-2892.03. Vehicle safety inspection. 808 
+ “(a) The Department shall issue rules establishing an annual uniform vehicle safety 809 
+inspection as a condition of issuing a certificate of registration under § 47-2892.01.  810
+
+35 
+  “(1) A uniform safety inspection may be conducted by the Department, the 811 
+Department of Motor Vehicles, by a mechanic in the District with a valid license under § 47-812 
+2851.03(a)(11), a vehicle fleet provider approved by the Department to conduct inspections, or 813 
+an inspection station authorized by the State of Maryland or the Commonwealth of Virginia to 814 
+perform vehicle safety inspections.  815 
+  “(2) An initial safety inspection need not be conducted if the motor vehicle used 816 
+for service is compliant with an annual state-required safety inspection. 817 
+ “(b) A vehicle affiliated with a valid commercial AV fleet endorsement shall be 818 
+considered as fulfilling the requirements of this section. 819 
+ “(c) Nothing in this section shall be construed to exempt a vehicle from inspection by a 820 
+vehicle inspection officer or other law enforcement official.  821 
+ “§ 47-2892.05. Requirements of street hail vehicles. 822 
+ “(a) It shall be unlawful for a person to operate a vehicle, or for the owner thereof to 823 
+permit it to be operated, to provide a street hail trip unless the vehicle meets the requirements of 824 
+this section, in addition to the requirements of § 47-2892.02. 825 
+ “(b) A street hail vehicle shall be clearly identifiable as such while in operation, 826 
+including: 827 
+  “(1) A roof light, approved by the Department, that identifies when the vehicle is 828 
+occupied, on-call, off-duty, or available to accept a fare; 829 
+  “(2) Clear display of the vehicle registration number issued by the Department, in 830 
+a location determined by the Department;  831 
+  “(3) Display of the operator’s street hail endorsement in a location visible to a 832 
+passenger inside of the vehicle; and 833
+
+36 
+  “(4) A vehicle color scheme, emblem, or trade dress, (“uniform livery”) as 834 
+established by the Department. In establishing a uniform livery under this paragraph, the 835 
+Department shall include consideration for:  836 
+   “(A) Clear signaling to the public and passengers that a vehicle is duly 837 
+licensed to provide street hail trips in the District of Columbia; 838 
+   “(B) Whether the uniform livery presents an undue barrier to entry for an 839 
+operator seeking to provide street hail trips; 840 
+   “(C) The uniform livery’s impact on vehicle depreciation; and 841 
+   “(D) Ease of enforcement. 842 
+ “(c) A vehicle fleet provider, dispatch service provider, or smart meter provider may not 843 
+impose a unique vehicle color scheme as a requirement for operating a vehicle to provide street 844 
+hail service in association with that provider. 845 
+ “(d) The Department shall create a notice to be posted in a conspicuous location in all 846 
+registered street hail vehicles in clear view of passengers: 847 
+  “(1) A statement that a street hail vehicle must accept credit cards through an 848 
+approved smart meter system; 849 
+  “(2) A statement that a street hail vehicle shall not operate without a functioning 850 
+smart meter system; 851 
+  “(3) A statement that failure to accept a credit card is a violation of the law and is 852 
+punishable by fine; and 853 
+  “(4) The information required for passengers to submit an alleged violation. 854 
+ “(a) The Department may exempt a vehicle or certain categories of vehicles from the 855 
+requirements of subsection (b): 856
+
+37 
+  “(1) For pedicabs and other vehicles for which a roof light, uniform livery, or 857 
+other requirements are inappropriate or infeasible; 858 
+  “(2) To otherwise advance the mission of the Department, including the 859 
+expansion of access to WAVs and adoption of low-emission and zero-emission vehicles. 860 
+ “§ 47-2892.06. Requirements of wheelchair-accessible vehicles. 861 
+ “(a) A wheelchair-accessible vehicle shall: 862 
+  “(1) Accommodate wheelchair and personal mobility devices up to 30 inches in 863 
+width; 864 
+  “(2) Have a rear- or side-entry ramp or lift that enables a passenger and operator 865 
+to gain access to the interior of the vehicle upon entry and exterior upon drop-off; 866 
+  “(3) Have safety devices to secure the wheelchair or personal mobility device to 867 
+the vehicle and to protect the passenger; and 868 
+  “(4) Display, in a minimum of two prominent locations on the exterior of the 869 
+vehicle, the international wheelchair insignia or other insignia approved by the Department that 870 
+identifies the vehicle as a WAV. One location shall be on the front of the vehicle or otherwise 871 
+visible as the vehicle approaches. 872 
+ “§ 47-2892.07. Vehicle fleet provider. 873 
+ “(a) Except as provided in subsection (c), it shall be unlawful for a vehicle fleet provider 874 
+to allow a vehicle to be used to provide for-hire passenger service without first registering with 875 
+the Department as a vehicle fleet provider. 876 
+ “(b) A vehicle fleet provider shall register with the Department, in such form as 877 
+prescribed by the Department. Such registration shall include: 878 
+  “(1) Identifying information of all vehicles owned by the vehicle fleet provider for 879
+
+38 
+the purposes of providing for-hire passenger service; and 880 
+  “(2) Confirmation that all vehicles owned by the vehicle fleet provider have 881 
+adequate insurance coverage as required by chapter and any other provision of law. 882 
+ “(c) The holder of a valid commercial AV fleet endorsement shall not be required to 883 
+further register as a vehicle fleet provider. 884 
+ “(d) A vehicle fleet provider may require that an operator provide for-hire passenger 885 
+service exclusively in association with a licensed dispatch service provider or approved smart 886 
+meter system while the operator is utilizing a vehicle owned by the vehicle fleet provider. 887 
+ “(e) A vehicle fleet provider shall: 888 
+  “(1) Maintain records of all operators that have utilized vehicles owned by the 889 
+vehicle fleet provider; 890 
+  “(2) Maintain a record of all vehicle lease agreements to which the vehicle fleet 891 
+provider is a party; 892 
+  “(3) Prior to allowing an operator to utilize a vehicle, ensure that:  893 
+   “(4) The operator holds a valid operator license and any other necessary 894 
+endorsement required to operate the vehicle to provide for-hire passenger service; 895 
+   “(5) Ensure that the vehicle is in compliance with minimum insurance 896 
+coverage as established in § 47-2890.06; and 897 
+  “(6) Provide such records to the Department, in a form and frequency prescribed 898 
+by the Department. 899 
+ “§ 47-2892.08. Vehicle lease agreements.  900 
+ “(a) A lease agreement between a vehicle owner and lessee for the purpose of providing 901 
+for-hire passenger service shall be in writing, and a copy of the lease agreement shall be filed 902
+
+39 
+with the Department in a manner specified by the Department. 903 
+ “(b) The lease amount charged to a lessee shall not exceed the maximum amount 904 
+established by the Department, as established by rule.  905 
+  “(1) In determining the maximum lease amount, the Department shall consider: 906 
+   “(A) Vehicle purchase prices, 907 
+   “(B) The cost of vehicle maintenance; and 908 
+   “(C) Any other factors that may impact the market of for-hire vehicles or 909 
+affect the provision of for-hire passenger service.  910 
+ “(c) A vehicle lessee shall not sublease a for-hire passenger vehicle. 911 
+ “§ 47-2892.09. Vehicle emblem and trade dress. 912 
+ “(a) An operator shall display on their vehicle a standardized and clearly identifiable 913 
+emblem, as established by the Department, indicating that the operator and vehicle may provide 914 
+for-hire passenger service in the District.  915 
+  “(1) The vehicle emblem required under this subsection shall be affixed in a 916 
+location clearly visible as a vehicle approaches and remain visible while a passenger is 917 
+approaching or entering the vehicle. 918 
+ “(b) The vehicle emblem: 919 
+  “(1) Shall be sufficiently readable during daylight hours at a distance of at least 50 920 
+feet; and 921 
+  “(2) Shall be reflective, illuminated, or otherwise patently visible in darkness; and 922 
+  “(3) May take the form of a removable device. 923 
+ “(c) The Department may permit a third party to issue a vehicle emblem to operators on 924 
+the Department's behalf, including dispatch service providers, smart meter providers, and vehicle 925
+
+40 
+fleet providers. 926 
+ “(d) Nothing in this section shall prohibit a dispatch service provider, smart meter 927 
+provider, or vehicle fleet provider to require an associated vehicle to display a company-specific 928 
+trade dress while providing for-hire passenger service. Display of trade dress shall not fulfill the 929 
+requirement to display a standard emblem as established in subsection (a).  930 
+ “SUBCHAPTER IV. OPERATORS. 931 
+ “§ 47-2893.01. Operator license. 932 
+ “(a)(1) It is unlawful for any person to operate a vehicle providing for-hire passenger 933 
+service unless the person is licensed as an operator pursuant to this subchapter and in compliance 934 
+with the requirements of this subchapter. 935 
+  “(2) A valid commercial AV permit issued pursuant to the Autonomous Vehicle 936 
+Act of 2012, effective April 23, 2013 (D.C. Law 19-278; D.C. Official Code § 50-2351 et seq.) 937 
+shall be considered a valid operator license under this section. 938 
+ “(b) Application for an operator license shall be made in such form as prescribed by the 939 
+Department. 940 
+ “(c) Unless otherwise provided, an operator license issued by the Department shall be 941 
+valid for two years and may not be assigned or transferred. 942 
+ “(d) While a licensed operator is engaged in or available to provide for-hire passenger 943 
+service, the license shall be carried upon the person of the licensee or in the vehicle being 944 
+operated by the licensee, or be made available for display in an electronic format as prescribed 945 
+by the Department. 946 
+ “(e)(1) The holder of an operator license may provide pre-arranged trips in association 947 
+with any licensed dispatch service provider. 948
+
+41 
+  “(2) The holder of an operator license is prohibited from accepting, soliciting, or 949 
+providing a street hail trip without a valid street hail endorsement. 950 
+  “(3) The holder of an operator license is prohibited from accepting, soliciting, or 951 
+providing a WAV trip without a valid WAV endorsement. 952 
+ “(g) Each license issued pursuant to this section shall be numbered, and there shall be 953 
+maintained by DFHV a record containing the name of each person so licensed, their license 954 
+number, and all matters affecting their qualifications to be licensed under this section. 955 
+  “(1) The Department shall make the following information available for public 956 
+inspection: 957 
+   “(A) The name of each person licensed under the terms of this section; 958 
+   “(B) The licensee's license number;  959 
+   “(C) Any vehicle associated with the licensee in the provision of for-hire 960 
+passenger service; 961 
+   “(D) Any enforcement action sustained against the licensee; 962 
+   “(E) A record of any criminal conviction of the licensee within the last 3 963 
+years. 964 
+ “(h) The Department may issue a license to an operator who meets the requirements of 965 
+this chapter. Application for an operator license shall be made in such form as prescribed by the 966 
+Department. Each prospective operator shall: 967 
+  “(1) Submit a complete application, or consents to an application being submitted 968 
+on the applicant's behalf, on a form or in a format approved by the Department; 969 
+  “(2) Possess a valid driver’s license; 970 
+  “(3) Provide a certification of fitness as an operator on a form or in a format 971
+
+42 
+approved by the Department, provided, that:  972 
+   “(A) The Director shall establish by rule the scope of the examination; and 973 
+   “(B) The Director may at any time require any applicant for, or holder of, 974 
+an operator license to be examined by a licensed physician if it appears that the applicant or 975 
+licensee has become physically or mentally incapacitated so that the applicant or licensee is unfit 976 
+as an operator. 977 
+  “(4) Completes basic driver training as approved by the Department. Such 978 
+training shall include, at minimum: 979 
+   “(A) All information contained in safe driver curriculum developed 980 
+pursuant to Section 9a(a) of the Motor Vehicle Services Fees and Driver Education Support Act 981 
+of 1982, effective April 20, 2024 (D.C. Law 25-161; § 50-1405.02); 982 
+   “(B) Information about the laws and regulations specific to for-hire 983 
+passenger service in the District; 984 
+   “(C) Information about prohibitions against discrimination in the provision 985 
+of for-hire passenger service; and 986 
+   “(D) Information about use of emergency procedures and equipment for 987 
+the operator’s personal safety, risk factors for crimes against for-hire operators, and passenger 988 
+service standards. 989 
+   “(E) The Department shall issue rules establishing a process wherein 990 
+approved third parties, including a dispatch service provider, may provide the basic driver 991 
+training required under this paragraph on the Department’s behalf. 992 
+  “(5) Consents to and clears a background check and driving history check, with 993 
+ongoing monitoring if available, pursuant to § 47-2893.05; 994
+
+43 
+  “(6) Consents to the Director obtaining other information directly concerning the 995 
+applicant's past conduct and general qualifications that shows the applicant's ability and skill as 996 
+an operator and the applicant's honesty and integrity for the purposes of determining whether the 997 
+applicant is suitable to provide for-hire passenger service;  998 
+  “(7) Agrees to a dispatch service provider receiving, on the applicant's or 999 
+licensee's behalf, general correspondence, citations, license actions, and notices of complaints 1000 
+from the Department. 1001 
+ “(j) In considering an application for an operator license, the Department may consider 1002 
+any other information that may lead the Department to reasonably conclude that the applicant 1003 
+will not operate a vehicle in a safe manner or comply with this chapter and other provisions of 1004 
+law or regulation. The Director shall reject an application if it has a material misstatement or 1005 
+omission. 1006 
+ “§ 47-2893.02. Provisional operator license. 1007 
+ “(a) Notwithstanding § 47-2893.02, pending final action on an operator license 1008 
+application, the Director may issue a provisional operator license (“provisional license”) when 1009 
+the review of an application is anticipated to be longer than two business days. A provisional 1010 
+license shall be effective for a period of up to 45 days, unless extended by the Director, and shall 1011 
+not be subject to renewal. 1012 
+ “(b) Application for a provisional license shall be made in such form as prescribed by the 1013 
+Department. 1014 
+ “(c) A dispatch service provider may submit a provisional license application to the 1015 
+Department on behalf of an applicant. The application must be completed and signed by both the 1016 
+applicant and an authorized representative of the dispatch service provider and include the 1017
+
+44 
+applicant’s contact information.  1018 
+  “(1) An application for a temporary operator’s license shall not be considered 1019 
+complete unless it includes a background check and driving record check performed within the 1020 
+twelve months preceding the date of the application. Pursuant to § 47-2893.05, the Department 1021 
+may require a supplemental background check before issuing a permanent operator license to the 1022 
+current or previous holder of a provisional license. 1023 
+ “(2) The holder of a provisional license may operate a registered vehicle to provide for-1024 
+hire passenger service on a provisional basis but shall not be authorized to provide street hail or 1025 
+WAV service. 1026 
+ “§ 47-2893.03. Street hail operator endorsement. 1027 
+ “(a) It shall be unlawful for a person to solicit, accept, or provide a street hail trip: 1028 
+  “(1) Without a valid street hail endorsement pursuant to this section or a valid 1029 
+WAV endorsement pursuant to § 47-2893.04; and 1030 
+  “(2) Without operating a registered vehicle that meets all requirements of a street 1031 
+hail vehicle as established in subchapter III. 1032 
+ “(b) The holder of an operator license shall be eligible to obtain a street hail endorsement, 1033 
+which if granted shall be placed on the applicant’s operator license. 1034 
+ “(c) The Department shall issue a physical copy of an operator’s street hail endorsement, 1035 
+which shall be displayed in the operator’s vehicle at all times while available to provide for-hire 1036 
+passenger service. 1037 
+ “(d) Application for a street hail endorsement shall be made in such form as prescribed 1038 
+by the Department. 1039 
+ “(e) The Department may grant a street hail endorsement to a person who completes a 1040
+
+45 
+street hail operator training, as established by the Department. The Department may establish 1041 
+rules permitting an authorized third party to conduct a street hail operator training on the 1042 
+Department’s behalf. 1043 
+  “(1) The Department may establish and require street hail operators to complete 1044 
+refresher training courses. 1045 
+  “(2) Training courses established under this subsection shall be offered as needed 1046 
+and shall be taken by operators as necessary. 1047 
+ “(f) The holder of a commercial AV fleet endorsement shall not be eligible for a street 1048 
+hail endorsement. 1049 
+ “§ 47-2893.04. Wheelchair-accessible vehicle operator endorsement. 1050 
+ “(a) It is unlawful for a person to provide a WAV trip without an endorsement (“WAV 1051 
+endorsement”) issued pursuant to this section. 1052 
+ “(b) The holder of an operator license shall be eligible to obtain a WAV endorsement, 1053 
+which if granted shall be placed on the applicant’s operator license. 1054 
+ “(c) Application for a WAV endorsement shall be made in such form as prescribed by the 1055 
+Department. 1056 
+ “(d) The Department shall issue a WAV endorsement to a person who: 1057 
+  “(1) Completes WAV operator training as established by the Department, which 1058 
+shall include, at minimum: 1059 
+   “(A) The legal requirements that apply to the transportation of persons 1060 
+with disabilities, including providing equal access to transportation and complying with the 1061 
+ADA; 1062 
+   “(B) Passenger assistance techniques, including a review of various 1063
+
+46 
+disabilities, hands-on demonstrations of how to assist those with disabilities, mobility equipment 1064 
+training, including familiarity with lift and ramp operations and various types of wheelchairs and 1065 
+personal mobility devices,, and safety procedures; 1066 
+   “(C) Training with an actual person using a wheelchair or personal 1067 
+mobility device; 1068 
+   “(D) Sensitivity training, including customer service and conflict 1069 
+resolution techniques; and 1070 
+   “(E) Overall training in passenger relations and courtesy. 1071 
+ “(e) A WAV endorsement shall have the same effect as a street hail endorsement. A 1072 
+licensed operator with a WAV endorsement may provide street hail service without needing a 1073 
+separate street hail endorsement, provided they are utilizing a vehicle that fulfills street hail 1074 
+requirements under this chapter. 1075 
+  “(1) The Department shall ensure that operator training and other requirements for 1076 
+a WAV endorsement under this section are comparable with requirements of a street hail 1077 
+endorsement. 1078 
+ “(f) The holder of an operator license with a WAV endorsement may operate any vehicle 1079 
+registered under this chapter, and shall not be obligated to operate a WAV, in the provision of 1080 
+for-hire passenger service. 1081 
+ “(g) The holder of a commercial AV fleet endorsement shall not be eligible for a WAV 1082 
+endorsement but may provide a WAV trip in a vehicle without an in-vehicle driver, subject to 1083 
+approval of the vehicle as an autonomous WAV pursuant to a commercial AV fleet endorsement.  1084 
+ “§ 47-2893.05. Background check and driving history. 1085 
+ “(a) All background checks and driving history checks as may be required for licensure 1086
+
+47 
+under this chapter shall be subject to the requirements of this section. 1087 
+ “(b) In order to pass a background check required under this chapter, an applicant must 1088 
+meet the following requirements: 1089 
+  “(1) Has no conviction, bail forfeiture, or other final adverse finding, including in 1090 
+civil suits or administrative hearings, pertaining to any of the following within the past seven 1091 
+years:  1092 
+   “(A) Fleeing from a law enforcement officer in a motor vehicle; 1093 
+   “(B) Reckless driving or aggravated reckless driving; 1094 
+   “(C) Leaving after colliding; 1095 
+   “(D) Driving under the influence of alcohol or drug, driving a commercial 1096 
+vehicle under the influence of an alcohol or drug, or operating a vehicle while impaired; 1097 
+   “(E) A crime of violence, as that term is defined in D.C. Official Code § 1098 
+23-1331(4); or 1099 
+   “(F) A crime directly related to the applicant’s honesty or integrity, 1100 
+including theft under D.C. Official Code § 22-3211, burglary under D.C. Official Code § 22-801, 1101 
+or extortion under D.C. Official Code § 22-3251, if the Department determines that the 1102 
+circumstances of the offense are incompatible with the duties of a for-hire passenger service 1103 
+operator. 1104 
+  “(2) Has no conviction for any offense committed in another jurisdiction that 1105 
+includes the elements of any of the offenses listed in this subsection;  1106 
+  “(3) Has no conviction, bail forfeiture, or other final adverse finding, including in 1107 
+a civil suit or administrative hearing, pertaining to any sex offense or convictions that include a 1108 
+special allegation of sexual motivation, including convictions for any offense committed in 1109
+
+48 
+another jurisdiction that includes the elements of a sex offense, within the past seven years;  1110 
+  “(4) Is not listed in the United States Department of Justice national sex offender 1111 
+public website, and not required to register as a sex offender; and  1112 
+  “(5) Does not have an active arrest warrant for any crime.  1113 
+ “(c) In order to pass a driving history check as may be required under this chapter, an 1114 
+applicant must meet the following requirements: 1115 
+   “(1) The applicant's driving history has no egregious moving violations 1116 
+within the past five years; and 1117 
+   “(2) The applicant's driving record leads the Director to reasonably 1118 
+conclude that the applicant will operate a vehicle in a safe manner in compliance with this 1119 
+chapter and the laws of the District;  1120 
+ “(d) The Department shall issue rules to allow for qualified third-parties to perform a 1121 
+background check and driving history check on behalf of the Department.  1122 
+  “(1) The Department shall require the third party to demonstrate competency in 1123 
+providing accurate information prior and shall include local, state, and national databases, and 1124 
+access at least seven years of database history when performing background checks. 1125 
+ “§ 47-2893.06. Suspension of operator license . 1126 
+ “(a) The Department shall develop procedures to evaluate the record of an operator’s 1127 
+license and suspend or revoke an operator’s license for violations of this chapter. 1128 
+  “(1) The record maintained by the Department for each licensee shall contain any 1129 
+violations associated with the license upon the final determination of liability by any 1130 
+governmental body charged with adjudicating violations. 1131 
+ “(b) Any procedure for suspension or revocation of an operator license shall clearly state 1132
+
+49 
+the grounds for suspension or revocation. 1133 
+  “(1) If the license of an operator licensed pursuant to this chapter is revoked, the 1134 
+person must complete requirements contained in this chapter anew before receiving a new 1135 
+license. 1136 
+ “(c)(1) Except as provided in paragraph (2) proposed suspension or revocation of an 1137 
+operator license shall not take effect until a final decision is rendered upon a timeline appeal 1138 
+taken by a licensee or, if no appeal is taken, upon the lapse of the period specified, by rule, for 1139 
+appeal. 1140 
+  “(2) Notwithstanding paragraph (1), the Department may immediately suspend or 1141 
+revoke a license issued under the authority of this chapter where the Department has determined 1142 
+that the operator poses an imminent danger to the public. Within three business days of the 1143 
+issuance of an immediate suspension or revocation under this paragraph, an administrative 1144 
+hearing shall be held before the Office of Administrative Hearings.  1145 
+ “SUBCHAPTER V. PASSENGER RIGHTS AND CONSUMER PROTECTION. 1146 
+ “§ 47-2894.01. Fare structures. 1147 
+ “(a) A pre-arranged trip may utilize any of the following rate structures, subject to the 1148 
+requirements of this chapter: 1149 
+  “(1) Flexible fare, wherein the base fare may be calculated based on distance, 1150 
+time, or both; 1151 
+  “(2) Limousine fare, wherein the base fare is calculated exclusively on the basis 1152 
+of time; 1153 
+  “(3) Chartered or sightseeing fare, wherein the base fare is calculated on a fixed 1154 
+rate per vehicle or per passenger; or 1155
+
+50 
+  “(4) Fixed fare, wherein the base fare is calculated on a flat-fee basis to airports 1156 
+and other point-to-point trips, based on well-traveled routes or event-related trips. 1157 
+ “(b) A street hail trip shall be subject to the street hail rate structure as established by the 1158 
+Department pursuant to § 47-2894.02. 1159 
+  “(1) Before the start of a street hail trip, a passenger may request an upfront fare 1160 
+by providing the exact location of the trip destination. Upon request, the operator shall present 1161 
+the upfront fare, as calculated by an approved smart meter system pursuant to rates established 1162 
+by the Department. Upon being presented with the upfront fare, the passenger may accept the 1163 
+trip with the upfront fare, opt for a metered fare, or decline the trip.  1164 
+  “(2) A passenger shall not be charged for declining a trip under this subsection.  1165 
+  “(3) Payment of an upfront fare shall only be made after the completion of the 1166 
+trip, provided, that a passenger utilizing electronic payment may be required to submit payment 1167 
+information prior to the commencement of the trip. 1168 
+ “(c) Calculation of a flexible fare may utilize an estimate of trip time based on current or 1169 
+predicted traffic conditions and optimized trip routing. 1170 
+ “§ 47-2894.02. Street hail and accessible rate structures. 1171 
+ “(a) The Department shall issue rules establish rates, fares, charges, and methodologies 1172 
+used to determine the price of street hail service.  1173 
+ “(b) The street hail rate structure shall be established for each of the following scenarios: 1174 
+  “(1) Metered fare, wherein the fare is dynamically calculated by an approved 1175 
+smart meter system pursuant to § 47-2891.04;  1176 
+  “(2) Upfront fare, wherein a passenger is presented with the fare based on the 1177 
+requested destination of the trip; 1178
+
+51 
+   “(A) Calculation of an upfront fare as established by the Department may 1179 
+utilize an estimate of trip time based on current or predicted traffic conditions and optimized trip 1180 
+routing; 1181 
+  “(3) Fixed fare, wherein the fare is charged on a flat-fee basis to airports and other 1182 
+point-to-point trips based on well-traveled routes or event-related trips such as sporting events. 1183 
+ “(c) At least once every 24 months, the Department shall undertake a review of the street 1184 
+hail rate structure. The review required by this section shall be undertaken by holding at least one 1185 
+public hearing, upon notice with opportunity to comment. Within 120 days of holding the public 1186 
+hearings, the Department shall render a decision on whether a modification or adjustment in rate 1187 
+structure is warranted, and, if determined to be warranted, shall implement the modification or 1188 
+adjustment. 1189 
+ “(d) The Department, in the establishment and supervision of the street hail rate 1190 
+structures pursuant to this section, shall: 1191 
+  “(1) Balance equitably the interest in procuring a maximum rate of return on 1192 
+investment and labor of owners and operators of for-hire vehicles against the public interest in 1193 
+maintaining a transportation system affordable to a broad cross section of the public; 1194 
+  “(2) Establish nondiscriminatory rates, charges, and methodologies for the 1195 
+determination of fares which assure reasonable and adequate compensation and promote broad 1196 
+and nondiscriminatory public access to transportation facilities. 1197 
+ “(e) The Department is authorized to establish rate structures specific to pre-arranged and 1198 
+street hail WAV trips. 1199 
+ “(f) Before adjusting rates covered by this section, the Department shall hold at least one 1200 
+public hearing and publish notice of the proposed change in the District of Columbia Register. 1201
+
+52 
+The notice shall: 1202 
+  “(1) Establish a public comment period of not fewer than 45 days from the date of 1203 
+publication; and 1204 
+  “(2) Set a date for a public hearing on the proposed change, which shall be held 1205 
+no fewer than 20 days from the date of publication. 1206 
+  “(3) In the event of an emergency declaration, the Department may adjust rates 1207 
+for the duration of the emergency without complying with the requirements of this subsection. 1208 
+ “§ 47-2894.03. Fare transparency. 1209 
+ “(a) All fares related to for-hire passenger service are subject to § 28-3904. 1210 
+ “(b) Before a pre-arranged trip is booked by a customer using digital dispatch, the 1211 
+dispatch service provider shall disclose to the person requesting the trip an itemized fare estimate 1212 
+that includes: 1213 
+  “(1) The fare structure, as set forth in § 47-2894.01(a), including the rates charged 1214 
+by distance, time, or both; 1215 
+  “(2) The base fare; 1216 
+  “(3) Any fare modifiers; 1217 
+  “(4) Fees and taxes, other than costs that are not determinable at a step in the 1218 
+transaction. 1219 
+ “(c) Except as otherwise provided, it is unlawful to charge a passenger a fare higher than: 1220 
+  “(1) The fare shown on a smart meter at the completion of a trip, plus any taxes, 1221 
+fees, or other gratuities; 1222 
+  “(2) [120%] of the fare estimate presented to a passenger pursuant to subsection 1223 
+(b); 1224
+
+53 
+  “(3) The fixed fare, for any trip subject to such fare; 1225 
+ “(d) Within a reasonable time following the completion of a trip, a passenger shall 1226 
+receive a paper or electronic receipt that lists: 1227 
+  “(1) The origin and destination of the trip; 1228 
+  “(2) The total time and distance of the trip; and 1229 
+  “(3) An itemization of the total fare paid. 1230 
+ “(e) During a state of emergency as declared by the Mayor, a dispatch service provider 1231 
+shall limit any surge pricing multiplier by which its base fare is multiplied to the next highest 1232 
+multiple below the 3 highest multiples set on different days in the 60 days preceding the 1233 
+declaration of a state of emergency for the same type of service in the District. 1234 
+ “§ 47-2894.04. Prohibition on surveillance-based fare discrimination. 1235 
+ “(a) Except as provided in subsection (c) of this section, it shall be unlawful to use 1236 
+personally identifiable information collected through electronic surveillance technology, 1237 
+technological methods, systems, or tools, including sensors, cameras, device tracking, biometric 1238 
+monitoring, or other forms of observation or data collection capable of gathering personally 1239 
+identifiable information about a person’s behavior, characteristics, location, or other personal 1240 
+attributes, whether in physical or digital environments, to set a base fare, rate structure, fare 1241 
+modifier, or other price or consideration for the provision of for-hire passenger service. 1242 
+ “(b) For the purposes of this section, the term “personally identifiable information” 1243 
+means information that may be used to distinguish or trace an individual’s identity, either alone 1244 
+or when combined with other personal or identifying information that is linked or linkable to a 1245 
+specific individual. 1246 
+ “(c)(1) The probation described in subsection (a) shall not apply where a reduction in 1247
+
+54 
+price is: 1248 
+   “(A) Set based on publicly available eligibility criteria that any person 1249 
+may satisfy on equal terms, including, voluntarily: 1250 
+    “(i) Signing up for a mailing list or promotional communications; 1251 
+    “(ii) Enrolling in a loyalty, membership, or rewards program; or 1252 
+    “(iii) Participating in a promotional event; 1253 
+   “(B) Provided to a passenger who is a member of a broadly defined group, 1254 
+such as teachers, active or retired military, senior citizens, students, members of a loyalty or 1255 
+membership program, or group purchasers, so long as a passenger voluntarily and knowingly 1256 
+provides information sufficient to identify their membership in such group; or  1257 
+   “(C) Provided to recipients of a publicly-established need-based program. 1258 
+  “(2) Notwithstanding paragraph (1), any modification of a fare shall be: 1259 
+   “(A) Specified in terms and eligibility criteria that are clearly and 1260 
+conspicuously disclosed; and 1261 
+   “(B) Provided without the use of personally identifiable information other 1262 
+than the use of personally identifiable information permitted under this subsection. 1263 
+ “§ 47-2894.05. Accessibility and non-discrimination. 1264 
+ “(a) It shall be unlawful for any person engaged in providing for-hire passenger service, 1265 
+including an operator, dispatch service provider, smart meter provider, or agent thereof, to 1266 
+discriminate or engage in discriminatory conduct on the basis of a protected characteristic under 1267 
+section 231 of the Human Rights Act of 1977, effective December 13, 1977 (D.C. Law 2-38; 1268 
+D.C. Official Code § 2-1402.31) (“protected characteristic”). In addition to the standards set 1269 
+forth in this section, discriminatory conduct may include, but is not limited to: 1270
+
+55 
+  “(1) Refusal of service based on the pickup or drop-off location of a passenger; 1271 
+  “(2) Refusal of service on the basis of a protected characteristic, including 1272 
+refusal of service to a wheelchair user or an individual with a service animal unless an operator 1273 
+has a documented serious medical allergy to animals on file with the Department; 1274 
+  “(3) Additional or special charges on an individual with a disability for 1275 
+providing services to accommodate the individual; 1276 
+  “(4) Requiring an individual with a disability to be accompanied by an attendant; 1277 
+ “(b) If an application or digital platform allows operators to rate passengers, it shall be a 1278 
+violation of this section for an operator to rate a passenger based on a protected characteristic. 1279 
+ “(c)(1) Except as provided in paragraph (2) of this subsection, a street hail-endorsed 1280 
+operator accepting fares shall stop and inquire of a prospective passenger in a wheelchair or 1281 
+personal mobility device attempting to request a street hail vehicle whether the passenger wishes 1282 
+to ride in the operator’s vehicle or, if the vehicle is not a WAV, wishes to have the operator 1283 
+contact a licensed dispatch service provider to send a WAV. 1284 
+  “(2) An operator shall not be subject to the requirements of this subsection while 1285 
+transporting a passenger or responding to a dispatched call for service. 1286 
+ “(d) Any person who owns, leases, rents, or operates wheelchair-accessible vehicles in 1287 
+the District shall: 1288 
+  “(1) Operate WAVs equipped with smart meter systems and maintain the capacity 1289 
+to communicate with every wheelchair-accessible vehicles operating under its service; 1290 
+  “(2) Grant priority to requests for service from passengers who use wheelchairs or 1291 
+personal mobility devices and once dispatched to such a passenger, shall not accept any other 1292 
+fare while traveling to the passenger; provided, that in the absence of a request for service to a 1293
+
+56 
+passenger who uses a wheelchair, a wheelchair-accessible vehicle operator may transport any 1294 
+person. 1295 
+ “(e) An endorsed operator of a WAV shall not deny a dispatch request for wheelchair 1296 
+accessible service unless the operator is entirely unavailable to provide service.  1297 
+ “(f) It shall be unlawful for any for-hire passenger service to impose additional or special 1298 
+charges on a passenger with a disability for providing services to accommodate the passenger, or 1299 
+to require a passenger with a disability to be accompanied by an attendant. 1300 
+ “(g) A dispatch service provider utilizing digital dispatch shall allow customers to 1301 
+designate whether or not they require a wheelchair-accessible vehicle in a customer profile on 1302 
+the digital dispatch application or platform.  1303 
+ “(h) If an operator accepts a trip request through digital dispatch from a passenger with a 1304 
+disability who uses a mobility device, upon picking up the passenger, the operator shall stow the 1305 
+passenger’s mobility equipment in the vehicle if the vehicle is capable of stowing the equipment. 1306 
+If a passenger or operator determines that the vehicle is not capable of stowing the equipment, 1307 
+the passenger or customer shall not be charged a trip cancellation fee or, if such fee has charged, 1308 
+it shall be refunded within two business days.  1309 
+ “(j) It shall not constitute discrimination under this section for an operator to refuse to 1310 
+provide service to an individual due to violent, seriously disruptive, or illegal conduct by the 1311 
+individual. An operator shall not, however, refuse to provide service to an individual with a 1312 
+disability solely because the individual’s disability results in appearance or involuntary behavior 1313 
+that may offend, annoy, or inconvenience the operator or another person. 1314 
+ “§ 47-2894.06. Underserved areas. 1315 
+ “(a) The Department may designate certain areas of the District of Columbia as 1316
+
+57 
+underserved areas, based on an established need for improved or additional for-hire passenger 1317 
+service.  1318 
+ “(b) It shall be a violation of the prohibition against refusal of service based the pickup or 1319 
+drop-off location of a passenger, as established in § 47-2894.05(a)(1), if the for-hire passenger 1320 
+service provided by a dispatch service provider, in aggregate, provides lower-quality service to 1321 
+passengers requesting a trip that starts or ends in an underserved area. 1322 
+  “(1) For the purposes of this subsection, “lower-quality service” means a 1323 
+pervasive and sustained pattern of any of the following: 1324 
+   “(A) Higher rates of dispatched trips cancelled or not performed by an 1325 
+operator; 1326 
+   “(B) Longer response times compared to the response times of comparable 1327 
+trips outside of the underserved area; or 1328 
+   “(C) Higher fares compared to the response times of comparable trips 1329 
+outside of the underserved area. 1330 
+ “(c) The Department is authorized to establish rules to implement this section. 1331 
+ “SUBCHAPTER VI. AGENCY ORGANIZATION. 1332 
+ “§ 47-2895.01. Department of For-Hire Vehicles – Established. 1333 
+ “(a) There is established the Department of For-Hire Vehicles as a subordinate agency 1334 
+within the executive branch of the District government with exclusive authority to regulate 1335 
+vehicle-for-hire and carrier-for-hire service. 1336 
+ “(b) DFHV is charged with the continuance, further development, improvement, and 1337 
+overall regulation of the vehicle-for-hire and carrier-for-hire industries in the District. 1338 
+ “(c) In addition to specific functions authorized or required by this chapter, DFHV shall 1339
+
+58 
+have the authority, power, and duty to: 1340 
+  “(1) Establish any rule relating to the regulation and supervision of for-hire 1341 
+passenger service not specifically delineated in this chapter, so long as the rule is consistent with 1342 
+this chapter and related to the furtherance and protection of the public interest; 1343 
+  “(2) Promulgate an issuance, instruction, or guidance as it deems necessary and 1344 
+appropriate to aid in administration, enforcement, or compliance with any provision of this title. 1345 
+An issuance, instruction, or guidance may be modified or rescinded at any time with reasonable 1346 
+notice; 1347 
+  “(3) Establish standards, conditions, and requirements of for-hire passenger 1348 
+service; 1349 
+  “(4) Establish standards for operator and passenger safety; 1350 
+  “(5) Establish rules relating to the enforcement of traffic regulations against 1351 
+vehicles covered under this chapter; 1352 
+  “(6) Establish reasonable civil fines and penalties for violations of this chapter 1353 
+and any rule or order issued under this chapter, including penalties consisting of the suspension 1354 
+or revocation of a license or registration; 1355 
+  “(7) Undertake the investigation of any aspect of for-hire passenger service 1356 
+operations and practices necessary to protect public safety; 1357 
+  “(8) Audit records to ensure compliance with this chapter; 1358 
+  “(9) Advise agencies and authorities with jurisdiction over public transportation, 1359 
+public highways, and public space within the District regarding the routing of for-hire passenger 1360 
+vehicles and the location of taxi stands; 1361 
+  “(10) Advise the Mayor regarding the execution, modification, and termination of 1362
+
+59 
+reciprocal agreements with other jurisdictions and authorities; 1363 
+  “(11) Provide for the training and oversight of vehicle inspection officers; 1364 
+  “(12) Receive, hear, respond to, and adjudicate complaints lodged against the 1365 
+vehicle-for-hire industry, including operators, fleets, and dispatch service providers, or refer such 1366 
+contested matters to the Office of Administrative Hearings; 1367 
+  “(13) Hear and decide appeals taken from license and registration denials and 1368 
+proposed revocations or suspensions issued pursuant to this chapter, or refer the contested matter 1369 
+to the Office of Administrative Hearings; 1370 
+  “(14) When determined to be necessary to protect the public interest, hear 1371 
+complaints and disputes occurring within the industry, including complaints and disputes 1372 
+between companies, operators, or owners; and, to address industry-wide problems, issue 1373 
+reasonable rules for the governance of intra-industry relationships. 1374 
+ “(d) The Department may issue orders which shall have binding effect in exercising any 1375 
+authority conferred by this chapter. 1376 
+ “(e) No license requirement for operating authority shall be mandated by the Department 1377 
+of For-Hire Vehicles that is duplicative of the jurisdiction of the Washington Metropolitan Area 1378 
+Transit Commission. 1379 
+ “§ 47-2895.02. Department of For-Hire Vehicles – Director.  1380 
+ “(a) DFHV shall be headed by a Director, who shall be appointed by the Mayor with the 1381 
+advice and consent of Council pursuant to section 2(a) of the Confirmation Act of 1978, effective 1382 
+March 3,1979 (D.C. Law 2-142; D.C. Official Code § 1-523.01(a)). 1383 
+ “(b) The Director shall have authority over DFHV, its functions, and its personnel, 1384 
+including the power to re-delegate authority to employees, as is warranted in the judgement of 1385
+
+60 
+the Director, in the interest of efficiency and sound administration. 1386 
+ “§ 47-2895.03. Advisory Council. 1387 
+ “(a) There is established a For-Hire Vehicles Advisory Council (“FHVAC”). 1388 
+ “(b) The FHVAC shall be composed of 11 members appointed as follows: 1389 
+  “(1) The Director or their designee; 1390 
+  “(2) The director of the District Department of Transportation, or their designee; 1391 
+  “(3) Thirteen community representatives, who do not work for the District 1392 
+government, appointed by the Mayor as follows: 1393 
+   “(A) Two District residents who operate vehicles-for-hire in the District; 1394 
+   “(B) Two representatives of dispatch service or smart meter service 1395 
+providers; 1396 
+   “(C) Two District residents with experience as a carrier-for-hire operator;  1397 
+   “(D) Two representatives of companies providing carrier-for-hire industry 1398 
+services in the District;  1399 
+   “(E) Two representatives of the hospitality, food service, or tourism 1400 
+industry in the District; and 1401 
+   “(F) Three District residents, unaffiliated with the for-hire vehicle 1402 
+industry, who regularly use vehicle-for-hire or carrier-for-hire service in the District. 1403 
+ “(c)(1) Community representatives shall be appointed for a term of 3 years, and each 1404 
+shall serve until the appointment of a successor. 1405 
+  “(2) Notwithstanding paragraph (1), if the Mayor does not appoint a community 1406 
+representative within 6 months of the expiration of a term, the Council may make an 1407 
+appointment for that seat. 1408
+
+61 
+ “(d) No community representative shall serve more than 2 consecutive terms, which shall 1409 
+not include an appointment to fill a vacancy due to removal, resignation, or death of a member. 1410 
+The Mayor may remove a community representative for cause. An appointment to fill a vacancy 1411 
+occurring during a term due to removal, resignation, or death of a member shall be made in the 1412 
+same manner as other appointments and for the remainder of the unexpired term. 1413 
+ “(e) A chairperson shall be elected from among the community representatives for a term 1414 
+of 2 years. 1415 
+ “(f) The FHVAC shall meet at least once per quarter. 1416 
+ “(g) The purpose of the FHVAC shall be to advise the Department on all matters related 1417 
+to the regulation of the for-hire vehicle industry. 1418 
+ “(h) At least once every 6 months, the Director shall meet with the chairperson of the 1419 
+FHVAC to discuss recommendations provided by the FHVAC to DFHV. Following each 1420 
+meeting, the Department shall make publicly available all recommendations discussed between 1421 
+DHFV and the FHVAC, the Department’s decision in response to the recommendations, and an 1422 
+explanation thereof. 1423 
+ “§ 47-2895.04. For-Hire Industry Service Fund. 1424 
+ “(a) There is established as a special fund the For-Hire Industry Service Fund (“Fund”), 1425 
+which shall be administered by the Department of For-Hire Vehicles in accordance with this 1426 
+section. 1427 
+ “(b) The following shall be deposited into the Fund: 1428 
+  “(1) Funds collected by the Department for issuance and renewal of licenses and 1429 
+registration under this chapter; 1430 
+  “(2) Funds collected by the Department from fees for services it is authorized to 1431
+
+62 
+provide under this chapter;  1432 
+  “(3) Funds collected from a VMT charge pursuant to § 47-2891.11; and 1433 
+  “(4) Funds from the Public Vehicles-for-Hire Consumer Service Fund or any 1434 
+other fund held by DFHV prior to the effective date of this chapter. 1435 
+ “(c) The Fund may be used for the following purposes: 1436 
+  “(1) Costs incurred by DFHV, including operating and administering programs, 1437 
+investigations, proceedings, and inspections, administering the Fund, and improving the 1438 
+District’s for-hire vehicle industry; 1439 
+  “(2) Establishing fare discounts or other subsidies including for low-income 1440 
+residents, seniors, persons with disabilities and other underserved or vulnerable populations, and 1441 
+individuals connecting to public transit trips;  1442 
+  “(3) Grants, loans, or other assistance or incentives to facilitate and accelerate the 1443 
+adoption of zero-emission or electric vehicles in the for-hire passenger service industry. 1444 
+  “(4) To offset private costs associated with meeting the mandates of this chapter. 1445 
+ “(d) Notwithstanding subsection (c)(1), monies in the Fund shall not be used operate 1446 
+transportation programs outside the scope of the Department as established in this subchapter, 1447 
+including public transit or school transportation services. 1448 
+ “§ 47-2895.05. Accessibility Advisory Committee. 1449 
+ “(a)(1) There is established an Accessibility Advisory Committee to advise DFHV on 1450 
+making for-hire passenger service in the District more accessible to individuals with disabilities. 1451 
+  “(2)(A) The Committee shall include representatives from the following: 1452 
+    “(i) The Office of Disability Rights; 1453 
+    “(ii) The Office of Human Rights; 1454
+
+63 
+     (iii) The Commission on Persons with Disabilities; 1455 
+     (iv) The disability advocacy community; 1456 
+     (v) Licensed operators; 1457 
+     (vi) The Office of the Chief Financial Officer; 1458 
+     (vii) The Department of For-Hire Vehicles; and 1459 
+     (viii) Dispatch service providers. 1460 
+   “(B) At least half of the Committee shall be comprised of members or 1461 
+representatives of the disability advocacy community. 1462 
+  “(3)(A) A chairperson, who shall serve for a term of 2 years, shall be elected from 1463 
+among the members or representatives of the disability advocacy community at the first meeting 1464 
+of the Committee and every 2 years thereafter. 1465 
+   “(B) The Committee shall meet, at a minimum, on a quarterly basis, at 1466 
+times to be determined by the chairperson of the Committee. 1467 
+   “(C) DFHV shall provide the Committee with reasonable and accessible 1468 
+accommodations for holding meetings and an annual operating budget, which shall include funds 1469 
+to maintain a website where the Committee shall provide a public listing of members, meeting 1470 
+notices, meeting minutes, and policy recommendations. 1471 
+ “§ 47-2895.06. Accessible Passenger Service Fund. 1472 
+ “(a) There is established as a nonlapsing special fund the Accessible Passenger Service 1473 
+Fund, which shall be administered by the Department of For-Hire Vehicles in accordance with 1474 
+this section. 1475 
+ “(b) The following shall be deposited into the Accessible Passenger Service Fund: 1476 
+  “(1) A fee of $0.10 assessed for each completed for-hire passenger service trip 1477
+
+64 
+that is not a WAV trip, to be paid at least quarterly by all dispatch service providers and smart 1478 
+meter system providers; 1479 
+  “(2) An accessible street hail registration fee of no less than $20 per month 1480 
+assessed on a registered street hail vehicle that is not a WAV. 1481 
+   “(A) The Department may issue rules modifying the accessible street hail 1482 
+registration fee in order to incentivize adoption of accessible street hail vehicles; and 1483 
+  “(3) Any penalties assessed pursuant to § 47-2891.07. 1484 
+ “(c) Funds deposited to the Accessible Passenger Service Fund may be used for any of 1485 
+the following purposes:  1486 
+  “(1) Reimbursement for costs associated with purchase, conversion, or 1487 
+maintenance of a WAV to be used to provide for-hire passenger service; 1488 
+  “(2) Grants, loans, or other assistance for operators providing or available to 1489 
+provide WAV trips; 1490 
+  “(3) Subsidy of WAV trips for persons with disabilities; 1491 
+  “(4) Other programs designed to improve for hire-passenger service for people 1492 
+with disabilities, with an emphasis on improving the availability of WAVs available and 1493 
+authorized to provide street hail service; and 1494 
+ “(d) Up to 10% of the amount deposited annually into the Accessible Passenger Service 1495 
+Fund may be allocated to associated agency or administrative costs, including support for the 1496 
+Accessibility Advisory Committee as established in § 47-2895.05. 1497 
+ “SUBCHAPTER VII. ENFORCEMENT. 1498 
+ “§ 47-2896.01. Complaint procedures. 1499 
+ “The Department shall: 1500
+
+65 
+  “(1) Allow the public to file complaints electronically on its website and through 1501 
+a hotline. This hotline shall be available 24 hours a day, 365 days a year, and be listed on the 1502 
+main page of DFHV’s website and in every vehicle registered under this chapter; 1503 
+  “(2) Within 72 hours of receiving a complaint, confirm in writing to the 1504 
+complainant that the complaint has been received; 1505 
+  “(3) Respond, in writing, to the operator or vehicle inspection officer against 1506 
+whom the complaint was filed, with a detailed description of the complaint against them, 1507 
+including the time, date, location, circumstances of the alleged incident, and the potential 1508 
+penalties, as well as provide clear instructions of the procedures used to adjudicate the complaint, 1509 
+the rights of the recipient to contest the complaint, and the documents, evidence, or materials 1510 
+necessary for proper adjudication of the complaint; 1511 
+  “(4) Provide training in the rules and regulations governing operators to all 1512 
+personnel responsible for reviewing complaints; 1513 
+  “(5) Provide information on its website about the appeals process for complaints; 1514 
+and 1515 
+  “(6) Conduct annual performance and compliance audits of the complaints 1516 
+received by the Department, how those complaints were handled, and how those complaints 1517 
+were used to improve the provision of for-hire passenger service in the District. 1518 
+ “§ 47-2896.02. Vehicle Inspection Officers. 1519 
+ “(a) The Department shall employ vehicle inspection officers (“VIOs”) to enforce the 1520 
+laws, rules, and regulations pertaining to for-hire passenger service.  1521 
+ “(b) A primary function of a VIO shall be to ensure the proper provision of service and to 1522 
+support safety through street enforcement efforts, including traffic stops pursuant to protocol 1523
+
+66 
+established by the Department. 1524 
+ “(c) Nothing in this chapter shall abrogate the authority of officers of the Metropolitan 1525 
+Police Department to enforce and issue citations relating to for-hire passenger vehicle and 1526 
+operator requirements. 1527 
+ “(d) VIOs shall undergo training on the rules and regulations pertinent to this chapter and 1528 
+other related provisions of law and shall undergo yearly performance evaluations. 1529 
+ “(e) A VIO shall only make a traffic stop of a vehicle in the act of transporting a 1530 
+passenger if there is reasonable suspicion of a violation. 1531 
+ “(f) A VIO is authorized to issue citations for all moving and parking violations 1532 
+encountered in the course of their duties. 1533 
+ “§ 47-2896.03. Cease-and-desist orders.  1534 
+ “(a) If the Department, after investigation but before a hearing, has cause to believe that a 1535 
+person is violating a provision of this chapter and the violation has caused, or may cause, harm to 1536 
+the public, the Department may issue an order requiring the alleged violator to cease and desist 1537 
+immediately from the violation. The order shall be served by certified mail or hand-delivered to 1538 
+the person. 1539 
+  “(1) For the purposes of this subsection, engaging in or providing for-hire 1540 
+passenger service or dispatch service without a valid and unexpired license or endorsement shall 1541 
+be considered a harm to the public. 1542 
+ “(b)(1) The alleged violator may, within 15 days after the service of the order, submit a 1543 
+written request to the Department to hold a hearing on the alleged violation. 1544 
+  “(2) Upon receipt of a timely request, a hearing shall be held before the Office of 1545 
+Administrative Hearings (“OAH”) with the procedures set forth in the District of Columbia 1546
+
+67 
+Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1203; D.C. Official Code § 1547 
+2-501 et seq.), and OAH shall issue a decision within 90 days after the hearing. 1548 
+  “(3) If a request for a hearing is not timely made under this subsection, the order 1549 
+of the Department shall be final. 1550 
+  “(4) If, after a hearing, OAH determines that the alleged violator is not in 1551 
+violation of this chapter, the Department shall revoke the order. 1552 
+ “(c) If a person fails to comply with a lawful order of the Department under this section, 1553 
+the Department may petition the Superior Court of the District of Columbia for an order 1554 
+compelling compliance, or take any other action authorized by this chapter. 1555 
+ “§ 47-2896.04. Immobilization and impoundment of a vehicle for hire. 1556 
+ “(a) The Department of For-Hire Vehicles, Metropolitan Police Department or law 1557 
+enforcement personnel, or any authorized agent is authorized to immobilize, tow, or impound a 1558 
+vehicle pursuant to this section. 1559 
+ “(b) Any vehicle for hire being operated in the District of Columbia may, subject to 1560 
+procedures set forth in the Parking Enforcement Modernization Act of 2025, effective May 2, 1561 
+2025 (D.C. Law 25-325; D.C. Official Code § 50-2431 et seq.), be immobilized and impounded 1562 
+if: 1563 
+  “(1) The vehicle is being operated to provide for-hire passenger service without a 1564 
+valid license, endorsement, or other authorization required to be issued by the Department of 1565 
+For-Hire Vehicles under this chapter; 1566 
+  “(2) The vehicle is being operated by a person who does not have a valid motor 1567 
+vehicle operator’s license; 1568 
+  “(3) The vehicle is not registered to operate for-hire passenger service in the 1569
+
+68 
+District; 1570 
+  “(4) A dispatch service provider, smart meter system provider, or other business 1571 
+entity associated with the vehicle is not licensed under this chapter or otherwise lacks authority 1572 
+to operate in the District, and the vehicle is observed providing for-hire passenger service in the 1573 
+District of Columbia; 1574 
+  “(5) The vehicle does not comply with insurance requirements under this chapter 1575 
+or other provisions of law; 1576 
+  “(6) The vehicle does not comply with motor vehicle inspection standards as 1577 
+prescribed by § 47-2892.03 or section 603, Chapter 7 of Title 18 of the District of Columbia 1578 
+Municipal Regulations; or 1579 
+  “(7) The vehicle is otherwise eligible for immobilization or impoundment 1580 
+pursuant to section 122 of the Parking Enforcement Modernization Act of 2025, effective May 2, 1581 
+2025 (D.C. Law 25-325; D.C. Official Code § 50-2452). 1582 
+ “(c) Any vehicle impounded pursuant to this section shall have the vehicle’s for-hire 1583 
+passenger service registration removed, the vehicle operator’s license suspended, or both, as 1584 
+applicable, pending a hearing to determine the propriety of reissuance or return of the 1585 
+registration or license. 1586 
+ “(d) If a determination is made that, at the time of the impoundment, the vehicle was 1587 
+being operated without a valid operator license issued pursuant this chapter, the hearing 1588 
+examiner shall: 1589 
+  “(1) Fine the vehicle owner according to DFHV’s rules and regulations; or 1590 
+  “(2) If there has been a prior determination that the vehicle had operated without a 1591 
+valid license, fine, not reissue or return the license, and bar the vehicle owner or lessee from 1592
+
+69 
+applying for or obtaining an operator license for a period of 3 years. 1593 
+ “(e) The Department of For-Hire Vehicles, Metropolitan Police Department or law 1594 
+enforcement personnel, or any authorized agent acting pursuant to subsection (a)(6) of this 1595 
+section may: 1596 
+  “(1) Direct the operator of the vehicle to immediately remove the vehicle to an 1597 
+official District of Columbia inspection station for inspection or reinspection notwithstanding the 1598 
+fact that the vehicle displays an approval inspection sticker pursuant to Chapters 6 and 7 of Title 1599 
+18 of the District of Columbia Municipal Regulations; or 1600 
+  “(2) Tow the vehicle by a tow crane operator to an official District of Columbia 1601 
+inspection station for inspection. After inspection or reinspection, if the vehicle is determined not 1602 
+to be operable or no owner or operator is available to arrange transportation of the vehicle to 1603 
+another location, the Mayor may impound the vehicle pursuant to the Parking Enforcement 1604 
+Modernization Act of 2025, effective May 2, 2025 (D.C. Law 25-325; D.C. Official Code § 50-1605 
+2431 et seq.). 1606 
+ “§ 47-2896.05. Construction. 1607 
+ “(a) Except as otherwise provided, all for-hire passenger service activity shall be subject 1608 
+to exclusive control, supervision, and regulation by the Department, regardless of whether the 1609 
+activity is licensed, registered, or permitted under this chapter. 1610 
+ “(b) Enforcement of this chapter and any regulations promulgated by the Department 1611 
+shall be enforceable by the Department or any other enforcement officer of the District. 1612 
+ “§ 47-2896.07. Fees and penalties. 1613 
+ “(a) The Department is authorized to establish fees for licensing and registration 1614 
+established under this chapter in order to support the costs of implementation. 1615
+
+70 
+ “(b) The Department may establish reasonable civil fines and penalties for violation of 1616 
+any provision of this chapter or any rule issued pursuant to authority granted by this chapter.”. 1617 
+ Sec. 3. Repeals and conforming amendments. 1618 
+ [Reserved.] 1619 
+ Sec. 4.  Fiscal impact statement. 1620 
+The Council adopts the fiscal impact statement in the committee report as the fiscal impact 1621 
+statement required by section 4a of the General Legislative Procedures Act of 1975, approved 1622 
+October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a). 1623 
+ Sec. 5. Effective date. 1624 
+ This act shall take effect after approval by the Mayor (or in the event of veto by the 1625 
+Mayor, action by the Council to override the veto), a 30-day period of congressional review as 1626 
+provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 1627 
+24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of 1628 
+Columbia Register. 1629

@@ -1,0 +1,229 @@
+1 
+ 
+      __________________________                      1 
+Councilmember Kenyan R. McDuffie  2 
+ 3 
+ 4 
+A BILL 5 
+ 6 
+_______________ 7 
+ 8 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA 9 
+ 10 
+________________________ 11 
+ 12 
+ 13 
+To amend the Autonomous Vehicle Act of 2012 to establish a framework for autonomous 14 
+vehicle operations, including commercial operations, within the District of Columbia. 15 
+ 16 
+ BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 17 
+act may be cited as the “Autonomous Vehicles Amendment Act of 2025”. 18 
+ Sec. 2. The Autonomous Vehicle Act of 2012, effective Apr. 23, 2013 (D.C. Law 19-278; 19 
+D.C. Official Code § 50-2351 et seq.) is amended as follows: 20 
+ (a) Section 2 (D.C. Official Code § 50-2351) is amended to read as follows: 21 
+“Sec. 2.  Definitions. 22 
+For the purposes of this chapter, the term: 23 
+ (1) "Associated autonomous vehicle" means an autonomous vehicle that an autonomous 24 
+vehicle testing entity identifies in its autonomous vehicle testing permit application pursuant to § 25 
+50-2352.01, and any subsequent autonomous vehicles approved to operate pursuant to § 50-26 
+2352.01(f)(1) or permitted by law to operate without subsequent approval. 27 
+ (2) "Automated driving system" means the hardware and software that are collectively 28 
+capable of performing the entire dynamic driving task on a sustained basis, regardless of whether 29 
+it is limited to a specific operational design domain. 30
+
+2 
+ 
+ (3) "Autonomous operation" means the performance of the entire dynamic driving task 31 
+by an autonomous driving system, beginning upon the performance of the entire dynamic driving 32 
+task by an autonomous driving system and continuing until the autonomous driving system is 33 
+disengaged. 34 
+ (4) "Autonomous vehicle" means a motor vehicle equipped with an autonomous driving 35 
+system, regardless of whether the vehicle is under autonomous operation. 36 
+  (5) "AV testing entity" means a person or entity applying for or issued an AV testing 37 
+permit by the Department. 38 
+ (6) "AV testing permit" means a permit issued by the Department pursuant to § 50-39 
+2352.01. 40 
+(7) "Department" means the District Department of Transportation. 41 
+(8) "Director" means the Director of the District Department of Transportation. 42 
+ (9) "Dynamic driving task" means all of the real-time operational and tactical functions 43 
+collectively required to operate a vehicle in on-road traffic, excluding the strategic functions such 44 
+as trip scheduling and selection of destinations and waypoints, and including: 45 
+(A)  Lateral vehicle motion control via steering; 46 
+(B)  Longitudinal motion control via acceleration and deceleration; 47 
+(C)  Monitoring the driving environment via object and event detection, 48 
+recognition, classification, and response preparation; 49 
+(D)  Object and event response execution; 50 
+(E)  Maneuver planning; and 51 
+(F)  Enhancing conspicuity via lighting, signaling, and gesturing. 52
+
+3 
+ 
+ (10) “Fully autonomous vehicle” means a vehicle equipped with an automated driving 53 
+system designed to function without a human driver as a level 4 or 5 system under SAE J3016B. 54 
+ (11) “Human driver” means a natural person in the vehicle with a valid license to operate 55 
+a motor vehicle who controls all or part of the dynamic driving task. 56 
+ (12) "Minimal risk condition" means a condition to which a test operator or autonomous 57 
+driving system brings a vehicle to reduce the risk of a crash when a trip cannot or should not be 58 
+completed, such as bringing the vehicle to a complete stop. 59 
+ (13) “On-demand autonomous vehicle network” means a transportation service network 60 
+that uses a software application or other digital means to dispatch or otherwise enable the pre-61 
+arrangement of transportation with fully autonomous vehicles for purposes of transporting 62 
+passengers or goods, including for-hire transportation and transportation of passengers or goods 63 
+for compensation. 64 
+ (14) "Operate" means collectively, the activities performed by a test operator or an 65 
+autonomous driving system to perform the entire dynamic driving task for an associated 66 
+autonomous vehicle. 67 
+ (15) "Operational design domain" means the operating conditions under which a given 68 
+automated driving system is specifically designed to function, including environmental, 69 
+geographical, and time-of-day restrictions, and/or the requisite presence or absence of certain 70 
+traffic or roadway characteristics. 71 
+ (16) “Public roadway” means a street, road, or public thoroughfare that allows motor 72 
+vehicles. 73 
+ (17) "Remote operator" means an employee, contractor, or other designee of the 74 
+autonomous testing entity who is not physically present in an associated autonomous vehicle, but 75
+
+4 
+ 
+is actively monitoring the autonomous operation of the vehicle in real time and is able to operate 76 
+the vehicle or is able to communicate with occupants of the vehicle. 77 
+ (18) “Request to intervene” means a notification by an automated driving system to a 78 
+human driver, that the human driver should promptly begin or resume performance of part or all 79 
+of the dynamic driving task. 80 
+ (19) “SAE J3016B” means the Taxonomy and Definitions for Terms Related to Driving 81 
+Automation Systems for On-Road Motor Vehicles published by SAE International in June 2018.” 82 
+ (20) "Testing" means the operation of an associated autonomous vehicle on public 83 
+roadways to assess or demonstrate the associated autonomous vehicle's capabilities, including 84 
+operating an associated autonomous vehicle with occupants other than a test operator. 85 
+ (21) "Test operator" means an employee, contractor, or other designee of the autonomous 86 
+vehicle testing entity who engages an autonomous driving system and performs, in real time, part 87 
+or all of the dynamic driving task. 88 
+ (22) “Traffic control device” means a traffic signal, traffic sign, electronic traffic sign, 89 
+pavement marking, or other sign, device, or apparatus designed and installed to direct moving 90 
+traffic. 91 
+ (b) Section 3 (D.C. Official Code §50-2352) is revived as of July 11, 2025, and amended 92 
+to read as follows: 93 
+“Section 3. Autonomous vehicles permitted and registration requirements. 94 
+ (a) A person or entity may operate a fully autonomous vehicle on the public roads of this 95 
+state without a human driver provided that the automated driving system is engaged and the 96 
+vehicle meets the following conditions: 97
+
+5 
+ 
+  (1) If a failure of the automated driving system occurs that renders that system 98 
+unable to perform the entire dynamic driving task relevant to its intended operational design 99 
+domain, the fully autonomous vehicle will achieve a minimal risk condition; 100 
+  (2) The fully autonomous vehicle is capable of operating in compliance with the 101 
+applicable traffic and motor vehicle safety laws and regulations of the District when reasonable 102 
+to do so, unless an exemption has been granted by the Department; and 103 
+  (3) When required by federal law, the vehicle bears the required manufacturer's 104 
+certification label indicating that at the time of its manufacture it has been certified to be in 105 
+compliance with all applicable Federal Motor Vehicle Safety Standards, including reference to 106 
+any exemption granted by the National Highway Traffic Safety Administration. 107 
+ (b) Prior to operating a fully autonomous vehicle on the public roads of the District 108 
+without a human driver, a person or entity shall submit a law enforcement interaction plan to the 109 
+Department that describes: 110 
+  (1) How to communicate with a fleet support specialist who is available during 111 
+the times the vehicle is in operation;   112 
+  (2) How to safely remove the fully autonomous vehicle from the roadway and 113 
+steps to safely tow the vehicle;   114 
+  (3) How to recognize whether the fully autonomous vehicle is in autonomous 115 
+mode; and 116 
+  (4) Any additional information the manufacturer or owner deems necessary 117 
+regarding hazardous conditions or public safety risks associated with the operation of the fully 118 
+autonomous vehicle. 119
+
+6 
+ 
+ (c) An autonomous vehicle must be properly registered pursuant to the District of 120 
+Columbia Revenue Act of 1937, approved August 17, 1937 (50 Stat. 679; D.C. Official Code § 121 
+50-1501 et seq.), to operate on a public roadway. 122 
+  (1) If a fully autonomous vehicle is registered in the District, the vehicle shall be 123 
+identified on the registration as a fully autonomous vehicle. 124 
+  (2) If a fully autonomous vehicle is titled in the District, the vehicle shall be 125 
+identified on the title as a fully autonomous vehicle.” 126 
+  (c) Section 3c (D.C. Official Code § 50-2352.03) is amended as follows: 127 
+  (1) A new subsection (d) is added to read as follows: 128 
+ (d) In the event of a crash of a fully autonomous vehicle: 129 
+  (A) The fully autonomous vehicle shall remain on the scene of the crash when 130 
+required by D.C. Official Code § 50-2201.05c, consistent with its capability under Section 3. 131 
+  (B) The owner of the fully autonomous vehicle, or a person on behalf of the 132 
+vehicle owner, shall provide to the Department copies of any collision reports relating to 133 
+collisions in the District that are provided to the National Highway Traffic Safety Administration 134 
+pursuant to the Second Amended Standing General Order 2021-01. Any such reports shall be 135 
+provided to the Department within one day of the provision to the National Highway Traffic 136 
+Safety Administration.” 137 
+ (d) New sections 4b, 4c, 4d, 4e, 4f, 4g and 4h are added to read as follows: 138 
+“Sec. 4b. Licensing. 139 
+(a) When an automated driving system installed on a motor vehicle is engaged: 140 
+  (1) The automated driving system is considered the driver or operator, for the 141 
+purpose of assessing compliance with applicable traffic or motor vehicle laws and shall be 142
+
+7 
+ 
+deemed to satisfy electronically all physical acts required by a driver or operator of the vehicle; 143 
+and 144 
+  (2) The automated driving system is considered to be licensed to operate the 145 
+vehicle.”. 146 
+“Sec. 4c. On-demand autonomous vehicle network. 147 
+ (a) An on-demand autonomous vehicle network shall be permitted to operate pursuant to 148 
+District laws governing the operation of transportation network companies, taxis, or any other 149 
+ground transportation for-hire of passengers, with the exception that any provision of law that 150 
+reasonably applies only to a human driver would not apply to the operation of fully autonomous 151 
+vehicles with the automated driving system engaged on an on-demand autonomous vehicle 152 
+network.”. 153 
+“Sec. 4d. Insurance. 154 
+ (a) Before operating a fully autonomous vehicle on public roads in the District without a 155 
+human driver, a person shall submit proof of financial responsibility satisfactory to the 156 
+Department that the fully autonomous vehicle is covered by insurance or proof of self-insurance 157 
+that satisfies the requirements of applicable Chapter 13 of Title 50 of the D.C. Official Code 158 
+(D.C. Official Code § 50-1301.01 et seq.)”. 159 
+ “Sec. 4e. Operation of a motor vehicle with an automated driving system by a human 160 
+driver 161 
+ (a) A person may operate a motor vehicle equipped with an automated driving system 162 
+capable of performing the entire dynamic driving task if: 163
+
+8 
+ 
+  (1) Such automated driving system will issue a request to intervene whenever the 164 
+automated driving system is not capable of performing the entire dynamic driving task with the 165 
+expectation that the person will respond appropriately to such a request; and   166 
+  (2) The automated driving system is capable of being operated in compliance with 167 
+Chapter 22 of Title 50 of the D.C. Official Code (D.C. Official Code § 50-2201.01 et seq.) when 168 
+reasonable to do so unless an exemption has been granted by the Department. 169 
+ (b) Nothing in this Act prohibits or restricts a human driver from operating a fully 170 
+autonomous vehicle equipped with controls that allow for the human driver to control all or part 171 
+of the dynamic driving task.”. 172 
+“4f. Operation of commercial vehicles.  173 
+ (a) A fully autonomous vehicle that is also a commercial motor vehicle pursuant to 174 
+Chapter 1 of Title 50 of the D.C. Official Code (D.C. Official Code § 50-101 et seq.) may 175 
+operate pursuant to District laws governing the operation of commercial motor vehicles, except 176 
+that any provision that by its nature reasonably only applies to a human driver does not apply to 177 
+such a vehicle operating with the automated driving system engaged.” 178 
+“4g. Vehicle equipment standards. 179 
+ (a) A fully autonomous vehicle that is designed to be operated exclusively by the 180 
+automated driving system for all trips is not subject to motor vehicle equipment laws or 181 
+regulations of this state that: (1) relate to or support motor vehicle operation by a human driver 182 
+seated in the vehicle; and (2) are not relevant for an automated driving system.” 183 
+“4h. Controlling Authority: 184 
+ (a) Unless otherwise provided in this chapter and notwithstanding any other provision of 185 
+law, fully autonomous vehicles and automated driving systems are governed exclusively by this 186
+
+9 
+ 
+Act. The Department is the sole and exclusive District agency that may implement the provisions 187 
+of this Act. 188 
+ (b) No other District agency or political subdivision may prohibit the operation of fully 189 
+autonomous vehicles, automated driving systems, or on-demand autonomous vehicle networks, 190 
+or otherwise enact or keep in force rules or ordinances that would impose taxes, fees, or other 191 
+requirements (including performance standards), specific to the operation of fully autonomous 192 
+vehicles, automated driving systems, or on-demand autonomous vehicle networks in addition to 193 
+the requirements of this Act.”  194 
+ Sec. 3. Fiscal impact statement.  195 
+ The Council adopts the fiscal impact statement in the committee report as the fiscal 196 
+impact statement required by section 4a of the General Legislative Procedures Act of 1975, 197 
+approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).  198 
+ Sec. 4. Effective date.  199 
+ This act shall take effect following approval by the Mayor (or in the event of veto by the 200 
+Mayor, action by the Council to override the veto) and a 30-day period of congressional review 201 
+as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 202 
+24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).  203

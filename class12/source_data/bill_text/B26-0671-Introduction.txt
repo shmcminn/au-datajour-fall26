@@ -1,0 +1,655 @@
+MURIEL BOWSER 
+        MAYOR 
+ 
+April 27, 2026 
+ 
+The Honorable Phil Mendelson  
+Chairman  
+Council of the District of Columbia  
+John A. Wilson Building  
+1350 Pennsylvania Avenue, NW, Suite 504  
+Washington, DC 20004  
+ 
+Dear Chairman Mendelson:  
+  
+Enclosed for consideration and enactment by the Council of the District of Columbia is the 
+“Protecting Victims Act of 2026”. This legislation strengthens the District’s ability to protect 
+victims of domestic violence, hold offenders accountable, and safeguard the privacy of those who 
+come forward to report abuse. It enhances enforcement tools across every stage of the criminal 
+justice process, from pretrial decision making to postconviction supervision. The bill improves the 
+enforcement of existing court orders designed to keep victims safe and strengthens pretrial 
+detention laws to address the ongoing risks posed by repeat domestic violence offenders. In 
+addition, the legislation updates key criminal statutes to ensure greater accountability. It amends 
+the kidnapping statute to more clearly articulate prohibited conduct, improving the District’s ability 
+to hold offenders responsible when they restrict a victim’s movement or liberty. It also clarifies the 
+burglary statute to hold offenders accountable when they enter or remain in a dwelling with the 
+intent to commit a crime, closing a gap in current law that requires criminal intent only at the point 
+of entry. Finally, to further protect victim privacy, the bill amends MPD’s public disclosure 
+requirements to prevent the improper release of identifying information for crime victims, 
+including domestic violence victims, as well as individuals who report on their behalf. 
+ 
+Specifically, it will: 
+• Hold offenders accountable for repeated violations of temporary and civil protection 
+orders. 
+• Improve enforcement of stay away and no-contact orders imposed as conditions of 
+release in pending criminal cases. 
+• Strengthen consequences for violations of postconviction stayaway and no-contact orders 
+in misdemeanor intrafamily offenses and sex offenses. 
+• Make permanent the Council’s prior changes to pretrial detention authority. 
+• Give the Courts the ability to detain offenders charged with an offense against an intimate 
+partner when they have a documented history of domestic violence or were subject to a 
+protection order at the time of the offense.
+
+• Create a new detention authority for individuals charged in an intrafamily offense who, at 
+the time of the offense, were on release pending trial or sentencing in another intrafamily 
+offense. 
+• Add felony threats and felony violations of temporary or civil protection orders to the 
+definition of “dangerous crime” when committed against an intimate partner. 
+ 
+This legislation provides essential tools to safeguard victims, improve accountability for offenders, 
+and strengthen community safety. I urge the Council to take prompt and favorable action on the 
+enclosed legislation. 
+  
+Sincerely, 
+  
+  
+ 
+Muriel Bowser  
+Mayor
+
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+~ 
+at the request of the Mayor 
+A BILL 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA 
+16 To amend section 16- 1005 of the District of Columbia Official Code to establish a felony 
+17 offense for repeated violations of temporary and civil protection orders and require that 
+18 the person not be released from prison, granted probation, or granted suspension of 
+19 sentence prior to serving the mandatory minimum; to amend section 23-1329 of the 
+20 District of Columbia Official Code to establish a rebuttable presumption in favor of 
+21 detention for defendants on conditional release who commit a new offense against the 
+22 same victim and increase penalties for violations of specific release conditions; to amend 
+23 section 23-1329 of the District of Columbia Official Code to establish a felony offense 
+24 for violations of post-conviction stay away and no contact orders resulting from 
+25 misdemeanor intrafamily offenses or misdemeanor sexual offenses; to permanently 
+26 codify D.C. Superior Court judge authority to detain violent offenders pretrial by 
+27 expanding the charges eligible for a rebuttable presumption of detention; to establish a 
+28 basis for a non-discretionary hold for individuals charged with an intrafamily offense 
+29 who were released pending trial or sentencing in another intrafamily offense case at the 
+30 time of the offense; to amend 23 -13 22 of the District of Columbia Official Code to 
+31 establish D.C. Superior Court judge authority to detain offenders charged with an offense 
+32 against an intimate partner who have a history of domestic violence or were subject to a 
+33 protection order at the time of the offense; to amend section 23-1331 of the District of 
+34 Columbia Official Code to add felony threats and felony violations of temporary or civil 
+35 protection orders to the definition of "dangerous crime" if those offenses are committed 
+36 against an intimate partner; to amend section 22-2001 of the District of Columbia Official 
+37 Code to clarify the definition of kidnapping and establish three degrees of kidnapping, 
+38 distinguished based on the level of intent and the nature of the abduction; to amend 
+39 section 22-3302 of the District of Columbia Official Code to establish a felony version of 
+40 unlawful entry; to establish penalty enhancements for violence and threats where the 
+41 offender knew or consciously disregarded a substantial and unjustifiable risk that the 
+42 victim was pregnant; to establish a new offense to address circumstances in which the 
+43 defendant committed certain intrafamily offenses in the presence of a child, or where the 
+44 child witnessed the offense, including by sight, sound, or otherwise; and, to amend 
+45 section 5-113.06 of the District of Columbia Official Code to protect the privacy and
+
+security of victims of and witnesses to crimes from public disclosure by the Metropolitan 46 
+Police Department.  47 
+ 48 
+BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 49 
+act may be cited as the “Protecting Victims Amendment Act of 2026”. 50 
+ Sec. 2.  Chapter 10 of Title 16 of the District of Columbia Official Code is amended as 51 
+follows:  52 
+ (a) Section 16-1005 is amended as follows 53 
+  (1) Paragraph (f)(2) is amended by striking the word “both” and inserting the 54 
+phrase “both, except as set forth in subsection (g-1) of this section” in its place. 55 
+  (2) Paragraph (g)(1) is amended by striking the word “misdemeanor” and 56 
+inserting the phrase “misdemeanor, except as set forth in subsection (g-1) of this section” in its 57 
+place. 58 
+  (3) Paragraph (g)(2) is amended by striking the word “both” and inserting the 59 
+phrase “both, except as set forth in subsection (g-1)” in its place. 60 
+  (4) Subsection (g-1) is redesignated as subsection (g-3) 61 
+  (5) New subsections (g-1) and (g-2) are added to read as follows:  62 
+“(g-1) A person convicted under subsection (f) or (g) of this section who has one or more 63 
+prior convictions pursuant to subsections (f) and (g) of this section, not committed on the same 64 
+occasion, shall be fined not more than the amount set forth in D.C. Official Code § 22-3571.01 65 
+and imprisoned for a mandatory minimum term of not less than 1 year and a maximum term of 66 
+not more than 5 years, or both. A person sentenced under this subsection shall not be released 67 
+from prison, granted probation, or granted suspension of sentence, prior to serving the 68 
+mandatory-minimum term.  69
+
+“(g-2) A person shall be considered to have a prior conviction pursuant to subsection (f) 70 
+or (g) of this section if the person was previously convicted of a crime under the laws of any 71 
+other jurisdiction that involved conduct that would, if committed in the District of Columbia, 72 
+constitute a violation of subsection (f), (g), or (g-1) of this section or conduct that is substantially 73 
+similar to conduct constituting a violation under subsection (f), (g), or (g-1) of this section.”. 74 
+Sec. 3. Title 23 of the District of Columbia Official Code is amended as follows: 75 
+ (a) Section 23-1322 is amended as follows: 76 
+(1) A new subsection (a-1) is added to read as follows:   77 
+“(a-1) The judicial officer shall order the detention of a person charged with an 78 
+intrafamily offense as defined in § 16-1001(8) for a period of not more than 5 days, excluding 79 
+Saturdays, Sundays, and holidays, pending a hearing under § 23-1329(b), and direct the attorney 80 
+for the government to notify the appropriate court, probation or parole official, or local or state 81 
+law enforcement official of the detention, if the judicial officer determines that the person 82 
+charged with an intrafamily offense was, at the time the offense was committed: 83 
+“(1) On release pending trial for a felony or misdemeanor under local, state, or 84 
+federal law involving an intrafamily offense as defined in § 16-1001(8); or 85 
+“(2) On release pending imposition or execution of sentence, appeal of sentence 86 
+or conviction, or completion of sentence, for any offense under local, state, or federal law 87 
+involving an intrafamily offense as defined in § 16-1001(8).”. 88 
+(2) Subsection (b)(1) is amended as follows:  89 
+(A) Subparagraph (C) is amended by striking the phrase “; or” and 90 
+inserting a semicolon in its place. 91
+
+(B) Subparagraph (D) is amended by striking the period and inserting the 92 
+phrase “; or” in its place. 93 
+(C) A new subparagraph (E) is added to read as follows:  94 
+“(E) Any intrafamily offense as defined in § 16-1001(8) if, at the time of 95 
+the offense, the person: 96 
+“(i) Previously had been convicted, within 5 years of the date of 97 
+the offense, of an intrafamily offense as defined in § 16-1001(8) or a crime under the laws of any 98 
+other jurisdiction that involved conduct that, if committed in the District of Columbia, would 99 
+constitute an intrafamily offense as defined in § 16-1001(8); or  100 
+“(ii) Was subject to a temporary protection order or civil protection 101 
+order issued pursuant to § 16-1005 or any valid foreign protection order as defined in § 16-102 
+1041(2).”. 103 
+(b) Section 23-1331(3) is amended as follows: 104 
+(1) Subparagraph (I) is amended by striking the phrase “; or” and inserting a 105 
+semicolon in its place. 106 
+(2) Subparagraph (J) is amended by striking the period at the end and inserting the 107 
+phrase “; or” in its place. 108 
+ (3) A new subparagraph (K) is added to read as follows:  109 
+   “(K) Any of the following felony offenses committed against an intimate 110 
+partner as defined in § 16-1001(6A): 111 
+“(i) Threatening to kidnap or injure a person or damage his or her 112 
+property under section 1502 of An Act To assist State and local governments in reducing the 113 
+incidence of crime, to in- crease the effectiveness, fairness, and coordination of law enforcement 114
+
+and criminal justice systems at all levels of government, and for other purposes approved Une 115 
+19, 1968 (82 Stat. 238; D.C. Official Code § 22-1810). 116 
+“(ii) Any felony offense under § 16-1005(g-1).”. 117 
+ (c) Section 23-1329 is amended as follows:  118 
+  (1) Subsection (b)(2) is amended to read as follows:  119 
+  “(2) There shall arise a rebuttable presumption that no condition or combination 120 
+of conditions will assure the safety of any other person or the community if there is probable 121 
+cause to believe that, while on release, the person committed: 122 
+“(A) A dangerous or violent crime, as defined by § 23-1331;” 123 
+“(B) Any offense against the victim in a case in which the person was 124 
+conditionally released; or 125 
+“(C) An offense under the laws of any other jurisdiction substantially 126 
+similar to an offense described in subparagraph (A) or (B) of this paragraph.” 127 
+(2) Subsection (c) is amended to read as follows:  128 
+“(c) Contempt sanctions may be imposed if, upon a hearing and in accordance with 129 
+principles applicable to proceedings for criminal contempt, it is established that such person has 130 
+intentionally violated a condition of his release. Such contempt proceedings shall be expedited 131 
+and heard by the court without a jury. A judicial officer or a prosecutor may initiate a proceeding 132 
+for contempt under this section. Any person found guilty of criminal contempt for violation of a 133 
+condition of release shall:  134 
+“(1) Be fined no more than the amount set forth in § 22-3571.01, or incarcerated 135 
+for no more than 180 days, or both if the condition of release was imposed for a misdemeanor 136 
+offense, other than a misdemeanor offense set forth in subsection (c)(2) of this section; or 137
+
+“(2) Be fined no more than the amount set forth in § 22-3571.01, or incarcerated 138 
+for no more than 5 years, or both if the condition of release was imposed for a felony offense, 139 
+misdemeanor intrafamily offense as defined in § 16-1001(8), or misdemeanor sexual offense as 140 
+set forth in the Anti-Sexual Abuse Act of 1994, effective May 23, 1995 (D.C. Law 10-257; D.C. 141 
+Official Code § 22-3001 et seq.).”.   142 
+ (d) Section 23-1329a(b) is amended as follows:  143 
+  (1) Paragraph (1) is amended by striking the phrase “Misdemeanor offense” and 144 
+inserting the phrase “Misdemeanor offense, other than a misdemeanor offense set forth in 145 
+paragraph (2) of this subsection” in its place. 146 
+  (2) Paragraph (2) is amended by striking the phrase “Felony offense” and 147 
+inserting the phrase “Felony offense, misdemeanor intrafamily offense as defined in § 16-148 
+1001(8), or misdemeanor sexual offense as set forth in Anti-Sexual Abuse Act of 1994, effective 149 
+May 23, 1995 (D.C. Law 10-257; D.C. Official Code § 22-3001 et seq.).”.   150 
+Sec. 4. The Secure D.C. Omnibus Amendment Act of 2024, effective June 8, 2024 (D.C. 151 
+Law 25-175; 71 DCR 7353) is amended as follows: 152 
+(a) Section 18(c)(2) is repealed. 153 
+(b) Section 30(k) is repealed.  154 
+Sec. 5. Chapter 19 of an Act To establish a code of law for the District of Columbia, 155 
+approved March 3, 1901 (31 Stat. 1189; codified in scattered sections of the D.C. Official Code), 156 
+is amended as follows: 157 
+(a) Section 812 (D.C. Official Code § 22-2001) is amended to read as follows: 158 
+“Sec. 812. Definitions.  159 
+ “For the purposes of this chapter, the term: 160
+
+“(a) “Abduct” means to interfere with an individual’s freedom of movement, whether by 161 
+moving or confining the individual.  162 
+“(b) “Bodily injury” shall have the same meaning as provided in § 22-3001(2). 163 
+“(c) “Confine” means to restrain, hold, imprison, or keep in place an individual for any 164 
+amount of time.  165 
+“(d) “Deception” means the use of a false representation, misrepresentation, or omission.  166 
+“(e) “Force” shall have the meaning as provided in § 22-3001(5).”. 167 
+(b) New sections 812a and 812b are added to read as follows: 168 
+“Sec. 812a. Kidnapping.  169 
+“(a) An actor commits kidnapping in the first-degree when the actor knowingly, by force, 170 
+threat, or deception: 171 
+“(1) Abducts an individual by either: 172 
+“(A) Moving the individual at least 20 feet, or  173 
+“(B) Confining the individual for at least 10 minutes; and 174 
+“(2) The actor’s intent is to:  175 
+“(A) Inflict bodily injury or death upon the individual; 176 
+“(B) Cause any person to believe that the individual will not be released 177 
+without suffering bodily injury, death, or an offense under the Anti-Sexual Abuse Act of 1994, 178 
+effective May 23, 1995 (D.C. Law 10-257; D.C. Official Code § 22-3001 et seq.);  179 
+“(C) Commit any felony or facilitate the commission of any felony or 180 
+flight thereafter; or 181 
+“(D) Receive financial gain. 182
+
+“(b) An actor commits kidnapping in the second-degree when the actor knowingly, by 183 
+force, threat, or deception: 184 
+“(1) Abducts an individual by either: 185 
+“(A) Moving the individual at least 10 feet, or  186 
+“(B) Confining the individual for at least 5 minutes; and 187 
+“(2) The actor’s intent is to: 188 
+“(A) Inflict bodily injury or death upon the individual;  189 
+  (B) Cause any person to believe that the individual will not be released 190 
+without suffering bodily injury, death, or an offense under the Anti-Sexual Abuse Act of 1994, 191 
+effective May 23, 1995 (D.C. Law 10-257; D.C. Official Code § 22-3001 et seq.);   192 
+“(C) Commit any criminal offense or facilitate the commission of any 193 
+criminal offense or flight thereafter; or 194 
+“(D) Receive financial gain. 195 
+“(c) An actor commits kidnapping in the third-degree when the actor knowingly, by 196 
+force, threat, or deception: 197 
+“(1) Abducts an individual by either: 198 
+“(A) Moving the individual any distance, or  199 
+“(B) Confining the individual for any period of time; and 200 
+“(2) The actor’s intent is to: 201 
+“(A) Inflict bodily injury or death upon the individual or cause any person 202 
+to believe that the individual will not be released without suffering bodily injury, death, or an 203 
+offense under the Anti-Sexual Abuse Act of 1994, effective May 23, 1995 (D.C. Law 10-257; 204 
+D.C. Official Code § 22-3001 et seq);  205
+
+“(B) Commit any criminal offense or facilitate the commission of any 206 
+criminal offense or flight thereafter;  207 
+“(C) Receive financial gain; or  208 
+“(D) Restrict the complainant’s freedom of movement.  209 
+“(d) It is a defense to liability under subsections (a), (b), or (c) of this section that the 210 
+individual voluntarily consented to the abduction. 211 
+“(e)(1) Any actor convicted of first-degree kidnapping shall be fined not more than the 212 
+amount set forth in § 22-3571.01 or be imprisoned for not more than 30 years, or both. 213 
+“(2) Any actor convicted of second-degree kidnapping shall be fined not more 214 
+than the amount set forth in § 22-3571.01 or be imprisoned for not more than 15 years, or both. 215 
+“(3) Any actor convicted of third-degree kidnapping shall be fined not more than 216 
+the amount set forth in § 22-3571.01 or be imprisoned for not more than 180 days, or both. 217 
+“(f) Where multiple convictions for first degree kidnapping or second-degree kidnapping 218 
+and another offense arise from the same act or course of conduct, the sentencing court shall 219 
+follow the procedures specified in § 23-112. 220 
+“Sec. 812b. Attempt to commit kidnapping. 221 
+“Any person who attempts to commit an offense under section 812a shall be imprisoned 222 
+for not more than one half of the maximum prison sentence authorized for the offense, or fined 223 
+an amount not to exceed one half of the maximum fine authorized for the offense, or both.”. 224 
+(c) Section 824 (D.C. Official Code § 22-3302), is amended as follows:   225 
+(1) Subsection (a)(1) is amended by striking the phrase “or both” and inserting the phrase 226 
+“or both, except as provided in subsection (c) of this section” in its place. 227 
+(2) A new subsection (c) is added to read as follows: 228
+
+“(c) Any person who violates subsection (a) of this section shall be fined not more than 229 
+the amount set forth in § 22-3571.01 or imprisoned for not more than 10 years, or both, if the 230 
+person, while unlawfully present in the private dwelling, building, or other property, or part of 231 
+such dwelling, building, or other property, commits: 232 
+ “(1) An assault pursuant to section 806 of Chapter 19 of an Act To establish a 233 
+code of law for the District of Columbia, approved March 3, 1901 (31 Stat. 1322; D.C. Official 234 
+Code § 22-404); 235 
+ “(2) Stalking pursuant to section 503 of the Omnibus Public Safety and Justice 236 
+Amendment Act of 2009 effective September 10, 2009 (D.C. Law 18-88; D.C. Official Code § 237 
+22-3133); 238 
+ “(3) A threat to do bodily harm pursuant to section 2 of An Act To confer 239 
+jurisdiction on the police court of the District of Columbia in certain cases, approved July 16, 240 
+1912 (37 Stat. 193; D.C. Official Code § 22-407); or 241 
+ “(4) Any crime of violence, as that term is defined in § 23-1331(4).”. 242 
+Sec. 6. The District of Columbia Theft and White Collar Crimes Act of 1982, effective 243 
+December 1, 1982 (D.C. Law 4-164; D.C. Official Code § 22-3201 et seq.), is amended as 244 
+follows:   245 
+(a) New sections 206 and 207 are added to read as follows: 246 
+“Sec. 206. Enhanced penalty for crimes against pregnant victims. 247 
+“(a) Any person who commits any offense listed in subsection (b) of this section against 248 
+an individual, and who knew or consciously disregarded a substantial possibility that the 249 
+individual was pregnant at the time of the offense, may be punished by a fine of up to 1 1/2 times 250
+
+the maximum fine otherwise authorized for the offense and may be imprisoned for a term of up 251 
+to 1 1/2 times the maximum term of imprisonment otherwise authorized for the offense, or both. 252 
+“(b) The provisions of subsection (a) of this section shall apply to the following offenses:  253 
+ “(1) Any crime of violence, as that term is defined in § 23-1331(4); 254 
+ “(2) A threat to kidnap or injure or physically damage the property of any person 255 
+under section 1502 of the Omnibus Crime Control and Safe Streets Act of 1968, approved June 256 
+19, 1968 (82 Stat. 238; D.C. Official Code § 22-1810); 257 
+ “(3) A threat to do bodily harm pursuant to section 2 of An Act To confer 258 
+jurisdiction on the police court of the District of Columbia in certain cases, approved July 16, 259 
+1912 (37 Stat. 193; D.C. Official Code § 22-407); 260 
+ “(4) Stalking pursuant to section 503 of the Omnibus Public Safety and Justice 261 
+Amendment Act of 2009, effective September 10, 2009 (D.C. Law 18-88; D.C. Official Code § 262 
+22-3133), 263 
+ “(5) Assault pursuant to section 806 of An Act To establish a code of law for the 264 
+District of Columbia, approved March 3, 1901 (31 Stat. 1322; D.C. Official Code § 22-404); or 265 
+ “(6) An attempt or conspiracy to commit any of the foregoing offenses. 266 
+“Sec. 207. Enhanced penalty for intrafamily violence committed in the presence of a 267 
+child.  268 
+“(a) A person who commits an intrafamily offense listed in subsection (b) of this section 269 
+in the presence of the child, or where the child witnesses the offense, and who is at least 4 years 270 
+older than the child, shall be imprisoned for not more than 5 years and, in addition, may be fined 271 
+in an amount not more than the amount set forth in the Criminal Fine Proportionality 272
+
+Amendment Act of 2012, effective June 11, 2013 (D.C. Law 19-317; D.C. Official Code § 22-273 
+3571.01). 274 
+“(b) Subsection (a) shall apply to the following intrafamily offenses: 275 
+ “(1) An offense against an intimate partner, a family member, or a household 276 
+member that is punishable as:  277 
+“(A) Any crime of violence, as that term is defined in § 23-1331(4);  278 
+“(B) A threat to kidnap or injure or physically damage the property of any 279 
+person pursuant to section 1502 of the Omnibus Crime Control and Safe Streets Act of 1968, 280 
+approved June 19, 1968 (82 Stat. 238; D.C. Official Code § 22-1810);  281 
+“(C) A threat to do bodily harm pursuant to section 2 of An Act To confer 282 
+jurisdiction on the police court of the District of Columbia in certain cases, approved July 16, 283 
+1912 (37 Stat. 193; D.C. Official Code § 22-407);  284 
+“(D) Stalking pursuant to section 503 of the Omnibus Public Safety and 285 
+Justice Amendment Act of 2009 (D.C. Law 18-88; D.C. Official Code § 22-3133);  286 
+“(E) Assault pursuant to section 806 of An Act to establish a code of law 287 
+for the District of Columbia, approved March 3, 1901 (31 Stat. 1322; D.C. Official Code § 22-288 
+404); or  289 
+“(F) Any attempt or conspiracy to commit any of the foregoing offenses. 290 
+“(2) An offense punishable as cruelty to animals, under section 2 of Chapter 106 291 
+of the Acts of the Legislative Assembly, approved August 23, 1871; (D.C. Official Code § 22-292 
+1002), against an animal that an intimate partner, family member, or household member owns, 293 
+possesses, or controls. 294
+
+“(c) It is an affirmative defense for violations under this section that the accused 295 
+reasonably believed that the child was not present at the time of the offense and that the child 296 
+would not be able to witness the offense. This defense shall be established by a preponderance of 297 
+the evidence. 298 
+ “(d) For the purposes of this section, the term “child” means a person under 16 years of 299 
+age at the time of the offense.”. 300 
+Sec. 7. Section 389 of the Revised Statutes of the District of Columbia (D.C. Official 301 
+Code § 5-113.06) is amended as follows: 302 
+(a) Subsection (a) is amended by: 303 
+(1) Striking the phrase “subsection (c)” and inserting the phrase “subsection (d)” 304 
+in its place; and 305 
+(2) Striking the phrase “section 386” and inserting the phrase “section 386(a)” in 306 
+its place.   307 
+(b) Subsection (d) is amended to read as follows: 308 
+“(d)(1) Notwithstanding subsections (a) and (b) of this section, the following shall be 309 
+withheld from public inspection:  310 
+“(A) The actual addresses of participants in the Address Confidentiality 311 
+Program established by section 102 of the Address Confidentiality Act of 2018, approved July 3, 312 
+2018 (D.C. Law 22-118; D.C. Official Code § 4-555.02); and 313 
+“(B) The name and address or residence of a complainant who is alleged 314 
+to be the victim of or witness to a criminal offense.”. 315 
+“(2) Paragraph (1) of this subsection shall not create any limitation on or 316 
+expansion of the scope of discovery in a criminal, civil, or administrative proceeding.”. 317
+
+Sec. 8. Fiscal impact statement. 318 
+The Council adopts the fiscal impact statement of the Chief Financial Officer as the fiscal 319 
+impact statement required by section 4a of the General Legislative Procedures Act of 1975, 320 
+approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a). 321 
+Sec. 9. Effective date. 322 
+This act shall take effect following approval by the Mayor (or in the event of veto by the 323 
+Mayor, action by the Council to override the veto), a 60-day period of Congressional review as 324 
+provided in section 602(c)(2) of the District of Columbia Home Rule Act, approved December 325 
+24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(2)), and publication in the District of 326 
+Columbia Register. 327
+
+Government of the District of Columbia 
+Office of the Chief Financial Officer 
+ 
+Glen Lee 
+Chief Financial Officer 
+ 
+ 
+ 
+ 
+ 
+1350 Pennsylvania Avenue, NW, Suite 203, Washington, DC 20004 (202)727-2476 
+www.cfo.dc.gov 
+MEMORANDUM 
+ 
+TO:    The Honorable Phil Mendelson 
+   Chairman, Council of the District of Columbia 
+ 
+FROM:    Glen Lee 
+   Chief Financial Officer 
+ 
+DATE:    April 15, 2026 
+  
+SUBJECT:  Fiscal Impact Statement – Protecting Victims Amendment Act of 2026 
+ 
+REFERENCE:  Draft bill as provided to the Office of Revenue Analysis on March 30, 
+2026 
+ 
+ 
+Conclusion 
+ 
+Funds are sufficient in the fiscal year 2026 budget and proposed fiscal year 2027 through fiscal year 
+2030 budget and financial plan to implement the bill.  
+ 
+Background 
+ 
+Chapter 10 of Title 16 of the District of Columbia Official Code governs proceedings regarding 
+intrafamily offenses.  Current law1 states that violating temporary protection orders (TPOs), civil 
+protection orders (CPOs), or valid foreign protection orders (FPOs) is punishable as criminal 
+contempt, chargeable as a misdemeanor offense, and subject to the maximum fine allowed under the 
+law2, up to 180 days in jail, or both.  The bill amends the law to enhance penalties for repeat offenders.  
+A person convicted of violating a protection order who has one or more prior3, separate convictions 
+for the same type of offense must receive the maximum fine allowed2 and a mandatory minimum 
+prison term of 1 year, up to a maximum of 5 years.  The bill prohibits the reduction of the mandatory 
+minimum and disallows the use of probation, early release, or suspended sentencing before the full 
+year is served. 
+ 
+1 D.C. Official Code § 16–1005. 
+2 D.C. Official Code § 22–3571.01 provides the schedule of fines for criminal offenses.  
+3 A previous conviction counts as a prior offense not only if it occurred in the District, but also if it occurred in 
+another jurisdiction for conduct that would be considered the same or substantially similar to violations of 
+those subsections.
+
+The Honorable Phil Mendelson 
+FIS: “Protecting Victims Amendment Act of 2026”, Draft Bill as provided to the Office of Revenue Analysis on 
+March 30, 2026 
+Page 2 of 4 
+ 
+The bill requires a judicial officer to detain a person charged with an intrafamily offense for up to five 
+days (excluding weekends and holidays) until a hearing can be held. This non-discretionary hold is 
+only required for individuals charged in an intrafamily offense who were, at the time of the offense, 
+released pending trial or sentencing in another intrafamily offense case4. The judicial officer must 
+also notify the appropriate authorities if, at the time of the offense, the person was already on release 
+while awaiting trial for another intrafamily offense; or on release while awaiting sentencing, serving 
+a sentence, or appealing a conviction for an intrafamily offense.  
+ 
+Current law5 requires that a judicial officer hold a hearing to determine whether any release 
+conditions can reasonably ensure the defendant’s appearance and protect the safety of others and 
+the community. This hearing is required when the case involves:  a violent crime6; an obstruction of 
+justice–related offense; a serious risk that the defendant will obstruct justice or threaten or harm a 
+witness or juror; and/or a serious risk that the defendant will flee.  The bill expands the reasons a 
+hearing is required to include that an offense committed against an intimate partner qualifies for 
+enhanced treatment if, at the time of the offense, the perpetrator had a prior conviction within the 
+previous five years for an intrafamily or comparable offense, or was subject to a TPO, CPO or FPO. 
+ 
+The bill expands the definition for dangerous crime7 to include felony offenses committed against an 
+intimate partner; threatening to kidnap or injure a person or damage property; and any felony 
+intrafamily offense.    
+ 
+Current law8 provides for proceedings to revoke an individual’s release and place the individual in 
+temporary custody upon initiation by the Pretrial Services Agency, the prosecutor, or the court, and 
+permits a judicial officer to issue an arrest warrant for violations of release conditions9.   The bill 
+authorizes the imposition of criminal contempt sanctions when the court determines, after an 
+expedited non‑jury hearing, that a defendant intentionally violated a release condition. Contempt 
+proceedings may be initiated by either the prosecutor or a judicial officer. Penalties depend on the 
+underlying offense for which release was granted; violations related to misdemeanors carry up to 
+180 days’ imprisonment and a fine2, while violations tied to felonies, misdemeanor intrafamily 
+offenses, or misdemeanor sexual offenses carry up to five years’ imprisonment and the same 
+maximum fine2. 
+ 
+The bill makes permanent certain expiring provisions in the Secure DC Omnibus Amendment Act of 
+2024,10 including:  
+Pre-trial detention provisions of a child relating to substantial probability that the child committed 
+certain crimes. 
+• Edits that replaced certain references to “crime or crime of violence” with “crime.” 
+• Specifying that the term “crime of violence” is defined in D.C. Official Code § 23‑1331(4). 
+ 
+4 All others would still be under the optional hold pursuant to D.C. Official Code § 23-1322(a)(1).  
+5 D.C. Official Code § 23–1322(b)(1).  
+6 Defined in D.C. Official Code § 23-1331(4). 
+7 D.C. Official Code § 23–1331(3).  
+8 D.C. Official Code § 23–1329.  
+9 Either probable cause that the defendant committed an offense while on release, or clear and convincing 
+evidence that another release condition was violated; and either that no condition or combination of 
+conditions will reasonably assure the defendant’s appearance and the safety of the community. 
+10 D.C. Law 25-175, effective June 8, 2024 (D.C. Law 25-175; 71 DCR 7353).
+
+The Honorable Phil Mendelson 
+FIS: “Protecting Victims Amendment Act of 2026”, Draft Bill as provided to the Office of Revenue Analysis on 
+March 30, 2026 
+Page 3 of 4 
+ 
+• Requiring judges provide a written explanation when releasing a person who falls under a 
+rebuttable presumption of detention. 
+• Extending permissible continuances to 45 days. 
+• Replacing the requirement of showing “substantial probability” with “probable cause.” 
+• Expanding the types of weapons covered that would restrict pretrial release for first degree 
+murder, second degree murder, and assault with intent to kill while armed cases or after 
+conviction by adding “other deadly or dangerous weapon.”  
+• Retaining the expansion of the definition of “dangerous crime” to include any felony under 
+Title 22, Chapter 30 (sexual abuse offenses). 
+• Expanding the definition of “crime of violence” in paragraph (4) to include misdemeanor 
+sexual abuse, misdemeanor sexual abuse of a child or minor, and strangulation. 
+ 
+The bill adds definitions for specific terms11, establishes a new section under criminal offenses 
+related to kidnapping, and defines three levels of kidnapping based on distance, the duration of 
+confinement, and the kidnapper’s intentions.   
+• First‑degree kidnapping occurs when an individual knowingly uses force, threats, or lies to 
+take or confine another person; moves them 20 feet or more or keeps them 10 minutes or 
+more; and intends to cause serious harm or death, make someone believe serious harm or 
+death will happen, commit or help with a felony or the escape afterward, receive money or 
+some other financial benefit, and/or limit the person’s ability to move freely.  This degree of 
+kidnapping is punishable with a maximum of 30 years in prison and/or a fine2. 
+• Second‑degree kidnapping occurs when an individual moves a person 10 feet or more or 
+keeps them 5 minutes or more, and intends to cause serious harm or death, make someone 
+believe serious harm or death will happen, commit or help with any crime  or escape 
+afterward, and/or receive money or financial benefit. This degree of kidnapping is punishable 
+with a maximum of 15 years in prison and/or a fine2. 
+• Third‑degree kidnapping occurs when an individual moves or keeps a person for any distance 
+or any amount of time, and intends to cause serious harm or death,  make someone believe 
+serious harm or death will happen, commit or help with any crime  or escape afterward, 
+receive money or financial benefit, and/or limit the person’s movement.  This degree of 
+kidnapping is punishable with a maximum of 180 days in jail and/or a fine2. 
+  
+The bill clarifies that consent12 is a defense to any kidnapping charge.  If an individual is convicted of 
+kidnapping and other related crimes from the same incident, the court must follow special sentencing 
+rules.  The bill also provides penalties for kidnapping attempts13. 
+ 
+The bill amends current law14 related to unlawful entry to add that a person who is unlawfully inside 
+someone else’s property can be punished by up to 10 years in prison, a fine2, or both if, while inside, 
+they commit or threaten an assault, engage in stalking, or commit any violent crime6. 
+ 
+ 
+11 That is, abduct, bodily injury, confine, deception, and force.  
+12 That is, that the person agreed to go or stay. 
+13 Not more than half of the maximum prison sentence authorized for the offense and, in addition, a fine not to 
+exceed half of the maximum fine authorized. 
+14 D.C. Official Code § 22-3302.
+
+The Honorable Phil Mendelson 
+FIS: “Protecting Victims Amendment Act of 2026”, Draft Bill as provided to the Office of Revenue Analysis on 
+March 30, 2026 
+Page 4 of 4 
+ 
+The bill provides enhanced penalties for crimes against pregnant victims15 and intrafamily violence 
+committed in the presence of a child16.   
+ 
+District law17 provides for the Address Confidentiality Program (ACP), administered by the Office of 
+Victim Services and Justice Grants (OVSJG).  It authorizes a substitute address for victims of domestic 
+violence, sexual offenses, trafficking, or stalking, to protect their actual address from FOIA18.  District 
+law19 also withholds ACP participants’ information from public inspection as required for records 
+maintained by the Metropolitan Police Department (MPD).   The bill provides that  victims of, or 
+witnesses to, a criminal offense  may be added to the ACP.   
+ 
+Financial Plan Impact 
+ 
+Funds are sufficient in the fiscal year 2026 budget and proposed fiscal year 2027 through fiscal year 
+2030 budget and financial plan to implement the bill.  
+ 
+The bill primarily impacts penalties for intrafamily offenses.  Currently, the federal government 
+employs and pays the costs of judicial proceedings, including prosecution of adults for felonies and 
+some misdemeanors, public defense, and the incarceration of convicted adults. The fiscal impact 
+statement is not required to assess any impacts of the bill on federal agencies.  The population size 
+of affected persons is small and should not meaningfully impact the number of hearings at Superior 
+Court or people detained in adult and juvenile facilities. The Department of Corrections and the 
+Department of Youth Rehabilitation Services can absorb any additional fiscal impact due to the 
+expectation that their detention facilities may operate at full capacity.  The Office of the Attorney 
+General and MPD anticipate no impacts from the bill.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15 One and a half times the maximum fine otherwise authorized for the offense and imprisonment for a term 
+of up to 1.5 times the maximum term of imprisonment otherwise authorized for the offense; applicable for 
+any crime of violence; threats to kidnap or injure or physically damage the property of any person; threats to 
+do bodily harm; stalking, assault, or an attempt or conspiracy to commit any of the foregoing offenses. 
+16 The individual must be at least 20 years of age and is subject to imprisonment for not more than 5 years 
+and a possible fine; applicable for applicable for any crime of violence; threats to kidnap or injure or 
+physically damage the property of any person; threats to do bodily harm; stalking, assault, or an attempt or 
+conspiracy to commit any of the foregoing offenses; and includes animal cruelty.   
+17 D.C. Official Code § 4-555.02.   
+18 Freedom of Information Act, subchapter II of Chapter 5 of Title 2 of D.C. Official Code.  
+19 D.C. Official Code § 5–113.06.
+
+1350 Pennsylvania Avenue, N.W., Suite 409, Washington, D.C. 20004  
+Phone (202) 262-6402    Email: adele.el-khouri@dc.gov 
+ 
+ 
+GOVERNMENT OF THE DISTRICT OF COLUMBIA 
+OFFICE OF THE ATTORNEY GENERAL 
+ 
+ 
+BRIAN L. SCHWALB     PRIVILEGED AND CONFIDENTIAL  
+ATTORNEY GENERAL       ATTORNEY-CLIENT COMMUNICATION 
+ 
+ 
+ 
+LEGAL COUNSEL DIVISION 
+ 
+  
+MEMORANDUM 
+ 
+TO:   Tomás Talamante 
+  Director 
+Office of Policy and Legislative Affairs 
+ 
+FROM:  Adele El-Khouri 
+Deputy Attorney General  
+Legal Counsel Division  
+  
+DATE:  April 23, 2026 
+  
+SUBJECT:   Legal Sufficiency Review of Draft Bill, the “Protecting Victims Amendment Act of 
+2026”  
+(AE-26-266) 
+___________________________________________________________________________________ 
+ 
+This is to Certify that the Office of the Attorney General has reviewed the 
+above-referenced legislation and found it to be legally sufficient. If you have any questions in this 
+regard, please do not hesitate to call me at (202) 262-6402. 
+ 
+ 
+ 
+_________________________________ 
+Adele El-Khouri

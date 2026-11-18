@@ -1,0 +1,695 @@
+COUNCIL OF THE DISTRICT OF COLUMBIA 
+The John A. Wilson Building 
+1350 Pennsylvania Avenue, NW 
+Washington, D.C. 20004 
+ 
+  
+ 
+ 
+ 
+ 
+Statement of Introduction 
+Saint Elizabeths Hospital Independence and Governance Amendment Act of 2026 
+October 5, 2026 
+ 
+Today, along with Councilmembers Zachary Parker and Trayon White, Sr., I am introducing the Saint 
+Elizabeths Hospital Independence and Governance Amendment Act of 2026. This legislation establishes 
+Saint Elizabeths Hospital as an independent District agency governed by a Board of Directors while 
+preserving its status as the District's public psychiatric hospital. Its central purpose is to strengthen 
+accountability and oversight, improve clinical outcomes and patient safety, and give the Hospital the 
+focused leadership necessary to improve and grow. 
+ 
+Saint Elizabeths provides inpatient psychiatric treatment, forensic services, and competency restoration for 
+individuals with some of the District's most complex behavioral health needs. Persistent concerns involving 
+staffing, safety, clinical quality, discharge delays, and regulatory compliance demonstrate the need for a 
+governance structure focused specifically on the Hospital. Because forensic patients occupy most of the 
+Hospital's beds, the District also needs a structure capable of assessing and, where appropriate, expanding 
+civil-commitment capacity to meet growing need. 
+ 
+The bill creates a 13-member Board consisting of 11 voting members appointed by the Mayor with the 
+advice and consent of the Council, along with the Hospital's Chief Executive Officer and Chief Medical 
+Officer as nonvoting members. Members will bring clinical, hospital-management, financial, patient-rights, 
+workforce, labor, and lived and family experience. The Board will oversee finances, governance, workforce 
+matters, and institutional performance. It will appoint and evaluate the CEO, establish measurable 
+expectations, and require corrective action when the Hospital falls short. The CEO will remain responsible 
+for day-to-day operations. 
+ 
+The legislation also establishes a nine-member Quality, Safety, and Patient Rights Committee, with a 
+majority of members serving from outside the Board, to provide independent, patient-centered oversight. 
+The Committee will review serious incidents, restraint and seclusion, staffing, clinical services and 
+outcomes, grievances, regulatory findings, corrective actions, and discharge delays. The bill also requires 
+an accessible patient bill of rights, independent advocacy, confidential reporting, and protection against 
+retaliation, while preserving the federal authority of the District's protection and advocacy system. 
+ 
+The bill also establishes a non-lapsing Hospital Fund, independent audits and reviews, public performance 
+reporting, and procurement and corrective-action requirements. Transferred employees will retain their pay, 
+leave, benefits, seniority, collective-bargaining protections, and other accrued rights. The transfer may 
+Christina Henderson Committee Member 
+Councilmember, At-Large Facilities 
+Chairperson, Committee on Health Human Services 
+ Transportation and the Environment
+
+COUNCIL OF THE DISTRICT OF COLUMBIA 
+The John A. Wilson Building 
+1350 Pennsylvania Avenue, NW 
+Washington, D.C. 20004 
+ 
+  
+ 
+occur in phases and is scheduled for October 1, 2028, or a later date established by the Council, following 
+certification that the Hospital is operationally ready and that patient care, employee compensation, and 
+regulatory compliance will remain protected. 
+I look forward to working with my colleagues, patients, families, staff, and District leaders to 
+ensure Saint Elizabeths delivers the safe, high-quality care residents deserve and provides the 
+support its workforce needs to fulfill that mission.
+
+______________________                                                         _____________________________  1 
+Councilmember Zachary Parker                                                      Councilmember Christina Henderson   2 
+ 3 
+ 4 
+ ______________________________ 5 
+ Councilmember Trayon White, Sr 6 
+  7 
+  8 
+ 9 
+A BILL 10 
+  11 
+_______________  12 
+  13 
+ 14 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA  15 
+  16 
+___________________  17 
+  18 
+  19 
+To establish Saint Elizabeths Hospital as an independent agency of the District government 20 
+governed by a Board of Directors, to transfer responsibility for Saint Elizabeths Hospital 21 
+from the Department of Behavioral Health to the newly-established Board of Directors, 22 
+define the Board of Directors’ composition, duties, and oversight authority, to establish a 23 
+Chief Executive Officer to run the day-to-day affairs of Saint Elizabeths Hospital, to 24 
+establish a Quality, Safety, and Patient Rights Committee of the Board to provide 25 
+independent, patient-centered oversight of the quality and safety of care, protection of 26 
+patient rights, adequacy of the Hospital workforce, compliance with applicable standards, 27 
+and the Hospital’s response to deficiencies, to establish patient rights, clinical quality, 28 
+safety, workforce, fiscal procurement, transparency, and corrective action requirements, to 29 
+require Saint Elizabeths Hospital to coordinate with the Department of Behavioral Health 30 
+and other system partners, to establish a non-lapsing special fund, to protect transferred 31 
+employees and collective-bargaining rights, and to provide for an orderly transition; and to 32 
+make conforming amendments.  33 
+  34 
+BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act 35 
+may be cited as the “Saint Elizabeths Hospital Independence and Governance Amendment Act of 36 
+2026”.  37 
+TITLE I. ESTABLISHMENT OF SAINT ELIZABETHS HOSPITAL AS AN 38 
+INDEPENDENT AGENCY. 39
+
+2  
+  
+Sec. 101. Definitions.  40 
+For the purposes of this title, the term: 41 
+(1) “Board” means the Board of Directors of the Hospital established by section 103. 42 
+(2) “Chief Executive Officer” means the Chief Executive Officer of the Hospital appointed by 43 
+the Board pursuant to section 104. 44 
+(3) “Chief Medical Officer” means the Hospital’s senior clinical executive, who shall be a 45 
+physician licensed to practice medicine in the District and board-certified in psychiatry, and who is 46 
+responsible for overseeing the quality, safety, coordination, and professional standards of clinical care 47 
+provided by the Hospital.  48 
+(4) “Department” means the Department of Behavioral Health.  49 
+(5) “Director” means the Director of the Department.  50 
+(6) “Discharge ready” means the Hospital treating clinical team’s assessment that a patient no 51 
+longer requires inpatient psychiatric hospitalization and may be safely discharged to an identified type 52 
+or level of care, with or without conditions.  53 
+(7) “Fund” means the Saint Elizabeths Hospital Fund established by section 110.  54 
+(8) “The Joint Commission” means the independent, nonprofit organization that accredits and 55 
+certifies health-care organizations and programs in the United States, or its successor organization. 56 
+(9) “Hospital” means the psychiatric hospital operated by the District, known as Saint 57 
+Elizabeths Hospital.  58 
+(10) “National Capital Region” means the District of Columbia, Montgomery County and 59 
+Price George’s County, Maryland, Arlington County, Fairfax County, Loudoun County, and Prince 60 
+William County, Virginia, and any municipality located within the geographic area bounded by the 61 
+outer boundaries of those counties.  62
+
+3  
+  
+(11) “Patient-rights advocate” means an individual or entity independent of Hospital 63 
+management that assists patients in understanding and exercising their rights and pursuing complaints 64 
+or grievances.  65 
+(12) “System partner” means a District agency or instrumentality whose functions materially 66 
+affect admissions to, treatment at, or discharge from the Hospital, including the Department, 67 
+Department of Healthcare Finance, Department of Human Services, Department of Disability 68 
+Services, Department of Aging and Community Livings, Department of Corrections, and District of 69 
+Columbia Housing Authority.  70 
+(13) “Written barrier-resolution plan” means a documented, individualized plan for resolving 71 
+each identified barrier that prevents or delays a patient’s discharge or transition to a less restrictive 72 
+appropriate setting, including the barrier, the actions necessary to resolve it, the person or entitle 73 
+responsible for each action, applicable deadlines, and the process for escalating an unresolved barrier.  74 
+Sec. 102. Establishment and purpose.  75 
+(a) There is established, as an independent agency of the District government, Saint Elizabeths 76 
+Hospital, which shall be governed by a Board of Directors established in section 103.  77 
+(b) The purpose of the Hospital shall be to serve as the District’s primary public psychiatric 78 
+hospital and provide high-quality, safe, therapeutic, recovery-oriented, trauma-informed, and rights-79 
+protecting psychiatric services in the least restrictive appropriate setting and support timely transition 80 
+of patients to community-based services.  81 
+(c) The Hospital shall:  82 
+ (1) Operate and maintain a psychiatric hospital in the District and its programs, 83 
+including clinical, education, research, and training programs;  84
+
+4  
+  
+ (2) Provide Maintain all licenses, certifications, and accreditations required for 85 
+operation of the Hospital, including for compliance, risk-management, and patient safety procedures, 86 
+and apply for Joint Commission accreditation within 24 months after the transfer date; 87 
+(3) Provide inpatient psychiatric treatment and hospital-based forensic and 88 
+competency-restoration services;  89 
+(4) Protect patient rights and promote clinical quality, safety, workforce stability, fiscal 90 
+stewardship, and public accountability; and  91 
+(5) Coordinate with the Department and other system partners to align with the 92 
+District’s behavioral health continuum policies.  93 
+   94 
+ Sec. 103. Board of Directors; establishment and membership. 95 
+(a)(1) There is established a Board of Directors to govern the Hospital, which shall consist 96 
+of 13 members, 11 of whom shall be voting members, and 2 of whom shall be nonvoting ex officio 97 
+members.  98 
+(2) The 11 voting members shall be appointed by the Mayor with the advice and 99 
+consent of the Council pursuant to section 2 of the Confirmation Act of 1978, effective March 3, 100 
+1979 (D.C. Law 2-142; D.C. Official Code § 1-523.01), as follows: 101 
+(A) At least one member who shall be a psychiatrist licensed in the District 102 
+with experience in public or inpatient psychiatry;  103 
+(B) At least one member who shall be licensed registered nurse with 104 
+experience in psychiatric hospital care;  105 
+(C) At least one member who shall be an individual with substantial 106 
+experience managing a hospital or integrated healthcare delivery system;  107
+
+5  
+  
+(D) At least one member who shall be an individual with expertise in 108 
+healthcare finance, accounting, or public budgeting;  109 
+(E) At least one member who shall be an individual who is a licensed 110 
+attorney in the District with expertise in disability rights, forensic mental health law, or patient 111 
+rights;   112 
+(F) At least 2 members with lived experience of mental illness or inpatient 113 
+psychiatric treatment, or who are family members of such individuals, at least one of whom has 114 
+experience relevant to forensic behavioral health services;  115 
+(G) At least one member who shall be an individual with expertise in 116 
+workforce development, labor relations, or human resources; and  117 
+(H) At least one member who shall be an individual who is the current or 118 
+former representative of a labor organization representing Hospital employees and who is not 119 
+employed by the Hospital during the member’s tenure on the Board.   120 
+(3) The Chief Executive Officer established by section 104 and the Chief Medical 121 
+Officer shall serve as ex officio members.  122 
+  (b) At least 7 of the voting members shall be District residents; except, that each of the 11 123 
+voting members shall maintain a primary residence or primary place of business in the National 124 
+Capital Region.  125 
+  (c)(1) A voting member may not during their tenure on the Board provide goods or services 126 
+to the Hospital, be employed by an entity providing goods or services to the Hospital, or have a 127 
+financial interest that would impair, or have the appearance of impairing, their independent 128 
+judgment as a fiduciary of the Hospital. 129 
+   (2) No voting member may be an employee of the Hospital or the Department. 130
+
+6  
+  
+(d)(1) Voting members shall serve 4-year terms and may serve no more than 2 consecutive 131 
+4-year terms. 132 
+(2) Of the voting members first appointed to the Board, 3 members shall be 133 
+appointed for a one-year term, 3 members shall be appointed for a 2-year term, 3 members shall be 134 
+appointed for a 3-year term, and 2 members shall be appointed for a 4-year term. 135 
+   (3) A vacancy on the Board shall be filled in the same manner that the original 136 
+appointment was made. A member appointed to fill a vacancy shall serve for the unexpired portion 137 
+of the term.  138 
+(4) A member may continue to serve until a successor is appointed and confirmed; 139 
+except, that the holdover period shall not be longer than 180 days after expiration of the member’s 140 
+term. 141 
+  (e) The Board shall annually elect a chair and vice-chair from among its voting members; 142 
+provided, that the ex officio members may not serve as chair or vice-chair. 143 
+  (f) A voting member shall not receive compensation but may be reimbursed for actual and 144 
+necessary expenses incurred in the performance of their official duties as a voting member of the 145 
+Board.  146 
+  (g) A Board member shall not be held personally liable for an action taken in good faith in 147 
+the course of official duties. The Hospital shall maintain, or provide indemnification consistent 148 
+with, errors-and-omissions and directors-and-officers insurance for Board members and officers, as 149 
+provided in section 115. 150 
+Sec. 104. Board governance, meetings, and fiduciary duties.   151 
+ (a) Each voting member shall discharge the duties of office in good faith, with the care an 152 
+ordinarily prudent person in a like position would exercise under similar circumstances, and in a 153
+
+7  
+  
+manner the member reasonably believes to be in the best interests of the Hospital, its patients, and 154 
+its public mission.  155 
+ (b) The Board shall adopt conflict-of-interest and recusal policies, a code of conduct, and 156 
+rules for its proceedings within 90 days after its first meeting. 157 
+ (c) The Board shall convene a regular meeting at least once a month. A majority of the 158 
+voting members then serving shall constitute a quorum, and an affirmative vote of a majority of 159 
+voting members present shall be required for official action. 160 
+ (d) The Board shall allow public comment at each regular meeting and shall hold at least 161 
+one annual public meeting focused on the Hospital's strategic plan, quality performance, patient 162 
+rights, workforce, finances, and community coordination. 163 
+ (e) The Board shall establish, at a minimum: 164 
+  (1) A committee responsible for oversight of the Hospital’s finances, budget, audits, 165 
+internal controls, contracting, and financial risk, which shall be chaired by a Board member with 166 
+financial expertise; and 167 
+  (2) A committee responsible for oversight of Board governance, ethics, member 168 
+training and performance, workforce planning, staffing, recruitment, retention, and labor relations. 169 
+ (f) A committee may include non-Board advisors, but only Board members may vote. A 170 
+committee may not exercise authority reserved to the full Board by law or rule. 171 
+ (g) Board members shall complete initial and annual training concerning hospital 172 
+governance, public fiduciary duties, behavioral-health law, patient rights, disability rights, forensic 173 
+services, confidentiality, ethics, and trauma-informed care. 174 
+  175 
+Sec. 105. Chief Executive Officer; appointment and duties.  176
+
+8  
+  
+(a) The Board shall appoint a Chief Executive Officer who shall be the chief administrative 177 
+officer of the Hospital. The Chief Executive Officer shall serve at the pleasure of the Board. The Chief 178 
+Executive Officer shall be a District resident throughout their term and failure to maintain District 179 
+residency shall result in a forfeiture of the position.   180 
+(b) The Chief Financial Officer shall have substantial executive experience in hospital or 181 
+complex health-system management, psychiatric care, and demonstrated competence in quality, 182 
+workforce, financial, and public-sector accountability. 183 
+ (c) The Chief Executive Officer shall provide the Board with a monthly operations report and 184 
+such additional reports as the Board's rules may require. 185 
+ (d) The Board shall conduct a written annual evaluation of the Chief Executive Officer based 186 
+on measurable performance standards that include quality and safety, patient rights, workforce 187 
+stability, discharge timeliness, regulatory compliance, financial performance, and transparency. 188 
+ Sec. 106. Quality, Safety, and Patient Rights Committee.  189 
+ (a)(1) There is established a Quality, Safety, and Patient Rights Committee of the Board to 190 
+provide independent, patient-centered oversight of the quality and safety of care, protection of patient 191 
+rights, adequacy of the Hospital workforce, compliance with applicable standards, and the Hospital’s 192 
+response to deficiencies.   193 
+  (2) The Committee shall:  194 
+   (A) Identify systemic risks to patient health, safety, rights, and recovery;  195 
+   (B) Monitor the Hospital’s quality assurance, performance improvement, 196 
+patient safety, and corrective action activities;  197 
+   (C) Elevate the perspectives of patients, families, advocates, and direct care 198 
+employees in the governance of the Hospital;  199
+
+9  
+  
+   (D) Advise the Board concerning policies, resources, and actions necessary to 200 
+improve clinical outcomes, patient safety, patient rights, workforce stability, and discharge practices; 201 
+and  202 
+   (E) Monitor whether deficiencies identified by regulators, accrediting 203 
+organizations, auditors, advocates, patients, employees, or the Committee are timely and effectively 204 
+corrected.  205 
+  (b)(1) The Committee shall consist of 9 voting members appointed by the Board as 206 
+follows:  207 
+   (A) Three members of the Board, one of whom shall be designated by the 208 
+Board to serve as the chairperson, who shall have expertise in clinical quality, patient safety, disability 209 
+rights, patient rights, or inpatient psychiatric care; and 210 
+   (B) Six individuals who shall not be members of the Board, including:  211 
+    (i) One physician licensed to practice medicine in the District who is 212 
+board certified in psychiatry and has experience in inpatient psychiatric care, forensic psychiatric care, 213 
+or hospital quality and patient safety;  214 
+    (ii) One registered nurse licensed in the District who has experience 215 
+providing inpatient psychiatric care;  216 
+    (iii) One individual with at least 5 years expertise in hospital quality 217 
+improvement, patient safety, regulatory compliance, or hospital accreditation;   218 
+    (iv) One individual with disability rights, patient rights, or protection 219 
+and advocacy for individuals with behavioral health conditions;  220 
+    (v) One individual with lived experience receiving inpatient psychiatric 221 
+treatment; and  222
+
+10  
+  
+    (vi) One family member, guardian, or personal representative of an 223 
+individual who has received inpatient psychiatric treatment.  224 
+  (2) A current Hospital employee may serve in the committee position described in 225 
+paragraph (1)(B)(ii) of this subsection; provided, that the Board shall consult with labor organizations 226 
+representing Hospital employees in the appointment.  227 
+  (3) Except as provided in paragraph (2) of this subsection, a non-Board member of the 228 
+Committee shall not be employed by the Hospital or the Department, provide goods or services to the 229 
+Hospital, be employed by an entity that provides goods or services to the Hospital, or otherwise have a 230 
+financial interested that would impair, or have the appearance of impairing, the member’s independent 231 
+judgment.  232 
+  (4) The Chief Executive Officer, Chief Medical Officer, Chief Nursing Officer, 233 
+independent patient-rights advocate, and other Hospital officials designated by the Committee may 234 
+attend Committee meetings and provide information but shall not be voting members of the 235 
+Committee. 236 
+  (5) Non-Board members shall serve 3-year terms and may serve for no more than 3 237 
+consecutive terms 238 
+ (c)(1) The Committee shall meet at least once a month.  239 
+  (2) The Committee shall have timely access to Hospital policies, aggregate and 240 
+deidentified data, incident reports, staffing information, regulatory findings, corrective-action plans, 241 
+and other information reasonably necessary to perform its duties. The Committee may access 242 
+individually identifiable patient information only in accordance with subsection (g) of this section. 243
+
+11  
+  
+  (3) The Committee shall have direct access to Hospital employees, contractors, the 244 
+independent patient-rights advocate, patients who consent to communicate with the Committee 245 
+members, family members, legal representatives, and advocates.  246 
+  (4) The Committee may conduct announced or unannounced visits to any Hospital unit, 247 
+consistent with applicable privacy, safety, security, and infection control requirements. Patients shall 248 
+be permitted to speak with Committee members.  249 
+ (d) The Committee shall review quantitative and qualitative information concerning: 250 
+  (1) Deaths, serious injuries, assaults, suicides and suicide attempts, elopements, 251 
+allegations of abuse or neglect, medication errors, serious reportable events, and the use and duration 252 
+of restraint and seclusion; 253 
+  (2) Staffing levels, vacancies, turnover, overtime, use of contract staff, workplace 254 
+injuries, staff assaults, and other workforce conditions affecting patient care;  255 
+  (3) The availability, timeliness, adequacy, and outcomes of psychiatric, medical, 256 
+nursing, psychological, rehabilitative, therapeutic, and competency-restoration services, including 257 
+readmissions and continuity of care; 258 
+  (4) Grievances, complaints, substantiated rights violations, retaliation allegations, and 259 
+disparities in treatment, restrictive interventions, clinical outcomes, and discharge delays; 260 
+  (5) Regulatory, licensing, accreditation, audit, protection-and-advocacy, and inspection 261 
+findings and related corrective-action plans; and 262 
+  (6) Discharge delays, including the number of discharge-ready patients, the duration 263 
+and causes of delay, and barriers attributable to the Hospital, the Department, or another system 264 
+partner. 265
+
+12  
+  
+ (e)(1) The Committee shall report material findings, risks, and recommendations to the Board 266 
+at least quarterly. 267 
+  (2) Within 24 hours of learning of the condition, the chairperson shall notify the 268 
+Chairperson of the Board and the Chief Executive Officer of any condition that the Committee 269 
+reasonably believes poses an imminent threat to patient health or safety, a substantial violation of 270 
+patient rights, or a material threat to the Hospital’s licensure, certification, or accreditation. 271 
+  (3) If the Committee identifies a systemic deficiency, it may recommend that the Board 272 
+require the Chief Executive Officer to prepare a time-limited corrective-action plan identifying 273 
+responsible officials, measurable actions, deadlines, necessary resources, and methods for determining 274 
+whether the corrective actions are effective. 275 
+  (4) The Committee shall monitor the implementation of a corrective-action plan 276 
+required by the Board until the Board determines that the deficiency has been resolved. 277 
+ (f) Meetings of the Committee shall not be closed to the public. Committee members and staff 278 
+shall maintain the confidentiality of patient, personnel, peer-review, quality-assurance, and other 279 
+protected information received in the performance of their duties. The Committee shall provide the 280 
+Board with regular reports that summarize its findings and recommendations without disclosing 281 
+protected information. 282 
+ (g)(1) The Committee shall provide oversight and recommendations and shall not direct the 283 
+treatment of an individual patient, exercise day-to-day operational authority, make medical-staff 284 
+credentialing or privileging decisions, or replace the functions of the organized medical staff or the 285 
+Hospital’s internal quality-assurance and performance-improvement program. 286
+
+13  
+  
+  (2) Committee members shall comply with applicable privacy and confidentiality laws 287 
+and shall complete initial and annual training concerning patient safety, patient and disability rights, 288 
+behavioral health law, confidentiality, ethics, conflicts of interest, and trauma-informed care. 289 
+  (3) Information reported publicly by the Committee shall be deidentified and shall not 290 
+include information protected from disclosure by federal or District law. 291 
+ (h)(1) The Committee shall use aggregate or deidentified patient information whenever 292 
+sufficient to perform its duties. Access to individually identifiable patient information shall be limited 293 
+to the minimum information reasonably necessary to perform a specific oversight responsibility and 294 
+shall comply with HIPAA, 42 C.F.R. Part 2, the District of Columbia Mental Health Information Act 295 
+of 1978, and other applicable privacy, confidentiality, and patient-rights laws. 296 
+  (2) Before receiving individually identifiable patient information, each Committee 297 
+member shall complete privacy and confidentiality training and execute a confidentiality agreement. 298 
+A member shall not use or disclose protected information except as necessary to perform the 299 
+member’s official duties and as permitted by law. 300 
+  (3) Nothing in this subsection shall limit or condition the access authority of the 301 
+District’s protection and advocacy system under 42 U.S.C. § 10805, 42 U.S.C. § 15043, or other 302 
+applicable federal law. 303 
+ Sec. 107. Patient rights, independent advocacy, and anti-retaliation.  304 
+ (a) The Hospital shall adopt a patient bill of rights in plain language and accessible formats. 305 
+ (b)(1) The Hospital shall ensure that an independent patient-rights advocate has regular, 306 
+private, and timely access to patients, Hospital units, grievance information, and Hospital leadership, 307 
+including the Board and the Quality, Safety, and Patient Rights Committee, and access to patient 308 
+records with lawful authorization. 309
+
+14  
+  
+  (2) The Hospital shall provide the District’s protection and advocacy system with 310 
+prompt and unimpeded access to the Hospital, its facilities, patients, employees, and records to the full 311 
+extent required by section 105 of the Protection and Advocacy for Mentally Ill Individuals Act of 312 
+1986, approved May 23, 1986 (42 U.S.C. § 10805), section 143 of the Developmental Disabilities 313 
+Assistance and Bill of Rights Act of 2000, approved October 30, 2000 (42 U.S.C. § 15043), and other 314 
+applicable federal law. 315 
+  (3) Nothing in this act shall be construed to limit, condition, delay, or require additional 316 
+authorization for access granted to the District’s protection and advocacy system under federal law. 317 
+ (c) The Hospital shall provide confidential and accessible methods for patients, employees, 318 
+contractors, families, legal representatives, and advocates to communicate concerns to the Board, the 319 
+patient-rights advocate, regulators, and oversight bodies. 320 
+ (d) The Hospital, its employees, and its contractors shall not retaliate against a person for 321 
+making a good-faith report, filing a grievance, participating in an investigation, communicating with 322 
+the Board or an oversight body, or exercising a legal right. 323 
+ (e) A violation of subsection (d) of this section shall be grounds for discipline or contract 324 
+remedies and may be reported to the Office of the Inspector General. This subsection does not limit 325 
+any other remedy available by law. 326 
+ (f) Public reporting under this act shall be deidentified and shall comply with federal and 327 
+District privacy law. Board members and authorized staff may receive protected information 328 
+necessary to perform oversight duties and shall receive confidentiality training and execute 329 
+appropriate agreements. 330 
+ Sec. 108. Least restrictive care and discharge accountability.  331
+
+15  
+  
+ (a) The Hospital shall provide treatment in the least restrictive appropriate setting consistent 332 
+with clinical needs, public safety, court orders, and federal and District law. 333 
+ (b) The Hospital shall maintain a real-time process to identify each discharge-ready patient, the 334 
+recommended type or level of community placement, tasks required for discharge, the entity 335 
+responsible for each task, and the length and cause of delay. 336 
+ (c)(1) For a discharge-ready patient whose discharge has been delayed for more than 14 days, 337 
+the Chief Executive Officer shall require a case escalation involving the responsible Hospital 338 
+employees and system partners.   339 
+  (2) For a delay exceeding 30 days, the matter shall be reported in deidentified form to 340 
+the Director and the Board Committee.  341 
+(3) For a delay exceeding 90 days, the Chief Executive Officer and Director shall 342 
+submit a written barrier-resolution plan to the Board. 343 
+ (d) The Board shall monitor aggregate discharge delays and may require the Chief Executive 344 
+Officer to initiate the dispute-escalation process established under section 11. 345 
+ Sec. 109. Relationship with the Department and other system partners.  346 
+ (a) Within 180 days after the effective date of this act, the Hospital and the Department shall 347 
+execute an interagency agreement that delineates responsibility, funding, data sharing, and 348 
+performance standards for: 349 
+  (1) Referrals, screenings, and admission pathways, including forensic admissions; 350 
+  (2) Competency evaluations and restoration services provided at or through the 351 
+Hospital; 352 
+  (3) Crisis and emergency-service coordination; 353
+
+16  
+  
+  (4) Community-service, housing, benefits, and placement planning necessary for timely 354 
+discharge; 355 
+  (5) Continuity of care before admission and after discharge; 356 
+  (6) Shared information systems and data exchange; 357 
+  (7) Emergency preparedness and system surge capacity; and 358 
+  (8) Escalation and resolution of operational, clinical, placement, and funding disputes. 359 
+ (b) The Hospital and the Department shall adopt shared performance measures concerning 360 
+avoidable admission, readmission, discharge delay, continuity of care, and community placement 361 
+stability and shall publish deidentified quarterly results. 362 
+ (c) A dispute not resolved by the Chief Executive Officer and Director within 10 business days 363 
+shall be referred to the City Administrator. An unresolved dispute that materially affects patient 364 
+safety, patient rights, or discharge for more than 30 days shall be reported to the Mayor and Council. 365 
+ (d) The Hospital may enter into additional agreements with a system partner as necessary to 366 
+carry out the purposes of this section. 367 
+ Sec. 110. Saint Elizabeths Hospital Fund; budget and financial administration.  368 
+ (a) There is established as a special fund the Saint Elizabeths Hospital Fund (“Fund”), which 369 
+shall be administered by the Hospital in accordance with subsection (c) of this section. 370 
+ (b) Revenue from the following sources shall be deposited into the Fund:   371 
+  (1) Annual appropriation;    372 
+  (2) Third-party payments; and 373 
+  (3) Grants and gifts.   374 
+ (c) The Fund shall be used solely to operate and improve the Hospital and carry out the 375 
+purposes of this title. 376
+
+17  
+  
+(d) (1) The money deposited into the Fund shall not revert to the unrestricted fund balance of 377 
+the General Fund of the District of Columbia at the end of a fiscal year, or at any other time. 378 
+  (2) Subject to authorization in an approved budget and financial plan, any funds 379 
+appropriated in the Fund shall be continually available without regard to fiscal year limitation. (c) 380 
+The Board shall prepare an annual proposed operating and capital budget and a 5-year financial plan, 381 
+which shall be submitted to the Mayor for inclusion in her annual budget proposal to the Council. 382 
+ (e) The Hospital shall provide monthly financial statements to the Mayor, Council, and Chief 383 
+Financial Officer and shall notify them within 5 business days of a material variance, cash-flow risk, 384 
+unauthorized obligation, or projected deficit. 385 
+ (f) The Hospital may not borrow money, issue debt, pledge District revenue, or encumber 386 
+District real property except pursuant to an act of the Council. 387 
+ Sec. 112. Procurement and contracting.  388 
+ (a) Within 180 days after its first meeting, the Board shall adopt procurement rules that 389 
+require, at a minimum: 390 
+  (1) Full and open competition except for documented emergency, sole-source, small-391 
+purchase, or other limited exceptions; 392 
+  (2) Written cost or price analysis and responsibility determinations; 393 
+  (3) Conflict-of-interest, disclosure, recusal, and contractor-integrity safeguards; 394 
+  (4) Participation goals and reporting for certified business enterprises; 395 
+  (5) Public notice of solicitations and awards above thresholds established by rule; 396 
+  (6) Contract-administration, performance-monitoring, and audit rights; 397 
+  (7) Board approval of contracts above $1 million and Council review when required by 398 
+section 1-204.51 of the District of Columbia Official Code or other law; and 399
+
+18  
+  
+  (8) Emergency-procurement reporting to the Board and Council within 7 days. 400 
+ (b) Until rules adopted under subsection (b) take effect, the Procurement Practices Reform Act 401 
+of 2010 and rules issued under that act shall apply. 402 
+ (c) The Hospital may engage a management or specialized clinical contractor, but a contract 403 
+may not transfer the Board's statutory duties or restrict access by District oversight bodies. 404 
+ (d) The Hospital shall publish a searchable contract and purchase-order register, excluding 405 
+information protected from disclosure by law. 406 
+ Sec. 113. Audits, transparency, reporting, and corrective action.  407 
+ (a) The Board shall retain an independent auditor to conduct an annual financial-statement 408 
+audit and, at least once every 3 years, an independent governance and clinical-quality review. Reports 409 
+shall be submitted to the Mayor and Council and made publicly available 410 
+ (b) The Hospital shall publish a quarterly public dashboard including deidentified measures of 411 
+census, admissions, length of stay, discharge-ready patients and delay duration, readmissions, serious 412 
+reportable events, restraint and seclusion, grievances, staffing, vacancies, turnover, overtime, contract-413 
+staff use, regulatory findings, corrective-action status, budget, revenue, expenditures, and contract 414 
+awards. 415 
+ (c) Within 30 days after receiving a final systemic finding from a regulator, accreditor, auditor, 416 
+the District's protection and advocacy system, or the Board, the Chief Executive Officer shall submit a 417 
+corrective-action plan to the Board. The plan shall identify responsible officials, measurable actions, 418 
+deadlines, resources, and validation methods. 419 
+ (d) The Board shall notify the Mayor and Council within 5 business days of a condition that 420 
+poses an imminent threat to patient safety or Hospital operations, a loss or threatened loss of licensure 421
+
+19  
+  
+or certification, a material financial emergency, or substantial noncompliance with a corrective-action 422 
+plan. 423 
+ (e) By February 1 of each year, the Hospital shall submit to the Mayor and Council an annual 424 
+report describing performance during the preceding fiscal year and progress on the strategic, quality, 425 
+workforce, capital, and financial plans. 426 
+ (f) Reports required by this section shall be available in accessible electronic formats and shall 427 
+protect patient privacy and legally privileged information. 428 
+ Sec. 114. Fiscal and quality distress response.  429 
+ (a) The Board shall adopt objective early-warning indicators for fiscal distress, clinical-quality 430 
+deterioration, workforce instability, regulatory jeopardy, and persistent discharge delay. 431 
+ (b) If an indicator is triggered, the Board shall require the Chief Executive Officer to submit a 432 
+remediation plan within 30 days and shall provide enhanced monthly monitoring until the Board 433 
+determines that the condition is resolved. 434 
+ (c) If a condition remains unresolved for 90 days, or immediately if the condition threatens 435 
+patient safety, licensure, or financial solvency, the Board shall retain independent expertise and submit 436 
+an enhanced corrective-action plan to the Mayor and Council. 437 
+ (d) The Mayor may direct the City Administrator to coordinate District assistance and may 438 
+recommend additional statutory action to the Council. 439 
+ Sec. 115. Ethics, legal representation, liability, and tax status.  440 
+ (a) A Board member shall not be personally liable for an action taken in good faith within the 441 
+scope of official duties, except for gross negligence, willful misconduct, or a knowing violation of 442 
+law. 443
+
+20  
+  
+ (b) The Hospital may employ a General Counsel and retain outside counsel as permitted by 444 
+District law.  445 
+ (c) The District may indemnify Board members, officers, and employees for acts within the 446 
+scope of their official duties to the extent permitted by law, and the Hospital may obtain liability and 447 
+directors-and-officers insurance. 448 
+ Sec. 116. Transition from the Department.  449 
+ (a) Within 90 days after the effective date of this act, the Mayor shall establish a Transition 450 
+Committee chaired by the City Administrator and including the Director, current Chief Executive 451 
+Officer of the Saint Elizabeths Hospital, Chief Financial Officer, Director of the Department of 452 
+Human Resources, Chief Procurement Officer, labor representatives, a patient or family 453 
+representative, a disability-rights representative, and other necessary officials. 454 
+ (b) Within 180 days after the effective date of this act, the Transition Committee shall submit 455 
+to the Mayor and Council a transition plan that identifies: 456 
+  (1) Functions, positions, personnel, appropriations, assets, liabilities, records, 457 
+information systems, licenses, contracts, and grants to be transferred from the Department or another 458 
+District agency to the Hospital; 459 
+  (2) Functions that are to be retained by the Department or another District agency; 460 
+  (3) A proposed transfer date and implementation schedule; 461 
+  (4) Workforce protections and labor-consultation procedures; 462 
+  (5) Continuity plans for patient care, pharmacy, food, facilities, security, information 463 
+technology, procurement, billing, legal services, and emergency operations; 464 
+  (6) Interagency agreements required under section 11; 465 
+  (7) Budget and capital requirements; and 466
+
+21  
+  
+  (8) Risks, dependencies, and readiness criteria. 467 
+ (c) The transition plan may provide for a phased transfer. No clinical or operational function 468 
+may transfer until the City Administrator certifies to the Mayor and Council that continuity of patient 469 
+care, payroll, procurement, financial management, information access, and regulatory compliance is 470 
+reasonably assured. 471 
+ (d) The transfer date shall be October 1, 2028, or a later date established by act of the Council; 472 
+provided that, at least 60 days before that date, the City Administrator and Chairperson of the Board 473 
+shall jointly certify to the Mayor and Council that the Hospital is prepared to assume operational 474 
+responsibility without a material interruption in patient care, employee compensation, or regulatory 475 
+compliance.  476 
+ (e) On the transfer date, the functions and associated positions, personnel, records, contracts, 477 
+assets, liabilities, and unexpended balances identified in the approved transition plan shall transfer to 478 
+the Hospital by operation of law. 479 
+ (f) Existing licenses, certifications, privileges, contracts, orders, rules, and delegations relating 480 
+to transferred functions shall remain in effect until lawfully amended, replaced, expired, or revoked. 481 
+ (g) The Hospital shall be the successor in interest for transferred contracts and obligations, 482 
+except as the transition plan or an act of the Council expressly provides otherwise.  483 
+ (h) Every employee assigned to the current Saint Elizabeths Hospital and identified in the 484 
+transition plan shall be transferred from the Department to the Hospital without a break in service and 485 
+with the same base pay, accrued leave, retirement credit, health and other benefits, seniority, and other 486 
+rights and obligations that they had as employees of the Department before the transfer date. 487 
+ (i) The Hospital shall assume and be bound by collective-bargaining agreements and personnel 488 
+contracts applicable to transferred employees, subject to their terms and applicable law.  489
+
+22  
+  
+ (j) A hospital-specific personnel system shall include due process, merit-based hiring and 490 
+advancement, whistleblower and anti-retaliation protection, equal-employment requirements, ethics 491 
+and conflict rules, and preservation of accrued employee rights. 492 
+ (k) The Hospital shall give a hiring preference to qualified District residents and shall maintain 493 
+workforce-development, apprenticeship, and succession plans. 494 
+ (l) The Board shall receive quarterly workforce dashboards and shall approve an annual 495 
+staffing and retention plan. 496 
+ (m) The Mayor shall submit conforming legislation to the Council no later than 270 days after 497 
+the effective date of this act to revise provisions of District law that assign transferred Hospital 498 
+functions to the Department. 499 
+  500 
+ Sec. 117. Rulemaking. 501 
+ The Board, pursuant to pursuant to Title I of the District of Columbia Administrative 502 
+Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 et seq.), may 503 
+issue rules to implement the provisions of this act. Proposed rules shall be submitted to the Council for 504 
+a 45-day period of review, excluding days of Council recess. If the Council does not approve or 505 
+disapprove the proposed rules by resolution within the review period, the rules shall be deemed 506 
+approved. 507 
+  508 
+TITLE II. CONFORMING AMENDMENTS. 509 
+ Sec. 201. Section 406(b) of the District of Columbia Government Comprehensive Merit 510 
+Personnel Act of 1978, effective March 3, 1979 (D.C. Law 2-139; D.C. Official Code § 1-604.06(b)), 511 
+is amended by adding a new paragraph (34) to read as follows: 512
+
+23  
+  
+  “(34) For employees of the Saint Elizabeths Hospital established under Title I of the 513 
+Saint Elizabeths Hospital Independence and Governance Amendment Act of 2026, as introduced on 514 
+September __, 2026 (Bill 26-__), the personnel authority is the Board of Directors of the Saint 515 
+Elizabeths Hospital.”. 516 
+ Sec. 202. Section 201(b) of the Procurement Practices Reform Act of 2010, effective April 8, 517 
+2011 (D.C. Law 18-371; D.C. Official Code § 2-351.01(b)), is amended as follows: 518 
+(a) Paragraph (11) is amended by striking the phrase “; and” and inserting a semicolon in its 519 
+place. 520 
+ (b) Paragraph (12) is amended by striking the period and inserting the phrase “; and” in its 521 
+place. 522 
+ (c) A new paragraph (13) is added to read as follows: 523 
+  “(13) The Saint Elizabeths Hospital, established pursuant to Title I of the Saint 524 
+Elizabeths Hospital Independence and Governance Amendment Act of 2026, as introduced on 525 
+September __, 2026 (Bill 26-__).”. 526 
+ Sec. 203. Section 2(e) of the Confirmation Act of 1978, effective March 3, 1979 (D.C. Law 2-527 
+142; D.C. Official Code § 1-523.01(e)), is amended as follows: 528 
+ (a) Paragraph (39) is amended by striking the phrase “; and” and inserting a semicolon in its 529 
+place. 530 
+ (b) Paragraph (40) is amended by striking the period and inserting the phrase “; and” in its 531 
+place. 532 
+ (c) A new paragraph (41) is added to read as follows: 533
+
+24  
+  
+  “(41) The Board of Directors of the Saint Elizabeths Hospital, established by section 534 
+104 of the Saint Elizabeths Hospital Independence and Governance Amendment Act of 2026, as 535 
+introduced on September __, 2026 (Bill 26-__).”. 536 
+ Sec. 204. Section 204(a) of the Freedom of Information Act of 1976, effective March 29, 1977 537 
+(D.C. Law 1-96; D.C. Official Code § 2-534(a)), is amended as follows: 538 
+(a) Paragraph (23) is amended by striking the phrase “; and” and inserting a semicolon in its 539 
+place. 540 
+(b) Paragraph (24) is amended by striking the period and inserting the phrase “; and” in its 541 
+place. 542 
+(c) A new paragraph (25) is added to read as follows: 543 
+ “(25) Patient information and records concerning peer review, credentialing, quality 544 
+assurance, patient safety, personnel, or security, or information created or exclusively provided to the 545 
+Quality, Safety, and Patient Rights Committee of the Saint Elizabeths Hospital Board established 546 
+under Title I of the Saint Elizabeths Hospital Independence and Governance Amendment Act of 2026, 547 
+as introduced on September __ 2026 (Bill 26-_).”. 548 
+TITLE III. FISCAL IMPACT; EFFECTIVE DATE. 549 
+Sec. 301. Fiscal impact statement.  550 
+The Council adopts the fiscal impact statement in the committee report as the fiscal impact 551 
+statement required by section 4a of the General Legislative Procedures Act of 1975, approved 552 
+October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).  553 
+Sec. 302. Effective date.  554 
+This act shall take effect following approval by the Mayor (or in the event of veto by the 555 
+Mayor, action by the Council to override the veto), and a 30-day period of congressional review as 556
+
+25  
+  
+provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 24, 557 
+1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)). 558

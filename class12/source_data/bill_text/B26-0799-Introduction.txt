@@ -1,0 +1,589 @@
+MURIEL BOWSER 
+MAYOR 
+September 16, 2026 
+The Honorable Phil Mendelson 
+Chairman 
+Council of the District of Columbia 
+John A. Wilson Building 
+1350 Pennsylvania Avenue, NW, Suite 504 
+Washington, DC 20004 
+Enclosed for consideration and adoption by the Council of the District of Columbia is the 
+HealthCare Facilities Regulation Amendment Act of 2026.  
+If enacted, the proposed legislation would amend several statutes governing the oversight, 
+licensure, and regulation of health care facilities and entities in the District to strengthen patient 
+safety, modernize regulatory authority, and improve transparency and accountability across the 
+health care system. Specifically, the bill would amend the Health-Care and Community 
+Residence Facility and Home Care Licensure Act of 1983, the Medical Malpractice Amendment 
+Act of 2006, the Health Services Planning Program Re-establishment Act of 1996, and related 
+provisions of District law to accomplish the following: 
+Regulatory Modernization and Alignment with Federal Standards: The legislation clarifies 
+and expands the District’s authority to incorporate applicable federal standards, including 
+Centers for Medicare and Medicaid Services. These updates will promote regulatory consistency, 
+reduce provider confusion, and ensure health care facilities operate in accordance with nationally 
+recognized safety and quality standards. 
+Strengthened Enforcement and Patient Safety Protections: The bill enhances the Department 
+of Health’s enforcement tools by authorizing escalated and proportional civil penalties when 
+facility conduct places patients, residents, or clients in immediate jeopardy, even where actual 
+harm has not yet occurred. These changes better align the District with national enforcement 
+practices and allow for timely intervention to prevent serious injury or loss of life. 
+Health Care Facility Oversight: The legislation strengthens oversight of assisted living 
+residences by establishing clearer licensure requirements for facilities providing higher-acuity 
+care. 
+Ownership Transparency and Financial Accountability: To address increasing consolidation 
+and financialization in the health care sector, the bill enhances disclosure requirements related to
+
+ownership and control, including private equity and other complex ownership structures. These 
+provisions improve transparency and support more informed regulatory review of transactions 
+that may impact access, quality, or stability of care. 
+Licensure Flexibility and Administrative Efficiency: The bill modernizes licensure and 
+renewal processes by updating Clean Hands requirements, authorizing provisional licensure in 
+limited circumstances, and permitting fee adjustments tied to inflation through public notice. 
+These changes promote administrative efficiency while maintaining appropriate safeguards for 
+patient safety. 
+Modernized Adverse Event Reporting: The legislation updates adverse event reporting 
+requirements to include cybersecurity incidents, clarifies reporting definitions, and strengthens 
+participation in patient safety organizations, supporting improved detection and prevention of 
+systemic safety issues. 
+Taken together, these reforms strengthen the District’s health care oversight framework, support 
+provider readiness, enhance patient protections, and promote a more coordinated and equitable 
+health care system for District residents. 
+I urge the Council to take prompt and favorable action on the enclosed legislation. 
+Sincerely, 
+Muriel Bowser
+
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+~~ 
+Chainnan Phil Mendelson 
+at the request of the Mayor 
+A BILL 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA 
+15 To amend the Medical Malpractice Amendment Act of 2006 to update requirements for the 
+16 reporting of adverse events by healthcare entities, to include cybersecurity events among 
+17 those occurrences that must be reported, and to mandate that healthcare entities 
+18 participate with a patient safety organization in conformity with federal standards; to 
+19 amend the Assisted Living Residence Regulatory Act of 2000 to allow for the issuance of 
+20 provisional licenses to newly established facilities, to clarify the training requirement for 
+21 assisted living administrators, and to update references to regulations governing food 
+22 service; to amend the Health Services Planning Program Re-establishment Act of 1996 to 
+23 clarify the types of proposed heal th care facility transactions that must be submitted for 
+24 certificate of need review and approval by the State Health Planning and Development 
+25 Agency and to add relevant definitions; to amend the Health-Care and Community 
+26 Residence Facility Hospice and Home Care Licensure Act of 1983 to clarify the Mayor's 
+27 authority to inspect facilities holding a provisional license, incorporate applicable federal 
+28 requirements for participation and standards for health-insurance and medical-assistance 
+29 programs as minimum standards for the operation of health care facilities and agencies in 
+30 the District, and to enhance the District's ability to levy fines in a manner that is 
+31 commensurate with the severity of an established violation by a facility or agency that 
+32 presents an immediate danger to the life and safety of patients, residents, or clients; and 
+33 to amend the Clean Hands Before Receiving a License or Permit Act of 1996 to exempt 
+34 health care facilities and agencies at renewal. 
+35 
+36 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 
+37 act may be cited as the "Healthcare Facilities Regulation Amendment Act of 2026". 
+38 Sec. 2. The Medical Malpractice Amendment Act of 2006, effective March 14, 2007 
+39 (D.C. Law 16-263; D.C. Official Code§ 7-161 et seq.), is amended as follows: 
+40 (a) Section 202 (D .C. Official Code§ 7-161) is repealed. 
+41 (b) A new Title II-A is added to read as follows: 
+1
+
+2 
+ 
+ “TITLE II-A. ADVERSE EVENT REPORTING 42 
+ “Sec. 211. Short title. 43 
+ “This title may be cited as the “Adverse Event Reporting Act of 2026”. 44 
+ “Sec. 212. Definitions. 45 
+“(a) For the purposes of this title, the term: 46 
+“(1) “Adverse event” means a preventable event, occurrence, or situation 47 
+occurring in or under the purview of a healthcare provider that: 48 
+ “(A) Results in the death of an individual; 49 
+ “(B) Harms an individual, or contributes to the harm of an individual, and 50 
+requires major intervention; or 51 
+ “(C) Impairs an individual’s ability to perform activities of daily living. 52 
+“(2) “Cybersecurity event” means an event, occurrence, or situation affecting the 53 
+information technology of a healthcare provider that compromises or threatens: 54 
+ “(A) The privacy, security, or access of electronically stored patient 55 
+records or computer-based administrative systems of the healthcare provider; or 56 
+ “(B) The provider’s ability to conduct normal operations or otherwise 57 
+provide health services. 58 
+“(3) “Healthcare provider” means an entity licensed or otherwise authorized under 59 
+District law to provide healthcare services, including: 60 
+“(A) A health facility required to obtain a certificate of need under section 61 
+7 of the Health Services Planning Program Reestablishment Act of 1996, effective April 9, 1997 62 
+(D.C. Law 11-191; D.C. Official Code § 44-406);  63
+
+3 
+ 
+“(B) An agency or facility defined in section 2 of the Health-Care and 64 
+Community Residence Facility Hospice and Home Care Licensure Act of 1983, effective 65 
+February 24, 1984 (D.C. Law 5-48; D.C. Official Code § 44-501); 66 
+   “(C) An entity required to be registered in accordance with section 3a of 67 
+the Health-Care and Community Residence Facility Hospice and Home Care Licensure Act of 68 
+1983, effective June 10, 2025 (D.C. Law 26-7; D.C. Official Code § 44-502.01); or 69 
+   “(D) A business entity for whom a licensed, certified, or registered health 70 
+professional renders services. 71 
+“(4) “Major intervention” means any significant clinical action such as surgery, 72 
+transfer to a higher level of care, or treatment post-discharge. 73 
+“Sec. 212. Adverse event reporting system. 74 
+“The Mayor shall establish, within the Department of Health, a centralized system for the 75 
+collection and analysis of adverse events and cybersecurity events in the District of Columbia. 76 
+“Sec. 213. Mandatory adverse and cybersecurity event reporting. 77 
+“(a)(1) A healthcare provider providing services in the District shall submit a report of an 78 
+adverse event or a cybersecurity event to the Department of Health no later than 48 hours after 79 
+the commencement of the adverse event or a cybersecurity event, or not more than 48 hours after 80 
+the healthcare provider becomes aware of the event, whichever is later. 81 
+“(2) A healthcare provider shall report an adverse event or cybersecurity event on 82 
+a form, with such information, and in a manner prescribed by the Department of Health. 83 
+“(b) Not more than 45 days after the submission of a report under subsection (a) of this 84 
+section, a healthcare provider shall submit to the Department of Health: 85
+
+4 
+ 
+  “(1) A root cause analysis identifying factors that contributed to the adverse event 86 
+or cybersecurity event; and  87 
+  “(2) A corrective action plan identifying specific actions to be taken to redress the 88 
+contributing factors and prevent a similar occurrence in the future, the party responsible for 89 
+taking each such action, and the timeline for implementation of each such action. 90 
+ “(c) The Department of Health may require supplemental submissions by a healthcare 91 
+provider if the root cause analysis or corrective action plan submitted by the healthcare provider 92 
+is incomplete or insufficient as determined by the Department of Health. 93 
+“Sec. 214. Patient safety organization participation. 94 
+“(a) A healthcare provider shall maintain active participation in a patient safety 95 
+organization that is recognized by the Agency for Healthcare Research and Quality in 96 
+accordance with the Patient Safety and Quality Improvement Act of 2005, approved July 29, 97 
+2005 (119 Stat. 424; 42 U.S.C. §§ 299b-21 to 299b-26), or a patient safety organization 98 
+designated by the Department of Health based on nationally accepted patient safety standards.  99 
+ “(b) A healthcare provider shall annually submit proof of participation with a patient 100 
+safety organization to the Department of Health on a form prescribed by the Department of 101 
+Health. 102 
+ “(c) All data submitted to a patient safety organization under this section shall retain all 103 
+confidentiality and privilege protections established under District and federal law. 104 
+“Sec. 215. Confidentiality of reports and information. 105 
+“(a)(1) Except as otherwise provided by this subsection, the reports or documents 106 
+provided pursuant to this title shall be confidential, shall not be subject to disclosure pursuant to 107
+
+5 
+ 
+any other provision of law, and shall not be discoverable or admissible into evidence in any civil, 108 
+criminal, or legislative proceeding. 109 
+ “(2) A court may order the Department of Health to provide information in a 110 
+criminal proceeding in which an individual is accused of a felony if the court determines that 111 
+disclosure is essential to protect the public interest and that the information being sought can be 112 
+obtained from no other source. In determining whether disclosure is essential to protect the 113 
+public interest, the court shall consider the seriousness of the offense with which the individual is 114 
+charged, the need for disclosure of the party seeking it, and the probative value of the 115 
+information. If the court orders disclosure, the identity of any patient shall not be disclosed 116 
+without the consent of the patient or his or her legal representative. 117 
+“(3) This subsection shall not preclude the use of reports, documents, or 118 
+information provided under this section by a health professional licensing board, the Department 119 
+of Health, or the Mayor when regulating a health professional or healthcare provider. 120 
+“(4) No individual or entity that provides a report or related document to the 121 
+Department of Health under this title shall be compelled to testify in any civil, criminal, or 122 
+legislative proceeding with respect to such report or document. 123 
+“(b) The Department of Health may compile and publish data related to adverse events 124 
+and cybersecurity events, including the number and classification of adverse events and 125 
+cybersecurity events reported by healthcare providers. The Department of Health shall not 126 
+disclose any personally identifiable patient information in its publication of data related to 127 
+adverse events or cybersecurity events. 128 
+“Sec. 216. Additional reporting requirements. 129
+
+6 
+ 
+“Nothing in this title shall be construed to limit the authority of the Mayor or Department 130 
+of Health to require the reporting of unusual incidents or other occurrences, by healthcare 131 
+providers or other licensed entities. 132 
+“Sec. 217. Funding. 133 
+“Implementation of this title shall be funded through the licensure fees collected by the 134 
+Board of Medicine. 135 
+“Sec. 218. Penalties; adjudication. 136 
+“(a) Failure to submit a report, documents, or other information as required by this 137 
+section shall be punishable by a penalty of not less than $500 or more than $2,500. For each 138 
+violation, each day of violation shall constitute a separate offense, and the penalties prescribed 139 
+shall apply to each separate offense. 140 
+“(b) Procedures for adjudication of violations under this title shall be those established 141 
+pursuant to the Department of Consumer and Regulatory Affairs Civil Infractions Act of 1985, 142 
+effective October 5, 1985 (D.C. Law 6-42; D.C. Official Code § 2-1801.01 et seq.). 143 
+“Sec. 219. Rules. 144 
+“The Mayor may issue rules to implement this title.”. 145 
+Sec 3.  The Assisted Living Residence Regulatory Act of 2000, effective June 24, 2000 146 
+(D.C. Law 13-127; D.C. Official Code § 44-101.01 et seq.), is amended as follows:  147 
+ (a) Section 302(f) (D.C. Official Code § 44-103.02(f)) is amended by striking the phrase 148 
+“unconditionally for 12 months or deny the application.” and inserting the phrase “and issue a 149 
+provisional license in accordance with section 7 of the Health-Care and Community Residence 150 
+Facility Hospice and Home Care Licensure Act of 1983, effective February 24, 1984 (D.C. Law 151 
+5-48; D.C. Official Code § 44-506) or deny the application.”. 152
+
+7 
+ 
+ (b) Section 701(d)(13) (D.C. Official Code § 44-107.01(d)(13)) is amended by striking 153 
+the phrase “12 additional hours of training, annually, conducted by a nationally recognized 154 
+organization that possesses experience in training staff in dementia care, such as the Alzheimer’s 155 
+Disease and Related Disorders Association, on managing residents who are living with cognitive 156 
+impairments.” and inserting the phrase “the in-service training requirements for direct care 157 
+workers established by section 4952 of the Department of Health Functions Clarification Act of 158 
+2001, effective March 16, 2021 (D.C. Law 23-201; D.C. Official Code § 7-744.02).” in its place. 159 
+(c) Section 702(d) (D.C. Official Code § 44-107.02(d)) is amended by striking the phrase 160 
+“12 additional hours of training on cognitive impairments approved by a nationally recognized 161 
+organization with expertise in dementia such as the Alzheimer’s Disease and Related Disorders 162 
+Association.” and inserting the phrase “the in-service training requirements for direct care 163 
+workers established by section 4952 of the Department of Health Functions Clarification Act of 164 
+2001, effective March 16, 2021 (D.C. Law 23-201; D.C. Official Code § 7-744.02.)” in its place. 165 
+(d) Section 1009(4) (D.C. Official Code § 44-110.09(4)) is amended by striking the 166 
+phrase “section 1116 of Title 14 of the District of Columbia Municipal Regulations, as those 167 
+regulations are applicable to boarding houses.” and inserting the phrase “the applicable rules 168 
+promulgated pursuant to the Food Regulation Amendment Act of 2002, effective May 2, 2002 169 
+(D.C. Law 14-116; D.C. Official Code § 48-101 et seq.).” in its place. 170 
+(e) Section 1011(h) (D.C. Official Code § 44-110.11(h)) is amended by striking the 171 
+phrase “in accordance with Chapters 20 through 24 of Title 23 of the District of Columbia 172 
+Municipal Regulations” and inserting the phrase “in accordance with the applicable rules 173 
+promulgated pursuant to the Food Regulation Amendment Act of 2002, effective May 2, 2002 174 
+(D.C. Law 14-116; D.C. Official Code § 48-101 et seq.).” in its place. 175
+
+8 
+ 
+Sec. 4.  The Health Services Planning Program Re-establishment Act of 1996, effective 176 
+April 9, 1997 (D.C. Law 11-191; D.C. Official Code § 44-401 et seq.), is amended as follows: 177 
+(a) Section 2 (D.C. Official Code § 44-401) is amended as follows:  178 
+(1) Paragraph (1) is amended to read as follows: 179 
+“(1) “Acquisition of effective control” means: 180 
+“(A) Any transfer, assignment or other disposition of a controlling interest 181 
+in the stock, voting rights thereunder, ownership interest, or operating assets of a corporation, 182 
+mutual benefit corporation, general partnership, limited partnership, limited liability partnership, 183 
+limited liability company, joint venture, sole proprietorship, health care real estate investment 184 
+trust, management services organization, private equity company, or other legally operating 185 
+entity which is a HCF or is the operator or ultimate owner of an HCF; 186 
+ “(B) Any transaction which results in any person, or any group of persons 187 
+acting in concert, owning or controlling, directly or indirectly, a controlling interest in the stock, 188 
+voting rights thereunder, ownership interest, or operating assets of such mutual benefit 189 
+corporation, general partnership, limited partnership, limited liability partnership, limited 190 
+liability company, joint venture, sole proprietorship, health care real estate investment trust, 191 
+management services organization, private equity company, or other legally operating entity; 192 
+ “(C) Any transaction which results in any person, or any group of persons 193 
+acting in concert, having the ability to elect or cause the election of a majority of the board of 194 
+directors of any legally operating entity operating or owning an HCF; or 195 
+ “(D) Any conversion which results in the selling, transferring, leasing, 196 
+exchanging, conveying, or otherwise disposing of, directly or indirectly, all the assets or a 197 
+material share of the assets, as defined by section 3 of the Healthcare Entity Conversion Act of 198
+
+9 
+ 
+1997, effective October 23, 1997 (D.C. Law 12-32, D.C. Official Code § 44-602), of a nonprofit 199 
+HCF to a for-profit entity whether a corporation, mutual benefit corporation, general partnership, 200 
+limited partnership, limited liability partnership, limited liability company, joint venture, sole 201 
+proprietorship, health care real estate investment trust, management services organization, 202 
+private equity company, or other legally operating entity, including such an entity that results 203 
+from, or is created in connection with, the conversion.” 204 
+(2) A new paragraph (3C) is added to read as follows: 205 
+“(3C) “Controlling interest” means: 206 
+ “(A) 50% or more of the stock, voting rights thereunder, ownership 207 
+interest, or operating assets of a corporation or other legal operating entity; or 208 
+ “(B) An interest in a corporation or other legal entity, or the parent of the entity, 209 
+that allows an individual or entity to direct the performance, management, or policies of the entity.” 210 
+ (3) A new paragraph (10A) is added to read as follows: 211 
+ “(10A) “Health care real estate investment trust” means a real estate investment trust, as 212 
+defined by 26 U.S.C §856, whose assets consist of real property held in connection with the use or 213 
+operations of a provider or provider organization.” 214 
+ (4) A new paragraph (14A) is added to read as follows: 215 
+ “(14A) “Management services organization” means an entity that provides management or 216 
+administrative services to a provider or provider organization for compensation.” 217 
+ (5) A new paragraph (14B) is added to read as follows: 218 
+ “(14B) “Material change” means a change to the operations or governance structure of a 219 
+HCF, including:  220
+
+10 
+ 
+   “(A)  any increase or decrease in the maximum capital expenditure over 10% of 221 
+the inflation-adjusted originally approved total expenditure or the alteration, addition, expansion, or 222 
+replacement of all, or part, of a health care facility or service to accommodate new or increased 223 
+functionality, or to replace components of a health care facility or service beyond that necessary to 224 
+sustain or restore said facility or service;  225 
+   “(B) A corporate merger, acquisition, or affiliation of a provider or 226 
+provider organization and an insurance carrier;  227 
+   “(C) A merger or acquisition of a hospital or hospital system; (iv) an 228 
+acquisition of an insolvent provider organization;  229 
+   “(D) A transaction involving an equity investor that holds more than a 230 
+10% ownership stake in the HCF or any of parent entity of the HCF which result in a change of 231 
+ownership or control of a provider or provider organization;  232 
+   “(E) A significant acquisition, sale, or transfer of assets including real 233 
+estate sale lease-back arrangements;  234 
+   “(F) A conversion of a provider or provider organization from a non-profit 235 
+entity to a for-profit entity; and  236 
+   “(G) A merger or acquisition of a provider organization which will result 237 
+in a provider organization having a dominant market share in a given service or region.” 238 
+ (6) A new paragraph (16A) is added to read as follows: 239 
+ “(16A) “Private equity company” means any company, including a continuation vehicle, 240 
+that collects capital investments from individuals or entities and purchases, as a parent company or 241 
+through another entity that the company completely or partially owns or controls, a direct or indirect 242 
+ownership share of a provider, provider organization or management services organization.” 243
+
+11 
+ 
+(b) The lead-in text of Section 7(b) (D.C. Official Code § 44-406(b)) is amended by striking the 244 
+phrase “of an existing HCF or part of a HCF (“Transaction”), the person or persons acquiring control” 245 
+and inserting the phrase “effective control of an existing HCF or part of a HCF, or before there is a 246 
+material change to the operations or governance structure of a HCF (“Transaction”), the persons or 247 
+entities acquiring effective control or proposing the material change” in its place.  248 
+Sec. 5. The Health-Care and Community Residence Facility, Hospice and Home Care Licensure 249 
+Act of 1983, effective February 24, 1984 (D.C. Law 5-48; D.C. Official Code § 44-501 et seq.), is 250 
+amended as follows:  251 
+(a) Section 3a (D.C. Official Code § 44-502.01) is amended as follows: 252 
+(1) Subsection (b)(4) is amended by striking the phrase “through rulemaking” 253 
+and inserting the phrase “through the publication of the adjusted fee amounts in the District of 254 
+Columbia Register.”. 255 
+(b) Section 5 (D.C. Official Code § 44-504) is amended as follows:  256 
+(1) Subsection (a) is amended as follows: 257 
+(A) Paragraph (3) is amended by striking the phrase “; and” and 258 
+inserting a semicolon in its place. 259 
+(B) Paragraph (4) is amended by striking the period at the end and 260 
+inserting the phrase “; and” in its place. 261 
+(C) A new paragraph (5) is added to read as follows: 262 
+  “(5) Requirements and processes for the reporting of unusual incidents and 263 
+adverse events, including cybersecurity events, by facilities and agencies to the Mayor.” 264 
+(2) Subsection (d) is amended to read as follows: 265
+
+12 
+ 
+ “(d)(1) Where appropriate, standards adopted under subsection (a)(3) of this section may 266 
+incorporate, in whole or in part, the standards of private accrediting bodies and standard-setting 267 
+organizations. Whenever the standards of a private accrediting body or standard-setting 268 
+organization are revised and a copy is submitted to the Mayor, the Mayor shall evaluate the 269 
+revised standards and determine whether any or all of them should be incorporated into new 270 
+rules; and 271 
+   “(2) Standards adopted under subsection (a)(3) of this section shall incorporate, 272 
+meet or exceed any applicable federal requirements that are necessary to meet the federal 273 
+conditions of participation and standards for health-insurance and medical-assistance 274 
+programs. If the federal requirements change and the rules adopted under subsection (a)(3) do 275 
+not meet the minimum federal standards, the federal standards established by the Centers for 276 
+Medicare and Medicaid Services shall apply until the rules are amended to incorporate, meet, or 277 
+exceed minimum federal standards.”. 278 
+(3) A new subsection (l) is added to read as follows: 279 
+ “(l) License and registration fees established pursuant to subsection (a) of this section 280 
+may be periodically adjusted by the Mayor to reflect the change in the Consumer Price Index 281 
+issued by the Bureau of Labor Statistics, United States Department of Labor by publication of 282 
+revised fee amounts in the District of Columbia Register.”. 283 
+(c) Section 6(a) (D.C. Official Code § 44-505(a)) is amended by striking the phrase “, 284 
+follow-up inspections.” and inserting the phrase “, follow-up inspections. A facility or agency 285 
+operating with a provisional license issued under section 7 this act shall be subject to a full on-286 
+site inspection upon the Mayor’s receipt of any complaint alleging non-compliance with a 287 
+provision of this act, a rule adopted pursuant to this act, or any other applicable law or rule.”. 288
+
+13 
+ 
+(d) Section 10(f) (D.C. Official Code § 44-509(f)) is amended as follows: 289 
+(1) Paragraph (1) is amended as follows: 290 
+(A) Strike the phrase “or any rules or regulations promulgated pursuant to this 291 
+act,” and insert the phrase “any rules promulgated pursuant to this act, or fails to meet any 292 
+federal standard that has been incorporated by reference under section 5 of this act,” in its place. 293 
+(B) Strike the phrase “offense. The total fine for a series of related offenses shall 294 
+not exceed $100,000.” and insert the phrase “offense.” in its place. 295 
+(2) A new paragraph (1A) is added to read as follows: 296 
+  “(1A) Any person who violates a provision of this act, or any rule promulgated 297 
+pursuant to this act, or fails to meet any federal standard that has been incorporated by reference 298 
+under section 5 of this act, that places a patient, resident, or client of a facility or agency at risk 299 
+of serious injury, serious harm, serious impairment, or death, shall be subject to a fine for each 300 
+violation not to exceed $10,000. For each violation, each day of violation shall constitute a 301 
+separate offense, and the penalties prescribed shall apply to each separate offense. Procedures for 302 
+adjudication of violations under this subsection shall be those established pursuant to  the 303 
+Department of Consumer and Regulatory Affairs Civil Infractions Act of 1985, effective October 304 
+5, 1985 (D.C. Law 6-42; D.C. Official Code § 2-1801.01 et seq.).” 305 
+Sec. 6. Section 47-2862 of the District of Columbia Official Code is amended by adding 306 
+a new subsection (e) to read as follows:  307 
+“(e) This section shall not apply to an applicant for the renewal of a license issued 308 
+pursuant to § 44-502).” 309 
+ Sec. 7. Fiscal impact statement. 310
+
+14 
+ 
+ The Council adopts the fiscal impact statement in the committee report as the fiscal 311 
+impact statement required by section 4a of the General Legislative Procedures Act of 1975, 312 
+approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).  313 
+ Sec. 8. Effective date. 314 
+This act shall take effect following approval by the Mayor (or in the event of veto by the 315 
+Mayor, action by the Council to override the veto), a 30-day period of Congressional review as 316 
+provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 317 
+24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of 318 
+Columbia Register.  319
+
+1350 Pennsylvania Avenue, N.W., Suite 409, Washington, D.C. 20004  
+Phone (202) 262-6402    Email: adele.el-khouri@dc.gov 
+ 
+ 
+ 
+GOVERNMENT OF THE DISTRICT OF COLUMBIA 
+OFFICE OF THE ATTORNEY GENERAL 
+ 
+ 
+BRIAN L. SCHWALB     PRIVILEGED AND CONFIDENTIAL  
+ATTORNEY GENERAL       ATTORNEY-CLIENT COMMUNICATION 
+ 
+ 
+ 
+LEGAL COUNSEL DIVISION 
+ 
+  
+MEMORANDUM 
+ 
+TO:   Tomás Talamante 
+  Director 
+  Office of Policy and Legislative Affairs 
+ 
+FROM:  Adele El-Khouri 
+Deputy Attorney General  
+Legal Counsel Division  
+  
+DATE:  April 7, 2026 
+  
+SUBJECT:   Legal Sufficiency Review of Draft Bill, the “Healthcare Facilities Amendment Act of 
+2026” (AE-26-216) 
+_____________________________________________________________________________________ 
+ 
+This is to Certify that the Office of the Attorney General has reviewed the 
+above-referenced legislation and found it to be legally sufficient. If you have any questions in this 
+regard, please do not hesitate to call me at (202) 262-6402. 
+ 
+ 
+ 
+_________________________________ 
+Adele El-Khouri
+
+Government of the District of Columbia 
+Office of the Chief Financial Officer 
+ 
+Glen Lee 
+Chief Financial Officer 
+ 
+ 
+ 
+ 
+ 
+1350 Pennsylvania Avenue, NW, Suite 203, Washington, DC 20004 (202)727-2476 
+www.cfo.dc.gov 
+MEMORANDUM 
+ 
+TO:    The Honorable Phil Mendelson 
+   Chairman, Council of the District of Columbia 
+ 
+FROM:    Glen Lee  
+   Chief Financial Officer 
+ 
+DATE:    June 11, 2026 
+  
+SUBJECT:  Fiscal Impact Statement – Healthcare Facilities Amendment Act of 2026 
+ 
+REFERENCE:  Draft Introduction as provided to the Office of Revenue Analysis on 
+May 6, 2026 
+ 
+  
+Conclusion 
+ 
+Funds are not sufficient in the proposed revised fiscal year 2026 budget and proposed fiscal year 
+2027 through fiscal year 2030 budget and financial plan to implement the bill. The Department of 
+Health (DC Health) requires $155,000 in fiscal year 2027 and $642,000 over the financial plan to 
+implement the bill. 
+ 
+Background 
+ 
+The bill makes several changes to the regulation and oversight of healthcare providers and facilities 
+in the District of Columbia. Specifically, the bill: 
+ 
+• Requires1 healthcare providers to report adverse events2 and cybersecurity incidents to DC 
+Health within 48 hours of their occurrence or discovery; 
+ 
+1 By amending Section 202 of the Medical Malpractice Amendment Act of 2006, effective March 14, 2007 (D.C. 
+Law 16-263; D.C. Official Code § 7-161 et seq.). 
+2 An adverse event is defined in the bill as a preventable event, occurrence, or situation occurring in or under 
+the purview of a healthcare provider that results in death or contributes to harm that includes physical, 
+emotional, or psychological harm that requires major intervention, or impairs the individual’s ability to 
+perform activities of daily living. The term shall include any other events established by the Mayor through 
+rulemaking.
+
+The Honorable Phil Mendelson 
+FIS: “Healthcare Facilities Amendment Act of 2026,” Draft Introduction as provided to the Office of Revenue 
+Analysis on May 6, 2026 
+Page 2 of 3 
+ 
+• Requires3 healthcare providers to submit a root cause analysis and corrective action plan to 
+DC Health within 45 days of an adverse event; 
+• Requires4 DC Health to maintain a centralized system to collect and analyze adverse event 
+data, enabling improved patient safety monitoring and public health responses; 
+• Requires5 healthcare providers to actively participate with recognized patient safety 
+organizations and submit annual proof of participation; 
+• Classifies6 adverse event reports and documents as confidential and protected from legal 
+discovery, unless court-ordered in a felony case or for regulatory agency use; 
+• Updates7 the healthcare facility licensure processes allows for periodic fee adjustments, and 
+imposes stricter penalties for non-compliance, including fines for violations that put patients 
+at risk; 
+• Allows8 new assisted living facilities to apply for provisional licenses; 
+• Updates9 staff training requirements for direct care workers in assisted living facilities 
+with broader District standards and update licensure and food safety compliance procedures; 
+• Clarifies10 what constitutes a change in control, ownership, or material change in healthcare 
+facility operations that triggers certificate of need requirements; 
+• Incorporates11 applicable federal requirements for participation and standards for health-
+insurance and medical-assistance programs as minimum standards for the operation of 
+health care facilities and agencies in the District; 
+• Enhances12 the District’s ability to levy fines in a manner commensurate with the severity of 
+an established violation by a facility or agency that presents an immediate danger to the life 
+and safety of patients, residents, or clients; and 
+• Exempts13 healthcare facilities and agencies from certificate of clean hands requirements 
+during license renewals to prevent abrupt closures that would jeopardize the health and 
+safety of vulnerable patients and residents. 
+ 
+ 
+Financial Plan Impact 
+ 
+Funds are not sufficient in the proposed revised fiscal year 2026 budget and proposed fiscal year 
+2027 through fiscal year 2030 budget and financial plan to implement the bill. DC Health requires 
+$155,000 in fiscal year 2027 and $642,000 over the financial plan to implement the bill. 
+ 
+ 
+3  By amending Section 202 of the Medical Malpractice Amendment Act of 2006. 
+4 Id. 
+5 Id. 
+6 Id. 
+7 Id. 
+8 By amending The Assisted Living Residence Regulatory Act of 2000, effective June 24, 2000 (D.C. Law 13-
+127; D.C. Official Code § 44-101.01 et seq.). 
+9 Id. 
+10 By amending The Health Services Planning Program Re-establishment Act of 1996, effective April 9, 1997 
+(D.C. Law 11-191; D.C. Official Code § 44-401 et seq.). 
+11 By amending The Health-Care and Community Residence Facility, Hospice and Home Care Licensure Act of 
+1983, effective February 24, 1984 (D.C. Law 5-48; D.C. Official Code § 44-501 et seq.). 
+12 Id. 
+13 By amending The Clean Hands Before Receiving a License or Permit Act of 1996, effective May 11, 1996 
+(D.C. Law 11-118; D.C. Official Code § 47-2861 et seq.).
+
+The Honorable Phil Mendelson 
+FIS: “Healthcare Facilities Amendment Act of 2026,” Draft Introduction as provided to the Office of Revenue 
+Analysis on May 6, 2026 
+Page 3 of 3 
+ 
+DC Health must hire one Nurse Specialist to conduct inspections that result from an increase in 
+adverse event reporting. DC Health requires additional investigative capacity to review adverse 
+event reports and assist with investigations. DC Health already maintains a centralized system to 
+catalog adverse event reports, so no additional resources are needed to procure one. The Nurse 
+Specialist salary and fringe benefit costs are $155,000 in fiscal year 2027 and $642,000 over the 
+financial plan. DC Health can implement the provisions in the bill that do not pertain to adverse event 
+reporting with existing resources.  
+ 
+Healthcare Facilities Amendment Act of 2026 
+Total Costs 
+  FY 2027 FY 2028 FY 2029 FY 2030 Total 
+Salary(a) $125,970 $128,489 $131,059 $133,680 $519,199 
+Fringe(b) $28,847 $30,116 $31,440 $32,822 $123,225 
+Total $154,817 $158,605 $162,499 $166,502 $642,423 
+ 
+Table Notes: 
+(a) Assumes one Grade 11, Step 10 Nurse Specialist and a salary growth rate of two percent.  
+(b) Assumes fringe rate of 22.9 percent and a fringe growth rate of 2.35 percent.

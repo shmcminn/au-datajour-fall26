@@ -1,0 +1,157 @@
+July 13, 2025 
+ 
+Statement of Introduction 
+Vehicular Terrorism Prevention Amendment Act of 2025 
+ 
+ Today, along with Councilmembers Allen, Lewis George, and Frumin, I am introducing the 
+“Vehicular Terrorism Prevention Amendment Act of 2025”, which will make special events, open 
+streets, pedestrian zones, and other planned temporary road closures in the District both safer and easier 
+to implement. 
+ The District of Columbia, more than almost any city in the world, hosts events major and minor 
+that either require or would benefit from the closure of roadways. Unfortunately, D.C.’s current practice 
+for street closures manages to simultaneously be the most expensive, the least clear, and the least safe. 
+ This legislation directs HSEMA to set clear safety and anti-terrorism standards for street closure 
+barriers, which will also ensure that special events and District agencies are covered by federal 
+Homeland Security liability protections. In addition to improving barrier safety, clearer street closure 
+procedures may help free up staff resources at MPD, DPW, and other public safety agencies to do what 
+they do best. The bill includes exemptions for certain types of roadways and events to ensure that our 
+public safety agencies can maintain flexibility and responsiveness. 
+ Currently, there is no clear guidance on the vehicle-stopping or crash rating standard for barriers 
+to close a street in the District of Columbia. The Mayor’s Special Events Task Group has published a 
+“Special Events Planning Guide”, which is largely silent on this matter, except to require that “all event 
+organizers completely barricade roadways with barriers capable of stopping an oncoming vehicle.” As to 
+the type of barrier, there is no further elaboration in the planning guide other than the following:  
+“[A]ppropriate public safety measures that would prevent any other vehicles from entering the 
+confines of the event area. Required measures may include, but are not limited to, the use of 
+barriers, appropriate blocking vehicles, or both.”
+
+“In rare instances, Type III water-filled traffic barriers may be appropriate.” 
+ The two most common means of closing a street for events in the District are “blocking vehicles” 
+– often DPW plow trucks or vehicles meant for other purposes – and concrete jersey barriers. Neither 
+was designed to protect against direct vehicle ramming incidents. Jersey barriers, for instance, were 
+designed for “shallow-angle” collisions on highway medians, not head-on collisions.  
+ One objective assessment of a barrier’s effectiveness is the ASTM International “Dynamic 
+Penetration Rating”, which measures the penetration distance of a threat vehicle of a given weight 
+moving at a given rate of speed through the barrier line. The District’s typical means of closing a road to 
+traffic are not properly rated by such a standard – putting residents and visitors regularly at risk.  
+ ASIS International, an organization of public and private sector security professionals, makes 
+this point very clear:  
+“The bottom line is that barriers without an ASTM crash rating cannot be relied upon to provide 
+adequate protection against a vehicle ramming incident. Non-rated barriers, like steel pipes 
+filled with concrete or large concrete planters, provide a false sense of protection, leading 
+customers, employees, visitors, and the general public to believe they are safe from such 
+incidents when, in reality, they remain at risk.” 
+ Notably, neither jersey barriers nor “blocking vehicles” are certified as a “Qualified Anti-
+Terrorism Technology” by the U.S. Department of Homeland Security – a designation established in the 
+SAFETY Act of 2002 for devices designed and crash-tested for direct vehicle impact. In addition to 
+being more effective at stopping a vehicle, barriers certified under the SAFETY Act provide “risk 
+mitigation through liability protections...as well as affordability of insurance and appropriate levels of 
+liability insurance.” 
+ The effects of these shortcomings are far-reaching. Our road closure difficulties are one reason 
+why D.C. continues to lag behind in implementation of open streets and other pedestrian activations 
+compared to peer cities. In a city full of bollards that give us comfort, yet shouldn’t, it’s critical that the 
+District adopt standards that will in fact keep residents and visitors safe from vehicular terrorism. 
+Improving our road closure procedures will support the District’s efforts to create thriving and attractive 
+public spaces.
+
+1 
+ 
+    
+ 
+ 
+A BILL 
+ 
+_________________________ 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA 
+_________________________ 
+ 
+To require the establishment of safety standards for roadway barriers used during temporary 1 
+street closures, and to ensure that barriers used for street closures are covered by the 2 
+litigation management protections of Qualified Anti-Terrorism Technology as certified 3 
+by the United States Department of Homeland Security. 4 
+ 5 
+ BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 6 
+act may be cited as the “Vehicular Terrorism Prevention Amendment Act of 2025”. 7 
+ Sec. 2. Title II of An Act To authorize the District of Columbia government to establish 8 
+an Office of Civil Defense, and for other purposes, effective March 14, 2007 (D.C. Law 16-262; 9 
+D.C. Official Code § 7-2231.01 et seq.) is amended by adding a new section 212 to read as 10 
+follows: 11 
+ “Sec. 212. Roadway barrier safety standards. 12 
+_____________________________ 
+Councilmember Charles Allen 
+_____________________________ 
+Councilmember Brianne K. Nadeau 
+_____________________________ 
+Councilmember Janeese Lewis George 
+_____________________________ 
+Councilmember Matthew Frumin
+
+2 
+ 
+ “(a) Except as provided in subsection (d), any special event, as defined in 24 DCMR § 13 
+720.1, or other temporary event permitted by the Mayor requiring the closure of a public 14 
+roadway to vehicle traffic shall be subject to the requirements of this section. 15 
+ “(b) The Homeland Security and Emergency Management Agency shall, in consultation 16 
+with the District Department of Transportation (“DDOT”), promulgate rules to establish roadway 17 
+barrier standards for closure of a public roadway to vehicle traffic.  18 
+  “(1) The standards shall: 19 
+   “(A) Specify distinct, appropriate barrier standards for each road typology 20 
+as defined in the DDOT Functional Classification Map; 21 
+   “(B) Include clear thresholds for the safety rating of standard barriers, as 22 
+measured by:  23 
+    “(i) The Dynamic Penetration Rating as measured by the ASTM 24 
+International “Standard Test Method for Crash Testing of Vehicle Security Barriers” (ASTM 25 
+F2656), or any ASTM International standard that supercedes it; or 26 
+    “(ii) Barricade types as prescribed by the current edition of the 27 
+Manual on Uniform Traffic Control Devices for Streets and Highways, Part 6, as approved by 28 
+the Federal Highway Administration; 29 
+   “(C) For roadways classified as a collector or arterial, prioritze the use of 30 
+barriers that have attained certification as a Qualified Anti-Terrorism Technology by the United 31 
+States Department of Homeland Security, pursuant to the Support Anti-terrorism by Fostering 32 
+Effective Technologies Act of 2002, approved November 25, 2002 (116 Stat. 2238, 6 USC § 441 33 
+et seq.), as well as certification in favor of the government contractor defense, as defined in 34 
+section 863(d) of that Act; 35
+
+3 
+ 
+   “(D) Reduce the need for District employees to be deployed to special 36 
+events exclusively or primarily to effectuate closure of a roadway to vehicle traffic, as opposed 37 
+to performing other public safety functions; 38 
+   “(E) Incorporate the following considerations: 39 
+    “(i) Relevant crash test data and other metrics on the mitigation of 40 
+vehicle ramming attacks; 41 
+    “(ii) The safety impacts of using motor vehicles as roadway 42 
+barriers; 43 
+    “(iii) Best practices in roadway closure materials and procedures, 44 
+based on a review of peer jurisdictions. 45 
+  “(2) The proposed rules shall be submitted to the Council for a 45-day period of 46 
+review, excluding Saturdays, Sundays, legal holidays, and days of Council recess. If the Council 47 
+does not approve or disapprove the proposed rules, in whole or in part, by resolution within this 48 
+45-day review period, the proposed rules shall be deemed disapproved. 49 
+ “(c) The Mayor shall not deny a permit for the temporary closure of a public roadway to 50 
+vehicle traffic based solely on the grounds of proposed roadway closure barriers, provided that 51 
+the proposed barriers meet standards established pursuant to subsection (b). 52 
+ “(d) Notwithstanding subsections (a) and (c), the following shall be exempt from the 53 
+requirements of this section:  54 
+  “(1) Public right-of-way occupancy permits, as defined in 24 DCMR § 3400 et 55 
+seq., or any other public roadway closures necessary for construction, excavation, or public 56 
+space management; 57
+
+4 
+ 
+  “(2) Closure of a public roadway designated as a freeway, expressway, Interstate 58 
+Highway, or any bridges; 59 
+  “(3) First Amendment activities that do not require the Mayor’s approval as a 60 
+special event; and 61 
+  “(4) A National Special Security Event as defined in 18 U.S.C. § 3056 or other 62 
+event involving deployment of Federal law enforcement in coordination with the District.”. 63 
+ Sec. 3. Fiscal impact statement. 64 
+ The Council adopts the fiscal impact statement of the Budget Director as the fiscal impact 65 
+statement required by section 4a of the General Legislative Procedures Act of 1975, approved 66 
+October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).  67 
+ Sec. 4.  Effective date. 68 
+This act shall take effect following approval by the Mayor (or in the event of veto by the Mayor, 69 
+action by the Council to override the veto), and shall remain in effect for no longer than 90 days, 70 
+as provided for emergency acts of the Council of the District of Columbia in section 412(a) of 71 
+the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788; D.C. 72 
+Official Code § 1-204.12(a)). 73

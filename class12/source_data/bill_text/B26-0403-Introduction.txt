@@ -1,0 +1,411 @@
+1 
+ 
+              1 
+________________________________                            ________________________________ 2 
+      Councilmember Anita Bonds             Councilmember Zachary Parker 3 
+ 4 
+          5 
+ 6 
+________________________________           ________________________________ 7 
+ Councilmember Janeese Lewis-George             Councilmember Robert C. White, Jr.    8 
+          9 
+ 10 
+                                        ________________________________                11 
+               Councilmember Brooke Pinto 12 
+        13 
+ 14 
+A BILL 15 
+ 16 
+_________________________ 17 
+ 18 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA 19 
+ 20 
+_________________________ 21 
+ 22 
+ 23 
+To amend the Educational Services for Detained and Committed Youth Act of 2006 to ensure 24 
+educational continuity and smooth transitions to and from placement for Students in the 25 
+Care of the District; To amend The State Education Office Establishment Act of 2000 to 26 
+require the Office of the State Superintendent for Education to create a uniform course 27 
+catalogue, to require each local education agency implement flexible graduation waivers, 28 
+conduct a uniform transcript evaluation procedure, and award academic credit for classes 29 
+taken by students in the Care of the District; and to amend The Students in the Care of 30 
+D.C. Coordinating Committee Act of 2018 to require the Students in the Care of D.C. 31 
+Coordinating Committee regularly review and report on the success and impact of the 32 
+Education Continuity for Students in the Care of D.C. Amendment Act of 2025.  33 
+ 34 
+BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 35 
+act may be cited as the “Education Continuity for Students in the Care of D.C. Amendment Act 36 
+of 2025.” 37
+
+2 
+ 
+Sec. 2. The Educational Services for Detained and Committed Youth Act of 2006, 38 
+effective March 2, 2007 (D.C. Law 16-192; D.C. Official Code § 38-3301 et seq.), is amended as 39 
+follows: 40 
+(a) A new section 4031(a) is added to read as follows: 41 
+“Sec. 4031(a). Definitions. 42 
+“For the purpose of this subtitle, the term: 43 
+“(1) “Appropriate educational placement” means a learning environment that 44 
+supports the educational needs of a general education student or student with special needs to 45 
+enable them to make academic progress towards graduation and implement all aspects of a 46 
+student’s IEP, if applicable. 47 
+“(2) “Awaiting placement” means the status of a committed youth under the 48 
+supervision of DYRS who is waiting to be transferred to the placement DYRS decides is 49 
+appropriate. 50 
+“(3) “Certificate of Approval” or “COA” shall have the same meaning as 51 
+provided in section 101 of the Placement of Students with Disabilities in nonpublic Schools 52 
+Amendment Act of 2006, effective March 14, 2007 (D.C. Law 16-269; D.C. Official Code § 38-53 
+2561.01(1A)). 54 
+“(4) “CFSA” means the Child and Family Services Agency established by 55 
+section 301a of the Prevention of Child Abuse and Neglect Act of 1977, effective April 4, 2001 56 
+(D.C. Law 13-1277; D.C. Official Code § 4-1303.01a). 57 
+“(5) “Change in placement” means a change in the location where a young 58 
+person committed to the Department of Youth Rehabilitation Services resides and receives the 59 
+recommended rehabilitation services. 60
+
+3 
+ 
+“(6) “DCPS” means the District of Columbia Public Schools established by 61 
+section 102 of the Public Education Reform Amendment Act of 2007, effective June 12, 2007 62 
+(D.C. Law 17-9; D.C. Official Code § 38-171) and, for the purposes of this Act, the local 63 
+education agency in the District of Columbia with responsibility for serving District of 64 
+Columbia youth committed to DYRS who are placed in RTCs, PRTFs, and out-of-state (OOS) 65 
+group homes.  66 
+“(7) “DOC” means the Department of Corrections. 67 
+“(8) “DYRS” means the Department of Youth Rehabilitation Services. 68 
+“(9) “FERPA” means the Family Educational Rights & Privacy Act of 1974, 69 
+approved August 21, 1974 (88 Stat. 571; 20 U.S.C. § 1232g et seq.); 70 
+“(10) “FAPE” means free appropriate public education or special education and 71 
+related services that: 72 
+(A) Have been provided at public expense, under public supervision and 73 
+direction, and without charge; 74 
+“(B) Meet the standards of the State Education Agency; 75 
+“(C) Include an appropriate preschool, elementary school, or secondary 76 
+school education; and 77 
+“(D) Are provided in conformity with the individualized education 78 
+program. 79 
+“(11) “Individualized education program” or “IEP” means a written plan that 80 
+specifies the special education programs and services to be provided to meet the unique 81 
+educational needs of a student with a disability, as required under section 614(d) of the IDEA [20 82 
+U.S.C. § 1414(d)]. 83
+
+4 
+ 
+“(12) “Section 504 Plan" means a written plan that specifies the accommodations 84 
+and services provided to a student pursuant to Section 504 of the Rehabilitation Act of 1973, 85 
+approved September 26, 1973 (87 Stat. 394; 29 U.S.C. § 794), and its implementing regulations.  86 
+“(13) “Local education agency” or “LEA” means an educational institution at the 87 
+local level that exists primarily to operate a publicly funded school or schools in the District of 88 
+Columbia, including the District of Columbia Public Schools and a District of Columbia public 89 
+charter school. For the purposes of this chapter, an LEA also includes a state public agency 90 
+responsible for providing FAPE.” 91 
+“(14) “OSSE” means the Office of the State Superintendent of Education 92 
+established by section 2 of the State Education Office Establishment Act of 2000 (D.C. Law 13-93 
+176; D.C. Official Code § 38-2601). 94 
+“(15) “Public Charter School Board” or “PCSB” means the Public Charter School 95 
+Board as established by section 2214 of the District of Columbia School Reform Act of 1995, 96 
+approved April 26, 1996 (110 Stat. 1321; D.C. Official Code § 28-1802.14). 97 
+“(16) “State education agency” or “SEA” means the Office of the State 98 
+Superintendent of Education, or any successor agency that has primary responsibility for the 99 
+state-level supervisory functions for special education that are typically handled by a state 100 
+department of education or public instruction, a state board of education, a state education 101 
+commission, or a state education authority. 102 
+“(17) “Students in the care of D.C.” or “student in the care of D.C.” shall have the 103 
+same meaning as provided in section 2(5) of the Students in the Care of D.C. Coordinating 104 
+Committee Act of 2018, effective April 11, 2019 (D.C. Law 22-303; D.C. Official Code § 2-105 
+1599.01(5)). 106
+
+5 
+ 
+“(18) “Students in the Care of D.C. Coordinating Committee” or “SCDC” means 107 
+the Students in the Care of D.C. Coordinating Committee established by section 3 of the 108 
+Students in the Care of D.C. Coordinating Committee Act of 2018, effective April 11, 2019 109 
+(D.C. Law 22-303; D.C. Official Code § 2-1599.02). 110 
+“(19) “Transfer grade report” means a report created by sending LEA that 111 
+includes progress in current classes, current grades and course standards.”.  112 
+(b) Section 4032 (D.C. Official Code § 38-3301) is amended to read as follows: 113 
+“Sec. 4032. Timely enrollment and transition planning. 114 
+“(a) A student returning from or transitioning into agency placements shall be enrolled in 115 
+an appropriate educational placement within 2 days after release or 2 days after transfer. In 116 
+instances where the LEA is unable to secure an appropriate placement for the student within the 117 
+timeframe set forth in this subsection despite making their best efforts, the receiving LEA shall 118 
+provide the student with interim educational services that comport with the student's IEP, if 119 
+applicable, and allows the student to continue to make academic progress towards graduation, 120 
+until such time as the student is transitioned to an appropriate educational placement. 121 
+“(b) A student who is awaiting placement must be enrolled in and attending an accredited 122 
+school. 123 
+“(c) The transition team for a student in the Care of D.C. shall meet to establish or update 124 
+a transition plan at least 30 days before the student’s change in placement or at least 7 days 125 
+before a Court appearance. If a student is in a placement for less than 30 days, the transition plan 126 
+shall be created within 7 days before a change in placement.  127 
+“(d) The student’s transition team shall include: 128
+
+6 
+ 
+“(1) The student if the transition plan being created or updated will be in effect at 129 
+any time after the student turns 14 years old; 130 
+“(2) A representative of the student’s current educational placement; 131 
+“(3) A representative of the student’s current LEA; 132 
+“(4) A representative of the student’s anticipated LEA, where known; 133 
+“(5) A representative of the student’s anticipated educational placement where the 134 
+placement is distinct from the LEA, where known; 135 
+“(6) The student’s parent or guardian or other person with educational decision-136 
+making rights for the student; and 137 
+“(7) The student’s education attorney, defense attorney, social worker, and 138 
+guardian ad litem, as applicable. 139 
+“(e) The student’s transition plan shall: 140 
+“(1) Include a clear statement of the student’s appropriate educational placement;  141 
+“(2) Include the student’s enrollment date for the current placement, past and 142 
+present academic transcripts and most recent report card, course requirements of previous and 143 
+prospective anticipated educational placement, documentation of any other supportive activities 144 
+or services, and any diagnostic, summative, or college assessments as applicable, and graduation 145 
+requirements; 146 
+“(3) Include, for students with disabilities, a discussion of appropriate changes to 147 
+the IEP or 504 Plan, include a copy of the student’s current IEP or 504 Plan, including any prior 148 
+written notice and the location of service, if applicable;  149
+
+7 
+ 
+“(4) List the names and contact information of the persons responsible for 150 
+developing the student’s transition plan at the student’s current and anticipated educational 151 
+placement; 152 
+“(5) List the names and contact information of the persons with responsibility and 153 
+authority for prompt enrollment; and 154 
+“(6) Include, if the student is in need of a placement at a school that requires a 155 
+student interview or school visit prior to acceptance, a description of the efforts to complete the 156 
+interview process virtually or provide other necessary accommodations.  157 
+“(f) Within 7 days after the transition meeting, a copy of the student’s transition plan 158 
+shall be provided to the student and all members of the student’s transition team. 159 
+(c) New sections 4033 through 4035 are added to read as follows: 160 
+“Sec. 4033. School points-of-contact for students in the care of D.C.  161 
+“(a) Each LEA shall designate at least one employee to serve as the point-of-contact for 162 
+students in the care of D.C. attending the LEA who shall carry out the duties described in 163 
+subsection (c) of this section. For students in the care of CFSA, the LEA may designate as point-164 
+of-contact the same employee who is designated as the foster care point-of-contact under as 165 
+established by section 2214 of the District of Columbia School Reform Act of 1995, approved 166 
+April 26, 1996 (110 Stat. 1321; D.C. Official Code § 28-1802.14).   167 
+“(b) Up-to-date name and contact information for the point-of-contact shall be published 168 
+on the LEA’s website. 169 
+“(c) The point-of-contact described in subsection (a) of this section shall be responsible 170 
+for: 171
+
+8 
+ 
+“(1) Ensuring that the student is immediately enrolled in the student’s new 172 
+placement even in the absence of records from the student’s previous placement that are 173 
+normally required for enrollment; 174 
+“(2) Ensuring that a student’s new educational placement is capable of providing 175 
+the student with all special education, related services, and accommodations with a direct path 176 
+towards graduation; 177 
+“(3) Communicating with the student’s last school attended to obtain relevant and 178 
+up to date academic and other records, including any necessary course descriptions, within 5 179 
+days after the student's enrollment in the student’s new educational placement; 180 
+“(4) Performing a transcript audit, calculating all partial and full credits towards 181 
+current graduation requirements, including transfer of credits earned by the student at any 182 
+previous school attended, within 7 days after receiving a transcript; 183 
+“(5) Providing a copy of the transcript evaluation to the student’s parent or legal 184 
+guardian, adult student, guardian ad litem, and education attorney, as applicable, within 1 day 185 
+after the completion of the evaluation; and 186 
+“(6) Working collaboratively with the prior placement to ensure that the student is 187 
+scheduled in courses that will enable the student to make academic progress towards a high 188 
+school diploma or IEP Certificate of Completion, as applicable. 189 
+“(g) For students transferring out of an LEA, the point-of-contact shall be responsible for 190 
+providing all student records to the new LEA within 7 days after the transfer. 191 
+“(h) OSSE shall develop training and guidance and make the materials available to 192 
+teachers, educational and agency staff with knowledge and skills necessary to respond to the 193 
+specific needs of students in the Care of D.C., where applicable” 194
+
+9 
+ 
+“Sec. 4034. Facilitating records transmission among agencies. 195 
+“OSSE shall: 196 
+“(a) Grant DYRS, DOC, and CFSA access to the following information for a student in 197 
+the care of D.C. for the purpose of enrolling a student in a new school: 198 
+“(1) The student’s name; 199 
+ “(2) Date of birth; 200 
+ “(3) Race and ethnicity; 201 
+ “(4) Unique student identifiers; 202 
+ “(5) Information on student’s previously attended LEA; 203 
+ “(6) Previous home address; 204 
+ “(7) Assessment data; 205 
+ “(8) Enrollment data, both current and historical; 206 
+ “(9) Last grade completed;  207 
+ “(10) Advanced placement data;  208 
+ “(11) College Board Test data;  209 
+ “(12) ACCESS assessment results for students who have limited English 210 
+proficiency; 211 
+ “(13) Special education records, including but not limited to assessment data, and 212 
+the student’s IEP (current and historical), IEP meeting notes or minutes, eligibility 213 
+determinations, related service records/logs, evaluations, as applicable; and 214 
+  “(14) Section 504 records, including but not limited to assessment data, the 215 
+student’s 504 plan (current and historical), 504 plan meeting notes or minutes, eligibility 216 
+determinations, related service records/logs, evaluations, as applicable; 217
+
+10 
+ 
+  “(15) Transcript, course enrollment prior to transfer, progress reports (or 218 
+equivalent term grade report). 219 
+“(b) Provide DYRS, DOC and CFSA with access to the District’s special education data 220 
+system in order to view the records of the students in their custody in accordance with District 221 
+and federal law. 222 
+“(c) Where DYRS or DOC is responsible for FAPE, provide the respective agency with 223 
+education and special education database access equivalent to access given to other LEAs in the 224 
+District. 225 
+“(d) Allow for dual enrollment of students in the care of D.C. in both the sending and 226 
+receiving school such that each placement can access information necessary to award credits in a 227 
+timely manner. 228 
+“Sec. 4035. Identifying an appropriate educational placement and ensuring enrollment in 229 
+appropriate coursework. 230 
+“(a) Upon a student’s enrollment in an LEA, a student shall be assigned coursework that 231 
+the student needs to complete to satisfy unfulfilled graduation requirements.  232 
+“(b) A student in the care of D.C. shall be provided access to any courses or programs 233 
+needed to fulfil the student’s graduation requirements, including community service 234 
+opportunities. 235 
+“(c) For those students in the care of D.C. who are entering from an educational 236 
+placement outside the District, OSSE shall pursue reciprocity agreements for the purposes of 237 
+securing access to necessary student records to complete the transfer.  238 
+Sec. 3. The State Education Office Establishment Act of 2000 (D.C. Law 13-176; D.C. 239 
+Official Code § 38-2601 et seq.) is amended by adding new sections 3b-3f to read as follows: 240
+
+11 
+ 
+“Sec. 3b. Creation of a Uniform Transcript Evaluation Procedure. 241 
+“(a) Beginning in school year 2026-2027, OSSE shall develop, publish, and regularly 242 
+update a general course catalogue and course equivalency table that groups course credits into 243 
+categories. LEAs shall determine whether courses completed outside of the District fulfill their 244 
+individual graduation requirements. The course catalogue shall include: 245 
+“(1) The name of every credit-bearing course approved to be offered to students at 246 
+any secondary school within the District of Columbia, regardless of whether the course is 247 
+presently offered;  248 
+“(2) A brief description of each course named; 249 
+“(3) A list of course requirements and pre-requisites; and 250 
+“(4) An indication of which promotion or graduation requirement(s) that each 251 
+course fulfills.  252 
+“(b) Beginning in school year 2026-2027, each LEA shall adopt and implement a uniform 253 
+procedure for evaluating the transcripts of students transferring into the LEA who have 254 
+completed coursework elsewhere. The evaluation procedure shall: 255 
+“(1) Be transparent and publicly available a central website managed by OSSE; 256 
+“(2) Be based upon the OSSE’s published course catalogue; 257 
+“(3) Ensure credits and partial credits completed outside the District are honored 258 
+and accepted by the prospective LEA; 259 
+“(4) Establish methods by which the LEA shall determine equivalent credits 260 
+within the LEA’s course catalogue for coursework completed elsewhere; 261 
+“(5) Establish guidelines by which an evaluator may grant quarter or semester 262 
+credits for coursework completed prior to a student’s transfer; 263
+
+12 
+ 
+“(6) Ensure proper course and program enrollment for students transferring into 264 
+the LEA. 265 
+“(c) The LEA shall provide a copy of the transcript evaluation to the placing agency, the 266 
+student, the student’s parent or legal guardian, and the guardian ad litem, as applicable, within 5 267 
+days after enrollment into a Residential Treatment Center, Psychiatric Residential Treatment 268 
+Facility, or any other out-of-state placement. 269 
+“(d) Each LEA shall develop and implement a process by which a student, the student’s 270 
+parent or legal guardian, or the student’s attorney may appeal a transcript evaluation.” 271 
+“Sec. 3c. Awarding of credits. 272 
+“(a) An LEA shall grant credit for academic coursework necessary for high school 273 
+graduation that were completed by a student in the care of D.C. 274 
+“(b) Students shall be placed in facilities with accredited schools where they can 275 
+complete the courses necessary for graduation with a high school diploma, certificate track or 276 
+GED, depending on the individual student’s completion plan. 277 
+“(c) An LEA shall provide official copies of a student’s transcript, report card and 278 
+transfer grade report within 7 days after withdrawal. 279 
+“(d) For students in the care of D.C. unable to complete an academic course and receive 280 
+full credit due to the student’s withdrawal or transfer from the school or LEA, a receiving school 281 
+or LEA shall accept partial credits that are stackable such that they accrue until complete credit 282 
+for a course is achieved; moreover, the receiving school or LEA shall provide an opportunity for 283 
+the completion of the course. 284 
+“(e) An LEA shall: 285
+
+13 
+ 
+“(1) Accept partial credits and/or coursework completed granted by the student’s 286 
+previous school or LEA; 287 
+“(2) Apply any partial credits to the closest equivalent course and to any 288 
+graduation requirements fulfilled by that equivalent course as if the student has completed the 289 
+courses and earn a final grade and credit for courses in which they are enrolled after the start of a 290 
+grading period without term grades issued by their previous school or LEA. 291 
+“(3) If the student enrolls in a school or LEA without any credits from the sending 292 
+school or LEA, the receiving school or LEA shall afford the student the opportunity to complete 293 
+and earn a final grade and credit for courses in which they are enrolled after the start of a grading 294 
+period, which they began at their sending school or LEA, or allow for the student to complete a 295 
+diagnostic assessment to measure their content mastery to award credit. 296 
+“Sec. 3d. Flexible graduation options and course waivers. 297 
+“(a) Within 5 days after any change to a student’s schedule of courses, the student's 298 
+sending LEA shall approve the student’s new courses and, for high school students, identify 299 
+which outstanding graduation requirements each course will fulfill upon the student’s return. 300 
+“(b) An LEA responsible for a student placed in an out-of-state placement shall offer 301 
+options to complete D.C. graduation requirements not offered by the out-of-state placement.   302 
+“(c) OSSE shall establish a system by which LEAs, upon approval by OSSE, may waive 303 
+graduation requirements in situations where a student in the care of D.C. was placed outside of 304 
+D.C. and was thus unable to take a substantially similar course that would fulfill the relevant 305 
+requirement but instead satisfactorily completed a different course that would not otherwise 306 
+contribute to that student's D.C. graduation requirements.   307
+
+14 
+ 
+“(d) “OSSE shall reduce the community service requirement by the proportion of time a 308 
+student has been placed out-of-state between the commencement of high school and their 309 
+expected graduation date.”  310 
+“(e) OSSE shall establish a system by which LEAs may waive community service 311 
+requirements in situations where a student in the care of D.C. was not provided access to such 312 
+opportunities. 313 
+“(f) Should a waiver be denied by the LEA, the LEA shall provide, in writing, a 314 
+reasonable justification for the denial of the waiver within 7 days after the request for a waiver. 315 
+The LEA shall indicate an available alternative means of acquiring the graduation requirements 316 
+such that the student may graduate on time. 317 
+“Sec. 3e. Monitoring. 318 
+“(a) OSSE shall conduct desktop and on-site monitoring of educational programs 319 
+including local and out-of-state placements inclusive of COA and non-COA facilities where 320 
+students in the care of D.C. are placed a minimum of 2 times per school year for desktop and on-321 
+site monitoring.  322 
+“(b) If the results of desktop and on-site monitoring require corrective actions be taken, 323 
+OSSE shall ensure the placement takes the steps outlined in the corrective action plan.  324 
+“(c) Where a placement fails to sufficiently comply with OSSE’s corrective action plan, 325 
+OSSE shall remove any students in the care of D.C. from the placement and prevent future 326 
+placements until such time as OSSE is satisfied with the placement’s performance of the 327 
+corrective action plan. 328 
+“(d) OSSE shall post the required corrective actions on their website within 30 days after 329 
+the determination that a corrective action is required.   330
+
+15 
+ 
+“(e) The results of all monitoring activities and all corrective action plans in a given 331 
+school year shall be made publicly available annually on OSSE’s website in the same manner in 332 
+which OSSE publishes other data and reports.”.  333 
+“Sec. 3f.  Rulemaking authority.  334 
+“No later than 120 days after the applicability date of this act, OSSE shall promulgate 335 
+rules to implement the provisions of this act.”. 336 
+Sec. 4. Section 7 of The Students in the Care of D.C. Coordinating Committee Act of 337 
+2018, effective April 11, 2019 (D.C. Official Code 2-1599.06), is amended as follows: 338 
+(a) Sub-subsection (c)(1) is amended to read as follows:  339 
+“(1) The Students in the Care of D.C. Coordinating Committee shall report: 340 
+“(A) Within 24 months following the applicability date of this act, and on an 341 
+annual basis thereafter, on the status and progress of each member agency on fulfilling the goal 342 
+in subsection (a) of this section and the strategic plan referenced in subsection (d) of this section; 343 
+and  344 
+“(B)Within 24 months following the applicability date of the Education 345 
+Continuity for Students in the Care of D.C. Amendment Act of 2025, and annually thereafter, on 346 
+the implementation and impact of the Education Continuity for Students in the Care of D.C. 347 
+Amendment Act of 2025. The report shall include the results of a random case file review at least 348 
+once every school year. The Students in the Care of D.C. Coordinating Committee shall 349 
+determine the process for student monitoring and the selection of case files for randomized 350 
+review.   351 
+(b) Sub-subsection (c)(2) is amended to read as follows: 352
+
+16 
+ 
+“(2) The Coordinating Committee shall make publicly available and transmit the reports 353 
+in subsection (c)(1) of this section to the Mayor and the Council.”. 354 
+Sec. 5.  Fiscal impact statement. 355 
+The Council adopts the fiscal impact statement in the committee report as the fiscal 356 
+impact statement required by section 4a of the General Legislative Procedures Act of 1975, 357 
+approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a). 358 
+Sec. 6.  Effective date. 359 
+This act shall take effect following approval by the Mayor (or in the event of veto by the 360 
+Mayor, action by the Council to override the veto), a 30-day period of congressional review as 361 
+provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 362 
+24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of 363 
+Columbia Register. 364

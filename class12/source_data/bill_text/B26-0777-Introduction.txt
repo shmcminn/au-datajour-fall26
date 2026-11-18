@@ -1,0 +1,132 @@
+Statement of Introduction   
+Revenue Stabilization and Land Value Assessment Amendment Act of 2026 
+ 
+July 14, 2026  
+ 
+ 
+ This legislation advances two structural changes to D.C.’s property tax system that 
+would improve the long-term fiscal health of the District without changing rates or 
+increasing taxes. 
+ First, the bill changes the District’s property tax billing and payment cycle from 
+twice a year to quarterly. Chief Financial Officer Glen Lee has stressed to the Mayor and 
+Council that the misalignment between when the District receives revenue and when 
+major expenses must be paid constitutes a “cash flow” or liquidity imbalance. The CFO has 
+cited these issues as part of his insistence that a significant amount of the District’s 
+revenue be sequestered in the Fiscal Stabilization Reserve Account.  
+ While I agree with Chairman Mendelson and the Committee of the Whole’s 
+assessment that the CFO overstepped the Council’s appropriations authority during the 
+FY 2027 budget process, these long-term structural imbalances are something for Council 
+to take seriously.1 
+ One of the most significant improvements we could make for more consistent annual 
+cash flow would be to smooth out payments of property taxes. OCFO has indicated that 
+they are internally looking into what systems would need to be upgraded to allow for this 
+change; in the meantime, Council should consider enabling legislation, to allow for debate 
+and public discussion. 
+ The bill’s second set of provisions would direct future updates the District’s property 
+tax assessment methodology to ensure accuracy and consistency in land values. While this 
+would not impact tax rates, it would enable future consideration of a land value tax – where 
+property taxes are based only on the value of underlying land – or a “split rate” system, 
+ 1 “Report and Recommendations of the Committee of the Whole on the Fiscal Year 2027 Budget and Corresponding 
+Budget Support Act”, May 22, 2026. Pages 15-16. Viewable at: 
+https://static1.squarespace.com/static/5bbd09f3d74562c7f0e4bb10/t/6a0f7519b50c144eecf1fa97/17793979156
+82/COW+FY27+Committee+Recommendations.pdf
+
+where land and improvements (buildings, other structures) are taxed at different rates.2 
+This aligns with proceedings of the 1997, 2014, and 2024 Tax Revision Commissions,3 4 as 
+well as discussions that took place during the DMV Moves Task Force, focused on 
+identifying stable sources of regional transit funding.5  
+ A land-value or split-rate system would improve tax equity and affordability6 across 
+the District, and – because new construction would not be immediately penalized with a 
+higher tax burden – would incentivize growth and improvement to the District’s housing 
+stock, and help to stabilize downtown and commercial real estate recovery.7 8 Both 
+Maryland and Virginia have authorized a local land value tax at the state level; the District 
+should follow suit.  
+ As with Council’s recent directive to OCFO to pursue a feasibility assessment of a 
+Business Activity Tax,9 it is long past time to lay the groundwork for smart and sustainable 
+revenue proposals that have been recommended by experts, task forces, and commissions 
+time and again over several decades. 
+ 
+ 
+This is discussed in the 1997 Tax Revision Commission Report (citation below):  
+“Under current District tax policy, land and structures are taxed at the same rate and thus it would make 
+little sense for the District to put a great deal of effort into developing accurate measures of land values; for 
+all practical purposes it makes no difference if we think of a $100,000 property as $25,000 of land and 
+$75,000 of structures or $75,000 of land and $25,000 of structures. If the District did adopt a graded tax, it 
+would need to determine land values much more carefully and it is quite possible that, as a consequence, 
+our view of the distribution of the burden of the tax could change significantly. Nonetheless, we proceed as 
+though the valuations of land and structures are accurate.” 
+ 
+3 “Taxing Simply Taxing Fairly: District of Columbia Tax Revision Commission Full Report. 1997. Available at: 
+https://cfo.dc.gov/sites/default/files/dc/sites/ocfo/publication/attachments/ocfo_chptg_schwab.pdf  
+4 While the 2024 TRC did not release a final set of recommendations, draft recommendations included a policy that 
+the District “move to [a] system of split-rate ‘land value’ taxation”  
+5 “Recycling Transit-Created Land Values: A Proposal for Equity, Affordability, and Sustainability”, Nick. B. Allen, 
+February 2025. Viewable at: 
+https://static1.squarespace.com/static/5e2b1d985b55a47841a3cd48/t/67a3c43f40031d2ed14c6dba/1738785861
+354/LVT+Report+%281%29.pdf  
+6 Ibid. 
+7  “Meeting the Washington Region’s Future Housing Needs” Urban Institute. September 2019. Available at: 
+https://www.urban.org/sites/default/files/publication/100946/meeting_the_washington_regions_future_housing_n
+eeds_1.pdf 
+8 “Our property tax system rewards neglect and punishes investment in struggling neighborhoods”. Daniel Herriges. 
+March 11, 2019. Available at: https://ggwash.org/view/71249/property-tax-rewards-neglect-and-punishes-
+investment-in-struggling-neighborhoods  
+9 Bill 26-0661, the Fiscal Year 2027 Budget Support Act of 2026. Title VII, Subtitle Y (Business Activity Tax Information 
+and Process Report Act of 2026).
+
+1 
+  _____________________________ 
+  Councilmember Brianne K. Nadeau 
+ 
+ 
+ 
+ 
+A BILL 
+ 
+_________________________ 
+ 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA 
+ 
+_________________________ 
+ 
+ 
+To amend Title 47 of the District of Columbia Official Code to establish real property tax 1 
+payments on a quarterly basis, and to set forth criteria for the assessment of the market 2 
+value of real property and the independent valuation of land and improvements.  3 
+ 4 
+ BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 5 
+act may be cited as the “Revenue Stabilization and Land Value Assessment Amendment Act of 6 
+2026”. 7 
+ Sec. 2. Subchapter II of Chapter 8 of Title 47 of the District of Columbia Official Code is 8 
+amended as follows: 9 
+ (a) Section 47-811 is amended by adding a new subsection (b-1) to read as follows: 10 
+  “(b-1)(1) For the tax year beginning July 1, 2028, and each tax year thereafter, 11 
+real property taxes shall be due and payable quarterly in four equal installments, except as 12 
+otherwise provided in a payment plan entered into pursuant to § 47-811.05.”. 13 
+ (b) Section 47-820(a)(3) is amended as follows: 14 
+  (1) The existing test is designated sub-paragraph (A). 15 
+  (2) A new sub-paragraph (B) is added to read as follows: 16 
+   “(B) For assessments and revaluations in the tax year beginning July 1, 17
+
+2 
+2028, and each tax year thereafter, the land component of an assessment shall reflect the 18 
+estimated market value of the land as if vacant and available for its highest and best use and shall 19 
+not vary between similarly situated and zoned parcels based on the presence, absence, or value of 20 
+improvements thereon.”. 21 
+ (c) Section 477-823(c) is amended to read as follows: 22 
+ “(c) The Mayor shall undertake, publish, and otherwise publicize the results of 23 
+assessment-sales ratio studies for different types of real property for the entire District and for 24 
+different types of real property within each of the districts utilized in making assessments. Such 25 
+ratio studies shall include a separate land value component tested against the same accuracy 26 
+standards as the total assessment. If, for a given year, adequate sales data are lacking for 27 
+particular studies, the Mayor shall so indicate.”. 28 
+ Sec. 3. Fiscal impact statement. 29 
+ The Council adopts the fiscal impact statement in the committee report as the fiscal 30 
+impact statement required by section 4a of the General Legislative Procedures Act of 1975, 31 
+approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a). 32 
+ Sec. 4. Effective date. 33 
+ This act shall take effect after approval by the Mayor (or in the event of veto by the 34 
+Mayor, action by the Council to override the veto), a 30-day period of congressional review as 35 
+provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 36 
+24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of 37 
+Columbia Register. 38

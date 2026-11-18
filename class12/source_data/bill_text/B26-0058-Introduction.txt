@@ -1,0 +1,767 @@
+Statement of Introduction  
+Recycling Refund and Litter Reduction Amendment Act of 2025 
+January 15, 2025 
+ 
+Nyasha Howard, Secretary  
+Council of the District of Columbia  
+1350 Pennsylvania Avenue, N.W.  
+Washington, DC 20004  
+ 
+Dear Secretary Howard,  
+The District of Columbia has a significant litter issue. Of particular concern are beverage 
+containers, which end up on the ground and in our waterways by the ton. Plastic bottles alone 
+account for 60 percent of the weight of all trash retrieved from the Anacostia River. Many of 
+these containers end up going to landfill rather than getting recycled. 
+However, even when bottles and cans make it into the recycling stream, they are often 
+contaminated, as a result of the District relying on a single stream recycling system. When that 
+occurs, these containers are ultimately rejected by recycling facilities and end up at an 
+incinerator or landfill, where they contribute to toxic greenhouse gases. 
+Today, I am introducing the “Recycling Refund and Litter Reduction Amendment Act of 2025”, 
+along with Council Chairman Phil Mendelson and Councilmembers Charles Allen, Brooke 
+Pinto, Matthew Frumin, Janeese Lewis George, Anita Bonds, Christina Henderson, Robert C. 
+White, Jr., Zachary Parker, and Wendell Felder. 
+This bill establishes a beverage container deposit program in the District, whereby consumers 
+pay a ten-cent deposit on applicable beverages, and are refunded that deposit when they return 
+the empty beverage containers to be recycled. The program, which would be managed by a 
+nonprofit funded by beverage distributors, would be overseen and enforced by the Department of 
+Energy and the Environment. 
+Beverage container deposit programs have been shown to have a significant impact on increasing 
+recycling rates and reducing overall litter. They have been operating in ten other states for 
+decades and the facts are clear and overwhelming.
+
+The ten states that have passed and implemented similar legislation witnessed immediate and 
+significant increases in removing bottles and cans from the waste stream, because residents, 
+visitors, and collectors alike are incentivized to redeem their containers. In Michigan, the return 
+rate for bottles is 73 percent. In Maine, it’s 77 percent. In five of the six states with at least a 10-
+cent deposit, the redemption rate is over 50 percent. These programs have also reduced other 
+litter. 
+A bottle deposit program will have a profound impact on the environment and on the quality of 
+life in our city, and will get us one giant step closer to meeting our zero waste goals. 
+ 
+Sincerely,  
+   
+Brianne K. Nadeau                                                                 
+Councilmember, Ward 1                                                          
+Chairperson, Committee on Public Works & Operations
+
+_____________________________ 
+Chairman Phil Mendelson 
+_____________________________ 
+Councilmember Brianne K. Nadeau 
+_____________________________ 
+Councilmember Brooke Pinto 
+_____________________________ 
+Councilmember Charles Allen 
+_____________________________ 
+Councilmember Janeese Lewis George 
+_____________________________ 
+Councilmember Matthew Frumin 
+_____________________________ 
+Councilmember Christina Henderson 
+_____________________________ 
+Councilmember Anita Bonds 
+_____________________________ 
+Councilmember Zachary Parker 
+_____________________________ 
+Councilmember Robert C. White, Jr. 
+ 
+ 
+ 
+_____________________________ 
+Councilmember Wendell Felder 
+ 
+ 1 
+ 1 
+ 2 
+ 3 
+A BILL 4 
+ 5 
+_________________________ 6 
+ 7 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA 8 
+ 9 
+_________________________ 10 
+ 11 
+ 12 
+To amend the Sustainable Solid Waste Management Amendment Act of 2014 to establish an 13 
+extended producer responsibility collection and recycling program for beverage 14 
+containers to be overseen by the Department of Energy and the Environment.  15 
+ 16 
+ BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 17 
+act may be cited as the “Recycling Refund and Litter Reduction Amendment Act of 2025”. 18
+
+2 
+ Sec. 2. Title I of the Sustainable Solid Waste Management Amendment Act of 2014, 19 
+effective March 16, 2021 (D.C. Law 20-154; D.C. Official Code § 8-1031.01 et seq.), is 20 
+amended as follows: 21 
+(a) A new Subtitle E is added to read as follows: 22 
+“SUBTITLE E. EXTENDED PRODUCER RESPONSIBILITY FOR BEVERAGE 23 
+CONTAINERS. 24 
+“Sec. 139. Definitions. 25 
+“For the purposes of this subtitle, the term: 26 
+“(1) “Account-based bulk payment program” means a program that: 27 
+  “(A) Utilizes a system of customer accounts and a mechanism to associate 28 
+redeemed redeemable beverage containers with the appropriate customer account; 29 
+  “(B) Consolidates the redeemed redeemable beverage containers for bulk 30 
+sorting while collecting data about the containers; 31 
+  “(C) Fully prepares redeemed redeemable beverage containers for sale to 32 
+recyclers; and 33 
+  “(D) Collects data to support an accounting of the redeemable beverage 34 
+containers, including the deposits, fees, and pounds of material produced that are associated with 35 
+the redeemable beverage containers. 36 
+“(2) “Bag drop program” means a program that allows a customer to: 37 
+  “(A) Drop off empty redeemable beverage containers in a bag or other 38 
+receptacle at one or more locations for a refund; and 39 
+  “(B) Have the corresponding refund placed into an account held for the 40 
+benefit of the customer in a manner that allows the customer to obtain the refund or refund 41 
+receipt within a specific number of days after dropping off redeemable beverage containers. 42
+
+3 
+  “(3) “Beverage” means any drinkable liquid intended for human oral 43 
+consumption, except that it does not include: 44 
+  “(A) Drugs regulated under the Federal Food, Drug, and Cosmetic Act;  45 
+  “(B) Infant formula; 46 
+  “(C) Meal replacement liquids; 47 
+  “(D) Pedialyte; or 48 
+  “(E) Dairy products derived from animal milk. 49 
+“(4) “Beverage container” means a bottle, can, or other container that: 50 
+  “(A) Has been sealed by a manufacturer; 51 
+  “(B) Is made of glass, metal, or plastic; and 52 
+  “(C) At the time of sale, contains between 50 milliliters and 3 liters of a 53 
+beverage. 54 
+  “(D) “Beverage container” does not include cartons, pouches, or aseptic 55 
+packaging, such as a drink box. 56 
+“(5) “Beverage container recycling rate” means the number of nonrefillable 57 
+redeemable beverage containers sold in the District that are redeemed and recycled shown as a 58 
+percentage of all nonrefillable redeemable beverage containers sold in the District. 59 
+“(6) “Beverage container redemption and processing method” means a manual or 60 
+technological method for properly collecting, identifying, counting, or processing empty 61 
+redeemable beverage containers for redemption. 62 
+“(7) “Beverage container stewardship organization” means a nonprofit 63 
+organization that is: 64 
+ “(A) Exempt from taxation undersection 501(c)(3) of the Internal Revenue 65 
+Code; and 66
+
+4 
+ “(B) Created by distributors to implement a beverage container 67 
+stewardship plan. 68 
+“(8) “Beverage container stewardship plan” means a plan submitted to DOEE 69 
+under section 142. 70 
+“(9) “Collection agent” means a person who enters into an agreement with a 71 
+stewardship organization to collect empty beverage containers from retailers and redemption 72 
+centers. 73 
+“(8) “Deposit initiator” means the first distributor to collect a deposit on a 74 
+beverage container sold in the District. 75 
+“(9) “Distributor” means a person that sells beverages in redeemable beverage 76 
+containers to a retailer in the District, including a person that manufactures and sells beverages in 77 
+redeemable beverage containers to a retailer in the District. 78 
+“(10) “Line breakage” means a beverage container that: 79 
+   “(A) Becomes defective or damaged during manufacturing; 80 
+   “(B) Is not intended to be sold; and 81 
+   “(C) Is not eligible for redemption. 82 
+“(11) “Processing payment” means the amount of money that a distributor shall 83 
+pay a curbside recycling entity, as determined by the DOEE, pursuant to section 147 of this 84 
+subtitle. 85 
+“(12) “Redeem” means to return an empty redeemable beverage container in 86 
+exchange for a refund, a voucher for a refund, or a credit to an account for not less than the 87 
+refund value. 88 
+“(13) “Redeemable beverage container” means a beverage container upon which a 89 
+deposit of at least $.01 has been paid, or is required to be paid upon the purchase of the beverage 90
+
+5 
+container, and for which a refund of at least $.01 is payable by every distributor in the District of 91 
+that beverage container. 92 
+“(14) “Redemption facility” means a facility that: 93 
+   “(A) Accepts empty beverage containers from an individual or retailer; 94 
+   “(B) Collects, sorts, and counts empty beverage containers; 95 
+   “(C) Refunds the deposit value of empty redeemable beverage containers 96 
+in cash, with a voucher, or as a credit to an account for not less than the deposit value of the 97 
+redeemable beverage container; and 98 
+   “(D) Is licensed by the Department of Licensing and Consumer Protection. 99 
+“(15) “Redemption rate” means the percentage of redeemable beverage containers 100 
+sold in the state that are redeemed for the deposit value. 101 
+“(16) “Retailer” means a person that engages in the sale of redeemable beverage 102 
+containers to a consumer in the District. Retailer does not include: 103 
+   “(A) Hotels and other lodging establishments, restaurants, and bars that 104 
+provide on premises consumption of beverages in beverage containers; or  105 
+   “(B) Retail establishments with less than 2,000 square feet devoted to the 106 
+display of merchandise for sale to the public. 107 
+“(17) “Reverse vending machine” means an automated device that: 108 
+   “(A) Accepts one or more types of empty redeemable beverage containers; 109 
+   “(B) Uses a laser scanner, an optical sensor, a microprocessor, or other 110 
+technology to accurately recognize a beverage container’s universal product code to determine 111 
+whether the container is a redeemable beverage container; 112 
+   “(C) Issues a redeemable credit slip for the redeemable beverage 113 
+container’s value: 114
+
+6 
+   “(D) Separates redeemable beverage containers from containers that are 115 
+not redeemable; 116 
+   “(E) Uses mechanical compaction to cancel redeemable beverage 117 
+containers that have been redeemed; 118 
+   “(F) Compiles information regarding the redeemable beverage containers 119 
+that have been redeemed, including the number of redeemable beverage containers redeemed. 120 
+“(18) “UPC” means universal product code, which is a standard barcode that 121 
+encodes a number uniquely assigned to a product for identification of the product. It includes any 122 
+industry-accepted barcode used for product identification purposes and a European article 123 
+number. 124 
+ “Sec. 140. Beverage container deposit program. 125 
+ “(a) Beginning January 1, 2028, a distributor may not sell, offer for sale, or distribute in 126 
+or import in the District a redeemable beverage container unless the distributor: 127 
+  “(1) Is registered with DOEE in accordance with this section;  128 
+  “(2) Has paid the registration fee required under subsection (e) of this section; and 129 
+“(3) Is a member of a beverage container stewardship organization that: 130 
+“(A) Has been approved by DOEE under section 141; and 131 
+“(B) Has a beverage container stewardship plan approved by DOEE 132 
+under section 142 of this subtitle. 133 
+ “(b) On or before March 1 each year, beginning in 2027, a beverage container 134 
+stewardship organization shall provide to DOEE: 135 
+  “(1) A list of each distributor participating in the beverage container stewardship 136 
+organization; and 137 
+  “(2) For each distributor, the registration form required under subsection (c) of 138
+
+7 
+this section. 139 
+“(c)(1) DOEE shall create a registration form that requires each distributor participating 140 
+in the beverage container stewardship organization to provide the following information: 141 
+  “(A) The name, primary business address, and contact information of the 142 
+person responsible for ensuring distributor compliance with this section; 143 
+  “(B) A list of each brand of redeemable beverage containers that the 144 
+distributor intends to sell, offer for sale, or distribute in the state, including the size and material 145 
+of the redeemable beverage containers for each brand; 146 
+  “(C) For each redeemable beverage container specified in the registration, 147 
+whether the redeemable beverage container:  148 
+   “(i) Is refillable; and 149 
+   “(ii) Depicts a District-specific barcode or symbol; 150 
+  “(D) How each distributor will prevent the fraudulent sale and redemption 151 
+of redeemable beverage containers that were not sold in the District; 152 
+  “(E) The number of redeemable beverage containers each producer sold in 153 
+the state in the immediately preceding calendar year; and 154 
+  “(F) Any other information required by DOEE. 155 
+ “(2) A distributor shall submit a completed registration form to the beverage 156 
+container stewardship organization that represents the distributor. 157 
+ “(d) On or before March 1, 2027, and with a frequency determined by DOEE 158 
+thereafter, each distributor shall pay a registration fee established by DOEE under subsection (e) 159 
+of this section. 160 
+ “(e)(1) DOEE shall establish and annual registration fee for distributors that sell 161 
+redeemable beverage containers in the District. 162
+
+8 
+  “(2) The registration fee shall be set in a manner that: 163 
+   “(A) When taken in combination with anticipated revenues from 164 
+penalties collected under section 154, will produce funds sufficient to cover DOEE’s anticipated 165 
+costs of planning, implementing, administering, monitoring, enforcing, and evaluating the 166 
+program for the upcoming year; 167 
+   “(B) For the first year of the program during which registration 168 
+fees are collected, shall cover the start-up costs of the program that were incurred by DOEE and 169 
+financed from the general fund; and 170 
+   “(C) Is proportional to a distributor’s share of the total number of 171 
+redeemable beverage containers sold in the District for the immediately preceding calendar year. 172 
+ “(f) DOEE shall:  173 
+  “(1) If the revenues from the registration fees in the immediately 174 
+preceding calendar year exceed the costs specified in paragraph (2)(A) of this subsection, carry 175 
+the excess revenues forward to reduce registration fees the following year; and 176 
+  “(2) If the revenues from the registration fees in the immediately 177 
+preceding year do not cover the costs specified in paragraph (2)(A) of this subsection, adjust 178 
+registration fees for the following year to an amount that will cover DOEE’s actual costs from 179 
+the immediately preceding year. 180 
+ “(g)(1) Except as provided in paragraph (2) of this subsection, registration fees 181 
+collected under this subsection shall be: 182 
+  “(A) Deposited in the District Recycling Fund, established under section; 183 
+and 184 
+  “(B) Used only to cover DOEE’s costs of planning, implanting, 185 
+administering, monitoring, enforcing, and evaluating the program. 186
+
+9 
+ “(2) The portion of the registration fees that covered the start-up costs of the 187 
+program and were financed from the General Fund during the first year of the program for which 188 
+registration fees are collected in accordance with paragraph (1) of this subsection shall be 189 
+deposited into the General Fund. 190 
+“(h) All distributors shall place a deposit on any beverage containers sold, offered for 191 
+sale, or distributed into the District. The value of the deposit shall be as follows: 192 
+  “(1) Beginning January 1, 2028, a deposit of not less $0.10 shall be placed on any 193 
+beverage container sold, offered for sale, or distributed in the District. 194 
+  “(2) Beginning January 1, 2033, a deposit of no less than $0.15 shall be placed by 195 
+the distributor on any beverage containers sold, offered for sale, or distributed into the District if 196 
+the redemption targets established in section 152 of this subtitle are not met for 2 consecutive 197 
+years. 198 
+  “(3) 5 years after the effective date of any deposit increase established pursuant to 199 
+this section, the deposit placed on each beverage container sold by a distributor shall increase by 200 
+$0.05 if the redemption targets established in section 152 of this subtitle were not met for the 2 201 
+previous consecutive years. 202 
+ “(i) DOEE may: 203 
+  “(1) Set standards for the number of reverse vending machines required for 204 
+retailers located in underserved communities; and 205 
+  “(2) Establish a cap for the number of empty redeemable beverage containers that 206 
+can be redeemed per visit at small retailers. 207 
+ “Sec. 141. Beverage container stewardship organization. 208 
+ “(a) On or before January 1, 2027, DOEE shall accept applications from beverage 209 
+container stewardship organizations to represent distributors in fulfilling the requirements of this 210
+
+10 
+subtitle. 211 
+ “(b) On or before March 1, 2027, DOEE may approve, for a period not to exceed 5 years, 212 
+a single beverage container stewardship organization as a system operator for the program if the 213 
+beverage containers stewardship organization demonstrates that it has: 214 
+  “(1) The ability, as determined by DOEE, to administer the requirements of a 215 
+beverage container stewardship plan under section 142; 216 
+  “(2) A governing board consisting of distributors that represent the diversity of 217 
+applicable redeemable beverage containers in the market; 218 
+  “(3) Set no unreasonable barriers to joining the beverage container stewardship 219 
+organization and will take into consideration the needs of small distributors that do not generate 220 
+a high volume of containers; 221 
+  “(4) Adequate financial responsibility and safeguards, including fraud prevention 222 
+and an audit schedule; 223 
+  “(5) The ability to secure the capital necessary for the initial investment in 224 
+infrastructure, sorting equipment, software, transportation, and other start-up expenses; and 225 
+  “(6) Met any other requirements set by DOEE. 226 
+ “(c) DOEE may renew the approval of a beverage container stewardship organization as 227 
+a system operator under subsection (b) of this section if the beverage container stewardship 228 
+organization continues to meet the requirements of this section and any other requirements set by 229 
+DOEE. 230 
+ “(d)(1) DOEE shall revoke the approval of a beverage container stewardship organization 231 
+as a system operator if DOEE determines that the beverage container stewardship organization: 232 
+   “(A) Failed to meet the requirements of this section; or 233 
+   “(B) Failed to implement and administer an approved beverage container 234
+
+11 
+stewardship plan in accordance with section 142 of this subtitle. 235 
+  “(2) If DOEE revokes the approval of a beverage container stewardship 236 
+organization as a system operator under paragraph (1) of this subsection: 237 
+   “(A) DOEE may approve one or more additional beverage container 238 
+stewardship organizations to carry out the responsibilities of the previous system operator, 239 
+subject to one or more of the additional beverage container stewardship organizations meeting 240 
+the requirements specified in subsection (b) of this section; and 241 
+   “(B) The trustee or escrow agent of the trust fund or escrow account 242 
+established in the beverage container stewardship plan under section 142 of this subtitle shall: 243 
+    “(i) Receive all payments directly from distributors that would 244 
+have been paid to the beverage container stewardship organization; 245 
+    “(ii) Deposit the payments received from distributors into the trust 246 
+fund or escrow account; and 247 
+    “(iii) Make payments from the trust fund or escrow account as 248 
+directed by DOEE to implement the requirements of this part.  249 
+ “Sec. 142. Beverage container stewardship plan. 250 
+ “(a) On or before March 1, 2027, each beverage container stewardship organization that 251 
+represents at least one distributor in the District shall submit a beverage container stewardship 252 
+plan to DOEE. The plan shall: 253 
+  “(1) Identify and include the contact information for each distributor intended to 254 
+be covered under the plan; 255 
+  “(2) Identify each brand of redeemable beverage container intended to be sold 256 
+under the plan, including the size and material of the redeemable beverage containers for each 257 
+brand and whether the redeemable beverage containers are refillable; 258
+
+12 
+  “(3) Describe: 259 
+   “(A) The financing specified in paragraph (3) of this subsection; 260 
+   “(B) How the performance targets will be met or exceeded for the 5-year 261 
+period following the year in which the plan is approved; 262 
+   “(C) How stakeholder comments were considered and reflected in the 263 
+development of the plan, including the role of retailers and distributors in plan implementation; 264 
+   “(D) The administration and implementation of the plan, including any 265 
+staffing that will be necessary for these purposes; 266 
+   “(E) The actions that have been taken and that will be taken for public 267 
+outreach, education, and communication, including messaging and identification of target 268 
+audiences; and 269 
+   “(F) The anticipated investments that will be made to improve the reuse of 270 
+beverage containers, including the source of funding for these investments; 271 
+  “(4) List the stakeholders consulted in developing the plan; 272 
+  “(5) Provide the anticipated costs of implementing the plan for 5 years, broken 273 
+down by year; 274 
+  “(6) Include a closure and transfer plan for handling the affairs of the beverage 275 
+container stewardship organization that ensures that each distributor intended to be covered 276 
+under the beverage container stewardship plan can fulfill the distributor’s obligations in the event 277 
+that the beverage container stewardship organization dissolves or has its approval as a system 278 
+operator revoked under section 141 of this subtitle; and 279 
+  “(7) Include any other information requested by DOEE. 280 
+ “(b) The financing information included in a beverage container stewardship plan shall: 281 
+  “(1) Explain the financing for direct investments or reimbursements that will 282
+
+13 
+improve infrastructure in a manner that supports redemption services and technologies; 283 
+  “(2) Reflect a fee structure established in accordance with subsection (c) of this 284 
+section for distributors participating in a beverage container stewardship organization; 285 
+  “(3) Describe the costs of meeting the performance targets; 286 
+  “(4) Describe the incentives used to encourage distributors to: 287 
+   “(A) Invest in reusable and refillable beverage container systems; and 288 
+   “(B) Redesign beverage containers to be easier and less costly to recycle; 289 
+  “(5) Create incentives for distributors to use a District-specific UPC barcode to 290 
+reduce fraudulent redemption; 291 
+  “(6) Establish a trust fund or an escrow account in the District into which a 292 
+beverage container stewardship organization shall deposit all unexpended funds for use in 293 
+accordance with this section in the event that the beverage container stewardship organization 294 
+dissolves or has its approval as a system operator revoked by DOEE under Section 141 of this 295 
+subtitle; and 296 
+  “(7) Meet any other requirements established by DOEE. 297 
+ “(c)(1) A beverage container stewardship organization must establish a fee structure for 298 
+distributors participating in their organization. The fee structure shall be set in a manner that 299 
+covers the costs of administering a beverage container stewardship organization and 300 
+implementing the beverage container stewardship plan and based on: 301 
+   “(A) The costs associated with transporting, collecting, and processing 302 
+each type of redeemable beverage container material; 303 
+   “(B) Whether a distributor’s redeemable beverage containers are refillable; 304 
+   “(C)Whether a distributor’s redeemable beverage containers are easy to 305 
+recycle; 306
+
+14 
+   “(D) Whether a distributor’s redeemable beverage containers have a 307 
+District-specific UPC barcode or symbol; 308 
+   “(E) A distributor’s portion, by material type, of redeemable beverage 309 
+containers sold in the District during the previous calendar year; and 310 
+   “(F) Any other factor DOEE determines is necessary to support the 311 
+program. 312 
+  “(2) A distributor selling fewer than 3.5 million redeemable beverage containers 313 
+in the District in the previous calendar year shall not pay more in membership fees than its 314 
+proportional share of all redeemable beverage containers sold in the District in the previous 315 
+calendar year, nor shall handling fees be factored into its membership fees. 316 
+“(3)(A) Except as provided in section 141(d)(2) of this subtitle, a distributor 317 
+participating in a beverage container stewardship organization shall pay the fee established under 318 
+subsection (c) of this section to the beverage container stewardship organization. 319 
+   “(B) A beverage container stewardship organization shall deposit fees 320 
+received under this subparagraph to an account held by the beverage container stewardship 321 
+organization. 322 
+   “(C) A beverage container stewardship organization may use the fees 323 
+received under this subparagraph only for implementing the beverage container stewardship plan 324 
+that DOEE approves. 325 
+ “(d) DOEE shall submit a beverage container stewardship plan to an independent 326 
+financial auditor to ensure that the financing proposed in the plan will cover the costs of 327 
+implementing the plan. 328 
+ “(e)(1) Within 120 days after receipt of a beverage container stewardship plan submitted 329 
+to DOEE under this section, DOEE shall approve, approve with conditions, or deny the plan. 330
+
+15 
+  “(2) In determining whether to approve, approve with conditions, or deny a 331 
+beverage container stewardship plan, DOEE shall consider whether: 332 
+   “(A) The plan complies with the requirements of this section; and 333 
+   “(B) There was sufficient engagement with stakeholders, including 334 
+retailers and distributors, in developing the plan. 335 
+  “(3)(A) DOEE may rescind approval of a beverage container stewardship plan for 336 
+good cause. 337 
+   “(B) A beverage container stewardship organization may amend a 338 
+beverage container stewardship plan whose approval was rescinded and submit the amended plan 339 
+to DOEE for approval. 340 
+  “(4)(A) A beverage container stewardship plan approved by DOEE may be 341 
+amended with approval of DOEE. 342 
+   “(B) DOEE may require that an approved beverage container stewardship 343 
+plan be amended if the report submitted under this subtitle reflects that the performance targets 344 
+have not been met. 345 
+ “(d) An approved beverage container stewardship plan expires at the end of 5 years. 346 
+ “(e)(1) A beverage container stewardship organization shall implement and administer a 347 
+beverage container stewardship plan within 6 months after the plan is approved. 348 
+  “(2) In implementing and administering a beverage container stewardship plan, a 349 
+beverage container stewardship organization shall: 350 
+   “(A) Facilitate logistics, the initiation of deposits, and the issuance of 351 
+refunds to retailers under the plan; 352 
+   “(B) Coordinate the logistics for collecting redeemable beverage 353 
+containers from retailers; 354
+
+16 
+   “(C) Establish procedures for tracking redeemable beverage containers 355 
+sold in the District; 356 
+   “(D) Design and operate services for the transportation and processing of 357 
+redeemable beverage containers; 358 
+   “(E) Develop and implement a plan for establishing, operating, and 359 
+managing redemption facilities that will offer a wide range of convenient redemption locations 360 
+and technologies that are easy to use, accessible, and meet or exceed any convenience standards 361 
+established by DOEE under section 140 of this subtitle. 362 
+   “(F) Develop and implement a plan for the distribution, operation, and 363 
+maintenance of beverage container redemption and processing methods, including reverse 364 
+vending machines, bag drop programs, and account-based bulk processing programs; 365 
+   “(G) Develop accounting and control standards; 366 
+   “(H) Implement accounting, audit, payment, and reporting procedures; 367 
+   “(I) Market redeemable beverage container materials for reuse in the 368 
+manufacturing of similar products; 369 
+   “(J) Fund a marketing program to educate the public about the program, 370 
+including at least one outreach event annually in each ward of the District; 371 
+   “(K) Establish a system for reporting key information gathered by the 372 
+program to DOEE on a quarterly basis; and  373 
+   “(L) Create incentives for the development of refillable and reusable 374 
+beverage container systems. 375 
+  “(3) Upon request by DOEE, a beverage container stewardship organization shall 376 
+submit a copy of its financial records to the agency for a financial audit. 377 
+“Sec. 143. Annual reporting. 378
+
+17 
+ “(a) A beverage container stewardship organization in the District with an approved 379 
+beverage container stewardship plan shall annually report to DOEE: 380 
+  “(1) The total number of beverage containers sold, offered for sale, and 381 
+distributed into the District during the prior calendar year; 382 
+  “(2) The number of single-use beverage containers sold, offered for sale, and 383 
+distributed into the District during the prior calendar year; 384 
+  “(3) The number of reusable beverage containers sold, offered for sale, and 385 
+distributed into the District during the prior calendar year;  386 
+  “(4) A breakdown of the material type of all beverage containers sold, offered for 387 
+sale, and distributed into the District during the prior calendar year;  388 
+  “(5) Information regarding the quantity and final destination of redeemed 389 
+beverage containers sold, offered for sale, and distributed into the District during the prior 390 
+calendar year; 391 
+  “(6) The number of empty redeemable beverage containers redeemed; 392 
+  “(7) The number of empty redeemable beverage containers redeemed at each 393 
+redemption facility, reverse vending machine, bag drop program, account-based bulk processing 394 
+program, or other beverage container redemption and processing method sorted by material type, 395 
+refund value, and whether the empty redeemable beverage container can be refilled or reused; 396 
+  “(8) The progress made toward meeting the performance targets during the prior 397 
+calendar year; 398 
+  “(9) If the performance targets were not met, a description of the actions proposed 399 
+to meet the performance targets; 400 
+  “(10) The amount of each type of: 401 
+   “(A) Redeemable beverage container material sold in the District; and 402
+
+18 
+   “(B) Scrap material sold by a beverage container stewardship 403 
+organization; 404 
+  “(11) The location of each redemption facility in the District and the redemption 405 
+methods used at each redemption facility; 406 
+  “(12) A description of any improvements made to make returning redeemable 407 
+beverage containers easier and more convenient; 408 
+  “(13) The identification and description of areas that do not have readily available 409 
+options for redeeming an empty redeemable beverage container and actions the beverage 410 
+container stewardship organization will take to improve redemption options in these areas; 411 
+  “(14) The number of consumer complaints per month, sorted by redemption 412 
+facility; 413 
+  “(15) The number of individuals and organizations with accounts established for 414 
+the receipt of electronic deposits or refunds; 415 
+  “(16) The total cost of implementing the beverage container stewardship plan, as 416 
+determined by an independent financial auditor under section 142 of this subtitle; 417 
+  “(17) A copy of the audit conducted under section 142 of this subtitle; 418 
+  “(18) The average cost of processing an empty redeemed redeemable beverage 419 
+container; 420 
+  “(19) Financial statements detailing all deposits received and refunds issued by 421 
+each distributor covered under the beverage container stewardship plan; 422 
+  “(20) The total amount of deposits initiated, refunds issued, and unclaimed 423 
+deposits collected under the beverage container stewardship plan; 424 
+  “(21) An accounting of all activities and investments financed by unclaimed 425 
+deposits; 426
+
+19 
+  “(22) Expenditures and revenues sorted by source, including fees paid under 427 
+Section 142 of this subtitle, revenue from the sale of scrap materials, and unclaimed deposits; 428 
+  “(23) Samples of all educational materials provided to consumers, retailers, and 429 
+other entities; 430 
+  “(24) A detailed description of investments made in new redemption facilities and 431 
+redemption methods; 432 
+  “(25) The locations of any new redemption facilities and redemption methods; 433 
+  “(26) A detailed description of changes made by distributors to increase the 434 
+recyclability of redeemable beverage containers; 435 
+  "(27) A detailed description of any incidents of fraud and efforts taken to prevent 436 
+fraud; 437 
+  “(28) Any other information required by DOEE. 438 
+ “(b) The financial, production, and sales data of individual distributors reported to DOEE 439 
+under this section shall be kept confidential by DOEE. 440 
+ “(c) DOEE shall post the report submitted under this section on DOEE’s website in a 441 
+manner that protects the confidentiality of the data specified under subsection (b) of this section.  442 
+“Sec. 143. Handling fee. 443 
+“(a) A retailer, redemption facility, or other person that accepts beverage containers for 444 
+redemption shall be reimbursed by the beverage container stewardship organization for the 445 
+handling of each empty beverage container redeemed. 446 
+“(b) The handling fee shall be set at $.04. 447 
+“(c) Beginning 5 years after the effective date of this act, DOEE shall increase the 448 
+handling fee by $0.01 each year that the agency determines an increase is necessary to encourage 449 
+the establishment of more redemption facilities or other redemption options. 450
+
+20 
+“Sec. 144. Deposit refunds. 451 
+ “(a)(1) A redemption facility established pursuant to this subtitle shall accept all types of 452 
+beverage containers sold in the District for redemption. 453 
+  “(2) A person shall apply to the Department of Licensing and Consumer 454 
+Protection for a license to operate a redemption facility in the District. 455 
+  “(3) The Department of Licensing and Consumer Protection shall develop 456 
+standards and a licensing process for the establishment and operation of redemption facilities. 457 
+ “(b) A retailer shall accept from a person seeking to redeem beverage containers at their 458 
+place of business any empty beverage container during any period that they are open for 459 
+business, regardless of whether the specific beverage container was sold by the retailer, provided 460 
+that the beverage container is made of the same types of material as beverage containers sold by 461 
+the dealer.  462 
+“(c) A retailer or redemption facility may accept beverage containers for redemption 463 
+through direct take-back, reverse vending machines, a bag drop program, an account-based bulk 464 
+processing program, or other redemption methods as approved by DOEE. Retailers shall 465 
+establish and maintain a dedicated area within their place of business to accept beverage 466 
+containers for redemption. Retailers and redemption facilities shall provide to a redeemer with 467 
+redeemable beverage containers the full deposit value of the redeemed beverage container. 468 
+ “(d) A retailer or redemption facility may refuse to redeem a beverage container provided 469 
+that: 470 
+  “(1) The beverage container is not clean; 471 
+  “(2) The beverage container is broken; 472 
+  “(3) The beverage container contains material foreign to the normal contents of 473 
+the container; or 474
+
+21 
+  “(4) The retailer or redemption facility believes the beverage container was not 475 
+sold in the District. 476 
+ “(e) Refunds provided for an empty redeemed beverage container shall be: 477 
+  “(1) In cash; 478 
+  “(2) In the form of a receipt from a reverse vending machine provided that: 479 
+   “(A) The receipt can be exchanged for cash within 60 days after the 480 
+receipt is issued; and 481 
+   “(B) There is no requirement that other goods be purchased to receive the 482 
+cash refund; or 483 
+  “(3) Credited to an account by the receiver of the empty redeemable beverage 484 
+container so that the redeemer can receive the refund or a refund receipt within a specified 485 
+number of days, as determined by DOEE, after redeeming the beverage container. 486 
+“Sec. 145. Collection of beverage containers. 487 
+“(a) A beverage stewardship organization shall accept from a retailer or redemption 488 
+center any empty beverage containers of the design, shape, size, color, composition, and brand 489 
+sold, distributed, or offered for sale by a distributor in the District and shall pay the retailer or 490 
+redemption center the handling fee established pursuant to section 143 of this subtitle for each 491 
+such beverage container. 492 
+“(b) A beverage container stewardship organization shall accept and redeem all such 493 
+empty beverage containers from a retailer or redemption center without limitation on quantity. 494 
+“(c) A beverage container stewardship organization’s failure to accept empty beverage 495 
+containers from a retailer or redemption center shall constitute a violation of this subtitle. 496 
+“Sec. 146. Collection agents. 497 
+“(a) All collection agents operating in the District shall be licensed in the District and 498
+
+22 
+registered with DOEE prior to commencing operation, and annually thereafter.  499 
+“(b) A collection agent is required to perform all the collection functions of the beverage 500 
+stewardship organization with whom they contract unless expressly exempted in the contractual 501 
+agreement between the parties. 502 
+  “(c) Collection agents shall annually provide to DOEE up-to-date lists of beverage 503 
+container stewardship organizations with whom they have entered into contracts. 504 
+  “(d) Each collection agent shall notify DOEE when: 505 
+   “(1)  It enters into a new contract with a distributor or deposit initiator; and 506 
+   “(2)A collection contract expires without being renewed. 507 
+“Sec. 147. Curbside collection of beverage containers. 508 
+“(a) The Mayor may approve procedures allowing curbside recycling collectors to be 509 
+paid a processing payment for beverage containers collected, processed, sorted, and delivered to 510 
+distributors for recycling, so long as the beverage containers collected are clean, sorted, and 511 
+baled. The processing payment shall not exceed the value of the handling fee set by DOEE 512 
+pursuant to section 143 of this subtitle. Processing payments to collectors shall not continue past 513 
+January 1, 2030. 514 
+“(b) Beverage containers collected, processed, sorted, and delivered to distributors by 515 
+recycling collectors shall not be included in the calculations of the performance targets set in 516 
+section 152 of this subtitle. 517 
+“Sec. 148. Labeling of beverage containers. 518 
+“(a) Any manufacturer of a beverage container to be sold in the District shall include on 519 
+the label of each beverage sold in the District: 520 
+ “(1) A clearly visible standardized description of the applicable refund value of 521 
+the container; and 522
+
+23 
+ “(2) A Universal Product Code. 523 
+“Sec. 149. Fraudulent redemption. 524 
+“(a) No person shall pay, claim, or receive any deposit value, processing payment, or 525 
+handling fee for any of the following: 526 
+ “(1) A beverage container that the person knew, or should have known, was 527 
+brought into the District solely for the purpose of being redeemed; and 528 
+ “(2) A previously redeemed beverage container, rejected container, line breakage, 529 
+or other ineligible material. 530 
+ “(b) No person, with intent to defraud, shall redeem or attempt to redeem an out-of-state 531 
+container, a rejected container, a previously redeemed container, line breakage, or other 532 
+ineligible material. 533 
+“Sec. 150. Management of deposits. 534 
+“(a) A deposit initiator shall deposit any deposits collected under section 140 of this 535 
+subtitle into a deposit collection account that is maintained separately from all other revenues. 536 
+“(b) A deposit initiator shall transfer 100% of all deposits to the beverage container 537 
+stewardship organization of which they are a member by the tenth day of each month. 538 
+“(c) A beverage container stewardship organization shall deposit any deposits transferred 539 
+to the organization under this Section into a deposit collection account that is maintained 540 
+separately from all other revenues. 541 
+“(d) The funds in the deposit collection account may be used only to pay the refund value 542 
+of an empty redeemable beverage container being redeemed. 543 
+“(e) A deposit initiator shall report to the beverage container stewardship organization by 544 
+the tenth day of each month, the following information: 545 
+  “(1) The number of beverage containers sold, and empty redeemable beverage 546
+
+24 
+containers redeemed in the previous month; 547 
+  “(2) The funds deposited into the deposit collection account in the previous 548 
+month; 549 
+  “(3) Any income earned on the funds in the deposit collection account in the 550 
+previous month; 551 
+  “(4) The balance of the deposit collection account; and 552 
+  “(5) Any other information required by DOEE. 553 
+“(f) DOEE shall determine the point at which a deposit becomes an unclaimed deposit. 554 
+“(g) Unclaimed deposits are calculated as the amount of funds transferred to a deposit 555 
+collection account that are in excess of the sum of: 556 
+  “(1) Any interest earnings on the deposit collection account during the time for 557 
+which unclaimed deposits are being calculated; and 558 
+  “(2) The total amount of the refund value received for the empty redeemable 559 
+beverage containers redeemed during the time for which the unclaimed deposits are being 560 
+calculated. 561 
+“(h) A beverage container stewardship organization shall transfer 75% of all unclaimed 562 
+deposits to DOEE by the 20th day of each month. The beverage container stewardship 563 
+organization shall use the remaining funds in the reserve account to: 564 
+ “(1) Achieve the objectives of the beverage container stewardship organization’s 565 
+plan, as outlined in section 142 of this subtitle. 566 
+“(i) Amounts collected by DOEE pursuant to this section shall be retained by the agency 567 
+to cover any outstanding costs of overseeing and administering the program. All remaining funds 568 
+shall be: 569 
+“(1) Returned to approved beverage container stewardship organizations, if the 570
+
+25 
+redemption rate for the previous year was at least 95%; or 571 
+“(2) Transferred to the District Recycling Fund, as established by section 151 of 572 
+this subtitle, if the redemption rate for the previous year was less than 95%. 573 
+“Sec. 151. Establishment of the District Recycling Fund. 574 
+“(a) There is established as a nonlapsing fund the District Recycling Fund “Fund”. The 575 
+unclaimed deposits transferred to DOEE as required by section 144 of this subtitle shall be 576 
+deposited in the fund. The Fund shall be used solely for the purposes set forth in subsection (b) 577 
+of the section and shall be administered by the Director of the Department of Energy and 578 
+Environment. 579 
+“(b) The Fund shall be used solely for the following purposes: 580 
+  “(1) To cover the costs to the District of implementation and oversight as required 581 
+by this subtitle; 582 
+“(2) To provide NSF/ANSI 53 water filters to low-income residents whose lead 583 
+service lines have not been replaced; 584 
+  “(3) The installation of reverse vending machines;  585 
+  “(4) The installation of water bottle refill stations in public spaces in the District; 586 
+and 587 
+  “(5) Other programs to increase beverage container reuse and refill in the District. 588 
+ “(c) Revenue from the following sources shall be deposited in the Fund: 589 
+  “(1) Unclaimed deposits transferred to DOEE pursuant to section 144. 590 
+  “(2) Civil fines and penalties collected pursuant to section 154; and 591 
+  “(3) Registration fees from distributors collected pursuant to section 140. 592 
+“(d)(1) The money deposited into the Fund shall not revert to unrestricted fund balance of 593 
+the General Fund of the District of Columbia at the end of a fiscal year, or any other time. 594
+
+26 
+ “(2) Subject to authorization in an approved budget and financial plan, any funds 595 
+appropriated in the Fund shall be continually available without regard to fiscal year limitation. 596 
+“Sec. 152. Performance targets.  597 
+“(a) Redemption rate performance targets for the program are as follows: 598 
+  “(1) A 75% redemption rate by December 31, 2028; 599 
+  “(2) A 90% redemption rate by December 31, 2031; 600 
+  “(3) A 95% redemption rate by December 31, 2034; 601 
+ “(b) Recycling rate performance targets for the program are as follows: 602 
+  “(4) A 70% recycling rate by December 31, 2028; 603 
+  “(5) A 80% recycling rate by December 31, 2031; and 604 
+  “(6) A 85% recycling rate by December 31, 2034. 605 
+“Sec. 153. Disposal ban. 606 
+“(a) Beginning January 1, 2027, no distributor shall dispose of beverage containers in the 607 
+District by methods other than beverage container recycling, or other methods approved by the 608 
+Mayor. 609 
+“Sec. 154. Rules, enforcement, and fees. 610 
+“(a) The Mayor, pursuant to Title I of the District of Columbia Administrative Procedure 611 
+Act, approved October 21, 1968 (82 St. 1204; D.C. Official Code Sec. 2-501 et seq.), may issue 612 
+rules to implement the provisions of this subtitle. 613 
+“(b)(1) The Mayor may impose civil fines and penalties for violations of the provisions of 614 
+this subtitle or any rules issued pursuant to this subtitle, pursuant to section 3201 of Title 16 of 615 
+the District of Columbia Municipal Regulations (16 DCMR § 3201). 616 
+“(3) Fees, penalties, and fines collected under this subtitle shall be deposited in 617 
+the District Recycling Fund established by section 151 of this Act. 618
+
+27 
+ “(c)(1) For the purpose of enforcing the provisions of this subtitle, or any rule issued 619 
+pursuant to this subtitle, the Mayor may, upon 48 hours’ written notice and the presentation of 620 
+appropriate credentials to the owner, operator, or agent in charge, enter upon any public or 621 
+private property in a reasonable and lawful manner during normal business hours for the purpose 622 
+of inspection and observation. 623 
+  “(2) If denied access to any place or any information while carrying out the 624 
+activities described in paragraph (1) of this subsection, the Mayor may apply to a court of 625 
+competent jurisdiction for a search warrant. 626 
+ “(d)(1) Beginning January 1, 2033, a beverage container stewardship organization that 627 
+has not reached the redemption rates established in section 152 of this subtitle for the 628 
+immediately preceding two years is subject to an administrative penalty. 629 
+  “(2) Each year that a beverage container stewardship organization does not meet 630 
+the redemption rates established in Section 152 of this subtitle is a separate violation under this 631 
+subsection. 632 
+Sec. 3. Fiscal impact statement. 633 
+ The Council adopts the fiscal impact statement in the committee report as the fiscal 634 
+impact statement required by section 4a of the General Legislative Procedures Act of 1975, 635 
+approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a). 636 
+ Sec. 4. Effective date. 637 
+ This act shall take effect after approval by the Mayor (or in the event of veto by the 638 
+Mayor, action by the Council to override the veto), a 30-day period of congressional review as 639 
+provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 640 
+24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of 641 
+Columbia Register. 642

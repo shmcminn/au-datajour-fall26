@@ -1,0 +1,405 @@
+COUNCIL OF THE DISTRICT OF COLUMBIA 
+OFFICE OF COUNCILMEMBER BROOKE PINTO 
+THE JOHN A. WILSON BUILDING 
+1350 PENNSYLVANIA AVENUE, N.W., SUITE 106 
+WASHINGTON, D.C. 20004 
+ 
+ 
+ 
+ 
+March 24, 2025   
+ 
+Nyasha Howard, Secretary  
+Council of the District of Columbia  
+1350 Pennsylvania Avenue, N.W.  
+Washington, DC 20004   
+ 
+Dear Secretary Howard,  
+ 
+Today, along with Councilmember Anita Bonds, I am introducing the “Kidnapping Amendment 
+Act of 2025.” This legislation addresses critical gaps in our kidnapping statute that emerged 
+following the D.C. Court of Appeals' en banc decision in Cardozo v. United States (2024).  
+ 
+In this watershed ruling, the Court interpreted the District's kidnapping statute, to conclude that 
+kidnapping requires detaining someone "for a substantial period of time" comparable to holding 
+them "like a hostage or a prisoner."1 Moreover, the Court suggested that detentions lasting less 
+than thirty minutes would rarely qualify as kidnapping under current law.2 But the Cardozo 
+decision has opened up potential loopholes and public safety gaps in its wake. Consider recent 
+cases where individuals were forcibly transported in vehicles for 20 minutes against their will, or 
+hypothetical scenarios where a child is snatched from their yard and driven away for a similar 
+timeframe. Under the Court's new interpretation, these scenarios might not constitute kidnapping, 
+despite clearly being conduct our community would expect to be prosecuted as such. 
+ 
+This legislation would address these concerns through six modifications to existing law by: 
+ 
+• Establishing clear statutory parameters for what it means to “substantially confine or 
+move,” specifically defining it as moving someone at least 20 feet from their original 
+location or confining/moving them for at least 10 minutes. This precise definition resolves 
+ambiguity created by the Court's interpretation and ensures protection for victims in 
+scenarios that do not meet the Court's restrictive "hostage or prisoner" standard but clearly 
+constitute serious criminal conduct.3 
+ 
+ 
+1 Cardozo v. United States, 315 A.3d 658, 676 (D.C. 2024) 
+2 Id. at 678. 
+3 Id. at 676.
+
+2 
+ 
+• Deliberately omitting provisions that would have required kidnapping to merge with other 
+offenses when the confinement was merely “incidental” to committing another crime.4 The 
+Court itself recognized the impracticality of the “incidental” test, noting that even 
+prolonged detentions designed to facilitate heinous crimes are no less deserving of 
+kidnapping charges. For instance, determining whether forcibly moving a victim to a 
+secluded location to commit assault was “incidental” creates unnecessary uncertainty in 
+prosecuting what should clearly be two distinct crimes. 
+ 
+• Including important clarifications on fact-finder unanimity requirements.  A fact-finder is 
+an individual or entity, such as a jury or judge, responsible for determining the facts of a 
+case, including assessing the credibility of evidence and witness testimony.5  For example, 
+under this legislation, when a jury is the fact-finder tasked with determining a defendant's 
+intent - a crucial element in distinguishing between first and second-degree kidnapping – 
+the jurors must unanimously agree that the defendant acted with at least one prohibited 
+purpose, but need not agree on which specific purpose motivated the conduct. This 
+practical, common-sense approach recognizes that in many kidnapping scenarios, a 
+perpetrator's precise intentions may remain unclear, even when their criminal purpose is 
+evident. 
+ 
+• Expanding second-degree kidnapping to include cases where defendants act with intent to 
+commit any criminal offense, not just felonies. This ensures appropriate liability for serious 
+restraints of liberty while maintaining proportional penalties based on the severity of the 
+associated conduct and intent. 
+ 
+• Establishing penalties that align with both the gravity of these offenses and current 
+statutory frameworks. First-degree kidnapping maintains the existing 30-year maximum 
+sentence, while second-degree kidnapping carries a 15-year maximum. The new criminal 
+restraint offense, addressing less severe scenarios, carries a misdemeanor penalty of up to 
+180 days. This graduated approach ensures proportional consequences based on the 
+severity of the conduct. 
+ 
+• Incorporating technical improvements that close potential loopholes. The bill ensures 
+liability attaches whether a defendant personally restrains a victim or causes them to be 
+restrained by another; when someone blocks exits or passageways; when a vulnerable 
+victim provides implicit rather than explicit acquiescence; and when a perpetrator intends 
+to hold someone for 24 hours or more (rather than the previously proposed 72-hour 
+threshold). 
+ 
+ 
+In short, these changes will modernize the District’s kidnapping statute and maintain appropriate 
+penalties that reflect the serious nature of kidnapping while creating clear distinctions between 
+ 
+4 Id. at 675. 
+5 See Garland v. Ming Dai, 593 U.S. 357
+
+3 
+ 
+offense levels. The bill aims to enhance the prosecution of these crimes when District residents are 
+forcibly confined or moved. 
+ 
+Should you have any questions about this legislation, please contact Linn Groft, Committee and 
+Legislative Director at lgroft@dccouncil.gov.  
+ 
+Thank you,  
+ 
+   
+Brooke Pinto  
+Councilmember, Ward 2 
+Chairwoman, Committee on the Judiciary and Public Safety 
+Council of the District of Columbia
+
+_____________________________    _____________________________ 1 
+Councilmember Anita Bonds               Councilmember Brooke Pinto 2 
+ 3 
+ 4 
+ 5 
+ 6 
+A BILL 7 
+ 8 
+_________________________ 9 
+ 10 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA 11 
+ 12 
+_________________________ 13 
+ 14 
+ 15 
+To amend the District of Columbia Code Section 22-2001 to revise the kidnapping statute by 16 
+establishing definitions for key terms; to create a two-tiered offense structure for 17 
+kidnapping with first degree and second degree classifications based on specific intents 18 
+and methods; to establish a new offense of criminal restraint for knowingly and 19 
+substantially confining or moving a person without proper consent; to provide defenses 20 
+and affirmative defenses for certain circumstances involving minors, transportation 21 
+workers, and commercial activities; and to specify penalties for violations of these 22 
+provisions. 23 
+ 24 
+BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may 25 
+be cited as the “Kidnapping Amendment Act of 2025”. 26 
+ Sec. 2. Title 22 is amended as follows: 27 
+(a) Chapter 20 is amended to read as follows:  28 
+“Title 22, Chapter 20. Kidnapping. 29 
+“§ 22-2001. Definitions. 30 
+ “For the purposes of this chapter: 31 
+“(1) “Block”, and other parts of speech, including “blocks” and “blocking”, mean 32 
+“to render safe passage through a space difficult or impossible. 33 
+“(2) “Bodily injury” means physical pain, physical injury, illness, or impairment 34 
+of physical condition. 35
+
+“(3) “Coercive threat” means a communication that, unless the complainant 36 
+complies, any person will do any of the following:  37 
+   “(A) Engage in conduct that, in fact, constitutes: 38 
+    “(i) An offense against persons; or  39 
+    “(ii) A property offense;  40 
+   “(B) Take or withhold action as a public official, or cause a public official 41 
+to take or withhold action;  42 
+   “(C) Accuse a person of a crime;  43 
+   “(D) Expose a secret, publicize an asserted fact, or distribute a photograph, 44 
+video or audio recording, regardless of the truth or authenticity of the secret, fact, or item, 45 
+that tends to subject another person to, or perpetuate:  46 
+    “(i) Hatred, contempt, ridicule, or other significant injury to 47 
+personal reputation; or 48 
+    “(ii) Significant injury to credit or business reputation;   49 
+   “(E) Notify a federal, state, or local government agency or official of, or 50 
+publicize, another person’s immigration or citizenship status;  51 
+   “(F) Facilitate or control a person’s access to an addictive or controlled 52 
+substance, or a prescription medication; 53 
+   “(G) Engage in fraud or deception; 54 
+   “(H) Cause any harm that is sufficiently serious, under all the 55 
+circumstances, to compel a reasonable person of the same background and in the same 56 
+circumstances as the complainant to comply; or 57 
+   “(I) Knowingly participate in conduct with the intent to cause a person to 58 
+believe that they are the property of a person or business and that would cause a 59
+
+reasonable person in that person’s circumstances to believe that they are the property of a 60 
+person or business. 61 
+‘(4) (A) “Deceive”, and other parts of speech, including “deception”, mean: 62 
+“(i) Creating or reinforcing a false impression as to a material fact, 63 
+including a false impression as to an intention to perform future actions; 64 
+“(ii) Preventing another person from acquiring material 65 
+information; 66 
+“(iii) Failing to correct a false impression as to a material fact, 67 
+including false impressions as to intention, which the person previously created or 68 
+reinforced, or which influences another to whom they stand in a fiduciary or confidential 69 
+relationship; or 70 
+“(iv) For property offenses, failing to disclose a lien, adverse 71 
+claim, or other legal impediment to the enjoyment of property which they transfer or 72 
+encumber in consideration for property, whether or not it is a matter of official record. 73 
+“(B) The term “deceive” does not include puffing statements that are 74 
+unlikely to deceive ordinary persons.  75 
+“(C) Deception as to a person’s intention to perform a future act shall not 76 
+be inferred from the fact alone that they did not subsequently perform the act. 77 
+“(5) “Effective consent” means consent other than consent induced by physical 78 
+force, an explicit or implicit coercive threat, or deception. 79 
+“(6) “Incapacitated individual” shall have the same meaning as provided in § 21-80 
+2011(11). 81 
+“(7) “Person with legal authority over the complainant” means:  82 
+“(A) When the complainant is a person under 18 years of age: 83
+
+“(i) A parent, or a person acting in the place of a parent under civil 84 
+law, who is responsible for the health, welfare, or supervision of the complainant; or  85 
+“(ii) Someone who is acting with the effective consent of such a 86 
+parent or such a person; or 87 
+“(B) When the complainant is an incapacitated individual:  88 
+“(i) A court-appointed guardian to the complainant; or  89 
+“(ii) Someone who is acting with the effective consent of such a 90 
+guardian.   91 
+“(8) “Serious bodily injury” shall have the same meaning as provided in § 22-92 
+404.01(d). 93 
+“(9) “Substantially confines or moves” means that the complainant was either: 94 
+“(A) Moved at least 20 feet away from the complainant’s original 95 
+location; or 96 
+“(B) Confined or moved for at least 10 minutes.”. 97 
+(b) Chapter 22 is amended to read as follows: 98 
+“§ 22-2002. Kidnapping. 99 
+“(a) First degree. An actor commits first degree kidnapping when the actor: 100 
+“(1) Knowingly and substantially confines or moves the complainant, or 101 
+causes the complainant to be substantially confined or moved; 102 
+“(2) By means of: 103 
+“(A) Causing bodily injury to the complainant or by using physical 104 
+force; 105 
+“(B) Making an explicit or implicit coercive threat; 106 
+“(C) Deception;  107
+
+“(D) Securing, locking, or blocking any door, passageway, or other 108 
+means of egress; or 109 
+“(E) With explicit or implicit acquiescence of the complainant, 110 
+when the actor is: 111 
+“(i) Reckless as to the facts that: 112 
+“(I) The complainant is an incapacitated individual; 113 
+and 114 
+“(II) A person with legal authority over the 115 
+complainant who is acting consistent with that authority has not given effective consent 116 
+to the confinement or movement; or 117 
+“(ii) In fact, 18 years of age or older and reckless as to the 118 
+facts that: 119 
+“(I) The complainant is under 16 years of age and 4 120 
+years younger than the actor; and 121 
+“(II) A person with legal authority over the 122 
+complainant who is acting consistent with that authority has not given effective consent 123 
+to the confinement or movement; and 124 
+“(3) With intent to: 125 
+“(A) Hold the complainant for ransom or reward; 126 
+“(B) Use the complainant as a shield or hostage; 127 
+“(C) Facilitate the commission of any felony or flight thereafter; 128 
+“(D) Inflict death or serious bodily injury upon the complainant; 129 
+“(E) Commit a sexual offense defined in Chapter 30 of Title 22 130 
+against the complainant; 131
+
+“(F) Cause any person to believe that the complainant will not be 132 
+released without suffering death, serious bodily injury, or a sex offense defined in 133 
+Chapter 30 of Title 22; 134 
+“(G) Permanently leave a person with legal authority over the 135 
+complainant without custody of the complainant; or 136 
+“(H) Confine or move the complainant for 24 hours or more. 137 
+“(b) Second degree. An actor commits second degree kidnapping when the actor: 138 
+“(1) Knowingly and substantially confines or moves the complainant, or 139 
+causes the complainant to be substantially confined or moved; 140 
+“(2) By means of: 141 
+“(A) Causing bodily injury to the complainant or by using physical 142 
+force; 143 
+“(B) Making an explicit or implicit coercive threat; 144 
+“(C) Deception;  145 
+“(D) Securing, locking, or blocking any door, passageway, or other 146 
+means of egress; or 147 
+“(E) With explicit or implicit acquiescence of the complainant, 148 
+when the actor is: 149 
+“(i) Reckless as to the facts that: 150 
+“(I) The complainant is an incapacitated individual; 151 
+and 152 
+“(II) A person with legal authority over the 153 
+complainant who is acting consistent with that authority has not given effective consent 154 
+to the confinement or movement; or 155
+
+“(ii) In fact, 18 years of age or older and reckless as to the 156 
+facts that: 157 
+“(I) The complainant is under 16 years of age and 4 158 
+years younger than the actor; and 159 
+“(II) A person with legal authority over the 160 
+complainant who is acting consistent with that authority has not given effective consent 161 
+to the confinement or movement; and 162 
+“(3) With intent to: 163 
+“(A) Inflict bodily injury upon the complainant; 164 
+“(B) Cause any person to believe that the complainant will not be 165 
+released without suffering bodily injury;  166 
+“(C) Commit any criminal offense; or 167 
+“(D) Facilitate the commission of any criminal offense or flight 168 
+thereafter. 169 
+“(c) Defense. It is a defense to liability under subsection (a)(3)(G) and (H) of this 170 
+section when the complainant is, in fact, under 18 years of age and the actor is either: 171 
+“(1) A close relative or a former legal guardian who had authority to 172 
+control the complainant’s freedom of movement who: 173 
+“(A) Acts with intent to assume full responsibility for the care and 174 
+supervision of the complainant; and 175 
+“(B) Does not cause bodily injury or use an explicit or implicit 176 
+coercive threat to cause the confinement or movement; or 177 
+“(2) A person who reasonably believes they are acting at the direction of a 178 
+close relative who: 179
+
+“(A) Acts with intent that the close relative will assume full 180 
+responsibility for the care and supervision of the complainant; and 181 
+“(B) Does not cause bodily injury, commit a sexual offense as 182 
+defined in Chapter 30 of Title 22, or use an explicit or implicit coercive threat to cause 183 
+the confinement or movement. 184 
+“(d) Penalties. 185 
+“(1) Any person convicted of first degree kidnapping shall be fined not 186 
+more than the amount set forth in § 22-3571.01 or be imprisoned for not more than 30 187 
+years, or both. 188 
+“(2) Any person convicted of second degree kidnapping shall be fined not 189 
+more than the amount set forth in § 22-3571.01 or be imprisoned for not more than 15 190 
+years, or both. 191 
+“(e) Multiple convictions for related offenses. Where multiple convictions for first 192 
+degree kidnapping or second degree kidnapping and another offense arise from the same 193 
+act or course of conduct, the sentencing court shall follow the procedures specified in § 194 
+23-112. 195 
+“(f) Unanimity. Although there must be sufficient proof that an actor acted either 196 
+with the intent delineated in subsection (a)(3) of this section to sustain liability for first 197 
+degree kidnapping, or with the intent delineated in subsection (b)(3) of this section to 198 
+sustain liability for second degree kidnapping, there is no requirement that the factfinder 199 
+determine which specific purpose described in either subsection (a)(3)(A)-(H), or 200 
+subsection (b)(3)(A)-(D), was intended by the actor, provided that the factfinder 201 
+determines that the actor acted with at least one of the applicable specific purposes. If a 202 
+jury is the trier of fact, members of the jury are not required to agree unanimously on 203
+
+which specific purpose was intended by the actor, provided that the members of the jury 204 
+agree unanimously that the actor acted with at least one specific purpose described in 205 
+either subsection (a)(3)(A)-(H), or subsection (b)(3)(A)-(D), as applicable. 206 
+           “§ 22-2003. Criminal restraint. 207 
+“(a) Offense. An actor commits criminal restraint when the actor knowingly and 208 
+substantially confines or moves the complainant, or causes the complainant to be 209 
+substantially confined or moved: 210 
+(1) By means of: 211 
+“(A) Causing bodily injury to the complainant or by using physical 212 
+force; 213 
+“(B) Making an explicit or implicit coercive threat; or 214 
+“(C) Deception; or 215 
+“(D) Securing, locking, or blocking any door, passageway, or other 216 
+means of egress; or 217 
+“(2) By any means, including with acquiescence of the complainant, when 218 
+the actor is: 219 
+“(A) Reckless as to the facts that: 220 
+“(i) The complainant is an incapacitated individual; and 221 
+“(ii) A person with legal authority over the complainant 222 
+who is acting consistent with that authority has not given effective consent to the 223 
+confinement or movement; or 224 
+“(B) In fact, 18 years of age or older and reckless as to the facts 225 
+that: 226
+
+“(i) The complainant is under 16 years of age and 4 years 227 
+younger than the actor; and 228 
+“(ii) A person with legal authority over the complainant 229 
+who is acting consistent with that authority has not given effective consent to the 230 
+confinement or movement. 231 
+“(b) Defenses. 232 
+“(1) It is a defense that the complainant is, in fact, under 18 years of age, 233 
+and the actor is: 234 
+“(A) A close relative or a former legal guardian who had authority 235 
+to control the complainant’s freedom of movement who: 236 
+“(i) Acts with intent to assume full responsibility for the 237 
+care and supervision of the complainant; and 238 
+“(ii) Does not cause bodily injury or use an explicit or 239 
+implicit coercive threat to cause the confinement or movement; or 240 
+“(B) A person who reasonably believes they are acting at the 241 
+direction of a close relative who: 242 
+“(i) Acts with intent that the close relative will assume full 243 
+responsibility for the care and supervision of the complainant; and 244 
+“(ii) Does not cause bodily injury or use an explicit or 245 
+implicit coercive threat to cause the confinement or movement. 246 
+“(2) It is a defense to liability under subsection (a)(2) of this section that, 247 
+in fact, the actor: 248 
+“(A) Is a transportation worker who moves the complainant while 249 
+in the course of the worker’s official duties; or 250
+
+“(B) Is a person who moves the complainant solely by persuading 251 
+the complainant to go to a location open to the general public to engage in a commercial 252 
+or other legal activity. 253 
+“(c) Affirmative defenses. 254 
+“(1) It is an affirmative defense to liability under subsection (a)(1)(C) of 255 
+this section that the actor, in fact: 256 
+“(A) Lacks the complainant’s effective consent solely because of 257 
+deception by the actor; and 258 
+“(B) Does not confine or move the complainant with intent to use 259 
+bodily injury or an explicit or implicit coercive threat if the deception should fail. 260 
+“(2) It is an affirmative defense to liability under subsection (a)(2) of this 261 
+section that the actor, in fact, reasonably believes that a person with legal authority over 262 
+the complainant would have given effective consent to the conduct constituting the 263 
+offense. 264 
+“(d) Penalty. Any person convicted of criminal restraint shall be fined not more 265 
+than the amount set forth in § 22-3571.01 or be imprisoned not more than 180 days, or 266 
+both.. 267 
+“(e) Multiple convictions for related offenses. Where multiple convictions for 268 
+criminal restraint and another offense arise from the same act or course of conduct, the 269 
+sentencing court shall follow the procedures specified in § 23-112. 270 
+     “  § 22–2004. Attempts. 271 
+           “Any person who attempts to commit an offense under this subchapter shall be 272 
+imprisoned for not more than 1/2 of the maximum prison sentence authorized for the offense 273 
+and, in addition, may be fined an amount not to exceed 1/2 of the maximum fine authorized for 274
+
+the offense.”. 275 
+` Sec. 3. Fiscal impact statement. 276 
+ The Council adopts the fiscal impact statement in the committee report as the fiscal 277 
+impact statement required by section 4a of the General Legislative Procedures Act of 1975, 278 
+approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a). 279 
+ Sec. 4. Effective date. 280 
+ This act shall take effect after approval by the Mayor (or in the event of veto by the 281 
+Mayor, action by the Council to override the veto), a 60-day period of congressional review as 282 
+provided in section 602(c)(2) of the District of Columbia Home Rule Act, approved December 283 
+24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(2)), and publication in the District of 284 
+Columbia Register. 285

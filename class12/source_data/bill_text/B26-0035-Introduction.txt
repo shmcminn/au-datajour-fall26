@@ -1,0 +1,108 @@
+Government of the District of Columbia 
+UNIFORM LAW COMMISSION          
+   
+ 
+ 
+January 9, 2025 
+ 
+The Honorable Phil Mendelson 
+Chairman 
+Council of the District of Columbia 
+The John A. Wilson Building, 
+1350 Pennsylvania Avenue, NW        
+Washington, DC 20004 
+ 
+RE: Request for introduction of the Uniform Commercial Code Financing Statement 
+Forms Amendment Act of 2025. 
+ 
+Dear Chairman Mendelson: 
+ 
+ Pursuant to Rule 401(b)(1) of the Rules of Organization and Procedure for the 
+Council, this is to request, on behalf of the District of Columbia Uniform Law 
+Commission, that you introduce the proposed “Uniform Commercial Code Financing 
+Statement Forms Amendment Act of 2025.”  
+ 
+ This bill would make a discrete amendment to Section 9-521 of the Uniform 
+Commercial Code, D.C. Code § 28:9-521, to address a problem caused by inconsistencies 
+between the statutory form for financing statements for secured transactions under Article 
+9 and the forms used by the International Association of Commercial Administrators 
+(IACA).  IACA has revised its forms.  The Recorder of Deeds, like other filing offices 
+throughout the country, accept IACA’s forms and have stopped accepting the statutory 
+form.  The problem is that, if a debtor files the statutory form and pays the required fee, 
+the debtor’s interest is still perfected even though the financing statement has been 
+rejected by the filing office.  This creates a hidden, but perfected security interest, which 
+creates uncertainty and potentially could subject the District to liability for not accepting 
+the filing.  To solve this problem, other states have amended their version of U.C.C. 
+Section 9-521 to provide that the filling office may not refused to accept a filing on a 
+form approved by IACA or a form adopted by rule or regulation.  This bill follows this 
+approach.  It has been reviewed and approved by the Recorder of Deeds. 
+  
+ A proposed “Uniform Commercial Code Financing Statement Forms Amendment 
+Act of 2025” is being filed with this letter.
+
+2 
+ 
+ I would be pleased to answer any questions and to provide any additional 
+information requested. 
+ 
+        Sincerely, 
+        
+     
+     
+    
+ 
+ 
+        James C. McKay, Jr. 
+        Chair 
+        D.C. Uniform Law Commission 
+ 
+cc:  Uniform Law Commissioners
+
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+Chairman MiilMendelson at the request of the 
+District of Columbia Uniform Law Commission 
+A BILL 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA 
+14 To amend the Uniform Commercial Code to provide that the Recorder of Deeds may not refuse 
+15 to accept a written initial financing statement in the form provided by the International 
+16 Association of Commercial Administrators or in a form adopted by the Chief Financial 
+17 Officer by rule. 
+18 
+19 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 
+20 act may be cited as the "Uniform Commercial Code Financing Statement Forms Amendment Act 
+21 of 2025". 
+22 Sec. 2. Subtitle I of Title 28 of the D.C. Official Code is amended as follows: 
+23 (a) D.C. Official Code§ 28:9-521 is amended to read as follows: 
+24 "§ 28:9-521. Uniform form of written financing statement and amendment. 
+25 "Except for a reason set forth in§ 28:9-516(b), a filing office that accepts written records 
+26 may not refuse to accept a written record for a filing authorized by this chapter if the record 
+27 conforms to a format that is: 
+28 "(1) Currently approved by the International Association of Commercial Administrators; 
+29 or 
+30 "(2) Adopted by rule by the Chief Financial Officer pursuant to § 28:9-526." 
+31 (b) D.C. Official Code § 28:9-526 is amended by striking the word "Mayor" wherever it 
+32 appears and inserting the phrase "Chief Financial Officer" in its place.
+
+2 
+ 
+ Sec. 3.  Fiscal impact statement. 33 
+ The Council adopts the attached fiscal impact statement as the fiscal impact statement 34 
+required by section 602(c)(3) of the District of Columbia Home Rule Act, approved 35 
+December 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(3)). 36 
+ Sec. 4.  Effective date. 37 
+ This act shall take effect following approval by the Mayor (or in the event of veto by 38 
+the Mayor, action by the Council to override the veto), a 30-day period of Congressional 39 
+review as provided in section 602(c)(1) of the District of Columbia Home Rule Act, 40 
+approved December 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and 41 
+publication in the District of Columbia Register. 42

@@ -1,0 +1,727 @@
+Government of the District of Columbia 
+UNIFORM LAW COMMISSION          
+   
+ 
+ 
+January 7, 2025 
+ 
+The Honorable Phil Mendelson 
+Chairman 
+Council of the District of Columbia 
+The John A. Wilson Building, 
+1350 Pennsylvania Avenue, NW        
+Washington, DC 20004 
+ 
+RE: Request for introduction of the Uniform Antitrust Pre-merger Notification Act. 
+ 
+Dear Chairman Mendelson: 
+ 
+ Pursuant to Rule 401(b)(1) of the Rules of Organization and Procedure for the 
+Council, this is to request, on behalf of the District of Columbia Uniform Law 
+Commission, that you introduce the proposed “Uniform Antitrust Pre-merger Notification 
+Act of 2025.”  
+ 
+ The uniform act, which was approved by the Uniform Law Commission in 2024, 
+would substantially improve the efficiency of the review of the possible anticompetitive 
+effects of proposed mergers by the District.  It does this by requiring persons who file 
+with the federal government what is called a Hart-Scott-Rodino form and related 
+documents (“HSR documents”) to file them with the Office of the Attorney General.  The 
+bill obviates the need for the Office to file costly and time-consuming subpoenas to 
+obtain these documents and helps the parties to the transaction by reducing delay and 
+uncertainty.  The bill imposes confidentiality restrictions on the information in the HSR 
+documents by restricting sharing of any information to federal agencies conducting 
+investigations and the attorneys general of other states that have adopted the uniform act.  
+Civil penalties are provided for noncompliance. 
+ 
+ The Uniform Law Commission is making a special outreach effort to the state 
+attorneys general to obtain enactment of this uniform act throughout the country.  The 
+uniform act has been endorsed by the American Bar Association Antitrust Law Section. 
+This bill has been reviewed and approved by the Antitrust and Nonprofit Enforcement 
+Section of the Office of the Attorney General for the District of Columbia.
+
+2 
+ 
+ A proposed “Uniform Antitrust Pre-merger Notification Act of 2025” is being 
+filed with this letter.  In addition, the following documents have been filed:  (1) a 
+summary of the uniform act; (2) a statement as to why the uniform act should be adopted; 
+and (3) the official version of the uniform act with comments. 
+ 
+ I would be pleased to answer any questions and to provide any additional 
+information requested. 
+ 
+        Sincerely, 
+        
+     
+     
+    
+ 
+ 
+        James C. McKay, Jr. 
+        Chair 
+        D.C. Uniform Law Commission 
+ 
+cc:  Uniform Law Commissioners
+
+1 
+2 
+3 airman Phil Mendelson at the request of the 
+4 District of Columbia Uniform Law Commission 
+5 
+6 
+7 
+8 
+9 A BILL 
+10 
+11 
+12 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA 
+13 
+14 To amend Subtitle II of Title 28 of the District of Columbia Code to add a new Chapter 44 to 
+15 enact the Uniform Antitrust Pre-Merger Notification Act; to require a person filing a pre-
+16 merger notification with the federal government to submit contemporaneously the same 
+17 materials with the Attorney General for the District of Columbia, if the person has a 
+18 principal place of business in the District or the person, or person it controls, directly or 
+19 indirectly had annual net sales in the District of at least 20 percent of the filing threshold; 
+20 to impose confidentially restrictions with respect to these materials; to authorize the 
+21 Attorney General to seek a civil penalty for noncompliance; and for other purposes. 
+22 
+23 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 
+24 act may be cited as the "Uniform Antitrust Pre-Merger Notification Act of 2025". 
+25 Section 2. Subtitle II of Title 28 of the District of Columbia Code is amended by adding 
+26 the following new Chapter 44 to read as follows: 
+27 "UNIFORM ANTITRUST PRE-MERGER NOTIFICATION ACT 
+28 "Sec. 
+29 "4401. Short title. 
+30 "4402. Definitions. 
+31 "4403. Filing requirements. 
+32 "4404. Confidentiality. 
+33 "4405. Reciprocity. 
+34 "4406. Civil penalty. 
+1
+
+2 
+“4407. Uniformity of application and construction. 35 
+“4408. Transitional provision. 36 
+ 37 
+ § 28-4401.  Short title. 38 
+ “This act may be cited as the Uniform Antitrust Pre-Merger Notification Act. 39 
+  § 28-4402. Definitions. 40 
+ In this act: 41 
+ “(1) “Additional documentary material” means the additional documentary material filed 42 
+with a Hart-Scott-Rodino form. 43 
+ “ (2)  “Attorney General” means the Attorney General for the District of Columbia. 44 
+ “ (3) “District” means the District of Columbia. 45 
+ “(4) “Electronic” means relating to technology having electrical, digital, magnetic, 46 
+wireless, optical, electromagnetic, or similar capabilities. 47 
+ “(5) “Filing threshold” means the minimum size of a transaction that requires the 48 
+transaction to be reported under the Hart-Scott-Rodino Act in effect when a person files a pre-49 
+merger notification. 50 
+ “(6) “Hart-Scott-Rodino Act” means Section 201 of the Hart-Scott-Rodino Antitrust 51 
+Improvements Act of 1976, 15 U.S.C. Section 18a. 52 
+ “(7) “Hart-Scott-Rodino form” means the form filed with a pre-merger notification, 53 
+excluding additional documentary material. 54 
+  “(8) “Person” means an individual, estate, business or nonprofit entity, government or 55 
+governmental subdivision, agency, or instrumentality, or other legal entity. 56 
+ “(9) “Pre-merger notification” means a notification filed under the Hart-Scott-Rodino Act 57 
+with the Federal Trade Commission or the United States Department of Justice Antitrust 58
+
+3 
+Division, or a successor agency. 59 
+ “(10) “State” means a state of the United States, the District of Columbia, Puerto Rico, 60 
+the United States Virgin Islands, or any other territory or possession subject to the jurisdiction of 61 
+the United States. 62 
+ “§ 28-4403. Filing requirements. 63 
+ “(a) A person filing a pre-merger notification shall file contemporaneously a complete 64 
+electronic copy of the Hart-Scott-Rodino form with the Attorney General if: 65 
+  “(1) The person has its principal place of business in the District; or 66 
+  “(2) The person or a person it controls directly or indirectly had annual net sales 67 
+in the District of the goods or services involved in the transaction of at least 20 percent of the 68 
+filing threshold. 69 
+ “(b) A person that files a form under subsection (a)(1) of this section shall include with 70 
+the filing a complete electronic copy of the additional documentary material. 71 
+ “(c) On request of the Attorney General, a person that filed a form under subsection 72 
+(a)(2) of this section shall provide a complete electronic copy of the additional documentary 73 
+material to the Attorney General not later than seven days after receipt of the request. 74 
+ “(d) The Attorney General may not charge a fee connected with filing or providing the 75 
+form or additional documentary material under this section. 76 
+ “§ 28-4404.  Confidentiality. 77 
+ “(a) Except as provided in subsection (c) of this section or § 28-4405, the Attorney 78 
+General may not make public or disclose: 79 
+  “(1) A Hart-Scott-Rodino form filed under § 28-4403; 80 
+  “(2) The additional documentary material filed or provided under § 28-4403; 81
+
+4 
+  “(3) A Hart-Scott-Rodino form or additional documentary material provided by 82 
+the attorney general of another state;   83 
+  “(4) That the form or the additional documentary material were filed or provided 84 
+under § 28-4403, or provided by the attorney general of another state; or 85 
+  “(5) The merger proposed in the form. 86 
+ “(b) A form, additional documentary material, and other information listed in subsection 87 
+(a) are exempt from disclosure under the Freedom of Information Act, D.C. Code § 2-531 et seq. 88 
+ “(c) Subject to a protective order entered by an agency, court, or judicial officer, the 89 
+Attorney General may disclose a form, additional documentary material, or other information 90 
+listed in subsection (a) in an administrative proceeding or judicial action if the proposed merger 91 
+is relevant to the proceeding or action. 92 
+ “(d) This act does not:  93 
+“(1) Limit any other confidentiality or information-security obligation of the 94 
+Attorney General;  95 
+“(2) Preclude the Attorney General from sharing information with the Federal 96 
+Trade Commission or the United States Department of Justice Antitrust Division, or a successor 97 
+agency; or  98 
+“(3) Preclude the Attorney General from sharing information with the attorney 99 
+general of another state that has enacted the Uniform Antitrust Pre-Merger Notification Act or a 100 
+substantively equivalent act, provided that the other state’s act includes confidentiality provisions 101 
+at least as protective as the confidentiality provisions of the Uniform Antitrust Pre-Merger 102 
+Notification Act.  103
+
+5 
+ “§ 28-4405. Reciprocity. 104 
+ “(a) The Attorney General may disclose a Hart-Scott-Rodino form and additional 105 
+documentary material filed or provided under § 28-4403 to the attorney general of another state 106 
+that enacts the Uniform Antitrust Pre-Merger Notification Act or a substantively equivalent act. 107 
+The other state’s act must include confidentiality provisions at least as protective as the 108 
+confidentiality provisions of the Uniform Antitrust Pre-Merger Notification Act.  109 
+ “(b) At least two business days before making a disclosure under subsection (a), the 110 
+Attorney General shall give notice of the disclosure to the person filing or providing the form or 111 
+additional documentary material under§ 28-4403. 112 
+ “§ 28-4406. Civil penalty. 113 
+ “The Attorney General may seek imposition of a civil penalty of not more than $10,000 114 
+per day of noncompliance on a person that fails to comply with § 28-4403 (a), (b), or (c) by 115 
+filing an action in the Superior Court of the District of Columbia.  A civil penalty imposed under 116 
+this section is subject to procedural requirements applicable to the Attorney General, including 117 
+the requirements of due process. 118 
+  “§ 28-4407. Uniformity of application and construction. 119 
+ “In applying and construing this uniform act, a court shall consider the promotion of 120 
+uniformity of the law among jurisdictions that enact it. 121 
+ “§ 28-4408.Transitional provision. 122 
+ “This act applies only to a pre-merger notification filed on or after the effective date of 123 
+this act.” 124 
+Sec. 3.  Fiscal impact statement. 125 
+ The Council adopts the attached fiscal impact statement as the fiscal impact statement 126
+
+6 
+required by section 602(c)(3) of the District of Columbia Home Rule Act, approved December 127 
+24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(3)). 128 
+  Sec. 4. Effective Date 129 
+ This act shall take effect following approval by the Mayor (or in the event of veto by the 130 
+Mayor, action by the Council to override the veto), a 30-day period of Congressional review as 131 
+provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 132 
+24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of 133 
+Columbia Register. 134
+
+The ULC is a nonprofit formed in 1892 to create nonpartisan state legislation. Over 350 volunteer commissioners—lawyers, 
+judges, law professors, legislative staff, and others—work together to draft laws ranging from the Uniform Commercial Code to 
+acts on property, trusts and estates, family law, criminal law and other areas where uniformity of state law is desirable. 
+NATIONAL CONFERENCE OF COMMISSIONERS ON UNIFORM STATE LAWS 
+Uniform Law Commission 
+111 N. Wabash Ave. 
+Suite 1010 
+Chicago, IL 60602 
+(312) 450-6600 tel 
+www.uniformlaws.org 
+UNIFORM ANTITRUST PRE-MERGER NOTIFICATION ACT 
+Summary 
+The Uniform Antitrust Pre -Merger Notification Act improves the efficiency of the state merger 
+review process for all parties and enhances certainty for businesses. The Act creates a process for 
+state attorneys general to receive Hart-Scott-Rodino (HSR) forms and the additional documentary 
+material filed with them. HSR forms, and the additional documentary material filed with them, 
+contain information about proposed transactions and are used to review the potential 
+anticompetitive effects of the proposed transaction. While state AGs have the authority to enforce 
+federal and state merger law, they do not currently have access to HSR forms and additional 
+documentary materials absent costly and time-consuming subpoenas. This delay reduces certainty 
+for parties seeking to close their deals. 
+Section 3 of the uniform act requires a person filing a pre -merger notification with the federal 
+government to submit contemporaneously the same materials to the state AG if:   
+• The person has a principal place of business in the state; or 
+• The person or a person it controls directly or indirectly had annual net sales in the state of 
+goods or services involved in the transaction of at least 20% of the filing threshold. 
+An AG may not charge a person a filing fee for filing the form or additional documentary material 
+with the AG. 
+Section 4 of the act imposes confidentiality restrictions on the AG who receives the HSR materials. 
+Under the act, the AG may not make public or disclose the HSR form, the additional documentary 
+material, the proposed merger, or even the fact that the documents were provided. The AG may, 
+however, share HSR materials with the federal agencies conducting antitrust investigations and 
+any other AG whose state has also adopted the uniform act and its confidentiality restrictions. 
+A person that fails to comply with the filing requirements of the act may face a civil penalty of not 
+more than $[10,000] per day of noncompliance. 
+  
+For more information about the Uniform Antitrust Pre -Merger Notification Act, please contact 
+ULC Legislative Program Director Kaitlin Wolff at (312) 450-6615 or kwolff@uniformlaws.org.
+
+The ULC is a nonprofit formed in 1892 to create nonpartisan state legislation. Over 350 volunteer commissioners—lawyers, 
+judges, law professors, legislative staff, and others—work together to draft laws ranging from the Uniform Commercial Code to 
+acts on property, trusts and estates, family law, criminal law and other areas where uniformity of state law is desirable. 
+NATIONAL CONFERENCE OF COMMISSIONERS ON UNIFORM STATE LAWS 
+Uniform Law Commission 
+111 N. Wabash Ave. 
+Suite 1010 
+Chicago, IL 60602 
+(312) 450-6600 tel 
+www.uniformlaws.org 
+WHY YOUR STATE SHOULD ADOPT THE 
+UNIFORM ANTITRUST PRE-MERGER NOTIFICATION ACT 
+The Uniform Antitrust Pre -Merger Notification Act improves the efficiency of the state merger 
+review process for all parties. Currently, states may enforce existing merger law. However, they 
+don’t receive the federal Hart -Scott-Rodino filings that allow the federal agencies to assess 
+mergers without litigating subpoenas. This creates unnecessary costs and delays for all parties. The 
+delays also reduce business certainty concerning deal closure. Th e uniform a ct solves these 
+problems by creating a mechanism for a state attorney general to receive access to HSR filings on 
+a confidential basis. Below are some key features of this uniform act: 
+• Improves your attorney general’s ability to investiga te potential mergers while reducing 
+unnecessary costs and enhancing business certainty. State attorneys general have the right to 
+challenge anticompetitive mergers under federal law, but they do not have the same access to 
+pertinent information, Hart -Scott-Rodino (“HSR”) filings, as the federal government. This 
+often leaves AGs playing catch -up and issuing subpoenas to gain access to the filings. This 
+creates unnecessary expenses for the AG and the merging parties while the inherent delays in 
+the process reduce business certainty. This uniform act changes the status quo by requiring a 
+party to submit HSR filings to the AG at the same time as the federal government, better 
+equipping the AG to assess the proposed transaction. 
+• Imposes no significant burdens on businesses or state attorneys general. This uniform act 
+does not require AGs to conduct investigations based upon the HSR filings they receive, it 
+merely ensures they have access. Similarly, businesses do not have to create anything new, 
+they simply must share existing files. Section 3 eliminates additional business expense s by 
+prohibiting a filing fee for providing the HSR form or additional documentary material to the 
+AG.   
+• Provides strong confidentiality protection to businesses. Section 4 of the act establishes clear 
+confidentiality rules to ensure the HSR materials are only used by the AG for legitimate law 
+enforcement and investigatory purposes. The act’s protections mirror the protections imposed 
+on the federal agencies that receive the HSR filings. 
+• Offers reciprocity to enacting states. Section 5 of the uniform act permits an AG to disclose a 
+HSR form and additional documentary material to the AG of another state if the other state has 
+enacted the uniform act. The other state’s act must include confidentiality provisions that are 
+at least as protective as the provisions of the uniform act. This reciprocity is meant to encourage 
+early information sharing and coordination among state AGs to reduce duplication and enhance 
+timely and efficient deal review. 
+For more information about the Uniform Antitrust Pre -Merger Notification Act, please contact 
+ULC Legislative Program Director Kaitlin Wolff at (312) 450-6615 or kwolff@uniformlaws.org.
+
+Uniform Antitrust Pre-Merger Notification Act 
+drafted by the 
+NATIONAL CONFERENCE OF COMMISSIONERS 
+ON UNIFORM STATE LAWS 
+and by it 
+APPROVED AND RECOMMENDED FOR ENACTMENT 
+IN ALL THE STATES 
+WITH PREFATORY NOTE AND COMMENTS 
+Copyright © 2024 
+National Conference of Commissioners 
+on Uniform State Laws 
+September 16, 2024
+
+ABOUT ULC 
+The Uniform Law Commission (ULC), also known as National Conference of Commissioners 
+on Uniform State Laws (NCCUSL), now in its 133rd year, provides states with non-partisan, 
+well-conceived and well-drafted legislation that brings clarity and stability to critical areas of 
+state statutory law. 
+ULC members must be lawyers, qualified to practice law. They are practicing lawyers, judges, 
+legislators and legislative staff and law professors, who have been appointed by state 
+governments as well as the District of Columbia, Puerto Rico and the U.S. Virgin Islands to 
+research, draft and promote enactment of uniform state laws in areas of state law where 
+uniformity is desirable and practical. 
+• ULC strengthens the federal system by providing rules and procedures that are consistent from 
+state to state but that also reflect the diverse experience of the states. 
+• ULC statutes are representative of state experience because the organization is made up of 
+representatives from each state, appointed by state government. 
+• ULC keeps state law up to date by addressing important and timely legal issues. 
+• ULC’s efforts reduce the need for individuals and businesses to deal with different laws as 
+they move and do business in different states. 
+• ULC’s work facilitates economic development and provides a legal platform for foreign 
+entities to deal with U.S. citizens and businesses. 
+• Uniform Law Commissioners donate thousands of hours of their time and legal and drafting 
+expertise every year as a public service and receive no salary or compensation for their work. 
+• ULC’s deliberative and uniquely open drafting process draws on the expertise of 
+commissioners, but also utilizes input from legal experts, and advisors and observers 
+representing the views of other legal organizations or interests that will be subject to the 
+proposed laws. 
+• ULC is a state-supported organization that represents true value for the states, providing 
+services that most states could not otherwise afford or duplicate.
+
+Antitrust Pre-Merger Notification Act 
+The committee appointed by and representing the National Conference of Commissioners on 
+Uniform State Laws in preparing this act consists of the following individuals: 
+Dan Robbins California, Chair 
+Steven L. Willborn Nebraska, Vice Chair 
+Levi J. Benton Texas 
+William H. Clark Jr. Pennsylvania 
+Parrell D. Grossman North Dakota 
+Jess O. Hale Tennessee 
+Lyle W. Hillyard Utah 
+Ryan Leonard Oklahoma 
+Kimberly A. Lowe Minnesota 
+John J. McAvoy District of Columbia 
+Cory J. Skolnick Kentucky 
+Nora Winkelman Pennsylvania, Division Chair 
+Timothy J. Berg Arizona, President 
+Other Participants 
+Daniel A. Crane Michigan, Reporter 
+Deborah A. Garza Virginia, American Bar Association Advisor 
+Sohan Dasgupta District of Columbia, American Bar Association 
+Section Advisor 
+Emilio Varanini California, American Bar Association Section 
+Advisor 
+Diane Boyer-Vine California, Style Liaison 
+Tim Schnabel Illinois, Executive Director 
+Copies of this act may be obtained from: 
+Uniform Law Commission 
+111 N. Wabash Ave., Suite 1010 
+Chicago, IL 60602 
+(312) 450-6600 
+www.uniformlaws.org
+
+Antitrust Pre-Merger Notification Act 
+Table of Contents 
+Prefatory Note ................................................................................................................................. 1 
+Section 1. Title ................................................................................................................................ 3 
+Section 2. Definitions...................................................................................................................... 3 
+Section 3. Filing Requirement ........................................................................................................ 4 
+Section 4. Confidentiality ............................................................................................................... 6 
+Section 5. Reciprocity..................................................................................................................... 9 
+Section 6. Civil Penalty................................................................................................................... 9 
+Section 7. Uniformity of Application and Construction ............................................................... 10 
+Section 8. Transitional Provision .................................................................................................. 10 
+Section 9. Effective Date .............................................................................................................. 10
+
+1 
+Antitrust Pre-Merger Notification Act 
+Prefatory Note 
+Since 1976, the federal Hart-Scott-Rodino Act (“HSR”), 15 U.S.C. Section 18a, has 
+required companies proposing to engage in most significant mergers or acquisitions to file a 
+notice with the two federal antitrust agencies—the Federal Trade Commission and the Justice 
+Department’s Antitrust Division—at least 30 days (or, in the case of acquisitions out of 
+bankruptcy or cash tender offers, 15 days) prior to closing. The HSR filing includes both a form 
+detailing information, such as the corporate structure of the parties, and additional documentary 
+material, such as presentations about the merger to the company’s board of directors. In 2023, the 
+Federal Trade Commission proposed new regulations increasing the amount of material required 
+to be submitted in the form and additional documentary material. As of this writing, the 
+regulations have not been finalized. 
+The HSR filing allows the federal antitrust agencies to scrutinize mergers before they are 
+consummated. Prior to HSR, the agencies often learned of a merger after it had already closed, 
+and then spent months or years investigating the transaction. If the agencies ultimately decided to 
+challenge the merger’s legality through a lawsuit, the only possible remedy was to unscramble a 
+deal often years after it had closed, and the businesses had become integrated. This was not an 
+optimal situation for the agencies, the businesses, or the public. HSR shifted most merger reviews 
+to the pre-merger phase, allowing earlier and more efficient engagement between the agencies 
+and the merger parties. 
+State Attorneys General (“AGs”) also have a legal right to challenge anticompetitive 
+mergers, both under the federal Clayton Act and their own state antitrust laws. See California v. 
+American Stores Co., 495 U.S. 271 (1990).  States often play an important role in merger 
+investigations and challenges, either in parallel with the federal agencies, or on their own. 
+However, the AGs do not have access to the HSR filings. Further, HSR’s strict confidentiality 
+provisions prohibit the federal agencies from sharing HSR filings with the AGs. Most AGs have 
+the right to subpoena HSR filings under their state laws, but that requires that they first become 
+aware that an HSR filing of interest has been made, and then go through a cumbersome and time-
+consuming process to issue a subpoena and wait for compliance. In some cases, the merging 
+parties voluntarily waive the HSR’s confidentiality restrictions to allow AGs to obtain access to 
+filing materials, however that process can take some time to negotiate. As a result, by the time 
+most AGs obtain access to HSR filings, the federal agencies and parties are often far along in the 
+process of investigation and negotiation. This puts the AGs at a significant disadvantage in the 
+process of merger review. It also creates additional costs and uncertainties for the merging parties 
+because federal approval does not foreclose a later state challenge. For example, in the American 
+Stores case noted above, California sued to block a merger that the Federal Trade Commission 
+had already approved. 
+In response to these shortcomings, some states have considered legislation that would 
+create a state-specific pre-merger notification requirement for all transactions in every sector. 
+However, some of these proposals would impose obligations additional to the HSR obligations 
+on merging parties and potentially move state antitrust review out of sync with federal antitrust
+
+2 
+review. For example, a proposed bill in New York would have imposed a 60-day waiting period 
+to close the deal, in contrast to HSR’s 30-day waiting period. It also would have dramatically 
+lowered the filing threshold by an order of magnitude for all transactions in every sector, which 
+would have significantly increased the burden on both businesses and the AG’s office. A similar 
+bill was introduced in Maryland in 2023. The business community has reacted with alarm to the 
+prospect of burdensome and idiosyncratic state-specific pre-merger notification provisions that 
+apply to all transactions in every sector. Both bills failed to pass. A new antitrust bill including 
+new merger regulations was introduced in New York in May, 2024 and new merger rules have 
+been proposed in California by stakeholders in an antitrust review process managed by the 
+California Law Revision Commission. 
+The Uniform Antitrust Pre-Merger Notification Act is intended to address the concerns of 
+both the AGs and business communities by creating a simple, non-burdensome mechanism for 
+AGs to receive access to HSR filings at the same time as the federal agencies, and subject to the 
+same confidentiality obligations. Under the act, covered persons—defined as persons who have 
+their principal place of business or at least a specified threshold of annual revenues in the state— 
+must provide their HSR filing (both the basic form and, under certain enumerated circumstances, 
+the additional documentary material) to the AG contemporaneously with their federal filing. The 
+material filed with the AG is subject to essentially the same confidentiality protections applicable 
+to the federal agencies, except that an AG that receives HSR materials may share them with any 
+other AG whose state has also adopted the act. The anticipated effect is to facilitate early 
+information sharing and coordination among AGs and the federal agencies, subject to 
+confidentiality obligations and without imposing any significant burden on either the merging 
+parties or the AGs. It is also anticipated that the AGs may facilitate information exchange and 
+coordination by establishing a secure central database or repository for HSR filings accessible to 
+AGs whose states have adopted the act. 
+As of the time of this writing, there is a robust national debate concerning the past and 
+future of antitrust policy, including whether there should be a significant invigoration of anti-
+merger enforcement. This proposal takes no side in that debate. By providing AGs earlier, 
+confidential access to HSR filings, it is not intended to suggest any view on the merits of the 
+mergers they may review or how they should wield their investigatory and litigation powers. Nor 
+is the goal of minimizing the burden on business meant to suggest any view on the optimal level 
+of merger activity or regulatory review of mergers. Rather, this act is animated by a spirit of good 
+government—of respecting the role of the states in the merger review process, of the need for 
+confidentiality, and of advancing the efficiency of the process for the benefit of all parties 
+involved. 
+Similarly, this act is not intended to supplant or preempt existing sector specific pre-merger 
+reporting requirements that many states have in certain areas (for example, health care) and the act 
+is not intended to limit a state’s ability to challenge smaller local mergers that do not meet the HSR 
+thresholds.
+
+3 
+Uniform Antitrust Pre-Merger Notification Act 
+Section 1. Title 
+This [act] may be cited as the Uniform Antitrust Pre-Merger Notification Act. 
+Section 2. Definitions 
+In this [act]: 
+  (1) “Additional documentary material” means the additional documentary 
+material filed with a Hart-Scott-Rodino form. 
+  (2) “Electronic” means relating to technology having electrical, digital, magnetic, 
+wireless, optical, electromagnetic, or similar capabilities. 
+  (3) “Filing threshold” means the minimum size of a transaction that requires the 
+transaction to be reported under the Hart-Scott-Rodino Act in effect when a person files a pre-
+merger notification. 
+  (4) “Hart-Scott-Rodino Act” means Section 201 of the Hart-Scott-Rodino 
+Antitrust Improvements Act of 1976, 15 U.S.C. Section 18a[, as amended]. 
+  (5) “Hart-Scott-Rodino form” means the form filed with a pre-merger 
+notification, excluding additional documentary material. 
+  (6) “Person” means an individual, estate, business or nonprofit entity, government 
+or governmental subdivision, agency, or instrumentality, or other legal entity. 
+  (7) “Pre-merger notification” means a notification filed under the Hart-Scott-
+Rodino Act with the Federal Trade Commission or the United States Department of Justice 
+Antitrust Division, or a successor agency. 
+  (8) “State” means a state of the United States, the District of Columbia, Puerto 
+Rico, the United States Virgin Islands, or any other territory or possession subject to the
+
+4 
+jurisdiction of the United States. 
+Legislative Note: It is the intent of this act to incorporate future amendments to the cited federal 
+law in paragraph (4). A state in which the constitution or other law does not permit 
+incorporation of future amendments when a federal statute is incorporated into state law should 
+omit the phrase “, as amended”. A state in which, in the absence of a legislative declaration, 
+future amendments are incorporated into state law also should omit the phrase. 
+Section 3. Filing Requirement 
+(a) A person filing a pre-merger notification shall file contemporaneously a complete 
+electronic copy of the Hart-Scott-Rodino form with the Attorney General if: 
+  (1) the person has its principal place of business in this state; or 
+  (2) the person or a person it controls directly or indirectly had annual net sales in 
+this state of the goods or services involved in the transaction of at least 20 percent of the filing 
+threshold. 
+(b) A person that files a form under subsection (a)(1) shall include with the filing a 
+complete electronic copy of the additional documentary material. 
+(c) On request of the Attorney General, a person that filed a form under subsection (a)(2) 
+shall provide a complete electronic copy of the additional documentary material to the Attorney 
+General not later than [seven] days after receipt of the request. 
+(d) The Attorney General may not charge a fee connected with filing or providing the 
+form or additional documentary material under this section. 
+Comment 
+The goals of the filing requirement are (a) to ensure that the HSR form and the additional 
+documentary material are filed with one state and (b) to provide notice through the form alone to 
+every state that might have a significant interest in the proposed merger. Subsection (a)(1) is 
+directed to the first goal; subsection (a)(2) to the second goal. 
+This section uses a well-established criterion to determine when a person has a filing 
+obligation in a state. Where a company has its principal place of business is a well-understood 
+concept from federal diversity jurisdiction. In the Supreme Court’s unanimous decision in Hertz
+
+5 
+Corp. v. Friend, 559 U.S. 77, 92-93 (2010), it described the term as follows: 
+We conclude that “principal place of business” is best read as referring to the 
+place where a corporation's officers direct, control, and coordinate the 
+corporation’s activities. It is the place that Courts of Appeals have called the 
+corporation’s “nerve center.” And in practice it should normally be the place 
+where the corporation maintains its headquarters—provided that the headquarters 
+is the actual center of direction, control, and coordination, i.e., the “nerve center,” 
+and not simply an office where the corporation holds its board meetings (for 
+example, attended by directors and officers who have traveled there for the 
+occasion). 
+Annual net sales from income and expense statements is a widely utilized measure of economic 
+activity borrowed from the HSR regulations. As noted in the definitions, the filing threshold 
+refers to the minimum size of transaction threshold for determining reportability under the HSR 
+that the Federal Trade Commission adjusts annually by rule pursuant to Section 7A(a)(2) of the 
+Clayton Act, as amended by the HSR. For reference, in 2024 the minimum size of transaction 
+threshold promulgated by the FTC was $119.5 million. Hence, for illustrative purposes, a party 
+that made an HSR pre-merger notification in 2024 and did not have its principal place of 
+business in a state that enacted this act would need to determine whether its 2023 annual net 
+sales in the state were at least 20% of $119.5 million. If so, the party would be obligated to make 
+a filing in the state pursuant to subsection (a)(2). To the extent that both the acquiring and 
+acquired persons are required to report a transaction under the HSR, both persons might be 
+required to file with the same AG if both persons fell within the coverage of this act. 
+The reference in subsection (a)(2) to the annual net sales in the state being those of 
+“goods or services involved in the transaction” is intended to limit the filing obligation under 
+subsection (a)(2) to circumstances where the filing party’s economic activity in the state is in the 
+same business category as assets involved in the acquisition. Consistent with the requirements of 
+federal law concerning reporting by corporate parents of the activities of entities they control 
+directly or indirectly (see, for example, 16 C.F.R. 801(a)(1)), the obligation under subsection 
+(a)(2) is triggered if the reporting party controls entities that have the requisite sales in the state. 
+For example, if a holding company was the reporting party under HSR, and that company owned 
+a subsidiary that had the requisite amount of sales in the state of the goods or services involved 
+in the transaction, the reporting requirement under subsection (a)(2) would be triggered. 
+However, if the parent company or its subsidiaries had the requisite amount of sales in the state, 
+but those were not in the same goods or services as those involved in the transaction, there would 
+be no reporting requirement under subsection (a)(2). 
+Subsection (b) obligates a person that has its principal place of business in a state to 
+provide both the HSR form and the additional documentary material to the state’s AG 
+contemporaneously with the HSR filing. In other states where the party meets the annual net 
+sales threshold, the person need only provide the basic HSR form with their initial filing, 
+although the AG may then request the additional documentary material under subsection (c). The 
+reason for this structure is to prevent AGs from being inundated with voluminous additional 
+documentary material that they have no interest in reviewing. To the extent an AG does not
+
+6 
+receive the additional documentary material with the initial filing but is interested in reviewing 
+that material sooner than the time allowed for a party to submit that material upon receipt of a 
+request, the AG may request that material from the AG of the party’s state of principal place of 
+business under Section 6 (assuming that that state has also passed this act).   
+The spirit of this act is to facilitate more timely and efficient AG receipt of materials 
+relating to potentially interesting mergers without imposing significant additional burdens on the 
+business community. Accordingly, subsection (d) prohibits the charging of fees for simply 
+making available to the AG information that the AG already could procure by subpoena, for 
+which it could not charge the company a fee. Although reviewing merger filings requires 
+resources, this act is not designed to impose additional costs on AG offices. To the contrary, by 
+facilitating quick and efficient receipt of HSR files, the act will save the AG time and resources 
+previously consumed in bargaining with merging parties over HSR waivers or subpoenaing HSR 
+files. Further, the confidentiality provisions of this act are designed to facilitate information 
+sharing and collaboration among the AGs and the federal antitrust agencies, and among the AGs 
+themselves. More efficient inter-agency collaboration should reduce duplication of effort and 
+allow existing resources to be deployed more efficiently in merger review. 
+Separately from a filing fee, some state statutes permit the AG to recover investigatory 
+costs from investigation subjects in certain contexts. Subsection (d) is not meant to affect the 
+operation of those statutes. To the extent that an AG seeks recovery of investigation costs (as 
+opposed to a filing fee) pursuant to a separate statute, subsection (d) does not bar such fee 
+recovery. 
+It is expected that the information being provided pursuant to this act will be used for and 
+retained in connection with an investigation of the transaction. It is further expected that states 
+availing themselves of the act will cooperate with merging parties in working out a mode of 
+filing that parallels any federal process for filing the HSR notice and documents. 
+Finally, it is expected that if there is an investigation in connection with the transaction 
+notified under the act, such an investigation will begin promptly upon receipt of all the 
+information provided under the act consistent with the act’s goals of enhanced efficiency and 
+reduced cost and uncertainty. Unreasonable delay will also adversely affect the state’s ability to 
+challenge a transaction. For example, see State of New York v. Meta Platforms, Inc., 66 F.4th 288, 
+301 (D.C. Cir. 2023) (applying laches to dismiss state challenges to Facebook’s acquisition of 
+Instagram and WhatsApp because of respective eight- and six-year delays in bringing the suit). 
+Section 4. Confidentiality 
+(a) Except as provided in subsection (c) or Section 5, the Attorney General may not make 
+public or disclose: 
+  (1) a Hart-Scott-Rodino form filed under Section 3; 
+  (2) the additional documentary material filed or provided under Section 3;
+
+7 
+  (3) a Hart-Scott-Rodino form or additional documentary material provided by the 
+attorney general of another state; 
+  (4) that the form or the additional documentary material were filed or provided 
+under Section 3, or provided by the attorney general of another state; or 
+  (5) the merger proposed in the form. 
+(b) A form, additional documentary material, and other information listed in subsection 
+(a) are exempt from disclosure under [cite to state’s freedom of information act]. 
+(c) Subject to a protective order entered by an agency, court, or judicial officer, the 
+Attorney General may disclose a form, additional documentary material, or other information 
+listed in subsection (a) in an administrative proceeding or judicial action if the proposed merger 
+is relevant to the proceeding or action. 
+(d) This [act] does not: 
+(1) limit any other confidentiality or information-security obligation of the 
+Attorney General;   
+(2) preclude the Attorney General from sharing information with the Federal 
+Trade Commission or the United States Department of Justice Antitrust Division, or a successor 
+agency; or 
+(3) preclude the Attorney General from sharing information with the attorney 
+general of another state that has enacted the Uniform Antitrust Pre-Merger Notification Act or a 
+substantively equivalent act. The other state’s act must include confidentiality provisions at least 
+as protective as the confidentiality provisions of the Uniform Antitrust Pre-Merger Notification 
+Act.   
+Legislative Note: A state may need to amend its freedom of information act to conform to this 
+act.
+
+8 
+Comment 
+Confidentiality is highly important for this act and the entire HSR filing process. The 
+HSR materials contain confidential and valuable information. Improper disclosure could 
+jeopardize the transaction and harm competition. In addition, it could pose securities law 
+problems and allow unfair competition, or even facilitate collusion. These protections mirror 
+protections that are imposed on the federal agencies which also receive the information. 
+This section ensures that AGs use the HSR materials only for legitimate investigatory and 
+law enforcement purposes, and do not disclose any HSR material except for those permissible 
+purposes. The fact that an HSR filing has been made is included in the covered confidentiality 
+obligations. In other words, an AG may not disclose even the fact that two parties are proposing 
+to merge (other than in an administrative proceeding or judicial action) if that information has 
+become known only through compliance with this act. Section 5 is not meant to prevent AGs 
+from publicly disclosing information that is already in the public domain. 
+To the extent that confidential material needs to be disclosed in a judicial document such 
+as a complaint, it is customary practice for any confidential material to be redacted in the public 
+version of the document, with the unredacted version filed under seal. It is anticipated that AGs 
+will continue to follow that practice, even as to complaints filed before a court has had an 
+opportunity to implement a protective order. 
+Subsection (d)(1) is intended to preserve any other confidentiality or information-security 
+obligations, whatever their source, in addition to those set forth in this act. Subsections (d)(2) and 
+(3) are intended to allow AGs to communicate freely with their federal and state counterparts 
+concerning merger review in circumstances where both the states and federal agencies have 
+access to the same confidential information. The term information in these subsections is 
+intended to include economic and legal analyses that are commonly used in merger review.  For 
+example, one AG may wish to share an economic analysis of relevant data with federal and state 
+counterparts to enhance efficiency and reduce wasteful duplication. 
+This section uses the phrase “substantively equivalent” to describe another state’s law 
+that would be sufficiently like the enacting state’s law to warrant the kind of interstate 
+collaboration envisioned by this act. Another expression—“substantially similar”—is sometimes 
+used in legislation. The use of “substantively equivalent” instead is intended to signal that, 
+whatever the form of another state’s law, that law must contain the substantively significant 
+components of the enacting state’s law, without material alteration, for the information sharing 
+and collaboration envisioned by this act to occur. 
+Finally, an explanatory comment on the relationship between subsections 4(d) and 5(a): 
+5(a) permits the AG of one state to share the HSR materials with the AG of another state that has 
+adopted a substantively equivalent law. By contrast, subsection 4(d) allows for information-
+sharing among or between AGs who already have access to the HSR materials. This subsection 
+was added to make clear that work product or other information derived from HSR materials 
+may be shared with federal enforcers or other AGs whose states have enacted a substantively 
+equivalent law, thus guaranteeing the confidentiality of the information. For example, if the AG
+
+9 
+of State A had an economist perform a regression analysis based on data provided in the HSR 
+filing received pursuant to this act, that analysis could be shared with the AG of another state that 
+also enacted the act, or a substantively equivalent act. 
+Section 5. Reciprocity 
+(a) The Attorney General may disclose a Hart-Scott-Rodino form and additional 
+documentary material filed or provided under Section 3 to the attorney general of another state 
+that enacts the Uniform Antitrust Pre-Merger Notification Act or a substantively equivalent act. 
+The other state’s act must include confidentiality provisions at least as protective as the 
+confidentiality provisions of the Uniform Antitrust Pre-Merger Notification Act.  
+(b) At least two business days before making a disclosure under subsection (a), the 
+Attorney General shall give notice of the disclosure to the person filing or providing the form or 
+additional documentary material under Section 3. 
+Comment 
+This section does not require the HSR form or additional documentary material to be 
+delivered individually to each AG. It is hoped that an AG, or the AGs collectively, may establish 
+a secure central electronic database of the materials that can be shared only with AGs entitled to 
+receive the materials. The establishment of a secure central database would not conflict with the 
+confidentiality provisions of this act.  
+Section 5(b) is intended to allow a party to challenge the disclosure when appropriate. 
+Section 6. Civil Penalty 
+The Attorney General may [impose][seek imposition of] a civil penalty of not more than 
+$[10,000] per day of noncompliance on a person that fails to comply with Section 3(a), (b), or 
+(c). A civil penalty imposed under this section is subject to procedural requirements applicable to 
+the Attorney General, including the requirements of due process. 
+Legislative Note: A state should determine whether to use “impose” or “seek imposition of” 
+based on whether that state’s laws permit its attorney general to impose a civil penalty directly 
+or require the attorney general to seek imposition of a civil penalty in an appropriate 
+proceeding.
+
+10 
+Comment 
+The sanctions provision is intended to incentivize compliance with the act without being 
+disproportionately punitive. A $10,000 per day fine is intended to serve as a limit rather than an 
+automatic penalty. In determining whether any fine should be levied and its amount, the AG in 
+the first instance, and then any reviewing court, should consider factors such as: (1) whether the 
+non-compliance was intentional, negligent, accidental, or excusable; (2) whether the non-
+compliance materially impaired the AG’s ability to engage in merger review; and (3) whether 
+other states have imposed, or are likely to impose, sanctions for violations of their laws with 
+respect to the same transaction. The provision for monetary sanctions is not meant to prevent a 
+court of competent jurisdiction from ordering such equitable relief as the court may deem 
+appropriate. 
+It should be kept in mind that, while both the acquiring and acquired party to a 
+transaction may have HSR filing obligations, and both may also have filing obligations under 
+this act, in some circumstances (such as a hostile takeover) the parties may file their HSR 
+notifications at different times, and therefore make their notifications under this act at different 
+times. 
+Section 7. Uniformity of Application and Construction 
+In applying and construing this uniform act, a court shall consider the promotion of 
+uniformity of the law among jurisdictions that enact it. 
+Section 8. Transitional Provision 
+This [act] applies only to a pre-merger notification filed on or after [the effective date of 
+this [act]]. 
+Section 9. Effective Date 
+This [act] takes effect …

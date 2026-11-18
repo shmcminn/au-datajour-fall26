@@ -1,0 +1,150 @@
+1 
+ 
+ 1 
+     2 
+               Chairman Phil Mendelson 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ A BILL 9 
+ 10 
+         11 
+ 12 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA 13 
+ 14 
+         15 
+ 16 
+ 17 
+To amend section 16-1501 to provide that the Court may, at its discretion, dismiss a complaint 18 
+that does not allege sufficient facts or where the person aggrieved has not produced 19 
+sufficient documentation; to amend Title 16 by adding a new section 16-1502a to entitle 20 
+plaintiffs in eviction actions for nonpayment of rent to the entry of a protective order 21 
+requiring the defendant to deposit rent into the Superior Court’s registry; to amend the 22 
+Rental Housing Act of 1985 to give the Court discretion regarding dismissal of an 23 
+eviction case, and to allow housing providers to file for an expedited eviction where the 24 
+tenant or occupant has engaged in or facilitated violent criminal activity on the premises. 25 
+ 26 
+ BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 27 
+act may be cited as the “Eviction Reform Amendment Act of 2025”.  28 
+ Sec. 2. Title 16 of the District of Columbia Official Code is amended as follows: 29 
+ (a) Section 16-1501(d) is amended by striking the phrase “the Court shall dismiss the 30 
+complaint.” and inserting the phrase “the Court may, in its discretion when weighing the 31 
+prejudice to all parties, dismiss the complaint.” in its place. 32 
+ (b) Section 16-1502(a) is amended by striking the phrase “30 days,” and inserting the 33 
+phrase “10 days,”. 34 
+ (c) A new Section 16-1502a is added to read as follows: 35 
+ “Sec. 16-1502a. Protective orders and court registry payments. 36
+
+2 
+ 
+ “(a) At the initial hearing for a complaint for restitution of possession alleging 37 
+nonpayment of rent, the plaintiff shall be entitled as a matter of right, upon written or oral motion 38 
+to the Court, to the entry of a protective order requiring the defendant to deposit into the Court’s 39 
+registry the full monthly rent, in regular monthly intervals, from the initial hearing through the 40 
+conclusion of the case. If a motion for a protective order is made before the initial hearing, the 41 
+Court shall rule on the motion no later than the initial hearing date. 42 
+ “(b)(1) Upon the plaintiff’s request for the entry of a protective order pursuant to 43 
+subsection (a) of this section, the defendant may challenge the amount of the protective order on 44 
+the basis of:  45 
+   “(A) The rent level having been miscalculated or incorrectly asserted in 46 
+the plaintiff’s complaint; or 47 
+   “(B) Alleged violations of the District’s property maintenance or housing 48 
+code.  49 
+  “(2)(A) If the defendant asserts a defense under subparagraph (B) of paragraph (1) 50 
+of this subsection, the Court shall issue the protective order in an amount required by subsection 51 
+(a) of this section and thereafter hold a hearing on the asserted defenses.  52 
+   “(B) If, at or after the hearing held pursuant to subparagraph (A) of this 53 
+paragraph, the Court finds that a defendant has proven the existence of housing or property 54 
+maintenance code violations, the presence of which justified a lower rent than was required by a 55 
+protective order entered under subsection (a) of this section, the Court shall, accounting for the 56 
+nature and duration of the housing or property maintenance code violations, refund any rent paid 57 
+by the tenant into the Court’s registry above the amount determined to be appropriate by the 58 
+Court.  59
+
+3 
+ 
+  “(3) A defendant will reserve the right to assert any other cognizable defense to 60 
+nonpayment of rent at trial.”. 61 
+ Sec. 3. Title V of the Rental Housing Act of 1985, effective July 17, 1985 (D.C. Law 6-62 
+10; D.C. Official Code § 42-3505.01 et seq.), is amended as follows: 63 
+ (a) Section 501 (D.C. Official Code § 42-3505.01) is amended as follows: 64 
+  (1) Subsection (a) is amended as follows: 65 
+   (A) Paragraph (1) is amended to read as follows: 66 
+  “(a)(1) Except as provided in this section and section 501b, no tenant shall be 67 
+evicted from a rental unit, notwithstanding the expiration of the tenant’s lease or rental 68 
+agreement, so long as the tenant continues to pay the rent to which the housing provider is 69 
+entitled for the rental unit; provided, that the nonpayment of a late fee shall not be the basis for 70 
+an eviction. No tenant shall be evicted from a rental unit for any reason unless the tenant has 71 
+been served with a written notice which meets the requirements of this section; provided, that 72 
+this shall not apply to evictions under section 501b. Notices for all reasons other than 73 
+nonpayment of rent shall be served upon both the tenant and the Rent Administrator; provided, 74 
+that this shall not apply to evictions under section 501b.”.  75 
+   (B) Paragraph (4) is amended by striking the phrase “shall dismiss a 76 
+claim” and inserting the phrase “may, in its discretion, dismiss a claim” in its place.  77 
+ (b) A new section 501b (D.C. Official Code § 42-3505.01b) is added to read as follows: 78 
+ “Sec. 501b. Expedited evictions for violent criminal activity. 79 
+ “(a) A housing provider may recover possession of a rental unit pursuant to this section 80 
+where a court of competent jurisdiction has determined that the tenant, or a person occupying the 81
+
+4 
+ 
+premises with or in addition to the tenant, has engaged in or facilitated violent criminal activity 82 
+on the premises. The housing provider shall serve on the tenant a 10-day notice to vacate. 83 
+ “(b) After serving a notice to vacate pursuant to subsection (a) of this section, a housing 84 
+provider may file a complaint with a court of competent jurisdiction to recover possession of the 85 
+rental unit. The Court shall set the matter for a hearing, which shall be held on an expedited basis 86 
+within 20 days following the filing of the complaint.   87 
+ “(c) It shall be a defense to an action for possession under this section if: 88 
+  “(1) The tenant is a victim, or is the parent or guardian of a minor victim, of an 89 
+intrafamily offense or actions relating to an intrafamily offense, as defined in § 16-1001(8), if the 90 
+Court determines that the intrafamily offense, or actions relating to the intrafamily offense, are 91 
+the basis for the notice to vacate. 92 
+   “(A) If, as a result of the intrafamily offense or the actions relating to the 93 
+intrafamily offense that is the basis for the notice to vacate, the tenant has received a temporary 94 
+or civil protection order ordering the respondent to vacate the home, the Court shall not enter a 95 
+judgment for possession; 96 
+   “(B) If, as a result of the intrafamily offense or the actions relating to the 97 
+intrafamily offense that is the basis for the notice to vacate, the tenant provides to the Court a 98 
+copy of a police report written within the preceding 60 days or has filed for but has not received 99 
+a temporary or civil protection order ordering the respondent to vacate the home, the Court shall 100 
+have the discretion not to enter a judgment for possession under this section; 101 
+  “(2) The tenant did not know or have reason to know that criminal activity was 102 
+occurring or would likely occur on the premises; or 103
+
+5 
+ 
+  “(3) The tenant had done everything that could reasonably be expected under such 104 
+circumstances to prevent the commission of violent criminal activity, such as requesting the 105 
+housing provider remove the offending household member’s name from the lease, reporting prior 106 
+criminal activity to the police, seeking assistance from social service or counseling agencies, or 107 
+denying permission, if feasible, for the offending household member to reside in the dwelling 108 
+unit. 109 
+ “(d) If it is determined by a preponderance of the evidence that the tenant or occupant has 110 
+engaged in or facilitated violent criminal activity, the Court shall enter a final judgment for 111 
+possession and issue a writ of restitution that mandates the eviction of the tenant or occupant 112 
+within 20 days.   113 
+ “(e) For purposes of this section, the term: 114 
+  “(1) “Occupant” means a person authorized by the tenant or housing provider to 115 
+be on the premises of the rental unit. 116 
+  “(2) “Premises” means a rental unit, its appurtenances, and the building, and the 117 
+grounds, areas, and facilities held out for the use of tenants generally.  118 
+  “(3) “Rental unit” means an apartment, room, or part of a publicly or privately 119 
+owned housing accommodation that is rented or offered for rent for residential occupancy. 120 
+  “(4) “Violent criminal activity” means a “dangerous crime” as defined in D.C. 121 
+Official Code § 23-1331(3) or a “crime of violence” as defined in D.C. Official Code § 23-122 
+1331(4).”.  123 
+ Sec. 4. Fiscal impact statement.   124
+
+6 
+ 
+ The Council adopts the fiscal impact statement in the committee report as the fiscal 125 
+impact statement required by section 4a of the General Legislative Procedures Act of 1975, 126 
+approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a). 127 
+ Sec. 5. Effective date. 128 
+ This act shall take effect following approval by the Mayor (or in the event of veto by the 129 
+Mayor, action by Council to override the veto), a 30-day period of congressional review as 130 
+provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 131 
+24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of 132 
+Columbia Register. 133

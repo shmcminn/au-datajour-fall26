@@ -1,0 +1,142 @@
+COUNCIL OF THE DISTRICT OF COLUMBIA  
+OFFICE OF COUNCILMEMBER BROOKE PINTO  
+THE JOHN A. WILSON BUILDING  
+1350 PENNSYLVANIA AVENUE, N.W., SUITE 106  
+WASHINGTON, D.C. 20004  
+ 
+   
+ 
+November 17, 2025  
+ 
+Nyasha Howard  
+Secretary Council of the District of Columbia  
+1350 Pennsylvania Avenue, N.W.  
+Washington, DC 20004 
+ 
+Dear Secretary Howard, 
+Today, I am introducing the “Artificial Intelligence Literacy in Education Act of 2025.” Please find 
+enclosed a signed copy of the legislation. This legislation would provide support for students and educators 
+to develop knowledge and skills in media literacy to navigate a world that is increasingly shaped by artificial 
+intelligence (AI).  
+AI is already changing the world in which our students are growing up. Increasingly, citizens have had to 
+contend with deepfake disinformation, cyber scams, and social media cyber-harassment.1 In educational 
+settings especially, students must contend with the uses and abuses of AI platforms, which can lead to both 
+intentional and inadvertent academic misconduct through plagiarism and platform-invented fake source 
+generation. 2  At the same time, there is promise that artificial and generative intelligence can be 
+appropriately harnessed to advance learning, instruction, and research in both creative and efficient ways. 
+This bill aims to prepare and equip our students to handle an ineluctably digitized world. The bill aims to 
+equip students to better be able to understand how cutting-edge artificial and generative intelligence 
+technologies work, how to use them responsibly, and how to think critically about the impact artificial and 
+generative tools are already having on our day to day lives. This bill proposes to support students and 
+educators by requiring education agencies to develop policies on the instruction and use of artificial and 
+generative intelligence and by requiring the DC Office of the State Superintendent of Education (OSSE) to 
+create guidance surrounding the use and instruction of artificial and generative intelligence tools and to 
+further professional development on the instruction of AI for educators. 
+We are seeing states’ legislatures moving to create guidance surrounding the use and instruction of AI, 
+including Tennessee and Ohio. The bill draws from growing efforts of legislative proposals and policies in 
+other jurisdictions, including Ohio and Tennessee and neighboring Arlington, Virginia’s Public School 
+ 
+1 Tate Ryan-Mosley, How generative AI is boosting the spread of disinformation and propaganda, MIT Technology 
+Review (Oct. 4, 2023), available here; Peter Suciu, The Spread of Misinformation on social media is getting worse, 
+Forbes (June 5, 2025), available here. 
+2 Saeed Awah Bin-Nashwan et al., Use of Chat GPT  in academia: Academic integrity hangsi n the balance  
+Technology in Society (Nov. 2024), available here; Damian Okaibedi Eke, ChatGPT and the rise of generative AI: 
+Threat to academic integrity? Journal of Responsible Technology (April 2023), available here.
+
+COUNCIL OF THE DISTRICT OF COLUMBIA  
+OFFICE OF COUNCILMEMBER BROOKE PINTO  
+THE JOHN A. WILSON BUILDING  
+1350 PENNSYLVANIA AVENUE, N.W., SUITE 106  
+WASHINGTON, D.C. 20004  
+ 
+   
+ 
+District, but also presents a new version of these policies that will guide instructors and students on the use 
+of artificial and generative intelligence as well as media literacy.3 
+We must remain focused on increasing positive educational outcomes for students and preparing them for 
+success in a world where AI is everywhere—and not going anywhere. 
+Should you have any questions about this legislation, please contact my Committee and Legislative Director, 
+Linn Groft, at lgroft@dccouncil.gov. 
+Thank you, 
+ 
+Brooke Pinto  
+Councilmember, Ward 2 
+Chairwoman, Committee on the Judiciary and Public Safety 
+Council of the District of Columbia 
+ 
+3  Artificial Intelligence and APS: APS Guidance for the Use of Generative Artificial Intelligence in Schools (2025), 
+available here; For the Ohio law, see Title 33 of Ohio Rev. Code Section 3301.24, available here; for Tennessee’s 
+legislative proposal, see HB0531 SB0514, available here.
+
+________________________ 
+            Councilmember Brooke Pinto 
+ 
+A BILL 
+ 
+_________________________ 
+ 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA 
+ 
+_________________________ 
+ 
+ 
+To direct local education agencies to adopt and implement a model AI literacy policy addressing 1 
+appropriate use and instruction of artificial and generative intelligence by students and 2 
+staff for educational purposes. 3 
+ 4 
+BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 5 
+act may be cited as the “Artificial Intelligence Literacy in Education Act of 2025”. 6 
+ Sec. 2. Definitions. 7 
+ For the purposes of this act, the term: 8 
+  (1) “AI” means artificial intelligence, which is the simulation of human 9 
+intelligence through the use of algorithms, data, and computational powers with the goal of 10 
+enabling machines or software to perform tasks that typically require human intelligence, such as 11 
+learning, reasoning, problem-solving, perception, and language understanding. 12 
+  (2) “AI Literacy” means the knowledge and skills needed to interact with artificial 13 
+and generative intelligence systems effectively, including understanding how AI functions and 14 
+the use of AI responsibly to monitor its performance and to think about its role in human lives. 15 
+This includes learning about how AI is made and used, recognizing both positive aspects and 16 
+potential issues, considering the moral and ethical questions AI raises, and learning the skills 17
+
+needed to assess the accuracy, credibility, and provenance of digital content, including content 18 
+that may be AI generated. 19 
+  (3) “Generative AI” means a type of technology that generates new content such 20 
+as text, images, audio, code, and video resembling what humans can produce by learning patterns 21 
+and structures from existing data. It learns from inputs and searchable data. 22 
+  (4) “LEA” means local education agency, which is the District of Columbia 23 
+Public Schools system or any individual public character school or group of public charter 24 
+schools operating under a single charter. 25 
+  (5) “OSSE” means Office of the State Superintendent of Education. 26 
+ Sec. 3. LEA requirements for an artificial and generative intelligence literacy policy. 27 
+ (a) No later than 15 days before the start of the 2026-27 School Year, each LEA serving 28 
+students enrolled in grades 9-12 shall adopt and implement a model AI literacy policy addressing 29 
+appropriate use and instruction of artificial and generative intelligence by students and staff for 30 
+educational purposes. 31 
+ (a) Each LEA’s AI literacy policy shall: 32 
+  (1) Introduce artificial and generative intelligence concepts; 33 
+  (2) Define appropriate and responsible access and use of artificial and generative 34 
+intelligence in an educational setting; and 35 
+  (3) Critically evaluate various artificial and generative intelligence tools within 36 
+the curriculum taught by the educator with a focus on transparency, equity, accountability, 37 
+privacy, security, safety, and the ability to assess the intent and credibility behind AI generated 38 
+content. 39 
+ (b) OSSE shall: 40
+
+(1) Issue guidance on how to implement the required instruction and provide a 41 
+professional development program in artificial and generative intelligence education for 42 
+educators, including professional and operational efficiency and personal and social wellbeing 43 
+for students and staff; and 44 
+  (2) Require at least one professional development course per school year for 45 
+educators to gain knowledge and skills to integrate artificial and generative AI into their 46 
+teaching, including training media literacy skills relevant to AI, such as evaluating sources, 47 
+identifying AI generated content, and teaching students how to navigate misinformation.  48 
+ Sec. 4. Fiscal impact statement. 49 
+ The Council adopts the fiscal impact statement in the committee report as the fiscal 50 
+impact statement required by section 4a of the General Legislative Procedures Act of 1975, 51 
+approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a). 52 
+ Sec. 5. Effective date. 53 
+ This act shall take effect after approval by the Mayor (or in the event of veto by the 54 
+Mayor, action by the Council to override the veto), a 30-day period of congressional review as 55 
+provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 56 
+24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of 57 
+Columbia Register. 58

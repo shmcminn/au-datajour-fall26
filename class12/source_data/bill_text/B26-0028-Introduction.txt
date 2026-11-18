@@ -1,0 +1,421 @@
+_____________________________ 
+Councilmember Kenyan R. McDuffie 
+_____________________________ 
+Councilmember Brianne K. Nadeau 
+_____________________________ 
+Councilmember Robert C. White, Jr. 
+_____________________________ 
+Councilmember Anita Bonds 
+_____________________________ 
+Councilmember Janeese Lewis George 
+ 
+ 
+ 
+_____________________________ 
+Councilmember Zachary Parker 
+ 
+ 
+ 
+ 
+ 
+ 
+_____________________________ 
+Councilmember Charles Allen  
+ 
+1 
+ 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+A BILL 7 
+ 8 
+_________________________ 9 
+ 10 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA 11 
+ 12 
+_________________________ 13 
+ 14 
+To prohibit segregated confinement in jails; to strictly limit the use of safe cells and require that 15 
+incarcerated people with mental health emergencies  receive the care to which they are 16 
+entitled; to require the Department of Corrections to create a plan to eliminate segregated  17 
+confinement and report to the Council the impacts of doing so. 18 
+ 19 
+BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 20 
+act may be cited as the “Eliminating Restrictive and Segregated Enclosures (“ERASE”) Solitary 21 
+Confinement Act of 2025”. 22 
+ Sec. 2. Definitions. 23
+
+2 
+ 
+ For purposes of this act, the term: 24 
+ (a) “Appropriate healthcare” means the right to:  25 
+  (1) Timely, responsive, respectful, and dignified attention to a resident’s 26 
+healthcare needs by a qualified health professional; 27 
+  (2) Assessment, consultation, and provision of health care consistent with the  28 
+standard of care expected to be provided by a reasonably prudent qualified health professional in  29 
+the professional’s specialty area, and not limited in any way because of status as a detained or  30 
+incarcerated person; 31 
+  (3) Have the qualified health professional respect a resident's privacy and 32 
+confidentiality;  33 
+  (4) Privacy and protection from inquiry by qualified health professionals  34 
+regarding a resident’s charges, convictions, or duration of sentences unless expressly pertinent to  35 
+the delivery of care; 36 
+  (5) Freedom from physical restraints while receiving any form of healthcare,  37 
+unless the treating qualified health professional requests physical restraints to address a specific  38 
+safety concern; 39 
+  (6) Obtain, at no cost, at the conclusion of a resident’s visit to a qualified health 40 
+professional providing services outside of a penal institution, copies of all records of the  41 
+resident’s own diagnoses, test results, treatment instructions, recommendations for further  42 
+treatment and evaluation, and other documents that a person who is not detained or incarcerated 43 
+would have a right to obtain from a qualified health professional; 44 
+  (7) Obtain, at no cost, full or partial copies of a resident’s own medical records  45 
+that are created by or in the possession of either the Department or the entity providing health  46
+
+3 
+ 
+care on behalf of the Department, upon the request of a resident, former resident, or a resident or  47 
+former resident’s counsel without having to file a request under the District of Columbia  48 
+Freedom of Information Act, D.C. Code § 2-531; 49 
+  (8) A reasonable opportunity to discuss with a qualified health professional the  50 
+benefits and risks of treatment alternatives, including the risks and benefits of forgoing  51 
+treatment, and guidance about different courses of action;   52 
+  (9) Ask questions about health status or recommended treatment and to have those  53 
+questions answered by a qualified health professional;  54 
+  (10) Make decisions about the care they receive and have those decisions 55 
+respected;  56 
+  (11) Be advised of any conflicts of interest a qualified health professional may  57 
+have with respect to a resident’s care; 58 
+  (12) Obtain a second opinion from a qualified health professional providing  59 
+services outside of the penal institution in the same or similar specialty within a reasonable  60 
+amount of time in cases involving a serious risk of death or serious bodily injury;    61 
+  (13) Coordination and integration of the care provided by a resident’s qualified  62 
+health professionals, including the timely provision of care by a suitable qualified health   63 
+professional outside of the penal institution as necessary; and  64 
+  (14) Visitation with a resident’s “attorney in fact,” as defined in D.C. Code § 21- 65 
+2202.1, for the purpose of healthcare decision making, regardless of any Department policy to  66 
+the contrary;  67 
+  (15) All rights enumerated in the Consumers’ Bill of Rights at D.C. Code § 7- 68 
+1231.04; 69
+
+4 
+ 
+  (16) Communication pursuant to the DC Language Access Act at D.C. Code § 2 70 
+1901 et seq; and 71 
+  (17) Effective communication pursuant to Title II and Title III of the Americans 72 
+with Disabilities Act at 42 U.S.C. §§ 12131-34 and 12181-89. 73 
+ (b) “Chemical restraint” means a medication that is used in addition to or in place of the 74 
+resident’s regular, prescribed drug regimen to control extreme behavior during an emergency, 75 
+but does not include medications that comprise the resident’s regular, prescribed medical 76 
+regimen and that are part of the resident’s treatment, even if the intended purpose is to control 77 
+ongoing behavior; 78 
+ (c) “Department” means the Department of Corrections, as defined in D.C. Code § 24- 79 
+211.01;  80 
+ (d) “Disciplinary housing” means the separation of a resident from other individuals for  81 
+the purpose of punishing the resident for a violation of the Department’s or penal institution’s  82 
+rules; 83 
+ (e) “Health care” means any type of care provided by a person licensed under or  84 
+permitted to practice a health occupation in the District as defined in D.C. Code § 3-1201 et seq.  85 
+Healthcare includes medical care, dental care, vision care, psychiatric care, psychological or  86 
+other treatment for mental or behavioral health conditions, physical therapy, occupational  87 
+therapy, chronic care, and the provision of medication or medical supplies; 88 
+ (f) “Medical isolation” means the isolation of a resident consistent with a finding by a  89 
+qualified health professional that the resident has a communicable disease for which the Centers 90 
+for Disease Control and Prevention recommends or authorizes isolation or quarantine, and that 91 
+isolation is medically necessary for that resident’s treatment or to protect other residents or staff 92
+
+5 
+ 
+from the communicable disease; 93 
+ (g) “Minimum out-of-cell time” means at least 8 hours daily, between 8 a.m. and 8 p.m.,  94 
+during which a resident is not restricted to their cell and has the opportunity to move around a 95 
+shared space, interact with other residents in a shared space without barriers or physical or 96 
+chemical restraints, participate in programming, shower, or go to the commissary, gym, and 97 
+recreation yard, or participate in other activities normally conducted outside of a resident’s cell; 98 
+ (h) “Penal institution” means any penitentiary, prison, jail, or correctional facility owned, 99 
+operated, or controlled by the Department;  100 
+ (i) “Physical restraint” means any mechanical device, material, or equipment attached or  101 
+adjacent to the resident’s body, or any manual method, that the resident cannot easily remove 102 
+and which restricts their freedom of movement or normal access to their body; 103 
+ (j) “Prolonged confinement” means the denial of minimum out-of-cell time, without a 104 
+resident’s informed written consent; 105 
+ (k) “Punitive measures” means the loss of any privilege, including video and phone calls, 106 
+recreation, reading materials, mail, or commissary, that is standardly provided to residents; 107 
+ (l) “Qualified health professional” means a person licensed under or permitted to practice 108 
+a health occupation in the District as defined by D.C. Code § 3-1201.08 who is providing 109 
+services or treatment for which the individual is specifically licensed or is permitted to perform 110 
+pursuant to D.C. Code § 3-1201 et seq.; 111 
+ (m) “Resident” means any individual detained or incarcerated at a penal institution;  112 
+ (n) “Safe cell” means a suicide-resistant housing cell designed to prevent a resident from 113 
+inflicting serious bodily injury upon themselves or used by the Department as a place to hold and 114 
+continuously monitor residents placed on suicide watch; 115
+
+6 
+ 
+ (o) “Serious bodily injury” means a bodily injury or significant bodily injury that 116 
+involves a substantial risk of death, protracted and obvious disfigurement, protracted loss or 117 
+impairment of the function of a bodily member or organ, or protracted loss of consciousness;  118 
+ (p) “Suicide precaution” means a measure used to observe a resident who is assessed by a 119 
+qualified health professional and determined to not be actively suicidal, but expresses suicidal 120 
+ideation or has a recent prior history of inflicting or attempting to inflict serious bodily injury 121 
+upon themselves, or a resident who denies suicidal ideation or does not threaten suicide, but 122 
+demonstrates other concerning behavior indicating the potential for inflicting death or serious 123 
+bodily injury upon themselves; and 124 
+ (q) “Suicide watch” means a measure used to observe a resident who is assessed by a  125 
+qualified health professional and determined to be actively suicidal, by either threatening or  126 
+engaging in inflicting serious bodily injury upon themselves. 127 
+Sec. 3. Scope. 128 
+ This act shall apply to all residents detained or incarcerated at the Central Detention 129 
+Facility, the Correctional Treatment Facility, the Central Cell Block, and any other penal 130 
+institution owned, operated, or controlled by the Department. 131 
+ Sec. 4. Limitations on the Use of Prolonged Confinement. 132 
+ (a) The Department shall provide appropriate healthcare to all residents, including those 133 
+subject to disciplinary housing, medical isolation, suicide precaution, and suicide watch. 134 
+(b) Except as provided in subsections (c) and (d) of this section, the Department shall not 135 
+use or impose any form of prolonged confinement on any resident for any purpose, including 136 
+discipline, safety, security, administrative convenience, placement on a medical or mental health 137 
+unit, health care need, or the prevention of suicide or self-harm. 138
+
+7 
+ 
+(c) A resident in medical isolation may be subject to prolonged confinement, but only for 139 
+the time necessary to ensure the resident is no longer contagious or transmitting a communicable 140 
+disease.  141 
+(d) A qualified health professional shall reevaluate whether medical isolation is necessary 142 
+at an interval in accordance with guidance issued by the Centers for Disease Control and 143 
+Prevention or, at a minimum, every 24 hours. 144 
+(e) When a qualified health professional determines the resident is no longer contagious, 145 
+the resident shall be immediately entitled to minimum out-of-cell time, even if they remain 146 
+housed in a medical isolation unit.  147 
+(f) The removal of personal property items from a resident shall be prohibited absent an 148 
+individualized determination by a qualified health professional that the removal of a particular 149 
+item is necessary to prevent the transmitting of a communicable disease. 150 
+(g) A resident placed on suicide watch may be placed in prolonged confinement, subject 151 
+to the provisions of Section 5 of this Chapter.  152 
+(h) If the Department takes possession of a resident’s personal property when moving the 153 
+resident to or from disciplinary housing, the Department shall return all personal property to the 154 
+resident within 6 hours of taking possession of the property, excluding any contraband as defined 155 
+in D.C. Code § 22-2603.02. 156 
+(i) Punitive measures may only be applied to a resident in response to a disciplinary 157 
+finding. 158 
+(j) At intake, and any time a resident is placed in prolonged confinement, medical 159 
+isolation, disciplinary housing, or under suicide precaution or suicide watch, the Department 160 
+shall provide the resident educational materials on mental health and substance use disorders, the 161
+
+8 
+ 
+stigma around mental health and substance use disorders, the mental health and substance use 162 
+disorder treatment options available to residents from the Department, and the law, regulations, 163 
+and policy statements governing the use of prolonged confinement, medical isolation, 164 
+disciplinary housing, and suicide precaution or suicide watch. The Department shall make these 165 
+educational materials available within 2 hours of the intake or placement in written format, both 166 
+hard copy and electronic, and in video format. These educational materials must comply with the 167 
+DC Language Access Act at D.C. Code § 2-1901 et seq. 168 
+(k) The Department shall notify a resident’s counsel of record any time a resident is 169 
+placed in prolonged confinement, medical isolation, disciplinary housing, or under suicide 170 
+precaution or suicide watch. If the resident does not have a counsel of record, the Department 171 
+shall notify the Public Defender Service for the District of Columbia. 172 
+Sec. 5. Limitations on the use of prolonged confinement. 173 
+ (a) Department staff shall directly observe a resident on suicide precaution at staggered 174 
+intervals not to exceed every 15 minutes and document those observations. 175 
+ (b) Department staff shall directly observe a resident on suicide watch continuously and 176 
+without interruption and document those observations every 15 minutes. 177 
+ (c) Supervision aids, like cameras, can be utilized as a supplement to, but never as a 178 
+substitute for, direct observation by Department staff of a resident on suicide precaution or 179 
+suicide watch.  180 
+ (d) A resident on suicide precaution shall never be placed in a safe cell and shall not be 181 
+subject to prolonged confinement or punitive measures.  182 
+ (e) All residents on suicide precaution or suicide watch shall be entitled to attend all court 183 
+or parole hearings unless a qualified health practitioner makes a finding that non-attendance is 184
+
+9 
+ 
+immediately necessary to prevent a risk of death or serious bodily injury to the resident or 185 
+another person. 186 
+ (f) A resident on suicide watch shall reside in the least restrictive setting necessary to 187 
+reasonably assure the safety of the resident and others, as determined by a qualified health 188 
+professional, including housing in the general population, mental health unit, or medical 189 
+infirmary.  190 
+ (g) A resident on suicide watch may be placed in a safe cell only if it is immediately 191 
+necessary to prevent death or serious bodily injury. 192 
+ (h) A qualified health professional shall directly observe any resident in a safe cell a 193 
+minimum of every 4 hours and shall formally reassess the resident at least every 24 hours. 194 
+ (i) Removal of a resident’s clothing shall be prohibited absent an individualized 195 
+determination by a qualified health professional that such removal is necessary to prevent death 196 
+or serious bodily injury. If the individualized determination to remove a resident’s clothing is 197 
+made, the resident shall immediately be provided with alternative safe clothing and blanket, and 198 
+a qualified health professional shall reassess the determination at least every 24 hours. A resident 199 
+shall never be without the clothing and blankets necessary to provide reasonable privacy and 200 
+warmth. 201 
+ (j) The Department shall transfer a resident from a safe cell to a local hospital or another 202 
+appropriate healthcare facility as soon as practicable:  203 
+  (1) Upon a determination by a qualified health care professional that the 204 
+Department cannot provide the resident with appropriate healthcare;  205 
+  (2) If the resident has been held in a safe cell continuously for 48 hours; or  206 
+  (3) Upon request of the resident. 207
+
+10 
+ 
+ (k) The Department shall examine any incident involving a completed suicide and any 208 
+incident involving a suicide attempt requiring hospitalization through a morbidity and mortality 209 
+review process, which shall be completed within 30 days of the resident’s death or suicide 210 
+attempt. 211 
+ (l) The review, separate and apart from other formal investigations that may be required 212 
+to determine the cause of death, shall include: 213 
+  (1) Review of the circumstances surrounding the incident;  214 
+  (2) Review of procedures relevant to the incident;  215 
+  (3) Review of all relevant training received by involved staff;  216 
+  (4) Review of pertinent healthcare services reports involving the resident;  217 
+  (5) Review of any possible precipitating factors that may have caused the resident 218 
+to commit suicide or suffer a serious suicide attempt; 219 
+  (6) Recommendations, if any, for changes in policy, training, physical plant, 220 
+healthcare services, and operational procedures; and 221 
+  (7) A written report detailing the Department’s findings, including whether each 222 
+recommendation was accepted or rejected and a corrective action plan specifying responsible 223 
+parties and timetables for completion. 224 
+ (2) Within 5 days of the conclusion of the review process, the Department shall transmit 225 
+the report to the Mayor, the D.C. Council, and the Corrections Information Council.  226 
+ (3) The Department shall publish on its website written updates on the status of the 227 
+corrective action plan in 30-day intervals until the plan has been fully implemented. 228 
+ (4) All staff involved in the incident should be offered critical incident stress debriefing. 229 
+ Sec. 6. Plan and report on the elimination of prolonged confinement 230
+
+11 
+ 
+ (a) Within 90 days after the effective date of this act, the Department shall transmit to   231 
+the Mayor, the Council, and the Corrections Information Council, and publish on its website a 232 
+written report of its plans to effectuate this act.  233 
+ (b) The report published under subsection (a) of this section shall include: 234 
+  (1) The number of residents who have not received minimum out-of-cell time 235 
+over the prior 12 months; and 236 
+  (2) The number of residents who have been placed in disciplinary housing, 237 
+medical isolation, or a safe cell over the prior 12 months. 238 
+ (c) The report published under subsection (a) of this section shall include the following 239 
+deidentified information about each resident: 240 
+  (1) The cumulative number of days each resident has not received minimum out-241 
+of-cell time over the prior 12 months; 242 
+  (2) The highest consecutive number of days each resident has not received 243 
+minimum out-of-cell time over the prior 12 months; 244 
+  (3) The cumulative number of days each resident has been placed in disciplinary 245 
+housing, medical isolation, or a safe cell over the prior 12 months; 246 
+  (4) The highest consecutive number of days each resident has been placed in 247 
+disciplinary housing, medical isolation, or a safe cell over the prior 12 months; 248 
+  (5) The basis for denying the resident minimum out-out-of-cell time; 249 
+  (6) The basis for placing the resident in disciplinary housing, medical isolation, or 250 
+a safe cell, including: 251 
+   (A) The communicable disease that is the basis for medical isolation; and 252 
+   (B) The number of documented assessments made by a qualified health 253
+
+12 
+ 
+professional; 254 
+  (7) The notice and procedures followed before denying the resident minimum out-255 
+of-cell time; 256 
+  (8) The notice and procedures followed before placing the resident in disciplinary 257 
+housing, medical isolation, or a safe cell; 258 
+  (9) The timing and plan for restoring the resident’s out-of-cell time and any 259 
+known barriers to that transition; and 260 
+  (10) The timing and plan for removing the resident from disciplinary housing, 261 
+medical isolation, or a safe cell, and any known barriers to that transition. 262 
+ (d) Within 180 days after the effective date of this act, the Department shall promulgate 263 
+regulations and issue policy statements to amend the Department’s processes for and use of 264 
+prolonged confinement, medical isolation, and safe cells in accordance with this act;  265 
+ (e) Within one year after the effective date of this act, and quarterly thereafter, the 266 
+Department shall submit to the Mayor, the Council, and the Corrections Information Council, 267 
+and make available on the Department’s website a written report of its use of prolonged 268 
+confinement, medical isolation, and safe cells. 269 
+ (f) The reports published under subsection (e) of this section shall include deidentified 270 
+data on each resident placed in prolonged confinement, broken down by confinement that is the 271 
+result of medical isolation, a safe cell, or any other reason, for any amount of time during the 272 
+reporting period. 273 
+ (g) The reports published under subsection (e) of this section shall include: 274 
+  (1) Each resident’s age, sex, gender identity, sexual orientation or other LGBTQ 275 
+status, race, religion, and ethnicity; 276
+
+13 
+ 
+  (2) Whether or not each resident is diagnosed with a serious mental illness, as that 277 
+term is defined in the current edition of The Diagnostic and Statistical Manual of Mental 278 
+Disorders; 279 
+  (3) Whether or not each resident is diagnosed with a physical disability, an 280 
+intellectual or developmental disability, a traumatic brain injury, or any other disability, as 281 
+defined in 42 U.S.C. § 12102; 282 
+  (4) The location of the prolonged confinement, broken down by unit or type of 283 
+unit; 284 
+  (5) The highest consecutive number of days that each resident was in prolonged 285 
+confinement; 286 
+  (6) The cumulative number of days each resident was in prolonged confinement; 287 
+  (7) The reasons each resident was subjected to prolonged confinement; 288 
+  (8) Whether each resident was subject to any type of physical or chemical 289 
+restraint while in prolonged confinement; and 290 
+  (9) Whether each resident remains in prolonged confinement as of the time the 291 
+report is finalized. 292 
+ (h) The reports published under subsection (e) of this section shall include data on the 293 
+filing of grievances by people held in prolonged confinement, medical isolation, or a safe cell, 294 
+including: 295 
+  (1) The total number of grievances filed, reported by type of grievance; 296 
+  (2) The number of grievances closed during the reporting period, including the 297 
+reason for closure, and the number of grievances that remain open; and 298 
+  (3) The average number of days from the filing of a grievance to final resolution, 299
+
+14 
+ 
+broken down by Informal Grievance, Formal Grievance, Level 1 Appeal, Level 2 Appeal and 300 
+Prolonged Confinement Grievance. 301 
+ (i) The reports published under subsection (e) of this section shall include data on assault 302 
+and self-harm, including: 303 
+  (1) The total number of residents in medical isolation who committed self-harm, 304 
+attempted or completed suicide, were assaulted by another resident, were subjected to a use of 305 
+force by a Department employee, or received an incident report or disciplinary infraction, and the 306 
+type of that infraction; and 307 
+  (2) The total number of residents in a safe cell who committed self-harm, 308 
+attempted or completed suicide, were assaulted by another resident, were subjected to a use of 309 
+force by a Department employee, or received an incident report or disciplinary infraction, and the 310 
+type of that infraction. 311 
+ Sec. 7. Private right of action. 312 
+ (a) A resident or former resident may bring a civil action in the Superior Court of the 313 
+District of Columbia against the District or any agent or employee thereof for violation of this act 314 
+or of any regulation promulgated or policy statement issued there under. Relief may include: 315 
+  (1) Injunctive relief; 316 
+  (2) Declaratory relief;  317 
+  (3) Liquidated damages of $1000 per each day a resident is unlawfully held in 318 
+prolonged confinement; 319 
+  (4) Compensatory damages; and 320 
+  (5) Punitive damages. 321 
+ (b) A resident or former resident who prevails in an action under this section shall be 322
+
+15 
+ 
+entitled to fees and costs, including reasonable attorneys’ fees and reasonable expert fees. 323 
+ (c) Notwithstanding any D.C. law, regulation, or policy to the contrary:  324 
+  (1) The requirements of D.C. Code § 12-309 shall not apply to an action brought 325 
+under this act;  326 
+  (2) The only administrative remedy available to raise questions of compliance 327 
+with or treatment under this act shall be filing a Prolonged Confinement Grievance at any time 328 
+directly with the Director of the Department, which has 5 calendar days to respond;  329 
+  (3) The grievance shall be considered exhausted at the time the Director responds 330 
+or at the conclusion of 5 calendar days regardless of whether the Director provides a response.  331 
+ (d) The Department shall provide the resident with a grievance form, writing utensils, and 332 
+access to the Inmate Grievance Procedure mailbox.  333 
+ (e) Failure to provide a resident with a grievance form, writing utensils or access to the 334 
+grievance mailbox shall effectively render the grievance process unavailable to the resident. 335 
+ (f) In an action under this section, a resident or former resident’s sworn statement 336 
+including facts that, if true, would be sufficient to show the resident or former resident had either 337 
+completed the grievance process or that the grievance process was unavailable to that resident, 338 
+shall create a rebuttable presumption that the grievance process was either completed or 339 
+unavailable that can only be overcome by clear and convincing evidence. 340 
+Sec. 8. Fiscal impact statement. 341 
+ The Council adopts the fiscal impact statement in the committee report as the fiscal 342 
+impact statement required by section 4a of the General Legislative Procedures Act of 1975, 343 
+approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a). 344 
+Sec. 9. Effective date. 345
+
+16 
+ 
+ This act shall take effect after approval by the Mayor (or in the event of veto by the 346 
+Mayor, action by the Council to override the veto), a 30-day period of congressional review as 347 
+provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 348 
+24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of 349 
+Columbia Register. 350

@@ -1,0 +1,265 @@
+1 
+ 
+ 
+ 
+ 
+Statement of Introduction  
+Utility Disconnection Protection Act of 2025 
+February 13, 2025 
+ 
+ 
+Today I am introducing the “Utility Disconnection Protection Act of 2025”, with 
+Councilmember Anita Bonds joining as a co-introducer. This is a reintroduction of a 
+similar bill introduced last council period. This bill safeguards residents by limiting an 
+electric company or gas utility from disconnecting service for protected households during 
+summer and winter months. The bill also requires the establishment of guidelines for 
+payment plans for eligible customers and sets limits on what providers can charge to turn 
+utilities back on after they have been disconnected due to non-payment. Finally, it 
+requires that an electric company or gas company report data on unpaid bills and 
+disconnections to the Public Service Commission monthly. This legislation is a permanent 
+and narrower version of protections that were in place during the COVID-19 public health 
+emergency. 
+ 
+Shutting off a home’s energy supply can have grave consequences on its residents’ 
+health and financial wellbeing. Energy insecurity can often lead to physical and mental 
+health challenges, including difficulty sleeping, poor respiratory health, and food 
+insecurity, and at times, can be fatal. Those who are behind on their utility bills also face 
+economic repercussions, such as eviction or foreclosure. This can negatively impact their 
+credit scores and bar them from establishing utility accounts in the future.1 In 2022, 
+District households had their gas and electricity cut off nearly 8,800 times for nonpayment 
+– a phenomenon disproportionately impacting low-income and Black and brown 
+communities.2  
+ 
+To ensure that District residents have safe and affordable access to life saving 
+electricity and heat, the Utility Disconnection Protection Act of 2025 prohibits an electric 
+ 
+1 Which Americans Face the Greatest Risk of Utility Shut-Offs, and How Do they Cope? | Housing Matters (urban.org) 
+2 Pepco disconnected customers 4,217 times last year. See Potomac Electric Power Company’s December 2022 
+Compliance with DC PSC Case Nos. 813-1043 Order Nos. 14293 and 15134, DC Public Service Commission, January 20, 
+2023, https://edocket.dcpsc.org/apis/api/Filing/download?attachId=185094&guidFileName=453b7d4ab7e9-43ab-8a09-
+963cdfca5b63.pdf. 
+Washington Gas disconnected customers 4,568 times last year. See Washington Gas Light Company’s Monthly Report 
+pursuant to Order No. 15134, Public Service Commission, January 20, 2023, 
+https://edocket.dcpsc.org/apis/api/Filing/download?attachId=185081&guidFileName=67dafe64-8b13-4640-bcb0- 
+6efc522b48bb.pdf.
+
+2 
+company or gas company from disconnecting service for protected households during the 
+hottest and coldest months. Based on current temperature data, the disconnection 
+protection will apply from May 15 through September 15, and from November 1 through 
+February 29.3  Protected District households include those households with children under 
+the age of 18, seniors aged 65 and older, individuals with disabilities, individuals who are 
+pregnant or 12 weeks post-partum, and recipients of certain public assistance programs. 
+The program will be housed and administered under the Department of Energy and 
+Environment.  
+This legislation also ensures that all eligible customers are offered a payment plan 
+and limits the fees required for electricity or gas to be turned back on after disconnection. 
+Currently, utility providers are not required to offer a payment plan to customers and 
+require that a bill is paid in full before turning services back on, which can amount to 
+hundreds or thousands of dollars.  
+Forty-eight other states have regulations in place that restrict the ability of 
+landlords and utility companies to shut off utilities, but these laws vary widely. For 
+instance, Indiana prohibits natural gas and electricity disconnections between December 1 
+and March 15 for tenants who receive public assistance. Idaho, on the other hand, 
+prohibits disconnection from December 1 to February 28 for households with children 
+under 18 or seniors aged 62 or older.4  
+ 
+In the District of Columbia, it is only against the law to shut off electricity and 
+natural gas when the temperature is forecast to be 95 degrees Fahrenheit or above or 32 
+degrees Fahrenheit or below. This temperature-based policy is inadequate for many 
+populations in the District and is needlessly complex; the District’s policy lags behind 
+other states with clear and predictable date-based protections. 
+ 
+ 
+3 National Centers for Environmental Information (NCEI) (noaa.gov) 
+4 State Disconnect Policies | The LIHEAP Clearinghouse (hhs.gov)
+
+_____________________________  
+Councilmember Anita Bonds 
+_____________________________ 
+Councilmember Brianne K. Nadeau 
+ 
+ 1 
+ 
+A BILL 
+__________ 
+ 
+ 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA 
+ 
+________________ 
+ 
+  
+To prohibit an electric company or gas company from disconnecting residential electric or gas 1 
+service for protected households during the summer and winter months; to establish the 2 
+program under the Department of Energy and the Environment; to require the 3 
+establishment of guidelines for payment plans for all eligible customers and a maximum 4 
+payment amount to turn utilities back on; and to require that an electric company or gas 5 
+company report arrearage and disconnection data to the Public Service Commission on a 6 
+monthly basis. 7 
+ 8 
+ BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 9 
+act may be cited as the “Utility Disconnection Protection Act of 2025”.   10 
+ Sec. 2. Definitions. 11 
+ For the purposes of this act, the term: 12 
+  (1) “Disability” shall have the same meaning as provided in section 404(4) of the  13 
+Disability Rights Protection Act of 2006, effective March 8, 2007 (D.C. Law 16-239; D.C. 14 
+Official Code § 2-1431.01(4)). 15 
+  (2) “Electric company” shall have the same meaning as provided in section 8 of  16 
+An Act Making appropriations to provide for the expenses of the government of the District of 17 
+Columbia for the fiscal year ending June thirtieth, nineteen hundred and fourteen, and for other 18 
+purposes, approved March 4, 1913 (37 Stat. 976; D.C. Official Code § 34-207). 19 
+  (3) “Eligible customer” means a utility customer that:  20 
+   (A) Has notified the utility provider of an inability to pay all or a portion  21
+
+2 
+of the amount due; and 22 
+   (B) Agrees in writing to make payments in accordance with the payment  23 
+plan. 24 
+  (4) "Gas company" shall have the same meaning as provided in section 3(11) of  25 
+the Retail Natural Gas Supplier Licensing and Consumer Protection Act of 2004, effective 26 
+March 16, 2005 (D.C. Law 15-227; D.C. Official Code § 34-1671.02(11)). 27 
+  (5) “Protected household” means a household that includes a resident who is: 28 
+   (A) An elderly person 65 years of age or older; 29 
+   (B) A child under 18 years of age; 30 
+   (C) An individual with a disability;  31 
+   (D) An individual who is pregnant or up to 12 weeks postpartum; or, 32 
+   (E) A recipient of any of the following public assistance programs:  33 
+    (i) Temporary Assistance for Needy Families, established under  34 
+part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.);  35 
+    (ii) the Supplemental Nutrition Assistance Program, established  36 
+under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.); 37 
+    (iii) the supplemental security income program established under  38 
+Title XVI of the Social Security Act (42 U.S.C. 1381 et seq.); 39 
+    (iv) Low Income Home Energy Assistance Program; 40 
+    (v) Any other income-based assistance program identified by the  41 
+Mayor. 42 
+  (6) “Protected months” means May 15 through September 15 and November 1 43 
+through February 29 of each calendar year. 44
+
+3 
+  (7) “Utility provider” means an electric company or a gas company. 45 
+ Sec. 3. Shutoff prohibition.  46 
+ (a) A utility provider shall not disconnect residential service for non-payment for any 47 
+protected household during the protected months. 48 
+ (b) The Department of Energy and Environment (“DOEE”) shall establish a process for 49 
+verification of program eligibility and proof of residency. 50 
+ (c) DOEE shall transmit certification of program eligibility to a utility provider on behalf 51 
+of a protected household within 15 days after verifying eligibility.   52 
+ (d) Protected households shall recertify program eligibility annually. 53 
+ (e) A utility provider shall provide information on all monthly bills about the prohibitions 54 
+established by this section, along with information about how to apply for assistance with DOEE.  55 
+ (f) A utility provider shall: 56 
+  (1) Waive any late fee, interest, or penalty that arises during protected months; 57 
+and, 58 
+  (2) Not sell any uncollected household debt accrued during the protected months 59 
+to collection agencies. 60 
+ Sec. 4. Payment plan. 61 
+ (a) A utility provider shall offer a payment plan program ("program") for eligible 62 
+customers. Under its program, a utility provider shall:  63 
+  (1) Make a payment plan available to an eligible customer for the payment of  64 
+amounts that come due during the program period, with a minimum term length of 2 years, 65 
+unless a shorter time period is requested by the eligible customer;  66 
+  (2) Waive any fee, interest, or penalty that arises out of the eligible customer  67
+
+4 
+entering into a payment plan;  68 
+  (3) Not report to a credit reporting agency as delinquent the amounts subject to  69 
+the payment plan; 70 
+  (4) Notify all customers of the availability, terms, and application process for its  71 
+program; and 72 
+  (5) Reconnect service to occupied residential property when an eligible  73 
+customer enters a payment plan, and not charge a fee greater than $15 for this reconnection.  74 
+ (b)(1) Customers entering into a payment plan shall be required to make payments in 75 
+monthly installments for the duration of the payment plan unless a shorter payment schedule is 76 
+requested by the customer.  77 
+  (2) A utility provider shall permit a customer that has entered into a payment  78 
+plan to pay an amount greater than the monthly amount established in the payment plan.  79 
+  (3) A utility provider shall not require or request a customer to provide a lump-80 
+sum payment under a payment plan.  81 
+  (4) A utility provider shall provide confirmation in writing to the customer of the  82 
+payment plan entered into, including the terms of a payment plan.  83 
+  (5) For eligible customers who are also protected households, the monthly 84 
+minimum amount established in the payment plan may not exceed 6% of the eligible customer’s 85 
+monthly income. 86 
+ (c) A utility provider shall utilize existing procedures or, if necessary, establish new 87 
+procedures, subject to approval by the Public Service Commission (“Commission”), to provide a 88 
+process by which a customer may apply for a payment plan, which may include requiring the 89
+
+5 
+customer to submit supporting documentation. A utility provider shall establish a payment plan 90 
+application process either online or by telephone.  91 
+ (d)(1) A utility provider shall approve each application for a payment plan made by an 92 
+eligible customer.  93 
+  (2) If the customer is not eligible and the customer's application for a payment  94 
+plan is denied, the utility provider shall inform the customer, in writing, of the denial and of the 95 
+option to file a written complaint pursuant to subsection (g) of this section.  96 
+ (e)(1) When a customer fails to pay in full the amounts due under a payment plan  97 
+on 3 separate occasions during the term of such payment plan, and the customer and utility 98 
+provider have not mutually agreed to a modification of the terms of the payment plan, nothing 99 
+under this section shall prevent a utility provider from either offering the customer a new 100 
+payment plan or disconnecting service.  101 
+  (2) Notwithstanding any provision in this section, a utility provider is not  102 
+required to offer a customer a new payment plan within one year from when a customer has 103 
+failed to pay in full the amount due under a payment plan offered pursuant to this section on 3 104 
+separate occasions  105 
+ (f)(1) A utility provider that receives an application for a payment plan pursuant to this 106 
+section shall retain the application, whether approved or denied, for at least 3 years.  107 
+  (2) Upon request by the customer, a utility provider shall make an application for  108 
+a payment plan available to the Commission, and the Office of the People’s Counsel;  109 
+ (g) A customer whose application for a payment plan is denied may file a written 110 
+complaint with the Commission, and the Office of the People's Counsel. 111 
+ Sec. 5. Reporting Requirements. 112
+
+6 
+ (a) A utility provider shall collect and report the following arrearage and  113 
+disconnection data to the Public Service Commission on a monthly basis, disaggregated by Ward 114 
+and by nine-digit zip code: 115 
+  (1) The number of: 116 
+   (A) Residential customers; 117 
+   (B) Low-income residential customers; 118 
+   (C) Residential customers in arrears and the total dollar amount of  119 
+those arrearages; 120 
+   (D) Low-income customers in arrears and the total dollar amount of  121 
+their arrearages; 122 
+   (E) Residential terminations for non-payment; 123 
+   (F) Low-income residential terminations for non-payment; 124 
+   (G) Low-income residential service arrearage-related restorations; 125 
+   (H) Residential service arrearage-related restorations; 126 
+  (2) The amount of low-income residential accounts determined  127 
+uncollectible; 128 
+  (3) The total dollar amount of residential accounts determined uncollectible; 129 
+  (4) The number of disconnection notices issued to residential customers; 130 
+  (5) The number of disconnection notices issued to low-income residential 131 
+customers: 132 
+  (6) Total revenues from residential customers and total revenues from low-income 133 
+residential customers; 134
+
+7 
+  (7) The number of low-income deferred payment agreements entered into each 135 
+month and the total dollar amount associated with each low-income deferred payment 136 
+agreement;  137 
+  (8) The number of residential deferred payment agreements entered into each 138 
+month and the total dollar amount associated with each residential deferred payment agreement; 139 
+  (9) The average length of repayment terms for residential customers in deferred 140 
+payment agreements; 141 
+  (10) the average length of repayment terms for low-income customers in deferred 142 
+payment agreements; 143 
+  (11) The number of residents eligible for and, separately, enrolled in the Utility 144 
+Aid Discount Program, Residential Aid Discount Program, and Residential Essential Service; 145 
+and, 146 
+  (12) The number of residents who became eligible for disconnection due to non-147 
+payment but weren’t disconnected due to medical protections, temperature-based protections, or 148 
+protected household protections.  149 
+ Sec. 6. Fiscal impact statement. 150 
+ The Council adopts the fiscal impact statement of the Budget Director as the fiscal impact 151 
+statement required by section 4a of the General Legislative Procedures Act of 1975, approved 152 
+October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a). 153 
+ Sec. 7. Effective date. 154 
+ This act shall take effect following approval by the Mayor (or in the event of veto by the 155 
+Mayor, action by the Council to override the veto) and a 30-day period of congressional review 156 
+as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 157
+
+8 
+24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of 158 
+Columbia Register. 159

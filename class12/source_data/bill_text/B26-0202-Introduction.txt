@@ -1,0 +1,753 @@
+1 
+ 
+_______________________________                       _______________________________ 1 
+Councilmember Zachary Parker     Councilmember Janeese Lewis George  2 
+ 3 
+  4 
+________________________________ _______________________________ 5 
+Councilmember Robert C. White, Jr.      Councilmember Brianne K. Nadeau 6 
+ 7 
+ 8 
+_______________________________    ______________________________ 9 
+Councilmember Brooke Pinto                    Councilmember Charles Allen 10 
+                  11 
+A BILL 12 
+ 13 
+__________________ 14 
+ 15 
+ 16 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA 17 
+ 18 
+__________________ 19 
+ 20 
+To establish an Office of Social Housing Developments to foster the construction, maintenance, 21 
+and growth of District-owned residential properties designed to be mixed-income housing 22 
+with not less than two-thirds of a building developed as family units and not less than 23 
+two-thirds of units rented as permanently affordable units for extremely-, very-, and low-24 
+income households, and to establish a framework for tenant governance, environmentally 25 
+conscious building standards, and street-level amenities that serve a public purpose at 26 
+social housing developments; to amend the District of Columbia Government 27 
+Comprehensive Merit Personnel Act of 1978 to provide for the appointment of the 28 
+Director of the Office; to amend the Green Finance Authority Establishment Act of 2018 29 
+to allow investments in District-owned social housing developments; to amend an Act 30 
+Authorizing the sale of certain real estate in the District of Columbia no longer required 31 
+for public purposes to require that the Mayor evaluate such properties for conversion into 32 
+social housing developments before disposing of them; to amend the Housing Production 33 
+Trust Fund Act of 1988 to make social housing developments eligible to receive loans 34 
+and grants; and to amend The Rental Housing Conversion and Sale Act of 1980 to allow 35 
+the District to purchase residential property for conversion into social housing 36 
+developments. 37 
+ 38 
+BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 39 
+act may be cited as the “Housing Development Growth Amendment Act of 2025”. 40 
+ 41 
+Title I. SOCIAL HOUSING DEVELOPMENT 42
+
+2 
+ 
+ Sec. 101. DEFINITIONS. 43 
+For the purposes of this chapter, the term:  44 
+(1) “Area Median Income” shall have the same meaning as provided in section 2(1) of 45 
+the Housing Production Trust Fund Act of 1988, effective March 16, 1989 (D.C. Law 7-202; 46 
+D.C. Official Code § 42-2801(1)).  47 
+(2) “Bonds” means any bond, note, debenture, interim certificate, or other evidence of 48 
+financial indebtedness of the Office authorized to be issued under the provisions of this chapter.  49 
+(3) “Extremely low-income” means a household income equal to, or less than, 30% of the 50 
+area median income.  51 
+(4) “Fair market value” means the average, unsubsidized rental rate a reasonable person 52 
+could expect to pay for a comparable dwelling unit when considering the age, condition, and 53 
+location of similar properties. 54 
+(5) “Low-income” means a household income equal to between 51% and 80% of the area 55 
+median income.  56 
+(6) “Mixed-income” means a property that includes tenants with a range of household 57 
+incomes including extremely low-, very low-, low-, and above low-income levels.   58 
+(7) “Mixed-use” shall mean a multi-family residential development that includes space 59 
+for commercial or institutional purposes in accordance with zoning regulations set forth by the 60 
+Office of Zoning. 61 
+(8) “Net-zero emissions” means all energy is produced on-site, and to the degree that off-62 
+site energy production is necessary, it is provided via contracts for electricity produced from 63 
+renewable sources and no energy may be produced from combustion or other sources that emit 64 
+greenhouse gases.   65
+
+3 
+ 
+(9) “Operating costs” means any costs associated with maintaining a Social Housing 66 
+Development including management expenses, maintenance, utilities, and associated services.    67 
+(10) “Permanently affordable” means a tenant’s rent, in perpetuity, will not exceed 30% 68 
+of tenant household income if, at the time a tenant signs an initial lease, they qualify as 69 
+extremely low-, very low-, or low-income relative to area median income.   70 
+(11) “Personal mobility device” shall have the same meaning as provided in § 50-71 
+2201.02(13).  72 
+(12) “Real property” means land titled in the District or in which the District has a 73 
+controlling interest and includes all structures of a permanent character erected thereon or affixed 74 
+thereto, any natural resources located thereon or thereunder, all riparian rights attached thereto, 75 
+or any air space located above or below the property or any street or alley under the jurisdiction 76 
+of the Mayor. 77 
+(13) “Rent” means money owed to occupy a unit in a social housing development, 78 
+including: 79 
+(A) Money to be paid directly by a tenant, and   80 
+(B) Funding associated with housing voucher programs operated by the District or 81 
+Federal government. 82 
+(14) “Restorative justice” means a process of allowing tenants or property managers, or 83 
+management sub-contractors, who are causing harm in the community to take responsibility, 84 
+reconcile with impacted parties, and address root causes of the harm with the goal of restoring all 85 
+parties to the level of trust and cooperation prior to the harm. 86 
+(15) “Social housing development” means real property that: 87
+
+4 
+ 
+(A) Is owned by the District of Columbia and operated by the Office of Social 88 
+Housing Development; 89 
+(B) Provides mixed-income apartment housing that is permanently affordable for 90 
+lower income tenants; and 91 
+(C) Uses the revenue generated from rent to further the purpose and duties of The 92 
+Office of Social Housing Development pursuant to section 103 of this Act.   93 
+(16) “Street-level” means the portion of a property that sits on or most proximately opens 94 
+to the same level as the street or sidewalk. “Street-level” may also be considered ground floor or 95 
+ground level.  96 
+(17) “Tenant” means a tenant, subtenant, lessee, sublessee, or other person entitled to the 97 
+possession, occupancy or benefits of a rental unit within a social housing development. The 98 
+singular term “tenant” includes the plural. 99 
+(18) “Tenant association” means:  100 
+(A) A group of tenants organized to represent their collective interests as residents 101 
+of social housing developments; 102 
+(B) An association that represent a minimum of 51% of the households in a 103 
+building, as determined by rules established by the tenant association pursuant to section 106(b); 104 
+and 105 
+(C) the term “tenant association” may also include a tenant union, tenant 106 
+organization, tenant council, or similar term reflecting the chosen name of a duly organized 107 
+group of tenants of a social housing development.  108 
+(19) “Universal design” means creating a built environment to be accessible and usable to 109 
+the greatest number of people regardless of ability, age, or other characteristics. 110
+
+5 
+ 
+(20) “Utility provider” means a provider of services for electricity, water, and 111 
+telecommunications and internet. 112 
+(21) “Very low income” means a household income equal to between 31% and 50% of 113 
+the area median income.  114 
+Sec. 102. Office of Social Housing Development Establishment.  115 
+(a)(1) Pursuant to section 404(b) of the District of Columbia Home Rule Act, approved 116 
+December 24, 1973 (87 Stat. 787; D.C. Official Code § 1-204.04(b)), the Council establishes an 117 
+Office of Social Housing Development (“The Office”) as a subordinate office within the 118 
+executive branch of the District government. 119 
+  (2) The Office shall be under the direction and agency cluster of the Deputy 120 
+Mayor for Planning and Economic Development. 121 
+(b) The purpose of The Office is: 122 
+(1) The development, construction, conversion, retention, operation, and 123 
+maintenance of District-owned real property to generate permanently affordable, well-124 
+maintained mixed-income rental housing accommodations (“social housing developments”) that 125 
+meet high environmental standards for District residents;  126 
+(2) The conversion of District-owned land into social housing developments; and 127 
+(3)  The cultivation of street-level commercial tenant amenities that serve a public 128 
+purpose at all properties developed by The Office pursuant to paragraphs (1) and (2) of this 129 
+subsection where properties are zoned for mixed-use.  130 
+(c) The Office shall be headed by a Director, who shall be appointed by the Mayor with 131 
+the advice and consent of the Council pursuant to section 2(a) of the Confirmation Act of 1978, 132 
+effective March 3, 1979 (D.C. Law 2-142; D.C. Official Code § 1-523.01(a)). 133
+
+6 
+ 
+(d)(1) The Mayor shall establish a board (“Board”) to govern the operations of The 134 
+Office which shall consist of 9 residents of the District of Columbia with the following 135 
+qualifications: 136 
+(A) Two members shall have expertise in the financing or development of 137 
+affordable housing for extremely low-income households; 138 
+(B) One member shall have expertise in the management or operation of 139 
+affordable housing for extremely low-income households;  140 
+(C) Two members shall have expertise in housing law, legal services, or 141 
+tenant organizing; and  142 
+(D) Four members shall be elected by tenants of social housing 143 
+developments to serve as tenant-representatives to the Board. 144 
+ (2) Board members shall serve three-year terms and vacancies shall be filled 145 
+within 90 days of a board member departure.  146 
+ (3)  The Board shall establish bylaws to govern their operations, leadership, and 147 
+meeting procedures. 148 
+(4) With input from the Director, The Office and the social housing coordinating 149 
+council established in section 103(b), The Board shall create key performance indicators and 150 
+development goals for new social housing developments which shall be shared with the Council 151 
+of the District of Columbia and with tenant association leadership board on an annual basis. 152 
+(5) Board members shall participate in annual trainings related to: 153 
+(A) The role of the governing body of a District office;  154 
+(B) District government ethics;  155
+
+7 
+ 
+(C) Background on major District and federal housing programs and 156 
+financing opportunities; and  157 
+(D) Fair housing, reasonable accommodations, and non-discrimination. 158 
+  (6) Meeting of the Board shall be subject to the requirements of the Open 159 
+Meetings Amendment Act of 2010, effective March 31, 2011 (D.C. Law 18-350; D.C. Official 160 
+Code § 2-571 et seq.). 161 
+(e)(1) The Mayor shall dedicate start-up funding for the Office which shall be sufficient 162 
+for not less than 15 full-time employees, office space in a District government building, 163 
+employee technology, and office supplies.  164 
+(2) The District’s General Funds shall be used to supplement operational funding 165 
+for The Office until such time as the Social Housing Development Fund established pursuant to 166 
+section 104 is self-sustaining for purposes of paying staff salaries and Office operations utilizing 167 
+not more than 3% rent cumulatively generated by tenants of social housing developments.  168 
+ (f) Beginning, October 1, 2027, and annually through October 1, 2032, the Mayor shall 169 
+dedicate not less than 10% of the Housing Production Trust Fund to the Office of Social Housing 170 
+Development as a developer fee to carry out the duties of The Office as described in section 103.      171 
+Sec. 103. Duties and Authority of the Office of Social Housing Development. 172 
+(a) The duties of The Office shall be as follows: 173 
+ (1) Develop, manage, and maintain permanently affordable, mixed-income rental 174 
+housing accommodations where tenant rent deposited into the Social Housing Development 175 
+Fund established pursuant to section 104 of this title shall be used to fund some or all of the 176 
+following purposes: 177
+
+8 
+ 
+  (A) Property management of social housing developments, including any 178 
+contracts for property management and related sub-contracted services;  179 
+  (B) Regular maintenance of social housing developments, including any 180 
+contracts or sub-contracts for property maintenance, repair, or renovations;  181 
+  (C) Security personnel and systems at social housing developments, 182 
+including any contracts for security services,;  183 
+  (D) Tenant association and tenant governance-related expenses required 184 
+pursuant to Section 106 of this title; 185 
+  (E) Contractor training-related expenses required pursuant to Section 107 186 
+of this title; and 187 
+  (F) Office of Social Housing Development overhead operations, provided 188 
+that not more than 3% of rents deposited into the Social Housing Development Fund may be 189 
+used to defray the following costs: 190 
+(i) Employee salaries and benefits; 191 
+(ii) Government office space; 192 
+(iii) Office supplies and devices;  193 
+(iv) Website development, technology, and other IT services; and 194 
+(v) Other reasonable expenses necessary to facilitate general Office 195 
+operations;  196 
+(2) Leverage rent revenue generated in excess of an amount necessary to cover 197 
+expenses listed in paragraph (1) of this subsection for the following purposes: 198 
+ (A) Establishing capital and operating reserve funds which may be used to 199 
+finance emergency maintenance or repairs, among other expenses; 200
+
+9 
+ 
+ (B) Building real property social housing developments on District-owned 201 
+land; 202 
+(C) Acquiring new real property for the purpose of creating a social 203 
+housing development; and 204 
+ (D) Renovating real property, including retrofitting properties to achieve 205 
+compliance with Section 109 of this Act, for the purpose of developing social housing; 206 
+(3) Develop and administer a centralized tenant application process to facilitate 207 
+leasing at all social housing developments. The application process shall: 208 
+ (A) Be available online and as a paper copy at a centralized leasing office; 209 
+ (B)  Use plain language and be made available in all languages requiredby 210 
+section 4 of the Language Access Act of 2004, effective June 19, 2004 (D.C. Law 15-167; D.C. 211 
+Official Code 2-1933); 212 
+ (C) Utilize best practices in application design to limit implicit bias in 213 
+tenant selection and comply with all housing non-discrimination provisions set forth in The 214 
+Human Rights Act of 1977, effective December 13, 1977 (D.C. Law 2-38; 31 D.C. Official Code 215 
+§ 2-1401.01 et seq.);  216 
+ (D) Not require an application or processing fee; and  217 
+(E) Provide prospective tenants with regular updates on the status of their 218 
+application; 219 
+(4) Pursuant to The Rental Housing Conversion and Sale Act of 1980, effective 220 
+September 10, 1980 (D.C. Law 3-86; D.C. Official Code § 42-3401 et seq.), convert privately-221 
+owned real property into social housing developments utilizing for following provisions: 222
+
+10 
+ 
+  (A) The Tenant Opportunity to Purchase Act (“TOPA”) of 1980 when 223 
+tenant organizations elect to assign TOPA rights to the District under section 406 of the Act 224 
+(D.C. Official Code § 42-3404.06); or  225 
+(B) The District’s Opportunity to Purchase Amendment Act of 2008, 226 
+effective December 24, 2008 (D.C. Law 17-286; D.C. Official Code § 42-3404.31 et seq) 227 
+(“DOPA”);  228 
+(5) Apply for federal, local, or private government grants and loans including the 229 
+Housing Production Trust Fund, the Green Finance Authority, and the Affordable Housing 230 
+Preservation Fund, and use the proceeds thereof to acquire, develop, and preserve mixed-income, 231 
+permanently affordable social housing developments; provided, that the Office shall not borrow 232 
+any funds or incur any loans or other indebtedness unless such indebtedness has been authorized 233 
+in advance by an act of the Council and evidenced by a revenue bond, note, or obligation issued 234 
+pursuant to paragraph (6) of this subsection or other District law; 235 
+(6) Request the Council to authorize by act in accordance with section 490(a)(1) 236 
+of the Home Rule Act, effective December 24, 1973 (87 Stat. 809; D.C. Official Code 237 
+§ 1-204.90(a)(1)), the issuance of revenue bonds, notes, or other obligations to finance capital 238 
+projects or undertakings relating to social housing, with all such obligations payable solely from 239 
+and secured solely by the pledged revenues of the Office; provided, that no real property shall be 240 
+mortgaged or pledged as security for such obligations;  241 
+(7) Possess an ownership interest in an entity formed for the purpose of financing 242 
+a capital project related to housing with federal tax credits such as Low-Income Housing Tax 243 
+Credits and New Markets Tax Credits; 244
+
+11 
+ 
+(8)(A) Hire and supervise, with the advice and consent of tenant association 245 
+leadership boards, property management, including management provided through a contracted 246 
+company, to oversee the day-to-day operations of social housing developments owned by The 247 
+Office.  248 
+  (B)The Office may provide or contract for maintenance, security, or other 249 
+services at social housing developments if such services are not facilitated through property 250 
+management.  251 
+(9) Enter into contracts and facilitate relationships necessary to carry out training 252 
+requirements pursuant to sections 106 and 107 of this title; 253 
+(10) Execute ground lease agreements for street-level commercial space, except 254 
+where prohibited by zoning regulations, to provide community amenities for a public purpose 255 
+pursuant to Section 108; and 256 
+(11) Enter into an agreement with the Office of the Chief Technology Officer to 257 
+provide for free DC Wifi connectivity and access at all social housing developments.  258 
+(b)(1) The Director of the Office of Social Housing Development shall establish and 259 
+sustain a social housing coordinating council to support the creation, maintenance, and tenant 260 
+governance of social housing developments. 261 
+(2) The social housing coordinating council shall include representatives of:  262 
+(A) District government housing agencies; 263 
+(B) Non-profit housing developers and providers; 264 
+(C) Local tenant rights organizations;  265 
+(D) Each social housing development tenant association leadership board;  266
+
+12 
+ 
+(E) Social housing developments who do not currently serve on the tenant 267 
+association leadership board of their property; and 268 
+(F) Local green building and environmental justice organizations.  269 
+(3) The coordinating council shall meet not less than bi-monthly and meetings 270 
+shall be publicized to all social housing tenants.  271 
+(4) Meeting of the social housing coordinating council shall be subject to 272 
+the requirements of the Open Meetings Amendment Act of 2010, effective March 31, 2011 273 
+(D.C. Law 18-350; D.C. Official Code § 2-571 et seq.)  274 
+Sec. 104. Social Housing Development Fund. 275 
+(a) There is established as a special fund the Social Housing Development Fund 276 
+("Fund"), which shall be administered by The Office of Social Housing Development. The 277 
+purpose of the Fund is to: 278 
+ (1) Finance the creation of social housing developments; 279 
+ (2) Manage federal, local, or private government grants, loans, and bonds 280 
+received to pay or finance costs of constructing, designing, developing, acquiring, renovating, or 281 
+equipping capital facilities of social housing developments; 282 
+ (3) Collect and manage rent from residential and commercial or institutional 283 
+tenants of social housing developments; 284 
+ (4) Pay for services related to tenant governance and property management 285 
+pursuant to sections 106 and 107 of this Act;  286 
+ (5) Pay for administrative costs of the Office of Social Housing Development, 287 
+provided that not more than 3% of rents collected pursuant to paragraph (3) of this subsection 288 
+may be used to defray these costs; and  289
+
+13 
+ 
+ (6) Establish and manage capital and operating reserves to carry out fiduciary 290 
+responsibilities of the Office.  291 
+(b) Monies obtained pursuant to subsection (a) of this section shall be deposited into the 292 
+Fund and shall not revert to the unassigned fund balance of the General Fund of the District of 293 
+Columbia at the end of a fiscal year, nor be diverted to any fund of the District at any other time. 294 
+The Office may create accounts within the Fund. 295 
+Sec. 105. Residential Characteristics of Social Housing Developments.  296 
+(a) Except as provided in subsection (b) of this section, when the Office of Social 297 
+Housing Development develops real property, the building’s residential development shall 298 
+include the following: 299 
+(1) Not less than 30% of apartment units constructed with three, or more, bedrooms; 300 
+(2) Not less than 30% of apartment units constructed with two bedrooms;  301 
+(3) Universal design standards; and 302 
+(4) When street-level commercial office space is not available, one, or more, apartment 303 
+units shall be designed and dedicated as office space for providers of case management or counseling 304 
+services associated with District housing and economic security programs. 305 
+(b)(1) When the Office of Social Housing Development acquires real property through a 306 
+TOPA or DOPA process pursuant to The Rental Housing Conversion and Sale Act of 1980, 307 
+effective September 10, 1980 (D.C. Law 3-86; D.C. Official Code § 42-3401.01 et seq.), at such 308 
+time when the building requires a substantial renovation, the Office shall produce a renovation 309 
+plan to generate redevelopment of multi-bedroom units in an amount equal to or greater than the 310 
+number of multi-bedroom units in the existing building. 311 
+  (2) The Office shall guarantee a right to return to all tenants who wish to move 312 
+back to a renovated property.  313
+
+14 
+ 
+(3) The Office shall engage the tenant association leadership board in 314 
+redevelopment planning processes to ensure the right to return and equitable development of 315 
+multi-bedroom units is achieved through renovations.  316 
+(c) Except as provided in subsection (d) of this section, when the Office of Social 317 
+Housing Development develops real property, each social housing development shall initially 318 
+rent apartment units according to the following distribution: 319 
+(1) Not less than 30% of tenant households shall, at the time of application, be 320 
+considered extremely low-income; 321 
+(2) Not less than 30% of tenant households shall, at the time of application, be 322 
+considered very low or low income; and 323 
+(3) Not more than 40% of units shall be leased to households who shall agree to 324 
+pay a fair market value in monthly rent.  325 
+(d) When the Office of Social Housing Development acquires real property through a 326 
+TOPA or DOPA process pursuant to The Rental Housing Conversion and Sale Act of 1980, 327 
+effective September 10, 1980 (D.C. Law 3-86; D.C. Official Code § 42-3401.01 et seq.), new 328 
+rents shall be set according to annual household income such that no tenant household is paying 329 
+more than 30% of their income in rent. 330 
+ (e) When a tenant moves out of a social housing development, the Office shall fill the 331 
+vacant unit according to the distribution requirements and housing preference bonus 332 
+considerations set forth in subsections (c)(1)-(3) and (f) of this section. 333 
+(f) In evaluating tenant applications for social housing units, the Office shall assign a 334 
+25% housing preference bonus to prospective tenants who, at the time of application, are 335 
+employed or are beginning employment in one of the following professional sectors: 336
+
+15 
+ 
+(1) Education, including early childhood education, Pre-kindergarten to 12th grade 337 
+instruction, higher education, out-of-school time programming, and educational administration;  338 
+(2) Health, including nursing, mental health care, home health assistance, and 339 
+emergency medical services; or  340 
+(3) Case management or direct service professions. 341 
+  (g)(1) A tenant of a social housing development property who, at the time of their initial 342 
+lease agreement, is considered extremely-, very-, or low-income, shall never pay more than 30% 343 
+of their monthly income in rent.  344 
+  (2) the Office of Social Housing Development shall certify a tenant’s household 345 
+income on an annual basis to determine their monthly rent rate; 346 
+(3) If a tenant’s income is reduced or disrupted mid-year, a tenant may present 347 
+their situation to The Office to request a temporary reduction in rent to match 30% of their new 348 
+income level until the time of annual recertification, provided that a rent adjustment shall not be 349 
+granted below $250 per month.  350 
+ (h) The Office of Social Housing Development shall not increase residential rent: 351 
+  (1) More than once annually; 352 
+  (2) Without 60-days advance written notice; or 353 
+(3) More than the average of the Consumer Price Index for the Washington-354 
+Baltimore Metropolitan Statistical Area for all-urban consumers published by the Department of 355 
+Labor, or any successor index, as of the close of the 12-month period ending on November 30 of 356 
+such year.    357 
+Sec. 106. Tenant Governance and Rights. 358
+
+16 
+ 
+(a) The Office of Social Housing Development and the Coordinating Council shall 359 
+support the tenants of all District social housing developments to establish and maintain tenant 360 
+association leadership boards to represent the best interests of residents living at each respective 361 
+social housing property.  362 
+(b) Tenant association leadership boards shall be responsible for the following duties at 363 
+each social housing development property: 364 
+(1) Establish tenant association by-laws and a process by which residents will 365 
+elect leadership which is representative of the full population of tenants at the property; 366 
+(2) Establish and maintain community rules and expectations;  367 
+(3) Review Office of Social Housing Development contract agreements, when 368 
+applicable, and provide ongoing feedback related to property management; 369 
+(4) Advocate on behalf of tenants for improved property management, when 370 
+necessary; 371 
+(5) Initiate a process with The Office to procure a new contract for building 372 
+management if a majority of the tenant association leadership board finds a current company’s 373 
+performance unsatisfactory; 374 
+(6) Conduct tenant association feedback processes to determine community needs 375 
+and preferences related to a social housing development’s leasable street-level commercial or 376 
+institutional space; and  377 
+(7) Manage a budget for community-building and other initiatives that advance 378 
+the mission of the tenant association. 379 
+(c) Tenant association leadership board meetings shall: 380 
+(1) Be open to all tenant residents to attend; 381
+
+17 
+ 
+(2) Be publicized, in matters determined by the tenant association leadership 382 
+board, at least 3 business days in advance of each meeting; 383 
+(3) Produce for tenants the Office copies of notes or recordings within one week 384 
+of each meeting; 385 
+(4) Record all discussions and votes related to the initiation of a new contract for 386 
+property management services; and 387 
+(5) Arrange for translation services upon request.  388 
+(d)(1) Tenant association leadership boards shall receive annual trainings, arranged by 389 
+The Office of Social Housing Development, in residential property management and board 390 
+governance. 391 
+ (2)  The Office shall facilitate a relationship between each social housing 392 
+development and the Office of Tenant Advocate and the Office of Tenant Advocate shall serve 393 
+as a primary tenant-rights resource for tenants of the development.  394 
+(3) Tenant association leadership boards may use board-managed funds to seek 395 
+support or technical assistance from non-governmental housing law, tenant organizing, or other 396 
+expert resources to exercise their rights and execute their duties. 397 
+ (e)(1) Pursuant to subsection (b)(7) of this section, tenant association leadership boards 398 
+shall be provided with a budget equivalent to 1.5% of the cumulative annual rent collected at 399 
+their respective social housing development properties. 400 
+  (2) the Office of Social Housing Development shall establish and facilitate access 401 
+to bank accounts for tenant association leadership boards for each property.  402 
+ (f)(1) All tenants of social housing shall be afforded opportunities for restorative justice 403 
+conflict resolution when conflict or harm arise between tenants or between a tenant and the 404
+
+18 
+ 
+Office of Social Housing Development or any entities contracted by The Office to work with a 405 
+social housing property. 406 
+(2) The Office of Social Housing Development shall facilitate a relationship with 407 
+organizations or consultants to provide annual restorative justice training on conflict resolution; 408 
+training shall be made available to all tenants of social housing developments.  409 
+(g)(1) The Office of Social Housing Development shall provide notice to all tenants of 410 
+their right to apply for Emergency Rental Assistance to cure rental arrears if they meet the 411 
+qualifications of Section 8f of the Homeless Services Reform Act of 2005, effective October 22, 412 
+2005 (D.C. Law 16-35; D.C. Official Code § 4-753.08). 413 
+ (2) Notice shall be posted publicly in a property’s common area and provided to 414 
+tenants: 415 
+(A) In writing, electronically or printed, at the time the property manager 416 
+or The Office learns of a tenant’s inability to pay rent, and there shall be a rebuttable 417 
+presumption that failure to pay rent by the property’s prescribed monthly deadline constitutes a 418 
+tenant’s inability to pay rent that month; 419 
+(B) In the language the property manager or The Office know to be the 420 
+tenant’s primary language; and  421 
+(C) 60 days or more before the Office moves to initiate an eviction 422 
+proceeding on account of nonpayment of rent.  423 
+  (3) Notice shall include contact information for the Department of Human 424 
+Services and the Landlord-Tenant Legal Assistance Network. 425 
+(h)(1) The Office of Social Housing Development shall work with tenant association 426 
+leadership boards and property management companies to produce biannual reports on each 427
+
+19 
+ 
+development’s finances, expenditures, revenues, unit vacancy and turnover rates, maintenance 428 
+and security contracts, property repairs executed and needs, projected rent adjustments, 429 
+commercial tenant agreements, and other major property management issues identified tenant 430 
+association leadership boards.  431 
+(2) The report shall be provided electronically to all tenants and posted on the 432 
+website of The Office .     433 
+  (3) A tenant may request a report copy be provided to them as a paper copy.   434 
+Sec. 107. Responsibilities of Social Housing Property Management. 435 
+(a) The Office of Social Housing Development may: 436 
+(1) Establish a division in their Office to serve as the onsite manager of day-to-day 437 
+operations of social housing properties; or 438 
+(2) Contract with a private company to provide day-to-day property management 439 
+operations at one or multiple social housing properties. 440 
+ (b) Providing day-to-day property management operations shall include: 441 
+ (1) Monitoring building operations and communicating updates to tenants 442 
+including establishing a process to receive regular tenant and tenant association leadership board 443 
+feedback on building operations; 444 
+ (2) Ensuring proactive building maintenance and timely unit repairs, including: 445 
+(A) Responding, in writing, to a tenant maintenance complaint or repair 446 
+request not later than two business days after a tenant files a complaint or request; 447 
+  (B) Making a reasonable effort to complete all maintenance and repair 448 
+requests within one week of receiving the request; and 449 
+(C) Providing a tenant a weekly status update on how an issue is being 450 
+resolved, if the issue remains unresolved after one week; 451
+
+20 
+ 
+ (3) Accurately collecting rent on behalf of the Office of Social Housing 452 
+Development Fund which shall transferred to The Fund in a timely manner; 453 
+ (4) Providing or executing contracts with vendors for the following services: 454 
+  (A) Regular cleaning services for building common areas; 455 
+(B) Regular maintenance for building upkeep and pest management; 456 
+(C) Emergency maintenance and construction repairs; 457 
+(D) Trash, recycling, compost, and other waste removal services;  458 
+(E) Security personnel and systems; and 459 
+(F) Landscaping services;  460 
+(5) Entering agreements with and making payments to utility providers for in-unit 461 
+and common space utility usage per social housing development property; and 462 
+(6) Facilitating restorative justice conflict resolution processes when a dispute 463 
+arises between a tenant or tenants and the property manager or any vendor contracted by 464 
+property management.  465 
+(c)(1) When a contract is executed with a private company to provide property 466 
+management, The Office shall require all company employees who will be working at or with 467 
+social housing properties to: 468 
+(A)  Participate in implicit bias and anti-racism training; and 469 
+(B) Participate in restorative justice conflict resolution training. 470 
+  (2) Employees working at or with social housing properties shall participate in 471 
+trainings annually, including attending trainings within two months of beginning a job with a 472 
+social housing property. 473
+
+21 
+ 
+  (3) The Office shall arrange for and fund anti-bias and conflict resolution 474 
+trainings.  475 
+Sec. 108. Community Amenities for a Public Purpose at Social Housing Developments. 476 
+ (a)(1) Except as provided in paragraph (2), when constructing a new building as a social 477 
+housing development, the Office of Social Housing Development shall set aside not less than 478 
+50% of the street-level floorplan as commercial space to meet a public purpose.  479 
+ (2) The requirement set forth in paragraph (1) may be waived if a new property is 480 
+not being constructed in a location zoned for mixed-use and no zoning adjustments will be 481 
+pursued by the Office.  482 
+(b) When the Office of Social Housing Development acquires real property through a 483 
+TOPA or DOPA process pursuant to The Rental Housing Conversion and Sale Act of 1980, 484 
+effective September 10, 1980 (D.C. Law 3-86; D.C. Official Code § 42-3401.01 et seq.) and a 485 
+previous building structure included street-level commercial space, the Office of Social Housing 486 
+Development shall preserve not less than 75% of pre-existing commercial space for community 487 
+amenities that meet a public purpose. 488 
+(c) Community amenities that meet a public purpose include: 489 
+ (1) Libraries; 490 
+(2) Community or recreation centers; 491 
+(3) Grocery stores or healthy food markets; 492 
+ (4) Child development facilities, out-of-school time programs, or other 493 
+educational entities;   494 
+ (5) Health clinics or other public health and wellness-related services; 495 
+(6) Career development and job training services;  496
+
+22 
+ 
+ (7) Non-profit offices or programs; 497 
+ (8) Small-business or artistic community incubators; 498 
+ (9) Flexible meeting rooms or office space for: 499 
+(A) Neighborhood organizations such as Advisory Neighborhood 500 
+Committees or civic associations;  501 
+(B) “Pop-up” programming that meets community needs identified by 502 
+tenants of a social housing development; or  503 
+(C) Case management services affiliated with District government housing 504 
+and economic security programs; and 505 
+ (10) Businesses that advance environmental causes.    506 
+(d)(1) Lessees or renters of ground-floor commercial space may be the District 507 
+government, non-profit entities, or private businesses.  508 
+ (2) When leasing ground-floor commercial space to non-governmental entities, 509 
+the Office of Social Housing Development shall charge rents at not more than 80% of fair market 510 
+rental rates for comparable neighborhood street-level retail space. 511 
+(3) The Office shall not raise rents for commercial lessees more than once in a 512 
+two-year period. 513 
+(4) When adjusting rental rates or renegotiating a lease with an existing street-514 
+level retail tenant, the Office shall not raise rent above the average of the Consumer Price Index 515 
+for the Washington-Baltimore Metropolitan Statistical Area for all-urban consumers published 516 
+by the Department of Labor, or any successor index, as of the close of the 12-month period 517 
+ending on November 30 of such year.  . 518
+
+23 
+ 
+(5) A new lessee for street-level commercial space in a social housing 519 
+development shall not be charged more than 5% more than a previous lessee.   520 
+ (f)(1) The Department of General Services shall facilitate property maintenance and 521 
+security for any government facilities or services operating or co-locating at a social housing 522 
+development. 523 
+  (2) The Office of Social Housing Development or their contracted property 524 
+manager shall execute maintenance contracts necessary for regular and emergency maintenance 525 
+needs of non-governmental street-level commercial space lessees.    526 
+  (3) Storefront security systems, such as alarms, CCTV cameras, door lock 527 
+protocols, and retail product security, shall be the responsibility of non-governmental street-level 528 
+commercial lessees operating at a social housing development. These responsibilities shall not 529 
+dimmish the requirement of the Office or their contracted property manager to provide or 530 
+procure contracts for security personnel and systems for the social housing development 531 
+complex.  532 
+Sec. 109. Environmental Standards at Social Housing Developments. 533 
+(a) When constructed or renovated, social housing developments shall meet high 534 
+environmental standards, including: 535 
+(1) Net-zero emissions, including no energy from combustion or any sources that 536 
+emit greenhouse gases;  537 
+(2) High-efficiency, all-electric heating and cooling systems; 538 
+(3) Energy-efficient or high-efficiency appliances, windows, and lights in all 539 
+apartment units and common spaces;  540
+
+24 
+ 
+(4) On-site solar energy production to the maximum extent practicable, including 541 
+using the District’s solar installation program and employing labor through the District’s solar 542 
+installation workforce training programs; 543 
+(5) Eco-friendly landscape architecture, including green walls and green roofs, to 544 
+maximize natural cooling;  545 
+(6) Low-flow toilets, smart shower and washing machine technologies, and rain 546 
+capture and recycling techniques to reduce water waste;  547 
+(7) On-site composting services;  548 
+(8) On-site electric vehicle and electric bike charging ports that are accessible to 549 
+tenants and to the public; 550 
+(9) Indoor facilities to lock and store bicycles and other personal mobility devices; 551 
+and 552 
+(10) To the extent that on-site parking is developed or available at a social 553 
+housing development, not less than 20% of parking spaces shall be reserved for agreements with 554 
+car-sharing services.  555 
+(b) Social housing developments shall not include the following:  556 
+(1) Natural gas for heating, hot water, or cooking; or  557 
+(2) Off-street parking in excess of zoning regulations.  558 
+Sec. 110. Labor Standards and Employment Generation for Social Housing. 559 
+(a) Social housing developments shall be developed in compliance with federal and 560 
+District law, including: 561 
+(1) Procurement laws pursuant to Subchapter VI of Chapter 3A of Title 2; 562
+
+25 
+ 
+(2) First source employment laws pursuant to Subchapter X of Chapter 2 of Title 563 
+2;  564 
+(3) Small and local business enterprise development laws pursuant to Subchapter 565 
+IX-A of Chapter 2 of Title 2;  566 
+(4) Clean Hands requirements pursuant to Subchapter II of Chapter 28 of Title 47; 567 
+(5) Whistleblower protections pursuant to Subchapter XII of Chapter 2 of Title 2; 568 
+and 569 
+(6) Prevailing wage requirements pursuant to the Davis-Bacon Act of 1931, 570 
+approved March 3, 1931 (46 Stat. 1494; 40 U.S.C. § 3141 et seq.). 571 
+(b)(1) In order to advance the Office of Social Housing Development’s authority to 572 
+manage social housing properties established under section 107(a)(1), the Office may develop a 573 
+job training program for professions related to property management, including day-to-day 574 
+building operations, maintenance, and security services. 575 
+(2) To the extent practicable, the Office of Social Housing Development shall hire 576 
+tenants to work the following jobs at properties under the Office’s management: 577 
+(A) Front desk attendants and site managers; 578 
+(B) Leasing office associates; 579 
+(C) Security; 580 
+(D) Property maintenance and repair; and 581 
+(E) Landscape management and groundskeeping. 582 
+ (c) When The Office procures a contract related to the development, construction, or 583 
+operation of social housing, the Office shall assign the equivalent of a 25% preference bonus for 584 
+companies whose workforce is unionized or who subcontract for union labor.    585
+
+26 
+ 
+ Sec. 111. Rules. 586 
+The Mayor, pursuant to Title I of the District of Columbia Administrative Procedure Act, 587 
+approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 et seq.), shall issue rules 588 
+to implement the provisions of this title.  589 
+  590 
+Title II: CONFORMING AMENDMENTS.  591 
+Sec. 201. Section 301(q) of the District of Columbia Government Comprehensive Merit 592 
+Personnel Act of 1978, effective March 3, 1979 (D.C. Law 2-139; D.C. Official Code § 1-593 
+603.01(17)), is amended as follows: 594 
+(a) Paragraph (56) is amended by striking the word "and" at the end. 595 
+(b) Paragraph (57) is amended by striking the phrase "District of Columbia Public 596 
+Schools." and inserting the phrase "District of Columbia Public Schools; and" in its place. 597 
+(c) A new paragraph (58) is added to read as follows: 598 
+"(58) Office of Social Housing Development.". 599 
+Sec. 202. Section 301(b) of the Green Finance Authority Establishment Act of 2018, 600 
+effective August 22, 2018 (D.C. Law 22-155; D.C. Official Code § 8-173.31(b)) is amended by 601 
+striking the period and inserting the phrase “including Social Housing Development as defined 602 
+pursuant to Title I of the Housing Development Growth Amendment Act of 2025, introduced 603 
+March __, 2025 (B2-___).” 604 
+Sec. 203. Section 1(a-1)(2)(A) of An Act Authorizing the sale of certain real estate in the 605 
+District of Columbia no longer required for public purposes, approved August 5, 1939 (53 Stat. 606 
+1211; D.C. Official Code § 10-801(a-1)(2)(A)), is amended to read as follows: 607
+
+27 
+ 
+“(A) Whether the real property could have any use by the District, 608 
+including:  609 
+“(i) A description of the District’s current needs for real property,  610 
+“(ii) A description of potential public uses considered by the 611 
+Mayor,  612 
+“(iii) The square footage of green space on the real property,  613 
+“(iv) A narrative explaining why the real property is unsuited for 614 
+each public use considered; and 615 
+“(v) If the property is being disposed of in order to provide 616 
+affordable housing, a justification and mathematical assessment such as a pro forma for why the 617 
+proposed disposition will result in more permanently affordable housing for extremely low- and 618 
+very low-income households than would be created if the property were converted into a social 619 
+housing development as defined pursuant to Title I of the Housing Development Growth 620 
+Amendment Act of 2025, introduced March __, 2025 (B26-___).”. 621 
+Sec. 204. The Housing Production Trust Fund Act of 1988, effective March 16, 1989 622 
+(D.C. Law 7-202; D.C. Official Code § 42-2801 et seq.), is amended as follows: 623 
+(a) Section 2 (D.C. Official Code § 42–2801) is amended by adding a new paragraph (13) 624 
+to read as follows: 625 
+“(13) “Social Housing Development” shall have the same meaning as section 626 
+101(15) of the Housing Development Growth Amendment Act of 2025, introduced March __, 627 
+2025 (B26-___).”..  628 
+(b) Section 3(b) (D.C. Official Code § 42–2802(b)) is amended by adding a new 629 
+paragraph (12) to read as follows:  630
+
+28 
+ 
+“(12) Funds for the Office of Social Housing Development to acquire, develop, or 631 
+preserve a social housing development.” 632 
+Sec. 205. The Rental Housing Conversion and Sale Act of 1980, effective September 10, 633 
+1980 (D.C. Law 3-86; D.C. Official Code § 42-3404 et seq.), is amended as follows: 634 
+(a) Section 406 (D.C. Official Code § 42–3404.06) is amended by striking the phrase “or 635 
+governmental.” and inserting the phrase “or governmental, including to the District Office of 636 
+Social Housing Development established pursuant to Title I of the Housing Development 637 
+Growth Amendment Act of 2025, introduced March __, 2025 (B26-___).” in its place.  638 
+(b) Section 431 (D. C. Official Code § 42–3404.31) is amended by adding a new 639 
+subsection (b-1) to read as follows:  640 
+“(b-1) If the Mayor assigns the District’s purchasing rights pursuant to § 42-3404.36, 641 
+they must first issue a justification and mathematical assessment such as a pro forma for why 642 
+doing so will create more permanently affordable housing for extremely low- and very low-643 
+income households than converting it into a social housing development as defined pursuant to 644 
+Title I of the Housing Amendment Act of 2025, introduced March __, 2025 (B26-___).”.  645 
+ 646 
+TITLE III. FISCAL IMPACT STATEMENT; APPLICABILITY; EFFECTIVE DATE. 647 
+Sec. 301. Applicability.  648 
+(a) This act shall apply upon the date of inclusion of its fiscal effect in an approved 649 
+budget and financial plan.  650 
+(b) The Chief Financial Officer shall certify the date of the inclusion of the fiscal effect in 651 
+an approved budget and financial plan, and provide notice to the Budget Director of the Council 652 
+of the certification.  653
+
+29 
+ 
+(c)(1) The Budget Director shall cause the notice of the certification to be published in 654 
+the District of Columbia Register.  655 
+(2) The date of publication of the notice of the certification shall not affect the 656 
+applicability of this act. 657 
+Sec. 302. Fiscal impact statement. 658 
+The Council adopts the fiscal impact statement in the committee report as the fiscal 659 
+impact statement required by section 4a of the General Legislative Procedures Act of 1975, 660 
+approved October 16, 2006 (120 Stat. 2038; D.C. Official Code§ 1-301.47a). 661 
+Sec. 303. Effective date. 662 
+This act shall take effect following approval by the Mayor (or in the event of veto by the 663 
+Mayor, action by the Council to override the veto), a 30-day period of congressional review as 664 
+provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 665 
+24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of 666 
+Columbia Register. 667

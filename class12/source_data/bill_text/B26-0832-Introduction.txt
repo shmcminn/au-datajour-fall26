@@ -1,0 +1,60 @@
+______________________________ 1 
+      Councilmember Robert C. White, Jr. 2 
+ 3 
+ 4 
+ 5 
+ 6 
+A BILL 7 
+ 8 
+__________ 9 
+ 10 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA 11 
+ 12 
+__________ 13 
+ 14 
+To amend the Advisory Neighborhood Commissions Act of 1975 to authorize Advisory 15 
+Neighborhood Commissions to expend funds through certain third-party digital payment 16 
+platforms. 17 
+ 18 
+BE IT ENACTED by the Council of the District of Columbia, that this act may be cited as the 19 
+“Advisory Neighborhood Commissions Payment Modernization Act of 2026.” 20 
+Sec. 2. Section 16 of the Advisory Neighborhood Commissions Act of 1975, effective 21 
+March 26, 1976 (D.C. Law 1-58; D.C. Official Code § 1-309.13), is amended as follows: 22 
+Section 16 of the Advisory Neighborhood Commissions Act of 1975, effective March 26, 23 
+1976 (D.C. Law 1-58; D.C. Official Code § 1-309.13), is amended as follows: 24 
+(a) Subsection (b-2) is amended as follows: 25 
+(1) Paragraph (1) is amended by striking the phrase "payments." and adding the 26 
+phrase "payments, and by transfers made through a third-party digital payment platform." 27 
+(2) Paragraph (2) is amended to read as follows 28 
+“(2) Each Commission expending funds by EFT, ACH payments, or a third-party 29 
+digital payment platform shall do so pursuant to a procedure determined by the OANC that limits 30 
+monthly EFT, ACH payments, or a third-party digital payment platform expenditures relative to 31 
+the Commission's quarterly allotment.” 32
+
+(3) Paragraph (3) is amended by striking the phrase "EFT or ACH payments" and 33 
+adding the phrase "EFT or ACH payments, or transaction identifiers assigned by a third-party 34 
+digital payment platform” 35 
+(b) Subsection (f) is amended as follows: 36 
+(1) Paragraph (2A)(A) is amended by striking the phrase "debit card or ACH" and 37 
+adding the phrase "debit card, ACH, or a third-party digital payment platform". 38 
+(c) A new subsection (t-1) is added to read as follows: 39 
+"(t-1)(1) For the purposes of this section, the term "third-party digital payment 40 
+platform" means a payment service, accessible by website or mobile application, that: 41 
+(A) Allows electronic transfers of Commission funds from a depository 42 
+account or debit card to a vendor, grant recipient, or Commissioner; 43 
+(B) Provides the Commission with itemized transaction records that 44 
+include, at a minimum, the date, amount, payee, and an associated transaction identifier for each 45 
+transfer; and 46 
+(C) Allows the Commission to associate each transfer with a description 47 
+or memo field stating the purpose of the expenditure. 48 
+Sec. 3. Fiscal impact statement. 49 
+The Council adopts the fiscal impact statement in the committee report as the fiscal 50 
+impact statement required by section 4a of the General Legislative Procedures Act of 1975, 51 
+approved October 16, 2006 (D.C. Law 16-191; D.C. Official Code § 1-301.47a). 52 
+Sec. 4. Effective date. 53 
+This act shall take effect following approval by the Mayor (or in the event of veto by the 54 
+Mayor, action by the Council to override the veto), a 30-day period of Congressional review as 55
+
+provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 56 
+24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of 57 
+Columbia Register. 58

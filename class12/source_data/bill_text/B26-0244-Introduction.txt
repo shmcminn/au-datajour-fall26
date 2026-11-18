@@ -1,0 +1,180 @@
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+May 6, 2025 
+ 
+Nyasha Howard 
+Secretary to the Council 
+Council of the District of Columbia 
+1350 Pennsylvania Avenue, NW 
+Washington, D.C. 20004 
+ 
+Secretary Howard:  
+ 
+Today, along with Councilmembers Pinto, Bonds, Frumin, Henderson, and Robert White, I am 
+introducing the “Micromobility Fire Safety Standards Act of 2025”. Please find enclosed a signed 
+copy of the legislation.   
+ 
+Electric bikes, electric scooters, and other electric micromobility devices provide residents and 
+visitors with a safe, convenient, and sustainable alternative to personal vehicle use. These devices 
+have proven to be extremely popular in the District. From November 2018 through March 2025, 
+there have been over 29 million trips on micromobility devices in the District, totaling over 38 
+million miles.1  
+ 
+Unfortunately, as electric mobility devices have become increasingly common, so too 
+have incidents where the lithium-ion batteries that power them experience a phenomenon called 
+“thermal runaway,” which can result in smoke, fire, the emission of harmful gasses, and even 
+explosions.2 In just 2022, the Fire Department of the City of New York investigated 220 fires 
+caused by lithium-ion batteries, in which there were 147 injuries and six deaths.3 The number of 
+deaths associated with lithium-ion battery fires in New York City jumped to 18 fatalities the 
+ 
+1 Ride Report, Washington, DC (last visited April 29, 2025), https://public.ridereport.com/dc.   
+2 UL Standards & Engagement, E-Scooter & E-Bike Battery Fires (last visited April 29, 2025), https://ulse.org/e-
+bikes#initiatives-info-wrapper.  
+3 New York City Council, Council Votes to Strengthen Fire Safety Related to E-Bikes and Lithium-ion Batteries 
+(March 2, 2023), https://council.nyc.gov/press/2023/03/02/2361/.
+
+2 
+ 
+following year before falling to six in 2024 after the city implemented new safety measures.4 Here 
+in the District, DC Fire and EMS noted eight incidents of lithium-ion battery-related fires in 2023.5  
+ 
+These incidents typically involve batteries or other electronic components that have not been 
+tested to meet applicable safety standards. Requiring that micromobility devices sold or rented 
+in the District comply with applicable safety standards is a simple step to protect residents and 
+visitors from the potential dangers of electric micromobility devices. Some cities—including New 
+York City, NY,6 San Franciso, CA,7 and Hoboken, NJ8—have already implemented safety standards 
+regarding the sale, rental, and storage of micromobility device batteries. 
+ 
+It is imperative that the District proactively protect residents and visitors from the rare, but 
+potentially deadly, risks posed by unregulated micromobility devices. The Micromobility Fire 
+Safety Standards Act of 2025 would take the common-sense approach of requiring that 
+micromobility devices and batteries manufactured, distributed, sold, leased, or rented in the 
+District be certified to meet applicable safety standards (i.e., UL 2849, UL 2272, and UL 2271) by 
+a Nationally Recognized Testing Laboratory. Considering the utility and popularity of these 
+devices, everyone should be confident that any device purchased or rented in the District is safe 
+to operate, store, and charge.  
+  
+ 
+Sincerely, 
+ 
+ 
+ 
+Councilmember Charles Allen, Ward 6 
+Chairperson, Committee on Transportation & the Environment 
+ 
+4 City of New York, FDNY Commissioner Robert S. Tucker Announces Significant Progress in the Battle Against 
+Lithium-Ion Battery Fires (January 8, 2025), https://www.nyc.gov/site/fdny/news/03-25/fdny-commissioner-
+robert-s-tucker-significant-progress-the-battle-against-lithium-ion#/0.   
+5 Jacqueline Quynh, Lithium Batteries: Deadly problem for big cities, WUSA9 (March 4, 2024), 
+https://www.wusa9.com/article/news/local/dc/lithium-batteries-deadly-problem/65-23283476-b866-4c3b-
+b1ba-edda1c0998be.  
+6 See infra note 4.  
+7 Lyanne Melendez, San Francisco to set new rules for e-bikes, scooters powered by lithium-ion batteries, 
+ABC7 (February 19, 2025). https://abc7news.com/san-francisco-regulations-mobility-devices-lithium-ion-
+batteries-e-bikes/14428689/.  
+8 City of Hoboken, Hoboken Fire Department to Implement New Lithium-Ion Battery Fire Safety 
+Laws(February 25, 2025), https://www.hobokennj.gov/news/hoboken-fire-department-to-implement-new-
+lithium-ion-battery-fire-safety-laws.
+
+1 
+_____________________________                                       _____________________________ 1 
+Councilmember Brooke Pinto          Councilmember Charles Allen 2 
+ 3 
+ 4 
+ _____________________________                                        ____________________________  5 
+Councilmember Anita Bonds     Councilmember Matthew Frumin  6 
+ 7 
+ 8 
+_____________________________  _____________________________ 9 
+Councilmember Christina Henderson  Councilmember Robert C. White, Jr. 10 
+ 11 
+ 12 
+ 13 
+A BILL 14 
+  15 
+________  16 
+  17 
+ 18 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA  19 
+ 20 
+_________________________  21 
+  22 
+  23 
+To require that electric bicycles, electric mobility devices, and traction batteries manufactured, 24 
+distributed, sold, or offered for lease or rent in the District meet certain safety standards. 25 
+  26 
+ BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 27 
+act may be cited as the “Micromobility Fire Safety Standards Act of 2025”.  28 
+ Sec. 2. Definitions.  29 
+ (a) For the purposes of this act, the term: 30 
+  (1) “Certification” means the attestation by a Certification Body, indicated by the 31 
+Certification Body’s certification mark on the equipment, device, or product, that the equipment, 32 
+device, or product has been evaluated, tested, and found to conform to the standards specified in 33 
+section 3.  34 
+  (2) “Certification Body” means an independent third-party organization providing 35 
+certification for micromobility products that:  36
+
+2 
+   (A) Is recognized by OSHA as a Nationally Recognized Testing Laboratory; 37 
+and     38 
+   (B) Has received ISO/IEC 17065 accreditation from an independent 39 
+accreditation body that is a member of the International Accreditation Forum.   40 
+  (3) “Certification Mark” means a mark of conformity owned by a Certification 41 
+Body and registered with the U.S. Patent and Trademark Office (“USPTO”) that is visible and 42 
+affixed to a certified equipment, device, or product.  43 
+  (4) “Electric Bicycle” or “e-bike” means a vehicle with: 44 
+   (A) A post-mounted seat or saddle; 45 
+   (B) Two or three wheels that are in contact with the ground;  46 
+   (C) Fully operative pedals for human propulsion; and 47 
+   (D) One or more electric motors to either assist the rider when pedaling or 48 
+provide motive power to the wheels when the rider is not pedaling. 49 
+  (5) “Micromobility device” means any electric bicycle, electric scooter (“e-50 
+scooter”), or any other type of electric mobility device.  51 
+  (6) “Nationally Recognized Testing Laboratory” or “NRTL” means an organization 52 
+that meets the qualifications provided in 29 CFR 1910.7(b) and is Recognized as an NRTL by the 53 
+U.S. Department of Labor, Occupational Safety and Health Administration’s (“OSHA”) NRTL 54 
+program.  55 
+  (7) “Electric mobility device” or “e-mobility device” means a mobility device 56 
+intended for a single rider with a rechargeable electric drive train that propels the rider, and which 57 
+may be provided with a handle for grasping while riding, regardless of whether the device is self-58 
+balancing or if the rider may or may not be seated.   59
+
+3 
+  (8) “Traction Battery” means a rechargeable battery used to power the electric 60 
+motors of a micromobility device. 61 
+ Sec. 3. Requirements for manufacturer, distribution, sale, lease, rent of micromobility and 62 
+traction batteries.  63 
+ (a) All micromobility devices, and traction batteries for such devices, that are 64 
+manufactured, distributed, sold, or offered for lease or rent in the District shall meet the following 65 
+safety standards: 66 
+  (1) Electric bicycles shall be evaluated, tested and certified to UL 2849 and bear 67 
+the mark of a certification body;    68 
+  (2) E-Mobility Devices shall be evaluated, tested and certified to UL 2272 and bear 69 
+the mark of a certification body; and    70 
+  (3) Traction batteries for use in micromobility devices shall be evaluated, tested and 71 
+certified to UL 2271 and bear the mark of the certifying body. 72 
+ (b) Evaluation, testing, and certification of any standard listed in paragraph (1) of this 73 
+section shall be performed by a Nationally Recognized Testing Laboratory with that standard 74 
+included within its scope of recognition under the Nationally Recognized Testing Laboratory 75 
+program.  76 
+ Sec. 4. Fiscal impact statement.  77 
+ The Council adopts the fiscal impact statement in the committee report as the fiscal impact 78 
+statement required by section 4a of the General Legislative Procedures Act of 1975, approved 79 
+October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).  80 
+ Sec. 5. Effective date.  81
+
+4 
+ This act shall take effect after approval by the Mayor (or in the event of veto by the 82 
+Mayor, action by the Council to override the veto), a 30-day period of congressional review as 83 
+provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 24, 84 
+1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of 85 
+Columbia Register.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   86

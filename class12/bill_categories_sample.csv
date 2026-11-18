@@ -1,0 +1,478 @@
+Legislation Number,Status,Housing,Education,Business
+B26-0008,Under Council Review,true,false,false
+B26-0009,Under Council Review,false,false,true
+B26-0010,Official Law,true,false,false
+B26-0011,Official Law,false,false,false
+B26-0012,Under Council Review,false,false,false
+B26-0013,Official Law,false,false,false
+B26-0014,Under Council Review,false,false,false
+B26-0015,Under Council Review,true,false,false
+B26-0016,Enacted,false,false,false
+B26-0017,Under Council Review,false,false,false
+B26-0018,Under Council Review,false,false,false
+B26-0019,Under Council Review,false,false,true
+B26-0020,Under Council Review,false,false,false
+B26-0021,Under Council Review,false,false,false
+B26-0022,Official Law,false,false,true
+B26-0023,Official Law,false,false,true
+B26-0024,Under Council Review,false,false,true
+B26-0025,Official Law,false,false,false
+B26-0026,Under Council Review,false,false,false
+B26-0027,Under Council Review,false,false,false
+B26-0028,Under Council Review,false,false,false
+B26-0029,Official Law,false,true,false
+B26-0030,Under Council Review,false,false,true
+B26-0031,Under Council Review,false,false,false
+B26-0032,Official Law,false,false,true
+B26-0035,Official Law,false,false,true
+B26-0038,Under Council Review,false,false,false
+B26-0039,Official Law,false,false,false
+B26-0040,Official Law,true,false,true
+B26-0041,Under Council Review,false,false,true
+B26-0042,Under Council Review,true,false,false
+B26-0043,Under Council Review,false,false,false
+B26-0044,Under Council Review,false,false,true
+B26-0045,Official Law,false,false,true
+B26-0046,Official Law,true,false,false
+B26-0047,Under Congressional Review,false,false,true
+B26-0048,Official Law,false,false,false
+B26-0049,Official Law,false,false,true
+B26-0050,Under Council Review,true,false,false
+B26-0051,Under Council Review,false,false,true
+B26-0052,Under Council Review,false,false,false
+B26-0053,Official Law,true,false,true
+B26-0054,Under Council Review,false,false,true
+B26-0055,Under Council Review,false,false,false
+B26-0056,Under Council Review,false,false,false
+B26-0057,Official Law,false,false,true
+B26-0058,Under Council Review,false,false,false
+B26-0059,Official Law,false,false,false
+B26-0060,Under Council Review,false,false,false
+B26-0061,Official Law,false,false,true
+B26-0062,Official Law,false,true,false
+B26-0063,Under Council Review,false,true,false
+B26-0064,Under Council Review,false,false,true
+B26-0065,Under Council Review,false,false,false
+B26-0066,Official Law,false,true,false
+B26-0068,Under Council Review,false,true,false
+B26-0069,Under Council Review,false,false,false
+B26-0070,Under Council Review,true,false,false
+B26-0071,Under Council Review,false,false,false
+B26-0072,Under Council Review,false,true,false
+B26-0073,Official Law,false,true,false
+B26-0089,Under Council Review,false,false,false
+B26-0090,Under Council Review,false,false,true
+B26-0091,Under Council Review,true,false,false
+B26-0092,Under Council Review,true,false,false
+B26-0093,Under Council Review,false,false,false
+B26-0094,Under Council Review,false,false,false
+B26-0097,Under Council Review,false,true,false
+B26-0098,Official Law,true,false,false
+B26-0099,Under Council Review,false,false,false
+B26-0100,Under Council Review,false,false,false
+B26-0101,Under Council Review,false,false,true
+B26-0102,Under Council Review,false,false,true
+B26-0103,Under Council Review,false,false,false
+B26-0104,Under Council Review,false,false,false
+B26-0105,Under Council Review,true,false,false
+B26-0106,Under Council Review,false,false,false
+B26-0107,Under Council Review,false,false,true
+B26-0108,Under Council Review,false,true,false
+B26-0109,Official Law,false,false,true
+B26-0110,Under Council Review,false,true,false
+B26-0111,Under Council Review,false,true,true
+B26-0112,Under Council Review,false,true,false
+B26-0113,Under Council Review,false,false,false
+B26-0114,Under Council Review,false,false,false
+B26-0115,Under Council Review,false,false,false
+B26-0116,Under Council Review,false,false,false
+B26-0117,Withdrawn,true,false,false
+B26-0118,Under Council Review,false,false,false
+B26-0119,Official Law,false,false,false
+B26-0120,Official Law,false,false,false
+B26-0121,Under Council Review,true,false,true
+B26-0124,Under Council Review,false,false,false
+B26-0125,Official Law,true,false,false
+B26-0126,Official Law,true,false,false
+B26-0127,Official Law,false,false,false
+B26-0130,Under Council Review,false,false,false
+B26-0131,Official Law,false,false,false
+B26-0132,Under Council Review,false,true,false
+B26-0133,Under Council Review,false,false,false
+B26-0134,Under Council Review,false,false,false
+B26-0135,Official Law,false,false,false
+B26-0136,Official Law,false,false,false
+B26-0137,Under Council Review,false,true,false
+B26-0138,Under Council Review,false,false,true
+B26-0139,Official Law,false,false,false
+B26-0140,Under Council Review,false,false,false
+B26-0141,Under Council Review,true,false,false
+B26-0147,Official Law,false,false,true
+B26-0156,Under Council Review,true,false,true
+B26-0157,Official Law,true,false,false
+B26-0158,Under Council Review,false,true,false
+B26-0159,Official Law,false,false,true
+B26-0160,Official Law,false,false,false
+B26-0161,Under Council Review,false,false,false
+B26-0164,Official Law,true,false,true
+B26-0165,Official Law,false,false,false
+B26-0166,Under Council Review,false,false,false
+B26-0167,Under Council Review,false,false,false
+B26-0173,Official Law,false,false,false
+B26-0174,Official Law,false,false,true
+B26-0175,Official Law,false,true,false
+B26-0176,Official Law,false,true,false
+B26-0177,Official Law,true,false,false
+B26-0178,Under Council Review,false,false,false
+B26-0179,Under Council Review,false,false,false
+B26-0180,Official Law,false,false,false
+B26-0181,Under Congressional Review,false,false,true
+B26-0182,Under Council Review,false,false,true
+B26-0183,Under Council Review,false,false,false
+B26-0184,Under Council Review,false,false,true
+B26-0185,Under Council Review,false,false,false
+B26-0186,Under Council Review,false,false,false
+B26-0187,Official Law,false,true,false
+B26-0188,Under Council Review,false,false,false
+B26-0189,Official Law,false,false,false
+B26-0201,Under Council Review,true,false,false
+B26-0202,Under Council Review,true,false,false
+B26-0203,Under Council Review,false,false,false
+B26-0204,Official Law,false,true,false
+B26-0205,Under Council Review,false,false,false
+B26-0208,Official Law,false,false,false
+B26-0215,Under Council Review,true,false,false
+B26-0216,Official Law,false,false,false
+B26-0217,Under Council Review,false,false,false
+B26-0218,Under Council Review,false,true,false
+B26-0219,Official Law,true,true,true
+B26-0220,Official Law,false,false,false
+B26-0221,Official Law,false,false,false
+B26-0222,Official Law,false,false,false
+B26-0223,Official Law,false,false,false
+B26-0224,Official Law,false,false,true
+B26-0225,Under Council Review,true,false,false
+B26-0226,Official Law,false,false,false
+B26-0227,Official Law,true,false,false
+B26-0228,Under Council Review,true,false,false
+B26-0229,Under Council Review,false,false,true
+B26-0230,Under Council Review,false,false,false
+B26-0233,Official Law,false,false,false
+B26-0234,Official Law,false,false,false
+B26-0237,Under Council Review,true,false,false
+B26-0242,Official Law,false,false,false
+B26-0243,Enacted,false,false,false
+B26-0244,Under Congressional Review,false,false,false
+B26-0245,Under Congressional Review,false,false,false
+B26-0246,Under Council Review,false,false,false
+B26-0247,Official Law,false,false,true
+B26-0248,Official Law,false,false,false
+B26-0249,Official Law,false,false,false
+B26-0252,Under Council Review,false,false,false
+B26-0253,Under Council Review,false,false,true
+B26-0254,Under Council Review,false,false,true
+B26-0257,Under Council Review,false,false,true
+B26-0259,Under Council Review,false,false,true
+B26-0260,Official Law,true,true,true
+B26-0261,Enacted,false,true,false
+B26-0265,Official Law,true,true,true
+B26-0277,Under Council Review,false,false,false
+B26-0278,Under Council Review,false,true,false
+B26-0279,Withdrawn,false,false,true
+B26-0280,Official Law,false,false,false
+B26-0281,Under Council Review,true,false,false
+B26-0282,Under Council Review,false,false,false
+B26-0284,Under Council Review,false,false,true
+B26-0285,Enacted,true,false,false
+B26-0287,Under Council Review,true,false,true
+B26-0288,Official Law,true,false,true
+B26-0308,Official Law,false,false,false
+B26-0311,Official Law,false,false,false
+B26-0314,Under Council Review,false,false,false
+B26-0323,Under Council Review,false,false,true
+B26-0324,Under Council Review,false,false,true
+B26-0325,Under Council Review,false,false,false
+B26-0326,Under Council Review,false,false,false
+B26-0327,Official Law,false,true,false
+B26-0328,Under Council Review,false,false,false
+B26-0329,Under Council Review,false,false,false
+B26-0330,Official Law,false,false,false
+B26-0331,Official Law,false,false,false
+B26-0332,Under Council Review,false,false,true
+B26-0346,Under Council Review,false,false,true
+B26-0356,Official Law,false,false,false
+B26-0358,Official Law,false,false,false
+B26-0359,Withdrawn,true,false,false
+B26-0360,Under Council Review,true,false,false
+B26-0361,Under Council Review,false,false,true
+B26-0364,Official Law,false,false,false
+B26-0365,Official Law,false,false,false
+B26-0366,Under Council Review,true,false,false
+B26-0367,Official Law,false,false,false
+B26-0368,Under Council Review,true,false,false
+B26-0369,Under Council Review,false,false,true
+B26-0370,Under Council Review,false,false,true
+B26-0371,Official Law,false,false,false
+B26-0379,Under Council Review,false,false,true
+B26-0396,Official Law,false,false,false
+B26-0397,Under Council Review,true,false,false
+B26-0398,Official Law,false,false,false
+B26-0399,Official Law,false,false,false
+B26-0400,Official Law,false,false,false
+B26-0401,Under Council Review,false,false,false
+B26-0402,Under Council Review,false,true,false
+B26-0403,Under Council Review,false,true,false
+B26-0404,Official Law,false,false,false
+B26-0405,Under Council Review,false,true,false
+B26-0406,Under Council Review,false,false,false
+B26-0407,Official Law,false,false,false
+B26-0408,Official Law,false,false,false
+B26-0409,Official Law,false,false,false
+B26-0410,Under Council Review,false,true,false
+B26-0411,Official Law,false,false,false
+B26-0412,Under Council Review,false,false,false
+B26-0413,Under Council Review,false,false,false
+B26-0414,Official Law,false,false,false
+B26-0415,Under Council Review,false,false,false
+B26-0416,Under Council Review,true,false,false
+B26-0417,Under Council Review,false,false,false
+B26-0418,Under Council Review,false,true,false
+B26-0419,Official Law,false,false,false
+B26-0420,Under Council Review,false,true,false
+B26-0421,Official Law,false,false,true
+B26-0422,Official Law,false,false,true
+B26-0423,Under Council Review,true,false,false
+B26-0424,Under Council Review,false,false,false
+B26-0425,Under Council Review,true,true,true
+B26-0426,Official Law,false,false,true
+B26-0427,Enacted,false,false,true
+B26-0428,Under Council Review,false,false,false
+B26-0429,Official Law,true,false,false
+B26-0430,Official Law,false,true,false
+B26-0431,Official Law,false,false,false
+B26-0432,Official Law,false,false,false
+B26-0435,Under Council Review,false,false,false
+B26-0436,Enacted,false,false,false
+B26-0437,Under Council Review,false,false,false
+B26-0438,Official Law,false,false,true
+B26-0439,Under Council Review,false,false,false
+B26-0440,Under Council Review,false,false,false
+B26-0441,Under Council Review,false,false,false
+B26-0442,Under Council Review,false,false,false
+B26-0443,Under Council Review,true,false,false
+B26-0444,Under Congressional Review,false,false,false
+B26-0445,Under Council Review,false,false,true
+B26-0448,Under Council Review,true,false,true
+B26-0461,Official Law,false,false,false
+B26-0462,Under Council Review,false,false,false
+B26-0463,Official Law,false,false,false
+B26-0464,Under Council Review,false,false,true
+B26-0465,Under Council Review,false,false,false
+B26-0466,Under Council Review,true,false,true
+B26-0467,Under Council Review,false,false,true
+B26-0468,Under Council Review,false,false,false
+B26-0469,Under Council Review,true,false,true
+B26-0470,Under Council Review,false,true,true
+B26-0471,Under Council Review,false,false,true
+B26-0472,Under Council Review,false,false,true
+B26-0473,Under Council Review,false,false,true
+B26-0474,Under Council Review,false,false,true
+B26-0475,Under Council Review,false,false,true
+B26-0476,Under Council Review,true,false,false
+B26-0477,Under Council Review,true,false,false
+B26-0478,Under Council Review,true,false,false
+B26-0479,Under Council Review,false,false,false
+B26-0480,Under Council Review,false,false,false
+B26-0481,Under Council Review,false,true,false
+B26-0482,Under Council Review,false,false,false
+B26-0483,Under Council Review,false,false,false
+B26-0484,Under Council Review,false,false,false
+B26-0485,Under Council Review,false,false,true
+B26-0486,Under Council Review,false,false,false
+B26-0487,Under Council Review,false,false,true
+B26-0488,Under Council Review,false,true,false
+B26-0489,Under Council Review,false,true,false
+B26-0490,Official Law,false,true,true
+B26-0491,Under Council Review,false,true,false
+B26-0492,Under Council Review,false,false,false
+B26-0493,Under Council Review,true,false,true
+B26-0494,Official Law,false,false,true
+B26-0495,Under Council Review,true,false,true
+B26-0515,Under Council Review,false,false,false
+B26-0522,Under Council Review,false,false,true
+B26-0523,Under Council Review,false,false,false
+B26-0524,Under Council Review,false,false,false
+B26-0525,Under Council Review,false,false,true
+B26-0526,Official Law,false,true,false
+B26-0527,Under Council Review,false,false,false
+B26-0530,Under Council Review,true,false,true
+B26-0531,Under Council Review,false,false,false
+B26-0532,Under Council Review,true,false,false
+B26-0533,Under Council Review,false,false,false
+B26-0534,Official Law,false,false,false
+B26-0541,Under Council Review,true,false,false
+B26-0542,Official Law,true,false,false
+B26-0543,Under Council Review,true,false,false
+B26-0544,Under Council Review,true,false,true
+B26-0545,Official Law,true,false,false
+B26-0546,Under Council Review,false,false,false
+B26-0547,Under Congressional Review,false,false,true
+B26-0548,Under Congressional Review,false,false,false
+B26-0549,Under Council Review,false,false,false
+B26-0550,Official Law,false,false,false
+B26-0551,Official Law,false,false,false
+B26-0553,Under Council Review,false,true,false
+B26-0554,Under Congressional Review,false,false,false
+B26-0555,Under Council Review,false,false,false
+B26-0556,Under Council Review,true,false,false
+B26-0564,Enacted,false,false,false
+B26-0565,Under Council Review,false,false,false
+B26-0567,Under Council Review,false,true,false
+B26-0569,Under Council Review,false,true,false
+B26-0570,Under Council Review,false,false,false
+B26-0571,Under Council Review,false,false,false
+B26-0572,Under Council Review,false,false,false
+B26-0588,Under Council Review,false,false,true
+B26-0589,Under Council Review,false,false,false
+B26-0590,Under Council Review,true,false,false
+B26-0591,Under Council Review,true,false,false
+B26-0592,Under Council Review,false,true,false
+B26-0593,Under Council Review,false,false,false
+B26-0594,Under Council Review,false,false,false
+B26-0595,Under Council Review,true,false,false
+B26-0596,Under Council Review,false,false,false
+B26-0597,Under Council Review,true,false,false
+B26-0598,Under Council Review,true,false,false
+B26-0599,Under Council Review,false,false,false
+B26-0601,Under Council Review,false,false,false
+B26-0602,Under Council Review,false,false,false
+B26-0603,Under Council Review,false,false,false
+B26-0606,Under Council Review,false,false,false
+B26-0609,Under Council Review,false,false,true
+B26-0618,Under Council Review,false,false,false
+B26-0619,Enacted,false,false,false
+B26-0621,Under Council Review,false,false,true
+B26-0622,Under Council Review,false,false,true
+B26-0623,Under Council Review,false,false,false
+B26-0624,Under Council Review,false,false,false
+B26-0625,Under Council Review,false,false,false
+B26-0626,Under Council Review,false,false,false
+B26-0627,Under Council Review,false,true,false
+B26-0628,Under Council Review,false,false,false
+B26-0639,Under Council Review,false,false,false
+B26-0641,Enacted,false,false,false
+B26-0642,Under Council Review,false,false,false
+B26-0643,Under Council Review,false,false,false
+B26-0644,Under Council Review,false,false,true
+B26-0645,Under Council Review,true,false,false
+B26-0646,Under Council Review,false,true,false
+B26-0647,Under Council Review,true,false,true
+B26-0648,Under Council Review,false,false,true
+B26-0651,Under Council Review,false,false,false
+B26-0653,Under Council Review,false,false,true
+B26-0654,Under Council Review,false,false,true
+B26-0655,Under Council Review,false,false,false
+B26-0656,Under Council Review,false,false,true
+B26-0657,Under Council Review,true,false,true
+B26-0658,Enacted,false,true,false
+B26-0659,Official Law,true,true,true
+B26-0661,Official Law,true,true,true
+B26-0667,Under Council Review,false,false,true
+B26-0669,Under Council Review,false,false,true
+B26-0670,Under Council Review,false,false,false
+B26-0671,Under Council Review,false,false,false
+B26-0676,Under Council Review,false,false,false
+B26-0684,Under Council Review,false,false,true
+B26-0685,Under Council Review,true,false,true
+B26-0686,Under Council Review,false,false,false
+B26-0687,Under Council Review,false,true,false
+B26-0688,Under Council Review,false,true,false
+B26-0689,Under Council Review,false,false,false
+B26-0697,Under Council Review,false,false,false
+B26-0698,Under Council Review,false,false,false
+B26-0700,Enacted,true,false,false
+B26-0702,Under Council Review,false,false,false
+B26-0704,Under Council Review,false,false,false
+B26-0705,Under Council Review,false,false,false
+B26-0706,Under Council Review,false,true,false
+B26-0707,Under Council Review,false,false,true
+B26-0708,Under Council Review,false,false,true
+B26-0720,Under Council Review,true,false,true
+B26-0723,Under Council Review,false,false,false
+B26-0725,Under Council Review,false,true,false
+B26-0726,Under Council Review,false,false,false
+B26-0740,Under Council Review,false,false,false
+B26-0749,Under Council Review,false,false,false
+B26-0750,Under Council Review,false,false,true
+B26-0753,Under Council Review,true,false,false
+B26-0756,Under Council Review,false,true,false
+B26-0757,Under Council Review,true,false,true
+B26-0758,Under Council Review,true,false,false
+B26-0769,Under Council Review,true,false,false
+B26-0770,Under Council Review,false,false,false
+B26-0771,Under Council Review,false,false,false
+B26-0772,Under Council Review,false,false,false
+B26-0773,Under Council Review,false,false,false
+B26-0774,Under Council Review,false,false,true
+B26-0775,Under Council Review,false,false,true
+B26-0776,Under Council Review,false,false,true
+B26-0777,Under Council Review,false,false,false
+B26-0798,Under Council Review,false,false,false
+B26-0799,Under Council Review,false,false,false
+B26-0801,Under Council Review,true,true,true
+B26-0802,Under Council Review,true,false,false
+B26-0803,Under Council Review,false,false,true
+B26-0804,Under Council Review,false,false,false
+B26-0805,Under Council Review,false,false,true
+B26-0806,Under Council Review,false,false,false
+B26-0807,Under Council Review,false,false,false
+B26-0808,Under Council Review,false,false,false
+B26-0809,Under Council Review,false,false,false
+B26-0810,Under Council Review,false,false,false
+B26-0811,Under Council Review,false,false,false
+B26-0812,Under Council Review,false,false,false
+B26-0813,Under Council Review,false,false,true
+B26-0814,Under Council Review,false,false,false
+B26-0816,Under Council Review,false,true,false
+B26-0817,Under Council Review,false,false,false
+B26-0818,Under Council Review,false,false,true
+B26-0819,Under Council Review,true,false,false
+B26-0820,Under Council Review,true,false,false
+B26-0821,Under Council Review,true,false,false
+B26-0822,Under Council Review,true,false,false
+B26-0823,Under Council Review,true,false,false
+B26-0829,Under Council Review,true,false,false
+B26-0830,Under Council Review,false,false,false
+B26-0831,Under Council Review,false,false,false
+B26-0832,Under Council Review,false,false,false
+B26-0833,Under Council Review,false,false,false
+B26-0834,Under Council Review,true,false,true
+B26-0835,Under Council Review,false,false,false
+B26-0837,Under Council Review,true,false,false
+B26-0838,Under Council Review,false,false,false
+B26-0839,Under Council Review,false,false,false
+B26-0841,Under Council Review,false,false,true
+B26-0842,Under Council Review,false,false,false
+B26-0843,Under Council Review,false,false,false
+B26-0844,Under Council Review,false,false,false
+B26-0845,Under Council Review,false,false,false
+B26-0846,Under Council Review,false,false,true
+B26-0853,Under Council Review,false,false,true
+B26-0854,Under Council Review,false,false,false
+B26-0855,Under Council Review,false,false,true
+B26-0856,Under Council Review,false,true,false
+B26-0858,Under Council Review,true,false,true
+B26-0859,Under Council Review,false,false,true
+B26-0860,Under Council Review,false,true,false
+B26-0861,Under Council Review,false,false,false
+B26-0862,Under Council Review,false,false,false
+B26-0869,Under Council Review,false,false,false
+B26-0870,Under Council Review,true,false,false
+B26-0871,Under Council Review,true,false,false
+B26-0872,Under Council Review,false,false,false
+B26-0873,Under Council Review,false,false,false
+B26-0874,Under Council Review,false,false,false
+B26-0875,Under Council Review,false,false,false
+B26-0876,Under Council Review,false,false,false
+B26-0877,Under Council Review,false,false,false
+B26-0880,New,false,false,false

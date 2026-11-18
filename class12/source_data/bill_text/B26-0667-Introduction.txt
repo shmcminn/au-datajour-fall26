@@ -1,0 +1,119 @@
+COUNCIL OF THE DISTRICT OF COLUMBIA 
+The John A. Wilson Building 
+1350 Pennsylvania Avenue, NW 
+Washington, D.C. 20004 
+ 
+ 
+   
+ 
+ 
+Statement of Introduction 
+Surveillance Pricing Prohibition Amendment Act of 2026 
+April 20, 2026 
+Today I, along with Councilmembers Zachary Parker, Matthew Frumin, Anita Bonds, Charles Allen, 
+Janeese Lewis George, Robert C. White, Jr., Brooke Pinto, and Doni Crawford, am introducing the 
+Surveillance Pricing Prohibition Amendment Act of 2026 to address emerging concerns around digital 
+marketplace practices that harm consumers. This legislation would amend the District’s Consumer 
+Protection Procedures Act (CPPA) by creating new definitions for “surveillance-based price 
+discrimination” and “personally identifiable information,” and explicitly classify surveillance-based 
+pricing as an unfair or deceptive trade practice under D.C. Official Code § 28–3904. This measure will 
+protect consumers from opaque pricing systems that leverage personal data to manipulate costs for private 
+gain. 
+A December 2025 study conducted by Consumer Reports and the Groundwork Collaborative found that 
+Instacart listed identical grocery items at varying prices within the same stores in the District of 
+Columbia.1 In some cases, prices were marked up by as much as 23 percent, based not on supply or 
+demand, but on algorithmic assessments that functionally tested differences in individual customers’ 
+willingness to pay for identical items. A December 2024 Consumer Watchdog report found that big box 
+stores, airlines, online marketplaces, rideshare companies, and insurers similarly differentiate prices for 
+customers based on personal characteristics that predict differences in willingness to pay for identical 
+items.2 The Federal Trade Commission launched an investigation into surveillance pricing in 2024, and 
+released a research study in January 2025 that affirmed that companies were using consumer data to set 
+prices.3 While the full extent of surveillance-based pricing is still being revealed, it is the case that 
+consumers no longer have certainty that a given good or service’s quoted price reflects its market value.  
+Without regulatory safeguards, this type of pricing model could further expand across digital platforms 
+and extend to in-store pricing models, allowing companies to increase prices arbitrarily based on 
+consumer data rather than the fairly assessed, mass-market-borne cost of a good or service. This proposal 
+aligns with a growing effort in several states to address surveillance-based pricing practices. Earlier this 
+month, Maryland lawmakers passed the Protection from Predatory Pricing Act (HB 895) and sent the law 
+to Governor Moore’s desk for his signature. Several other states, including Georgia, Ohio, Minnesota, and 
+California, are considering related legislation. By advancing this bill, the District can proactively work to 
+protect residents from exploitative pricing strategies before they become widespread and entrenched. I 
+look forward to working with my colleagues and stakeholders to advance this measure.  
+ 1 https://www.consumerreports.org/money/questionable-business-practices/instacart-ai-pricing-experiment-inflating-grocery-
+bills-a1142182490/ 2 https://consumerwatchdog.org/wp-content/uploads/2024/12/Surveillance-Price-Gouging.pdf 3 https://www.ftc.gov/system/files?file=ftc_gov/pdf/p246202_surveillancepricing6bstudy_researchsummaries_redacted.pdf 
+Christina Henderson Committee Member 
+Councilmember, At-Large Human Services 
+Chairperson, Committee on Health Facilities 
+ Transportation and the Environment
+
+1 
+______________________________   ______________________________ 1 
+Councilmember Zachary Parker Councilmember Christina Henderson   2 
+ 3 
+  4 
+______________________________   ______________________________ 5 
+Councilmember Matthew Frumin    Councilmember Anita Bonds 6 
+ 7 
+ 8 
+______________________________    ______________________________ 9 
+Councilmember Charles Allen            Councilmember Janeese Lewis George 10 
+ 11 
+ 12 
+______________________________   ______________________________ 13 
+Councilmember Robert C. White, Jr.    Councilmember Brooke Pinto 14 
+ 15 
+ 16 
+______________________________ 17 
+Councilmember Doni Crawford 18 
+ 19 
+ 20 
+ 21 
+ 22 
+A BILL 23 
+  24 
+__________ 25 
+  26 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA  27 
+  28 
+_________________________  29 
+  30 
+  31 
+To amend Chapter 39 of Title 28 of the District of Columbia Official Code to prohibit 32 
+algorithmic pricing of consumer goods.  33 
+ 34 
+BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That 35 
+this act may be cited as the "Surveillance Pricing Prohibition Amendment Act of 2026". 36 
+Sec. 2. Chapter 39 of Title 28 of the District of Columbia Official Code is amended as 37 
+follows:  38
+
+2 
+(a) Section 28-3901 is amended by adding new paragraphs (16) and (17) to read as 39 
+follows:  40 
+“(16) “Surveillance-based price discrimination” means using personally 41 
+identifiable information collected through electronic surveillance technology, technological 42 
+methods, systems, or tools, including sensors, cameras, device tracking, biometric monitoring, 43 
+or other forms of observation or data collection capable of gathering personally identifiable 44 
+information about a consumer’s behavior, characteristics, location, or other personal attributes, 45 
+whether in physical or digital environments, to set the price assessed for a good or service. 46 
+“(17) "Personally identifiable information" means information that can be used 47 
+to distinguish or trace an individual's identity, either alone or when combined with other 48 
+personal or identifying information that is linked or linkable to a specific individual.”.  49 
+(b) Section 28-3904 is amended as follows:  50 
+(1) Subsection (kk) is amended by striking the phrase “; or” and inserting a 51 
+semicolon in its place. 52 
+(2) Subsection (ll) is amended by striking the period and inserting the phrase “; 53 
+or” in its place.  54 
+(3) A new subsection (mm) is added to read as follows:  55 
+“(mm) Engage in surveillance-based price discrimination to differentiate prices 56 
+assessed to a customer for a good or a service.”. 57 
+Sec. 3. Fiscal impact statement.  58 
+The Council adopts the fiscal impact statement in the committee report as the fiscal 59 
+impact statement required by section 4a of the General Legislative Procedures Act of 1975, 60 
+approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).  61
+
+3 
+Sec. 4. Effective date.  62 
+This act shall take effect after approval by the Mayor (or in the event of veto by the 63 
+Mayor, action by the Council to override the veto) and a 30-day period of congressional 64 
+review as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved 65 
+December 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)). 66

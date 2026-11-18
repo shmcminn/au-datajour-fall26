@@ -1,0 +1,181 @@
+OFFICE OF COUNCILMEMBER ROBERT C. WHITE, JR 
+CHAIR, COMMITTEE ON HOUSING 
+THE JOHN A. WILSON BUILDING 
+1350 PENNSYLVANIA AVENUE, NW, SUITE 107 
+WASHINGTON, DC 20004 
+ 
+The John A. Wilson Building, 1350 Pennsylvania Avenue, N.W., Suite 114 
+Washington, DC 20004 
+September 25, 2026  
+ 
+Dear Secretary Howard, 
+ 
+District residents deserve access to safe, affordable homes in every Ward. Yet today, many of our most 
+urgently needed housing projects face regulatory processes that add cost, delay, and uncertainty that have 
+led to historic lows in new construction.1 Recent analyses of DC’s housing ecosystem show that costs 
+have dramatically increased due in part to elongated permitting timelines, duplicative reviews, and 
+regulatory requirements that do not always scale appropriately.2 
+To help address these challenges, I am introducing the Build Housing Package, a set of four targeted bills 
+designed to lower costs, speed project delivery, and make our limited housing dollars go further. These 
+reforms are practical, specific, and grounded in findings from developers, nonprofit housing providers, 
+agency personnel, and technical experts. The package is endorsed by Greater Greater Washington and the 
+Pew Charitable Trusts, was drafted in collaboration with The Coalition, DC Policy Center, and the 
+Department of Buildings, and incorporates feedback from the Housing Unity permitting reform working 
+group convened by the Federal City Council. 
+ 
+1. Understanding the Cost of Housing Regulations Act of 2026  
+The District currently has no insight into the cumulative or individual cost burden of its housing 
+regulations. Requirements are often adopted individually without assessing how they interact when 
+stacked on a single project. The result is a regulatory environment where individually reasonable rules can 
+collectively produce outsized costs and delays, undermining project feasibility and reducing the number 
+of units our subsidy dollars can support.3 This bill establishes a third-party cost review comparing DC’s 
+development costs, permitting timelines, and regulatory burdens with Maryland and Virginia peer 
+jurisdictions to equip the District to understand the tradeoffs in its current regulatory environment. 
+ 
+1 At a Breaking Point: The Realities of Delivering Affordable Housing in DC, National Housing Trust, 2026, 
+https://nationalhousingtrust.org/news/breaking-point-realities-delivering-affordable-housing-dc 
+2 Breaking the scarcity-subsidy cycle: A new housing vision for the District of Columbia, Yesim Sayin  
+Emilia Calma, D.C. Policy Center, 2026, https://www.dcpolicycenter.org/publications/breaking-the-scarcity-
+subsidy-cycle-a-new-housing-vision-for-the-district-of-columbia/ 
+3 Lowering the Cost of Affordable Housing in DC, Urban Land Institute Technical Assistance Panel and the 
+Coalition, 2025, https://thecoalitiondc.org/news/as-affordable-housing-costs-rise-the-coalition-partners-with-
+uli-washington-to-explore-solutions-for-dc/
+
+Page 2 of 3 
+Councilmember Pinto and I are co-leading this bill and Councilmember Bonds has co-introduced. 
+ 
+2. Affordable Housing Tax Assessment Alignment Act of 2026 
+Affordable housing should not be taxed as though it can collect market rate rents. Yet that is what 
+happened at Intersect, a 74-unit mixed-income development at 1338 8th Street NW with 24 affordable 
+units. The Office of Tax and Revenue (OTR) assessed those affordable units at $5.75 million, even though 
+Roadside Development's analysis found that their actual operating income supported a value of negative 
+$630,000 before taxes—a difference of roughly $6.38 million. 
+The owner appealed its Tax Year 2025 assessment of $39.97 million and ultimately obtained a court-
+ordered reduction to $34.5 million—a reduction of approximately $5.47 million. But the correction took 
+nearly two years. The owner had to pay the full, unreduced tax bill while the appeal was pending, and 
+after finally securing the reduction, 25% of the tax savings went to the tax consultant. 
+Intersect was developed through a public-private partnership, making the disconnect particularly 
+concerning: the District had already imposed the affordability requirements and had information about the 
+property's legally restricted rents. Yet that information did not make its way to OTR in a way that allowed 
+the affordable units to be accurately assessed. 
+This problem persists across all affordable housing development and is even greater for fully affordable 
+developments. A mixed-income project can use revenue from market-rate units to help absorb the costs 
+of affordable units, but inflating tax assessments on fully affordable developments reduces the resources 
+available to operate and preserve affordable homes. 
+This bill closes that information gap by requiring the Department of Housing and Community 
+Development (DHCD) to provide OTR with the affordability covenant data it needs to account for legally 
+restricted rents when assessing property value. The District should not require properties to remain 
+affordable and then tax them as though they are not. Councilmember Pinto and I are co-leading this bill.  
+Chairman Mendelson and Councilmembers Bonds, Allen, Nadeau, and Frumin have co-introduced.  
+ 
+3. Pre-Approved Housing Plans Act of 2026 
+Small-scale housing projects should not have to pay for the same design and technical work every time a 
+builder wants to construct a rowhouse, townhouse, duplex, or other small multifamily building. This bill 
+establishes a pre-approved housing plan program within the Department of Buildings (DOB) to make 
+permit-ready, code-compliant plans publicly available for these repeatable housing types. DOB would 
+develop or competitively procure standardized plans, while also allowing previously approved plans to 
+be reused within three years, and would publish the zoning, construction, and site requirements 
+associated with each plan. The plans would be designed for adaptation to different lots and site 
+conditions without requiring a complete redesign, creating a more predictable and affordable pathway 
+for small-scale housing development. 
+This approach has been adopted by jurisdictions across the country. A 2026 report from The Pew 
+Charitable Trusts found that roughly 40 jurisdictions have implemented some form of pre-approved
+
+Page 3 of 3 
+building plan program and estimates that these programs can reduce overall development costs. Pre-
+approved plans can reduce architectural and engineering costs and shorten permitting timelines by 
+completing much of the technical review upfront. Pew also found that these programs can be particularly 
+valuable for smaller and newer builders, for whom upfront design and permitting costs can make small 
+infill and “missing middle” projects difficult to finance. The District can build on this model while 
+tailoring it to the housing types and development conditions that are most appropriate for DC. 
+Councilmember Pinto and I are co-leading this bill. Councilmembers Bonds, Allen, Nadeau, Lewis 
+George, and Frumin, have co-introduced.  
+ 
+4. Risk-Based Third-Party Code Review Act of 2026 
+Today’s statutory third-party review system does not shorten permitting timelines. Even when applicants 
+pay qualified external architects or engineers to certify plans, DOB still performs a full technical review, 
+meaning third-party review adds a step without replacing one. Applicants pay twice, and the government 
+queue remains unchanged.  
+This bill establishes a binding, risk-based third-party pathway, under which DOB would rely on certified 
+submissions for defined project types unless the agency identifies a specific defect within a set review 
+window. DOB would shift to targeted auditing rather than universal re-review, with oversight scaled based 
+on project complexity and the performance history of the development team. This approach adds usable 
+private-sector review capacity, frees DOB staff for complex, high-risk work, prevents costly 
+construction-stage delays through timely inspections, and maintains safety via qualifications, standardized 
+certifications, audits, and meaningful sanctions. 
+DOB would issue implementing rules on eligibility, qualifications, audit rates, defect thresholds, and 
+enforcement. This bill is co-introduced by Councilmember Pinto. 
+ 
+These four bills target avoidable cost drivers, create predictable pathways for small and routine projects, 
+align tax policy with affordability commitments, and provide the District with the tools needed to respond 
+to changing market conditions. Together, they strengthen our ability to deliver housing efficiently and 
+responsibly, ensuring that public investments translate into real units for District residents. 
+ 
+I look forward to working with the Council to advance these reforms. Please contact the Committee on 
+Housing staff at housing@dccouncil.gov with any questions.
+
+1 
+_____________________________    _____________________________  2 
+Councilmember Brooke Pinto                                               Councilmember Robert C. White, Jr.  3 
+ 4 
+ 5 
+A BILL 6 
+__________ 7 
+ 8 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA 9 
+__________ 10 
+ 11 
+To establish a risk-based pathway for qualified third-party plan reviewers to provide binding 12 
+Construction Code review for qualifying projects, establish a defined period for the 13 
+Department of Buildings to identify defects or issues requiring additional review, and 14 
+allow the Department to focus its resources on complex and higher-risk projects.  15 
+ 16 
+ BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 17 
+act may be cited as the “Risk-Based Third-Party Code Review Act of 2026”. 18 
+ Sec. 2. The Construction Codes Approval and Amendments Act of 1986, effective March 19 
+21, 1987 (D.C. Law 6-216; D.C. Official Code § 6–1405.02), is amended as follows:   20 
+(a) Subsection (a) is amended to read as follows: 21 
+“(a) The Mayor shall allow qualified third-party plan reviewers to review 22 
+construction documents, or components of construction documents, and certify their compliance 23 
+with the Construction Codes or Zoning Regulations. For a qualifying project, a certification 24 
+issued by a qualified third-party plan reviewer pursuant to this section shall be binding upon the 25 
+Department of Buildings unless the Director or their delegee identifies a specific defect or issue 26 
+requiring additional Department review within the review period.”. 27 
+(b) Subsection (b) is amended by adding new paragraphs (3) and (4) to read as 28 
+follows: 29 
+“(3) The rules set the criteria for determining whether a project qualifies for 30
+
+binding third-party review, shall include criteria based on project size, occupancy, structural 31 
+complexity, construction type, height, number of dwelling units, fire and life-safety 32 
+characteristics, site conditions, historic status, and other characteristics relevant to project risk;” 33 
+“(4) The rules set the review period within which the Department may identify a 34 
+specific defect or issue requiring additional Department review of a project subject to third-party 35 
+binding review.” 36 
+(c) A new subsection (j) is added to read as follows: 37 
+“(j)(1) A project shall qualify for binding third-party review if the project meets 38 
+the eligibility criteria established by the Mayor and the construction documents have been 39 
+reviewed and certified by a qualified third-party plan reviewer. 40 
+“(2) The Department may require additional review of a project if, within the 41 
+review period established pursuant to subsection (b)(4), the Director identifies: 42 
+“(A) A specific defect in the construction documents; 43 
+“(B) A material failure to comply with the Construction Codes or Zoning 44 
+Regulations; or 45 
+“(C) A project-specific circumstance that requires additional Department 46 
+review pursuant to criteria established by rule. 47 
+“(3) If the Director does not identify a matter described in paragraph (2) of this 48 
+subsection within the applicable review period, the third-party certification shall be deemed 49 
+accepted by the Department and shall satisfy the Department's plan-review requirement for the 50 
+construction documents or components of construction documents covered by the certification. 51 
+“(4) Nothing in this subsection shall limit the Department's authority to conduct 52 
+inspections or take enforcement action authorized by law after a permit is issued.”. 53
+
+Sec. 3. Fiscal impact statement. 54 
+ The Council adopts the fiscal impact statement in the committee report as the fiscal 55 
+impact statement required by section 4a of the General Legislative Procedures Act of 1975, 56 
+approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a). 57 
+ Sec. 4. Effective date. 58 
+ This act shall take effect following approval by the Mayor (or in the event of veto by the 59 
+Mayor, action by the Council to override the veto), a 30-day period of congressional review as 60 
+provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 61 
+24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of 62 
+Columbia Register. 63

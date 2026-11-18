@@ -1,0 +1,157 @@
+1 
+ 
+ 
+ 
+OFFICE OF AT-LARGE COUNCILMEMBER ANITA BONDS 
+CHAIR, COMMITTEE ON EXECUTIVE ADMINISTRATION AND LABOR 
+THE JOHN A. WILSON BUILDING  
+1350 PENNSYLVANIA AVENUE, NW 
+WASHINGTON, DC 20004 
+October 1, 2026 
+ 
+Nyasha Smith, Secretary  
+Council of the District of Columbia  
+1350 Pennsylvania Avenue, N.W. 
+Washington, DC 20004 
+ 
+Dear Secretary Smith, 
+ 
+Today, I am introducing the “Events DC Excess Cash Calculation Clarification Amendment 
+Act of 2026.” to clarify excess cash calculation requirements outlined in existing law. Please find 
+enclosed a signed copy of the legislation.  
+ On October 8, 2025, the Office of the District of Columbia Auditor (“ODCA”) published a 
+report entitled, “Events DC Wrongly Calculated “Excess Cash,” Owes D.C. $68.7 Million”. The purpose of 
+this audit was to determine whether Events DC’s excess cash transfer calculations complied with 
+governing laws and agreements.1  According to DC Code § 10-1202.13, the Washington Convention 
+and Sports Authority, also known as Events DC, is required to transfer excess cash to the District of 
+Columbia government at the end of each fiscal year.  
+ 
+ ODCA and Events DC disagree on the calculation of Events DC’s excess cash for FY 2024. 
+In its report, ODCA found that Events DC incorrectly calculated its excess cash and contends that 
+Events DC owes the District $68.7 million. Events DC disagreed with the ODCA’s finding, noting 
+in their response that Events DC had reviewed this issue with staff, the Office of the Chief Financial 
+Officer, their independent third-party auditors, and outside bond counsel, and asserts that their 
+excess cash calculation is consistent with their bond agreements and longstanding prior practice.  
+ 
+ Events DC further noted in its response to the ODCA report that their excess cash 
+calculation had already undergone an in-depth review and audit back in 2019, which arose from the 
+fiscal sufficiency of the Fiscal Year 2020 Budget. On June 10, 2019, former Chief Financial Officer 
+Jeffrey DeWitt provided a letter to the DC Council outlining an error in the excess cash 
+calculations.2 Consequently, Events DC made the correction and revised the excess cash calculations 
+ 
+1 See, Events DC Wrongly Calculated “Excess Cash,” Owes D.C. $68.7 Million, A Report by the Office of the District of 
+Columbia Auditor, October 8, 2025, at https://dcauditor.org/report/events-dc-wrongly-calculated-excess-cash-owes-d-
+c-68-7-million/  
+2 See, Certification of Council’s Proposed Budget and Financial Plan for Fiscal Year 2020 Through 2023, Jeffrey DeWitt, 
+CFO (June 10, 2019) at Certification-of-Councils-Proposed-Budget-and-Financial-Plan-for-FY-2020_2023_June-10.pdf
+
+2 
+ 
+for Fiscal Years 2008-2018. The revised calculations for Fiscal Years 2008-2018 were subsequently 
+reviewed by the District’s Controller, Treasurer, and Office of the Inspector General. Explicitly, the 
+Office of the Inspector General commissioned an independent audit of the calculations. On January 
+29, 2020, the independent public accountant issued its opinion and concluded that the excess cash 
+calculation was “fairly stated in all material respects”.3 Such calculations were revised, reviewed, 
+audited, and provided to the Council without objection.  
+ 
+ Moreover, Events DC issues bonds. In an existing agreement, the Amended and Restated 
+Master Trust Agreement dated as of February 1, 2007 (“MTA”), provisions were in place to set 
+protections for bondholders, including an outline of necessary funds and reserves. Events DC noted 
+that calculating excess cash in the manner ODCA set forth would eliminate Events DC’s ability to 
+fulfill its operational responsibilities and breach the covenants in existing agreements with 
+bondholders. In former Chief Financial Officer DeWitt’s June 10, 2019, letter, he explains that an 
+intentional breach of the MTA could trigger lawsuits by bondholders and impact the District’s credit 
+rating. Such a breach could increase the costs of borrowing and impair Events DC’s ability to issue 
+debt. 
+ 
+ Events DC has multiple operating funds including a Convention Center Fund, Sports and 
+Entertainment Fund and Marketing Fund.  Events DC’s Sports and Entertainment Division and its 
+Marketing Fund rely on tax revenues to keep running and cannot operate independently of 
+dedicated tax revenues in the Convention Center Fund. If those expenses are left out of the 
+calculation, as ODCA recommends, the District could send excess cash to the General Fund, but 
+Events DC would still need the same funding to operate. Consequently, the District would then 
+have to give Events DC a new subsidy from the budget. This would create an unnecessary funding 
+issue, which was not the intent of §10-1202.13.  
+  
+ Evidently, the excess cash calculation outlined by §10-1202.13 allows for multiple 
+interpretations, such that further clarification is necessary.  Both ODCA and Events DC concur that 
+legislative clarity is the most efficient way to resolve ambiguity. The purpose of this legislation is to 
+provide technical clarifications to ensure the calculation is conducted consistently with the MTA, 
+which will prevent risks of breaches, potential bondholder litigation, and financial exposure 
+negatively impacting the District’s/Events DC’s credit rating and borrowing costs. Additionally, the 
+technical clarifications ensure the statutory requirements reflect Events DC’s expansion of scope 
+and remain aligned with current operations. 
+ 
+Should you have any questions about this legislation, please contact Committee Director, 
+Jeanmarie Elican at jelican@dccouncil.gov or 202-724-8198. 
+ 
+Thank you, 
+ 
+ 
+ 
+Anita Bonds 
+ 
+3 See, OIG Project No. 20-1-07ES, Washington Convention and Sports Authority T/A Events DC, Schedule of Excess 
+Cash Calculation (With Report of Independent Public Accountants) For Fiscal Year Ended September 20, 2019, 
+(February 2020) at https://oig.dc.gov/sites/default/files/Reports/OIG%20No.%2020-1-
+07ES%28a%29%20FY%2019%20Convention%20Center%20Excess%20Cash%20Opinion.pdf
+
+3 
+ 
+ 1 
+__________________________ 2 
+Councilmember Anita Bonds  3 
+ 4 
+ 5 
+A BILL 6 
+ 7 
+__________ 8 
+ 9 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA 10 
+ 11 
+_________________ 12 
+ 13 
+To amend Sections 208a, 208b, and 213 of the Washington Convention Center Authority Act to 14 
+clarify the excess cash calculation requirements. 15 
+ 16 
+BE IT ENACTED, BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 17 
+act may be cited as the “Events DC Excess Cash Calculation Clarification Amendment Act of 18 
+2026”. 19 
+Sec. 2.  Title II of the Washington Convention Center Authority Act of 1994, effective 20 
+September 28, 1994 (D.C. Law 10-188; D.C. Official Code § 10-1202.01 et seq.), is amended as 21 
+follows: 22 
+(a) Section 208a(b) (D.C. Official Code § 10-1202.08b(b)), is amended by striking the 23 
+word “Monies” and inserting the phrase “Except as provided in § 10-1202.13, monies” in its 24 
+place. 25 
+(b) Section 208b(b)(2) (D.C. Official Code § 10-1202.08b(b)(2)), is amended by striking 26 
+the word “All” and inserting the phrase “Except as provided in § 10-1202.13, all” in its place. 27 
+(c) Section 213 (D.C. Official Code § 10-1202.13) is amended as follows: 28 
+ (1) Subsection (a) is amended to read as follows: 29 
+“(a) If, at the end of a fiscal year, the balance of cash and investments of the Authority 30 
+exceeds the balance of current liabilities (including interest payments that will be due up to 185 31 
+days from the end of the fiscal year), reserves, and any amounts that the Authority expects to 32
+
+4 
+ 
+apply to purchase or redeem its outstanding indebtedness during the upcoming fiscal year, the 33 
+excess shall be transferred, in cash, to the General Fund of the District; provided, that any funds 34 
+in the New Convention Center Hotel Fund established by D.C. Code § 10-1221.03, and any 35 
+funds transferred to the Authority from Stadium Maintenance Fund established by D.C. Code § 36 
+10-1605.10 and/or the Ballpark Preservation and Improvement Fund established by D.C. Code § 37 
+10-1601.02a for the Authority to administer on behalf of the District, shall be excluded in all 38 
+respects from this calculation. 39 
+ (2) Subsection (b)(1) is amended by striking the phrase “maximum annual debt 40 
+service on outstanding bonds” and inserting the phrase “sum of the maximum annual debt 41 
+service for each series of outstanding bonds” in its place.  42 
+ (3) Subsection (b)(2) is amended by striking the phrase “annual operating 43 
+expenditures” and inserting the phrase “budgeted annual operating and marketing expenses for 44 
+the upcoming fiscal year” in its place.  45 
+Sec. 3. Fiscal impact statement. 46 
+The Council adopts the fiscal impact statement in the committee report as the fiscal 47 
+impact statement required by section 4a of the General Legislative Procedures Act of 1975, 48 
+approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a). 49 
+Sec. 4. Effective date. 50 
+This act shall take effect following approval by the Mayor (or in the event of veto by the 51 
+Mayor, action by the Council to override the veto) and a 30-day period of congressional review 52 
+as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 53 
+21, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)). 54

@@ -1,0 +1,216 @@
+★★★ 
+MATTFRUMINWARD3.COM | (202) 724-8062 
+September 24, 2025 
+ 
+Nyasha Howard 
+Secretary  
+Council of the District of Columbia 
+1350 Pennsylvania Avenue, NW 
+Washington, DC 20024 
+ 
+Dear Secretary Howard: 
+ 
+Today, along with Councilmembers Janeese Lewis George, Brianne K. Nadeau, Zachary Parker, Charles Allen, 
+Christina Henderson, Brooke Pinto, Robert C. White, Jr., and Anita Bonds, I am introducing the Public Benefits 
+Security Amendment Act of 2025. This legislation reduces public benefits theft by requiring the Department 
+of Human Services (DHS) to transition away from magnetic stripe (swipe) electronic benefit transfer (EBT) 
+cards to more secure, microchipped EBT cards and to restore the public assistance of residents whose 
+benefits are stolen. 
+ 
+Benefits theft annually deprives the District’s most vulnerable residents of millions of dollars in assistance. In 
+Fiscal Year (FY) 2024 alone, District residents reported 5,198 cases of stolen Supplemental Nutrition 
+Assistance Program (SNAP) benefits, 1 representing more than $2,152,000 in stolen assistance.2 My office has 
+responded to requests for help from residents across the District who had to skip meals, spend hours 
+traveling to churches for food, and cobble together what support they could from family and friends while 
+they waited for their benefits to be restored. This is unacceptable, especially as there are proven, cost-
+effective solutions to prevent theft.   
+ 
+DHS currently issues both cash assistance (Temporary Assistance for Needy Families, or TANF) and SNAP 
+benefits to residents on swipe cards. These cards are susceptible to “skimming” by thieves who place devices 
+inside point-of-sale terminals to capture card data and then use that data to make unauthorized 
+transactions.3 While federal law limits the liability of commercial debit card users for unauthorized purchases, 
+EBT card users do not benefit from the same protection, and federal law does not require states to restore 
+ 
+1 United States Department of Agriculture, SNAP Replacement of Stolen Benefits Dashboard, FNS.USDA.GOV (2025), 
+https://www.fns.usda.gov/data-research/data-visualization/snap-replacement-stolen-benefits-dashboard.  
+2 Id.  
+3 Randy Alison Aussenberg & Gene Falk, Congressional Research Service, Supplemental Nutrition Assistance Program 
+(SNAP): Benefit Theft Through Electronic Benefit Card Skimming, CONGRESS.GOV (Jan. 7, 2025), 
+https://www.congress.gov/crs-product/IN12419.
+
+★★★ 
+MATTFRUMINWARD3.COM | (202) 724-8062 
+stolen benefits. Victims are left to rely on the goodwill of states that choose to fund the restoration of 
+benefits.  
+ 
+DHS could prevent most theft by transitioning away from unsecure swipe cards to microchipped EMV cards, 
+which generate a one-time code for each transaction. Because each EMV card transaction generates a new 
+code, any data collected by a prospective thief could not be used to copy the card or make unauthorized 
+transactions using stolen data. The Food Research & Action Center projects that states that attach this 
+additional layer of security to their EBT cards could reduce benefit theft by 90 percent.4  
+ 
+This legislation requires the District to join the increasing number of states that have implemented EMV 
+technology. California has already issued chipped EBT cards to SNAP participants, and Oklahoma, Alabama, 
+New Jersey, and Maryland are transitioning to chip cards.5 Under this bill, DHS would have until October 1, 
+2027, a full fiscal year, to complete the transition to chips and educate retailers and SNAP and TANF 
+participants on the change. A delayed transition also gives the Mayor and Council the opportunity to consider 
+funding this legislation in the budget for FY27, the fiscal year during which DHS would be working to replace 
+its EBT cards before the October 1, 2027 deadline. 
+ 
+Transitioning to EMV chips, however, will not prevent every unauthorized transaction. Residents whose EBT 
+cards are physically stolen will still need a remedy. A federal law requiring the Department of Agriculture to 
+reimburse states for the cost of restoring stolen SNAP benefits expired on December 20, 2024.6 While DHS 
+has continued to restore stolen benefits, the FY26 budget does not include funds to continue this practice, 
+and District law does not require the agency to replace stolen assistance. This legislation would require DHS 
+to restore stolen benefits and, subject to appropriations, provide sufficient funds for DHS to keep making 
+residents whole. To ensure this requirement does not impose an increasing cost pressure on DHS, this 
+legislation delays the reimbursement requirement until the agency transitions to EMV chips, after which the 
+amount of stolen benefits is projected to be significantly lower. 
+ 
+I look forward to continuing to work with my colleagues, DHS, and District residents to make the 
+administration of public benefits as secure and efficient as possible. Should you have any questions about 
+this legislation, please contact my Committee Director, Dan Passon, at dpasson@dccouncil.gov.  
+ 
+Sincerely,  
+  
+ 
+ 
+Councilmember Matthew Frumin, Ward 3 
+Chair, Committee on Human Services 
+ 
+ 
+ 
+ 
+4 Salaam Bhatti, Replacement Benefits for SNAP Victims Should be Permanent, FOOD RESEARCH & ACTION CENTER  (2025), 
+https://frac.org/blog/replacement-benefits-for-snap-theft-victims-should-be-permanent.  
+5 United States Department of Agriculture, SNAP EBT Modernization, FNS.USDA.GOV (2025), 
+https://www.fns.usda.gov/snap/ebt/modernization.  
+6 Cathy Buhrig, Associate Administrator, Supplemental Nutrition Assistance Program, SNAP Sunset of Replacement of 
+Stolen Benefits Plans, FNS.USDA.GOV (Dec. 23, 2024), https://www.fns.usda.gov/snap/sunset-stolen-benefits-
+replacement-plan.
+
+1 
+ 
+ 1 
+ 2 
+_________________________________ _________________________________ 3 
+Councilmember Janeese Lewis George  Councilmember Matthew Frumin 4 
+ 5 
+         6 
+_________________________________  _________________________________ 7 
+Councilmember Zachary Parker                                               Councilmember Brianne K. Nadeau 8 
+ 9 
+ 10 
+_________________________________  _________________________________ 11 
+Councilmember Christina Henderson       Councilmember Charles Allen 12 
+ 13 
+ 14 
+_________________________________  _________________________________ 15 
+Councilmember Robert C. White, Jr.        Councilmember Brooke Pinto  16 
+ 17 
+ 18 
+ _________________________________ 19 
+      Councilmember Anita Bonds 20 
+ 21 
+ 22 
+A BILL 23 
+ 24 
+_________________________ 25 
+ 26 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA 27 
+ 28 
+_________________________ 29 
+ 30 
+ 31 
+To require the Department of Human Services to issue electronic benefit transfer cards with theft 32 
+prevention technology and to restore public assistance lost due to theft. 33 
+ 34 
+ BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 35 
+act may be cited as the “Public Benefits Security Amendment Act of 2025”. 36 
+ Sec. 2. The District of Columbia Public Assistance Act of 1982, effective April 6, 1982 37 
+(D.C. Law 4-101; D.C. Official Code § 4-201.01 et seq.), is amended as follows: 38 
+ (a) Section 101 is amended as follows: 39 
+  (1) Paragraph (3A) is renumbered as paragraph (3C). 40
+
+2 
+ 
+  (2) New paragraphs (3A) and (3B) are added to read as follows: 41 
+  “(3A) “Electronic benefit transfer card,” or “EBT card,” means a method to access 42 
+public assistance issued to a recipient or a recipient’s authorized representative through an 43 
+electronic payments system. 44 
+  “(3B) “EMV technology” means the integration in a method of payment of a 45 
+microchip that generates a dynamic, one-time-use code for each payment transaction.”.  46 
+  (3) A new paragraph (10a) is added to read as follows: 47 
+  “(10a) “Theft” shall have the same meaning as in section 111 of the District of 48 
+Columbia Theft and White Collar Crimes Act of 1982, effective December 1, 1982 (D.C. Law 4-49 
+164; D.C. Official Code § 22-3211).”.  50 
+ (b) New sections 582 and 583 are added to read as follows: 51 
+ “Sec. 582. Prevention of theft of electronically transferred benefits. 52 
+ “(a) By October 1, 2027, the Department shall issue, to all recipients receiving public 53 
+assistance through electronic benefit transfer cards, updated EBT cards that incorporate EMV 54 
+technology. 55 
+ “(b) The Department shall seek reimbursement for the costs of transitioning to the use of 56 
+EMV technology from the Food and Nutrition Service of the Department of Agriculture to the 57 
+fullest extent permissible under federal law. 58 
+ “Sec. 583. Reimbursement for theft of electronically transferred benefits. 59 
+ “(a)(1) If an investigation by the Department shows a recipient’s correctly issued public 60 
+assistance was lost due to theft within the two years preceding the recipient’s informing the 61 
+Department of the theft, the Department shall restore the public assistance lost due to theft. 62
+
+3 
+ 
+  “(2) For the purposes of this subsection, public assistance is “correctly issued” if 63 
+the amount of, and the recipient’s eligibility for, public assistance were accurately calculated under 64 
+applicable law. 65 
+ “(b) Not later than 10 days after a recipient informs the Department of the loss of public 66 
+assistance due to theft, the Department shall: 67 
+  “(1) If the Department determines that the recipient lost public assistance due to 68 
+theft, restore public assistance to the recipient in the amount that was lost;  69 
+  “(2) If the Department determines that the recipient lost public assistance due to 70 
+theft, provide the recipient with a new electronic benefit transfer card; and  71 
+  “(3) Notify the recipient in writing of: 72 
+     “(A) The Department’s decision whether to restore public assistance; 73 
+      “(B) The amount of public assistance to be restored, if any; and  74 
+     “(C) If the Department finds that public assistance was not lost due to theft, 75 
+or if the Department restores less in public assistance than the recipient alleged was lost due to 76 
+theft: 77 
+      “(I) The specific reasons and legal authority for the Department’s 78 
+decision; 79 
+      “(II) The recipient’s right to a fair hearing on the Department’s 80 
+decision;  81 
+      “(III) The method for requesting a fair hearing; 82 
+      “(IV) The right to representation in a fair hearing; and  83 
+      “(V) The availability of, and means of contacting, free legal counsel. 84 
+ “(c) The Department may not: 85
+
+4 
+ 
+  “(1) Require a recipient to provide a police report as a condition of the restoration 86 
+of public assistance; or 87 
+  “(2) Limit the number of months in which a recipient can receive restoration of 88 
+public assistance lost due to theft.  89 
+ “(d) If a recipient disputes the amount of public assistance restored under subsection (a) or 90 
+the Department’s determination that no restoration is due, the recipient may request a fair hearing 91 
+within 90 days of the date of the Department’s determination. 92 
+ “(e) If a recipient requests a fair hearing under subsection (d), the Department shall restore 93 
+the benefits to which the recipient claims entitlement while the fair hearing is pending. 94 
+ “(f) If a fair hearing is unfavorable to the recipient, any benefits incorrectly restored under 95 
+subsection (d) may be recovered by the Department by reducing the recipient’s future public 96 
+assistance at a rate that may not exceed the lesser of $10 or 5% of the recipient’s monthly public 97 
+assistance until the Department is compensated for the full amount of the incorrectly restored 98 
+public assistance. 99 
+ “(g) This section shall apply as of October 1, 2027. Nothing in this section shall be 100 
+construed to limit the Department’s ability to restore public assistance lost due to theft before 101 
+October 1, 2027.”. 102 
+ Sec. 3. Fiscal impact statement. 103 
+ The Council adopts the fiscal impact statement in the committee report as the fiscal impact 104 
+statement required by section 4a of the General Legislative Procedures Act of 1975, approved 105 
+October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a). 106 
+ Sec. 4. Effective date. 107 
+ This act shall take effect after approval by the Mayor (or in the event of veto by the Mayor, 108
+
+5 
+ 
+action by the Council to override the veto) and a 30-day period of congressional review as provided 109 
+in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 110 
+Stat. 813; D.C. Official Code § 1-206.02(c)(1)). 111

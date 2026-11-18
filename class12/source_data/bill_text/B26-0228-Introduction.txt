@@ -1,0 +1,613 @@
+Statement of Introduction 
+Common Sense TOPA Reform Amendment Act of 2025 
+ 
+April 11, 2025 
+ 
+Nyasha Howard, Secretary  
+Council of the District of Columbia  
+1350 Pennsylvania Avenue, N.W.  
+Washington, DC 20004  
+ 
+Dear Secretary Howard,  
+ 
+ First established in the District in 1980, the Tenant Opportunity to Purchase Act was 
+designed to discourage displacement and “strengthen the bargaining position”1 of renters by 
+establishing rights for tenants during the sale of their building. TOPA gives tenants the first right 
+to purchase, allows them to negotiate affordability or improvements to a building and its 
+amenities, and has resulted in the building of additional housing through the tenants’ assignment 
+of purchase rights. Between 2006 and 2020, tenants in 19,170 units were able to successfully 
+negotiate during the sale of their building, accounting for 51% of all units sold following a 
+TOPA notice. 
+ 
+ D.C.’s law aims to ensure that housing security, tenant empowerment, and affordability 
+are balanced with owners’ property rights. But some TOPA provisions have made it hard to use 
+and slowed down the transaction process, which ultimately hurts building owners, tenants, and 
+developers alike. 
+ 
+ Unfortunately, the right of tenants to participate in the sale of their building is needlessly 
+being used as a scapegoat in conversations about housing production. We can balance the needs 
+of housing investors and tenants with updates to the law that meet the current moment. 
+ 
+ For decades, D.C. had the only such law in the country. Now, while other cities and states 
+are working to replicate TOPA, we are in danger of losing it. At least two legislative proposals in 
+the past two years would restrict TOPA’s applicability to a narrow range of properties, 
+effectively eroding the law entirely.  
+ 
+ 
+1 D.C. Official Code § 42–3401.02
+
+I am introducing the “Common Sense TOPA Reform Amendment Act of 2025,” which 
+streamlines and modernizes TOPA in a way that preserves and enhances this bedrock of tenants’ 
+rights. This legislation would expedite transaction timelines, create consequences for bad actors 
+who slow down the process or mislead tenants, and give tenants earlier access to information 
+about their rights and options and connect them to tenant support organizations. The legislation 
+would also exempt all new residential construction from TOPA for the first three years, and 
+clarify refinancing transactions that are exempt, to ensure that the District continues to attract 
+strong investment in new housing. 
+ 
+ The legislation is largely based on recommendations from a Council-funded study – 
+Sustaining Affordability: The Role of the Tenant Opportunity to Purchase Act (TOPA) in 
+Washington – to comprehensively review TOPA from the perspective of tenants, owners, and 
+other stakeholders.  
+ 
+ The Tenant Opportunity to Purchase Act was created not long after D.C. attained home 
+rule, and likewise gives tenants their own means of self-determination. Rather than carving away 
+at those rights, this legislation recognizes TOPA as a source of strength and opportunity for the 
+District of Columbia and its residents. 
+ 
+ 
+Sincerely,  
+   
+Brianne K. Nadeau                                                                 
+Councilmember, Ward 1                                                          
+Chair, Committee on Public Works & Operations
+
+1 
+_____________________________ 
+Councilmember Brianne K. Nadeau 
+ 
+ 
+ 
+ 
+A BILL 
+ 
+_________________________ 
+ 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA 
+ 
+_________________________ 
+ 
+ 
+To amend the Rental Housing Conversion and Sale Act of 1980 to clarify the definition of a sale 1 
+for the purposes of a tenant’s opportunity to purchase a housing accommodation and to 2 
+exempt new housing accommodations within the first three years after the issuance of a 3 
+certificate of occupancy, to establish a certification process for tenant support providers 4 
+based on expertise and ability to counsel tenants who seek to exercise their rights under 5 
+subchapter IV, to establish a certification process for qualified purchasers based on 6 
+capacity to acquire, own, manage, and improve or redevelop, housing accommodations 7 
+acquired as a result of assignment of purchase rights, to clarify the information and 8 
+procedures required to for an owner to provide an offer of sale to tenants and to the 9 
+Mayor, to clarify the information and procedures required for an owner to provide a 10 
+notice of transfer, to eliminate the 45-day period for a tenant to issue notice indicating an 11 
+intent to file a petition for relief after a notice of transfer, to direct the Department of 12 
+Housing and Community Development to promptly review each offer of sale and notice 13 
+of transfer for compliance with statutory and regulatory requirements, to direct the Mayor 14 
+to share an offer of sale with all tenant support providers and qualified purchasers within 15 
+15 days of receipt, to prohibit the assignment of purchase rights within the first 45 days 16 
+after an offer of sale without having first met with a tenant support provider, to require 17 
+the disclosure of conflicts of interest by any party negotiating with tenants, to require that 18 
+certain information related to tenant purchase proceedings be filed with the Department 19 
+of Housing and Community Development, to require the development of templates for 20 
+tenant buyout agreements and purchase contracts, to require the establishment of a TOPA 21 
+transparency portal to be integrated with the Public Accessible Rent Control Housing 22 
+Database as established in Section 203a of the Rental Housing Act of 1985, to prohibit 23 
+coercion, retaliation, and other acts in relation to tenant purchase proceedings, and to 24 
+allow for an aggrieved owner or tenant to seek an award of costs and attorney fees; and to 25 
+amend the District of Columbia Deed Recordation Tax Act to add transfers to a qualified 26 
+purchaser as an exempt transaction. 27 
+ 28 
+ BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 29 
+act may be cited as the “Common Sense TOPA Reform Amendment Act of 2025”. 30
+
+2 
+ Sec. 2. The Rental Housing Conversion and Sale Act of 1980, effective September 10, 31 
+1980 (D.C. Law 3-86, D.C. Official Code § 42-3401.01 et seq.) is amended as follows:  32 
+ (a) A new section 401a is added to read as follows:  33 
+ “Sec. 401a. Definitions. 34 
+ “For the purposes of this subchapter:  35 
+  “(1) “Appraised value” means the value of a housing accommodation as of the 36 
+date of the appraisal, based on an objective, independent property valuation, performed 37 
+according to professional appraisal industry standards. 38 
+  “(2) “Bona fide offer of sale” means an offer of sale for a housing accommodation 39 
+or the interest in the housing accommodation that is either: 40 
+   “(A) For a price and other material terms that are at least as favorable as 41 
+those accepted by a purchaser in an arm’s length third-party contract; or 42 
+   (B) In the absence of an arm’s length third-party contract, an offer of sale 43 
+with a price at the appraised value and other material terms comparable to that at which a willing 44 
+seller and a willing buyer would sell and purchase the housing accommodation, or the appraised 45 
+value. 46 
+  “(3) “Buyout” means a payment or any other consideration provided to a Tenant 47 
+in exchange for relinquishing some or all pre-existing tenancy or occupancy rights. 48 
+  “(4) “Department” means the Department of Housing and Community 49 
+Development, or any successor agency. 50 
+  “(5) “Owner” means: 51 
+   “(A) Any person, or any one of a number of persons, in whom is vested all 52 
+or any part of the beneficial ownership, dominion, or title of a housing accommodation; or 53
+
+3 
+   “(B) The committee, conservator, or legal guardian of an owner who is 54 
+non compos mentis, a minor child, or otherwise under a disability. 55 
+  “(5) "Tenant" means any renter, tenant, subtenant, lessee, or sublessee of a rental 56 
+unit, or successor to a renter’s interest, or any group of tenants, subtenants, lessees, or sublessees 57 
+of any rental unit, or any other person entitled to the use or occupancy of a rental unit. 58 
+  “(6) “Tenant support provider” means: 59 
+   “(A) Any person or organization certified by the Mayor pursuant to 60 
+section 402c; or 61 
+   “(B) The Office of the Tenant Advocate, as established by Subtitle G of 62 
+title II of the Fiscal Year 2006 Budget Support Act of 2005, effective October 20, 2005 (D.C. 63 
+Law 16-33; D.C. Official Code § 42-3531.01 et seq.). 64 
+  “(7) “Qualified purchaser” means any person certified by the Mayor pursuant to 65 
+section 402d, or an agency or instrumentality of the District.”. 66 
+ (b) Section 402 (D.C. Official Code § 42-3404.02) is amended as follows:  67 
+  (1) The section title is amended to read as follows:  68 
+ “Sec. 402. Tenant opportunity to purchase.”. 69 
+  (2) Subsection (a-2)(1) is repealed. 70 
+  (3) Subsection (b) is repealed. 71 
+  (4) Subsection (c) is repealed. 72 
+  (5) Subsection (d) is repealed.  73 
+  (6) A new subsection (e) is added to read as follows: 74 
+ “(e)(1) Within 5 days of a request by any person, the Mayor shall provide: 75
+
+4 
+   “(A) Written certifications, including the date of receipt or non-receipt, of 76 
+any notices received under subchapters IV and V of this chapter; and 77 
+   “(B) Copies of the notices. 78 
+  “(2) The certifications may be recorded among the records of the Recorder of 79 
+Deeds and shall be exempt from filing fees.”. 80 
+ (c) A new section 402b is added to read as follows:  81 
+ “Sec. 402b. “Sale” defined; excluded properties. 82 
+ “(a) For the purposes of subchapters IV and V of this chapter, the terms “sell” or “sale” 83 
+shall include, but are not limited to: 84 
+  “(1) The execution of any agreement pursuant to which the owner of the housing 85 
+accommodation agrees to some, but not all, of the following: 86 
+   “(A) Relinquishes possession of the property; 87 
+   “(B) Extends an option to purchase the property for a sum certain at the 88 
+end of the assignment, lease, or encumbrance and provides that a portion of the payments 89 
+received pursuant to the agreement is to be applied to the purchase price; 90 
+   “(C) Assigns all rights and interests in all contracts that relate to the 91 
+property; 92 
+   “(D) Requires that the costs of all taxes and other government charges 93 
+assessed and levied against the property during the term of the agreement are to be paid by the 94 
+lessee either directly or through a surcharge paid to the owner; 95 
+   “(E) Extends an option to purchase an ownership interest in the property, 96 
+which may be exercised at any time after execution of the agreement but shall be exercised 97 
+before the expiration of the agreement; and 98
+
+5 
+   “(F) Requires the assignee or lessee to maintain personal injury and 99 
+property damage liability insurance on the property that names the owner as the additional 100 
+insured. 101 
+  “(2) Multiple transfers of minority interests in the Rental Property which, in 102 
+effect, result in a transfer of the Rental Property. 103 
+  “(3) A master lease which meets some, but not all, of the factors described in 104 
+paragraph (1) of this subsection or which is similar in effect; 105 
+  “(4) The transfer of an ownership interest in a corporation, partnership, limited 106 
+liability company, association, trust, or other entity which owns an accommodation as its sole or 107 
+principal asset, which, in effect, results in the transfer of the accommodation pursuant to 108 
+paragraph (1) of this section. For the purposes of this sub-paragraph, the term “principal asset” 109 
+means the value of the accommodation relative to the entity’s other holdings. 110 
+ “(b) For the purposes of subchapters IV and V of this chapter, and notwithstanding 111 
+anything to the contrary herein, the term “sell” or “sale” shall not include: 112 
+  “(1)(A) A probate, trust, or inter vivos transfer to an heir and legatee, by a 113 
+decedent’s estate to members of the decedent’s family if the consideration arising from the 114 
+transfer will pass from the decedent’s estate to, or solely for the benefit of, charity. 115 
+   “(B) For purposes of this paragraph, the term “members of the decedent’s 116 
+family” means: 117 
+    “(i) A surviving spouse, or domestic partner as defined in section 118 
+2(3) of the Health Care Benefits Expansion Act of 1992, effective June 11, 1992 (D.C. Law 9-119 
+114; D.C. Official Code § 32-701(3)), of the decedent, lineal descendants of the decedent, or 120 
+spouses of lineal descendants of the decedent; 121
+
+6 
+    “(ii) A trust for the primary benefit of the persons referred to in 122 
+sub-paragraph (i) and; 123 
+    “(iii) A partnership, corporation, or other entity controlled by the 124 
+individuals referred to in sub-paragraphs (i) and (ii). 125 
+  “(2) An inter-vivos transfer, even though for consideration, between spouses, 126 
+parent and child, siblings, grandparent and grandchild, or domestic partners as defined in section 127 
+2(3) of the Health Care Benefits Expansion Act of 1992, effective June 11, 1992 (D.C. Law 9-128 
+114; D.C. Official Code § 32-701(3)); 129 
+  “(3) A transfer to a person entitled to property of an intestate decedent pursuant to 130 
+Chapter 3 of Title 19. 131 
+  “(4) A transfer of legal title or an interest in an entity holding legal title to a 132 
+housing accommodation pursuant to a bona fide deed of trust or mortgage, and thereafter any 133 
+transfer by foreclosure sale or deed in lieu of foreclosure pursuant to a bona fide deed of trust or 134 
+mortgage; 135 
+  “(5) A tax sale or transfer pursuant to tax foreclosure; 136 
+  “(6) A bankruptcy sale; 137 
+  “(7) Any transaction involving accommodations otherwise subject hereto 138 
+expressly contemplated by a registration statement filed with the Securities and Exchange 139 
+Commission prior to February 22, 1994; 140 
+  “(8) Any transfer of a property directly caused by a change in the form of the 141 
+entity owning the property; provided, that the transfer is without consideration, including a 142 
+transfer of interests in an entity to an entity under § 29-204.06; 143
+
+7 
+  “(9) The transfer of interests in a partnership or limited liability company that 144 
+owns an accommodation; provided, that the sole purpose of the transfer is to admit one or more 145 
+limited partners or investor members who will make capital contributions; 146 
+  “(10) A transfer of title to the housing accommodation to an entity under § 29-147 
+204.06; 148 
+  “(11) A transfer of bare legal title into a revocable trust, without actual 149 
+consideration for the transfer, where the transferor is the current beneficiary of the trust pursuant 150 
+to Section 302(17) of the District of Columbia Deed Recordation Tax Act, approved March 2, 151 
+1962 (76 Stat. 11; D.C. Official Code 42-1102(17)); 152 
+  “(12) A transfer of the housing accommodation to a named beneficiary of a 153 
+revocable trust by reason of the death of the grantor of the revocable trust, pursuant to Section 154 
+302 of the District of Columbia Deed Recordation Tax Act, approved March 2, 1962 (76 Stat. 155 
+11; D.C. Official Code 42-1102); 156 
+  “(12) A transfer of the housing accommodation by the trustee of a revocable trust 157 
+if the transfer would otherwise be excluded under this chapter if made by the grantor of the 158 
+revocable trust, pursuant to Section 302(19) of the District of Columbia Deed Recordation Tax 159 
+Act, approved March 2, 1962 (76 Stat. 11; D.C. Official Code 42-1102(19)); 160 
+  “(14) A transfer pursuant to court order or court-approved settlement; 161 
+  “(15) A transfer by eminent domain or under threat of eminent domain; 162 
+  “(16) A transfer of interest in an entity that owns a housing accommodation or a 163 
+transfer of title to a housing accommodation, if each of the following conditions is satisfied: 164
+
+8 
+   “(A) The credit period, as defined in section 42 of the United States 165 
+Internal Revenue Code of 1986, approved October 22, 1986 (100 Stat. 2189; 26 U.S.C. § 42) 166 
+("IRC"), for the housing accommodation has ended; 167 
+   “(B) Immediately prior to the transfer the housing accommodation is 168 
+subject to: 169 
+    “(i) An extended low-income housing commitment, as that term is 170 
+defined in Section 42(h)(6)(B) of the IRC (100 Stat. 2189; 26 U.S.C. § 42(h)(6)(B)); or 171 
+    “(ii) A comparable restrictive covenant as a result of a federal or 172 
+District program with occupancy, rent, and income requirements at least as restrictive as under 173 
+section 42 of the IRC; 174 
+   "(C) Before and after the transfer, the owner of the housing 175 
+accommodation is controlled, directly or indirectly, by the same person or entity; and 176 
+   "(D) Immediately following the transfer, the housing accommodation is 177 
+for a term of not less than 10 years subject to an existing or new extended low-income housing 178 
+commitment or a comparable restrictive covenant as a result of a federal or District program with 179 
+occupancy, rent and income requirements at least as restrictive as under section 42 of the IRC. 180 
+  "(17) The transfer of interests in a partnership or limited liability company that 181 
+owns a housing accommodation; provided, that the sole purpose of the transfer is to allow for the 182 
+exit of one or more limited partners or investor members who have made capital contributions; 183 
+and 184 
+  "(18) A transfer of interest in an entity that owns a housing accommodation or a 185 
+transfer of title to a housing accommodation, the sole purpose of which is to qualify for and enter 186 
+into a new credit period, as defined in section 42 of the IRC, for purposes of the rehabilitation of 187
+
+9 
+the housing accommodation; provided that, before and after the transfer, the owner of the 188 
+housing accommodation is controlled, directly or indirectly, by the same person or entity. 189 
+ “(c) The burden of proof to establish that a property or transfer is exempt from the 190 
+requirements of subchapters IV and V of this chapter shall be on the owner. 191 
+ “(d) The following properties are exempt from the requirements of this subchapter: 192 
+  “(1) Properties owned by the District of Columbia Housing Authority; 193 
+  “(2) Properties owned by and operated as a hospital, convent, monastery, 194 
+extended care facility, convalescent home, or dormitories owned by educational institutions; 195 
+  “(3) Newly constructed housing accommodations for which the initial certificate 196 
+of occupancy was issued no earlier than three years prior.”. 197 
+ (d) A new section 402c is added to read as follows: 198 
+ “Sec. 402c. Tenant support providers. 199 
+ “(a) The Mayor shall establish a certification process for tenant support providers, which 200 
+shall be selected based on expertise and ability to counsel tenants who seek to exercise their 201 
+rights under this subchapter, and regarding: 202 
+  “(1) The formation and governance of tenant organization and other legal and 203 
+collective ownership structures, 204 
+  “(2) Technical support services for first-time homeowners;  205 
+  “(3) Obtaining financing for the purchase of Real Properties; or 206 
+  “(4) Assisting in the process of closing on property transactions. 207 
+ “(b) The Department shall maintain a list of certified tenant support providers, with 208 
+contact information for each, on a publicly accessible website. 209 
+ “(c) Certification as a tenant support provider shall be valid for four years.  210
+
+10 
+ “(d)A tenant support provider shall not: 211 
+  “(1) Act in a manner that is adverse to the interests of a tenant occupying a 212 
+property subject to this subchapter;  213 
+  “(2) Serve a tenant occupying a property in which the tenant support provider or 214 
+any employee thereof may have a present or future financial interest. 215 
+ “(e) The Mayor shall promptly investigate any complaint alleging that a tenant support 216 
+provider has a conflict of interest or has failed to comply with the requirements of this 217 
+subchapter. If after the Mayor determines that a tenant support provider has a conflict of interest 218 
+or has failed to comply with the requirements of this subchapter, the Mayor may limit, suspend, 219 
+or revoke that organization’s certification.”. 220 
+ (e) A new section 402d is added to read as follows:  221 
+ “Sec. 402d. Qualified purchaser. 222 
+ “(a) The Mayor shall establish criteria for the certification of qualified purchasers, which 223 
+shall be selected based on: 224 
+  “(1) The capacity to acquire, own, manage, and improve or redevelop, either 225 
+independently or through an agent, housing accommodations and related facilities acquired under 226 
+this subchapter or subchapter IV-A for the remaining useful life of the housing accommodation; 227 
+  “(2) Understanding of, and ability to comply with, the requirements of this 228 
+subchapter. 229 
+ “(b) Certification as a qualified purchaser shall be valid for four years.  230 
+ “(c)(1) The Mayor shall solicit new applications qualified purchasers on a rolling basis. 231 
+  “(2) The Mayor shall recruit and solicit applications from reputable parties that 232 
+have not previously conducted real estate transactions in the District. 233
+
+11 
+  “(3) For the first four-year period after the effective date of this section, a Pre-234 
+Approved Developer, as that term is defined in 14 DCMR § 2499, shall be granted certification 235 
+as a qualified purchaser. 236 
+ “(d) The Department shall maintain a list of qualified purchasers on a publicly accessible 237 
+website. 238 
+ “(e)(1) A qualified purchaser shall be in compliance with the entity filing requirements as 239 
+prescribed in § 29–102.01.  240 
+  “(2) A qualified purchaser shall not act in a manner that is adverse to the interests 241 
+of tenants occupying a property subject to this subchapter. The Mayor shall promptly investigate 242 
+any complaint alleging that a qualified purchaser has a conflict of interest or has failed to comply 243 
+with the requirements of this subchapter. If after the Mayor determines that a tenant support 244 
+provider has a conflict of interest or has failed to comply with the requirements of this 245 
+subchapter, the Mayor may limit, suspend, or revoke that qualified purchaser’s certification.”. 246 
+ (f) Section 403 (D.C. Official Code § 42-3404.03) is amended as follows:  247 
+  (1) The lead-in language is redesignated as subparagraph (a) and amended to read 248 
+as follows: 249 
+ “(a) An offer of sale shall include, at minimum:”. 250 
+  (2) Paragraph (2) is amended to read as follows:  251 
+  “(2) A statement that the tenant has the right to purchase the accommodation 252 
+under this chapter and a notice that the tenants are entitled to no-cost technical assistance and 253 
+training on their rights provided by a tenant support provider approved by the Mayor, together 254 
+with a list of eligible providers and their contact information;”. 255
+
+12 
+  (3) Paragraph (4) is amended by striking the phrase “floor plan.” and inserting the 256 
+phrase “floor plan;” in its place. 257 
+  (4) New paragraphs (5) and (6) are added to read as follows:  258 
+  “(5) The name and contact information of all tenant support providers certified by 259 
+the Mayor pursuant to section 402c as of the date of issuance of the offer of sale; provided, that if 260 
+no such organizations have been certified, the owner will be deemed in compliance with this 261 
+paragraph; and 262 
+  “(6) Information on the cooling-off period as outlined in section 403c. 263 
+  (5) A new subsection (b) is added to read as follows: 264 
+ “(b)(1) The owner shall provide each tenant with a written copy of the offer of sale by 265 
+certified mail. Notice to tenants shall be sent to their address at the housing accommodation 266 
+unless a tenant has supplied in writing to the owner a different address for notice. 267 
+  “(2) On the same date as copies of the offer of sale are postmarked to tenants, the 268 
+owner shall provide the Mayor with a written copy of the offer of sale and a signed statement 269 
+confirming that copies of the offer of sale were provided to each tenant. The offer of sale shall be 270 
+sent to the mayor by registered or certified mail, return receipt requested, by commercial 271 
+overnight delivery service that maintains proof of delivery, by hand delivery, or by any other 272 
+method designated by the Department. If the owner delivers the notification to the Mayor by 273 
+hand delivery, the Owner shall obtain a date stamped copy demonstrating the Mayor's receipt.”. 274 
+ (f) A new section 403a is added to read as follows: 275 
+ “Sec. 403a. Notice of transfer.  276 
+ “(a) Notwithstanding subsections (b) and (c), if an opportunity to purchase is not 277 
+provided under section 402, the owner shall provide the Mayor written notice of a transfer of an 278
+
+13 
+interest in a housing accommodation or of any ownership interest in a corporation, partnership, 279 
+limited liability company, association, trust, or other entity which owns a housing 280 
+accommodation. Such notice shall be provided at least 90 days prior to the proposed date of 281 
+transfer. 282 
+ “(b) An owner shall not be required to file a notice of transfer with the Mayor for a 283 
+transfer exempt under section 402b(b), paragraphs (3) and (4). 284 
+  “(c) For a transfer exempt under section 402b(b), paragraphs (2), (8), and (9), in addition 285 
+to the requirement of subsection (a), an owner shall provide copies of the notice of transfer to 286 
+each tenant by certified mail. Notice to tenants shall be sent to their address at the housing 287 
+accommodation unless a tenant has supplied in writing to the owner a different address for 288 
+notice.  289 
+ “(d) The Notice of Transfer shall be substantially in the form prescribed by the Mayor 290 
+and shall provide at a minimum: 291 
+  “(1) A statement of the rights of the tenant or the tenant organization under this 292 
+chapter; 293 
+  “(2) An accurate description of the transfer, including whether the transfer will 294 
+result in any changes in management, current rents, or any applicable affordability requirements 295 
+for the housing accommodation; 296 
+  “(3) The date of the proposed transfer; and 297 
+  “(4) The reason, if any, why the owner asserts the transfer may not constitute a 298 
+sale as defined in section 402b. 299 
+ “(e)  In addition to any other requirements for the form of the Notice of Transfer 300 
+prescribed by this section, a Notice of Transfer for a housing accommodation to be transferred 301
+
+14 
+for the purposes of receiving tax benefits pursuant to section 42 of the United States Internal 302 
+Revenue Code of 1986, approved October 22, 1986 (100 Stat. 2189; 26 U.S.C. § 42), or a 303 
+comparable District program, shall include a description of the applicable federal or District 304 
+subsidy, and a description of the steps in the transaction employed by the developer to avail itself 305 
+of the subsidy. 306 
+ “(f) The owner’s failure to provide the Notice of Transfer, or the provision of a notice 307 
+that is fraudulent or contains material misrepresentations, shall create a rebuttable presumption 308 
+that the transfer constitutes a sale for purposes of subchapters IV and V of this chapter. 309 
+ “(g) Within 30 days of the receipt by the Mayor of the Notice of Intent to File, a tenant or 310 
+tenant organization shall have 30 days to file a petition for relief under § 42-3405.03 or § 42-311 
+3405.03a. A copy of the petition shall be delivered to the owner by registered or certified mail, 312 
+return receipt requested, or by personal service. Failure of a tenant or tenant organization to file 313 
+timely the petition for relief shall preclude the tenant or tenant organization from asserting any 314 
+rights under subchapters IV and V of this chapter relating to the transfer identified in the Notice 315 
+of Transfer. 316 
+ “(h) A tenant or tenant organization shall be precluded from asserting any rights under 317 
+subchapters IV and V of this chapter for a transfer exempt under subsection 402b(b)(3) of this 318 
+section. 319 
+ “(i) Any change in the transfer agreement that would invalidate a claim of exemption 320 
+shall be reported in writing to the Mayor, substantially in a form prescribed by the Mayor, and 321 
+proper notice shall be provided to the tenant or tenant organization. 322 
+ (g) A new section 403b is added to read as follows: 323 
+ “Sec. 403b. Compliance review of offer of sale and notice of transfer. 324
+
+15 
+ “(a) Within 7 days of receipt, the Department shall review each offer of sale received 325 
+pursuant to section 403 and each notice of transfer received pursuant to section 403a, for the 326 
+purpose of ensuring compliance with all statutory and regulatory requirements. 327 
+ “(b) The Office shall have the authority to request additional information by written or 328 
+verbal inquiry, conference, or any other method or combination of methods suitable. 329 
+ “(c) The Department shall establish a process for receiving reports of suspected violations 330 
+or deficiencies in the issuance of an offer of sale or notice of transfer and shall use such reports 331 
+to inform the initiation of inquiries pursuant to sections 505 through 510. 332 
+ “(h) A new section 403c is added to read as follows: 333 
+ “Sec. 403c. Cooling-off period; interference prohibited. 334 
+ “(a) Within the first 15 days following receipt of the offer of sale by the Mayor pursuant 335 
+to section 403, the Mayor shall provide all tenant support providers and qualified purchasers with 336 
+a copy of the offer of sale, and shall not share information related to the offer of sale with any 337 
+other individual. 338 
+ “(b) Neither a tenant nor tenant organization may assign purchase rights pursuant to 339 
+section 406 within the first 45 days after an offer of sale unless having first met with an approved 340 
+tenant support provider. 341 
+ “(c) Any person that contacts a tenant organization or individual tenant related to an offer 342 
+or negotiation subject to this subchapter shall disclose: 343 
+  “(1) The names, residence and business addresses of each person with direct, 344 
+indirect, legal, or beneficial ownership of a governance or total distributional interest of the 345 
+entity as provided for in § 29-102.01(a)(6) and § 29-102.01(a)(7); and 346 
+  “(2) Any financial connection to the property.  347
+
+16 
+ “(d) Neither the owner nor the third party purchaser or any other agent or party with a 348 
+financial or other interest in the accommodation shall interfere with the tenants’ exercise of their 349 
+rights under this subchapter. Interference includes, but is not limited to: 350 
+  “(1) Negotiating with the tenants before approved technical assistance providers 351 
+have received notice of the offer of sale, presumed to be 15 days after service of the offer of sale 352 
+upon the District through the Division by the owner; 353 
+  “(2) Attempting to organize the tenants in an effort to persuade the tenants to 354 
+waive or exercise rights in any particular manner without fully disclosing the interested party’s 355 
+financial or other interest in the outcome; 356 
+  “(3) Failing to disclose that tenants have a right to no-cost training on their rights 357 
+under this subchapter, as well as the right to a consultation with a tenant support provider.”. 358 
+ (i) Section 404 is amended to read as follows: 359 
+ “Sec. 404. Third party rights. 360 
+ “(a) The right of a third party to purchase an accommodation is conditional upon exercise 361 
+of tenant rights under this subchapter. The time periods for negotiation of a contract of sale and 362 
+for settlement under this subchapter are minimum periods, and the owner may afford the tenants 363 
+a reasonable extension of such period, without liability under a third party contract. 364 
+ “(b) Third parties and their agents shall not interfere with the tenants’ right to organize or 365 
+otherwise exercise their rights under this subchapter. Third parties may negotiate with tenants for 366 
+the assignment or waiver of rights pursuant to section 406, provided that they first disclose:  367 
+  “(1) Their identity and that they are interested in purchasing the accommodation; 368 
+  “(2) That they are not tenant organizers as defined in section 506(a)(2), and do not 369 
+represent the interests of the tenants; and 370
+
+17 
+  “(3) That the tenants have the right to have a training with certified tenant support 371 
+provider before engaging in negotiations.  372 
+ “(c) Third party purchasers are presumed to act with full knowledge of tenant rights and 373 
+public policy under this subchapter.”. 374 
+ (j) A new section 405a is added to read as follows:  375 
+ “Sec. 405a. Template agreements and contracts; filing with department. 376 
+ “(a) No agreement or contract entered into under this subchapter, including buyouts and 377 
+development agreements, shall be deemed valid or enforceable unless the information specified 378 
+in this section is filed with the Department within 30 days of signature by all parties. 379 
+  “(1) Information submitted to the Department shall include: 380 
+   “(A) Address and ward; 381 
+   “(B) Unit count;  382 
+   “(C) Sales price; 383 
+   “(D) The number of households that received a buyout, as applicable; 384 
+   “(E) Information related to rent-stabilization;  385 
+   “(F) Information related to income-restricted units and subsidies; and 386 
+   “(G) Other information as determined by the Department. 387 
+ “(b) No later than 180 days after the applicability date of this section and pursuant to 388 
+Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 389 
+Stat. 1204; D.C. Official Code § 2-501 et seq.), the Department shall establish: 390 
+  “(1) A standard template for buyout agreements; 391 
+  “(2) A standard template for purchase contracts; 392
+
+18 
+  “(3) Rules governing the minimum information required to be included in a 393 
+buyout agreement or purchase contract. 394 
+ “(c) The use of templates established pursuant to subsection (b) shall not be mandatory 395 
+for execution of an agreement governed by this act.”. 396 
+ (k) Section 406 (D.C. Official Code § 42-3404.06) is amended by striking the phrase 397 
+“Such an exercise, assignment, or sale may occur at any time in the process provided in this 398 
+subchapter” and inserting the phrase “Such an exercise, assignment, or sale may occur at any 399 
+time in the process provided in this subchapter, provided that the requirements of section 403c(b) 400 
+have been fulfilled.”. 401 
+ (l) A new section 415 is added to read as follows: 402 
+ “Sec. 415. TOPA transparency portal. 403 
+ “(a)(1) Within one year of the applicability date of this subsection, the Mayor shall 404 
+establish and maintain a publicly accessible and searchable database of information pertinent to 405 
+this subchapter, which shall include the following information: 406 
+   “(A) Offers of sale received by the Department for which the cooling-off 407 
+period as prescribed in section 403c(a) has elapsed, including the following information, as 408 
+applicable:  409 
+    “(i) Address and ward; 410 
+    “(ii) Unit count; 411 
+    “(iii) Reason for notice; 412 
+    “(iv) Asking price and material terms of the sale; 413 
+    “(v) Information related to rent-stabilization; and 414 
+    “(vi) Information related to income-restricted units and subsidies;  415
+
+19 
+   “(B) Whether a tenant organization has been registered pursuant to section 416 
+402a; 417 
+   “(C) Buyouts, final sales, and development agreements submitted to the 418 
+Department pursuant to section 405a; and 419 
+   “(D) Notices of transfer received pursuant to section 403b. 420 
+  “(2) To the maximum extent practicable, the database established pursuant to this 421 
+section shall be integrated with the Public Accessible Rent Control Housing Database as 422 
+established in Section 203a of the Rental Housing Act of 1985, effective October 22, 2015 (D.C. 423 
+Law 21-36; D.C. Official Code § 42-3502.03c). 424 
+ “(b) The database established pursuant to subsection (a) shall publish information 425 
+received by the Department on or after the date of its establishment. The publishing of historical 426 
+information and data shall be subject to additional funding. 427 
+ “(c) The publishing of any information pursuant to this section does not guarantee the 428 
+completeness or accuracy of such information, and shall not create liability on the part of the 429 
+District or by any officer or employee thereof for any damages that result from reliance on the 430 
+published information. 431 
+ “(d)(1) Notwithstanding any other provision of District law, unless otherwise prescribed 432 
+by this section, information submitted to the Department pursuant to this subchapter shall be 433 
+deemed confidential and shall be exempt from disclosure pursuant to section 202 of the District 434 
+of Columbia Administrative Procedure Act, effective March 25, 1977 (D.C. Law 1-96; D.C. 435 
+Official Code § 2-532). 436 
+  “(2) The Mayor, pursuant to Title I of the District of Columbia Administrative 437 
+Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 et seq.), 438
+
+20 
+may issue rules to govern the sharing or publishing of conclusions and analysis derived from 439 
+information that is received pursuant to this subchapter.”. 440 
+ (n) A new section 416 is added to read as follows: 441 
+ “Sec. 416. Unlawful acts. 442 
+ “It shall be unlawful for any person to:  443 
+  “(1) Coerce a tenant or tenant organization to waive their rights under this 444 
+subchapter;  445 
+  “(2) Retaliate against or harass a tenant seeking to exercise their rights under this 446 
+subchapter; or 447 
+  “(3) Make fraudulent or misleading statements or engage in conduct intended to 448 
+prevent a tenant from exercising their rights under this subchapter.”. 449 
+ (o) Section 436 (D.C. Official Code § 42-3404.36) is amended to read as follows: 450 
+ “Sec. 436. Assignment of District Rights. 451 
+ “The Mayor may assign the opportunity to purchase provided under this subchapter to a 452 
+qualified purchaser certified pursuant to section 402d, that agrees to obligate itself and any 453 
+successors in interest to maintain the affordability required by section 433.”. 454 
+ (p) Section 503 is amended to read as follows: 455 
+ “(a) An aggrieved owner, tenant, or tenant organization may seek enforcement of any 456 
+right or provision under this chapter through a civil action in law or equity, and, upon prevailing, 457 
+may seek an award of costs and reasonable attorney fees. In an equitable action, the public policy 458 
+of this chapter favors the waiver of bond requirements to the extent permissible under law or 459 
+court rule. 460
+
+21 
+ “(b) Any person suffering a loss due to violations of section 416 shall be entitled to 461 
+recover, in addition to the amount of actual damages, double the amount of any interest collected 462 
+in violation of this chapter, plus any reasonable attorneys’ fees incurred in the collection of that 463 
+amount. 464 
+ Sec. 3. Section 302 of the District of Columbia Deed Recordation Tax Act, approved 465 
+March 2, 1962 (76 Stat. 11; D.C. Official Code 42-1102), is amended by adding a new paragraph 466 
+(14A) to read as follows:  467 
+  “(14A) Deeds to property transferred to a qualified purchaser, as that term is 468 
+defined in section 401a of the Rental Housing Conversion and Sale Act of 1980, effective 469 
+September 10, 1980 (D.C. Law 3-86, D.C. Official Code § 42-3404.01a), to whom tenant or 470 
+District purchase rights have been assigned pursuant to sections 406 and 503 of that act.”. 471 
+ Sec. 4. Fiscal impact statement. 472 
+ The Council adopts the fiscal impact statement in the committee report as the fiscal 473 
+impact statement required by section 4a of the General Legislative Procedures Act of 1975, 474 
+approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a). 475 
+ Sec. 5. Applicability. 476 
+ (a) Section 2(i), amendatory subsections (a) and (b), and section 2(j) of this act shall 477 
+apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.  478 
+ (b) The Chief Financial Officer shall certify the date of the inclusion of the fiscal effect in 479 
+an approved budget and financial plan, and provide notice to the Budget Director of the Council 480 
+of the certification.  481 
+ (c)(1) The Budget Director shall cause the notice of the certification to be published in 482 
+the District of Columbia Register.  483
+
+22 
+  (2) The date of publication of the notice of the certification shall not affect the 484 
+applicability of this act. 485 
+ Sec. 6. Effective date. 486 
+ This act shall take effect after approval by the Mayor (or in the event of veto by the 487 
+Mayor, action by the Council to override the veto), a 30-day period of congressional review as 488 
+provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 489 
+24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of 490 
+Columbia Register. 491

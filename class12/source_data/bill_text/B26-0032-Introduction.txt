@@ -1,0 +1,1890 @@
+Government of the District of Columbia 
+UNIFORM LAW COMMISSION          
+   
+ 
+ 
+January 7, 2025 
+ 
+The Honorable Phil Mendelson 
+Chairman 
+Council of the District of Columbia 
+The John A. Wilson Building, 
+1350 Pennsylvania Avenue, NW        
+Washington, DC 20004 
+ 
+RE: Request for introduction of the Uniform Special Deposits Act. 
+ 
+Dear Chairman Mendelson: 
+ 
+ Pursuant to Rule 401(b)(1) of the Rules of Organization and Procedure for the 
+Council, this is to request, on behalf of the District of Columbia Uniform Law 
+Commission, that you introduce the proposed “Uniform Special Deposits Act of 2025.” 
+ 
+A special deposit is a deposit of money at a bank created for a particular purpose 
+where the identity of the person entitled to payment is not determined until the 
+occurrence of a contingency specified at the time the deposit is created.  Special deposits 
+play an important role in commerce and industry, but their use has been diminished 
+because of legal uncertainties.  The uniform act establishes a framework for banks and 
+their customers to utilize special deposits with greater certainty as to how such deposits 
+will be treated under various circumstances. The act establishes clear criteria for special 
+deposits, clarifies the treatment of special deposits in the event of the bankruptcy of a 
+depositor, and clarifies the applicability of the creditor process on a special deposit.   It is 
+an “opt-in” statute, which is available to banks and depositors to suit their needs for 
+particular purposes.  The uniform act has been endorsed by the American College of 
+Commercial Finance Lawyers. 
+ 
+ A proposed “Uniform Special Deposits Act of 2025” is being filed with this letter.  
+In addition, the following documents have been filed:  (1) a summary of the uniform act; 
+(2) a statement as to why the uniform act should be adopted; and (3) the official version 
+of the uniform act with comments. 
+ 
+ I would be pleased to answer any questions and to provide any additional 
+information requested.
+
+2 
+ 
+ 
+        Sincerely, 
+        
+     
+     
+    
+ 
+ 
+        James C. McKay, Jr. 
+        Chair 
+        D.C. Uniform Law Commission 
+ 
+cc:  Uniform Law Commissioners
+
+1 
+2 airman Phil Mendelson at the request of the 
+3 District of Columbia Uniform Law Commission 
+4 
+5 
+6 
+7 
+8 A BILL 
+9 
+10 
+11 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA 
+12 
+13 To enact the Uniform Special Deposits Act, to establish clear criteria for special deposits, to 
+14 clarify the treatment of special deposits in the event of the bankruptcy of a depositor, to 
+15 clarify the applicability of the creditor process on a special deposit, to clarify the legality 
+16 of a bank's right to exercise a setoff or right to recoupment against a special deposit that 
+17 its unrelated to the special deposit, and for other purposes. 
+18 
+19 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 
+20 act may be cited as the "Uniform Special Deposits Act of 2025". 
+21 Sec. 2. Definitions. 
+22 In this act: 
+23 (1) "Account agreement" means an agreement that: 
+24 (A) Is in a record between a bank and one or more depositors; 
+25 (B) May have one or more beneficiaries as additional parties; and 
+26 (C) States the intention of the parties to establish a special deposit 
+27 governed by this act. 
+28 (2) "Bank" means a person engaged in the business of banking and includes a 
+29 savings bank, savings and loan association, credit union, and trust company. Each branch or 
+30 separate office of a bank is a separate bank for the purpose of this act. 
+31 (3) "Beneficiary" means a person that: 
+32 (A) Is identified as a beneficiary in an account agreement; or 
+1
+
+2 
+   (B) If not identified as a beneficiary in an account agreement, may be 33 
+entitled to payment from a special deposit: 34 
+    (i) Under the account agreement; or 35 
+    (ii) On termination of the special deposit. 36 
+  (4) “Contingency” means an event or circumstance stated in an account 37 
+agreement that is not certain to occur but must occur before the bank is obligated to pay a 38 
+beneficiary. 39 
+  (5) “Creditor process” means attachment, garnishment, levy, notice of lien, 40 
+sequestration, or similar process issued by or on behalf of a creditor or other claimant. 41 
+  (6) “Depositor” means a person that establishes or funds a special deposit. 42 
+  (7) “District” means the District of Columbia. 43 
+  (8) “Good faith” means honesty in fact and observance of reasonable commercial 44 
+standards of fair dealing. 45 
+  (9) “Knowledge” of a fact means: 46 
+   (A) With respect to a beneficiary, actual knowledge of the fact; or 47 
+   (B) With respect to a bank holding a special deposit: 48 
+    (i) If the bank:  49 
+     (I) Has established a reasonable routine for communicating 50 
+material information to an individual to whom the bank has assigned responsibility for the 51 
+special deposit; and  52 
+     (II) Maintains reasonable compliance with the routine, 53 
+actual knowledge of the fact by that individual; or 54 
+    (ii) If the bank has not established and maintained reasonable 55
+
+3 
+compliance with a routine described in clause (i) or otherwise exercised due diligence, implied 56 
+knowledge of the fact that would have come to the attention of an individual to whom the bank 57 
+has assigned responsibility for the special deposit.  58 
+  (10) “Obligated to pay a beneficiary” means a beneficiary is entitled under the 59 
+account agreement to receive from the bank a payment when: 60 
+   (A) A contingency has occurred; and 61 
+   (B) The bank has knowledge the contingency has occurred. 62 
+“Obligation to pay a beneficiary” has a corresponding meaning. 63 
+  (11) “Permissible purpose” means a governmental, regulatory, commercial, 64 
+charitable, or testamentary objective of the parties stated in an account agreement. The term 65 
+includes an objective to: 66 
+   (A) Hold funds: 67 
+    (i) In escrow, including for a purchase and sale, lease, buyback, or 68 
+other transaction; 69 
+    (ii) As a security deposit of a tenant; 70 
+    (iii) That may be distributed to a person as remuneration, 71 
+retirement or other benefit, or compensation under a judgment, consent decree, court order, or 72 
+other decision of a tribunal; or 73 
+    (iv) For distribution to a defined class of persons after 74 
+identification of the class members and their interest in the funds; 75 
+   (B) Provide assurance with respect to an obligation created by contract, 76 
+such as earnest money to ensure a transaction closes; 77 
+   (C) Settle an obligation that arises in the operation of a payment system, 78
+
+4 
+securities settlement system, or other financial market infrastructure;  79 
+   (D) Provide assurance with respect to an obligation that arises in the 80 
+operation of a payment system, securities settlement system, or other financial market 81 
+infrastructure; or 82 
+   (E) Hold margin, other cash collateral, or funds that support the orderly 83 
+functioning of financial market infrastructure or the performance of an obligation with respect to 84 
+the infrastructure. 85 
+  (12) “Person” means an individual, estate, business or nonprofit entity, 86 
+government or governmental subdivision, agency, or instrumentality, or other legal entity. The 87 
+term includes a protected series, however denominated, of an entity if the protected series is 88 
+established under law that limits, or limits if conditions specified under law are satisfied, the 89 
+ability of a creditor of the entity or of any other protected series of the entity to satisfy a claim 90 
+from assets of the protected series. 91 
+  (13) “Record” means information: 92 
+   (A) Inscribed on a tangible medium; or 93 
+   (B) Stored in an electronic or other medium and retrievable in perceivable 94 
+form. 95 
+  (14) “Special deposit” means a deposit that satisfies Section 5. 96 
+  (15) “State” means a state of the United States, the District of Columbia, Puerto 97 
+Rico, the United States Virgin Islands, or any other territory or possession subject to the 98 
+jurisdiction of the United States. The term includes an agency or instrumentality of the state. 99 
+ 100 
+ Sec. 3. Scope; choice of law; forum. 101 
+ (a) This act applies to a special deposit under an account agreement that states the 102
+
+5 
+intention of the parties to establish a special deposit governed by this act, regardless of whether a 103 
+party to the account agreement or a transaction related to the special deposit, or the special 104 
+deposit itself, has a reasonable relation tothe District. 105 
+ (b) The parties to an account agreement may choose a forum in the District for settling a 106 
+dispute arising out of the special deposit, regardless of whether a party to the account agreement 107 
+or a transaction related to the special deposit, or the special deposit itself, has a reasonable 108 
+relation to the District. 109 
+ (c) This act does not affect: 110 
+  (1) A right or obligation relating to a deposit other than a special deposit under 111 
+this act; or 112 
+  (2) The voidability of a deposit or transfer that is fraudulent or voidable under 113 
+other law. 114 
+ Sec. 4.  Variation by agreement or amendment. 115 
+ (a) The effect of sections 2 through 6, 8 through 11, and 14 may not be varied by 116 
+agreement, except as provided in those sections. Subject to subsection (b) of this section, the 117 
+effect of sections 7, 12, and 13 may be varied by agreement. 118 
+ (b) A provision in an account agreement or other record that substantially excuses 119 
+liability or substantially limits remedies for failure to perform an obligation under this act is not 120 
+sufficient to vary the effect of a provision of this act. 121 
+ (c) If a beneficiary is a party to an account agreement, the bank and the depositor may 122 
+amend the agreement without the consent of the beneficiary only if the agreement expressly 123 
+permits the amendment. 124 
+ (d) If a beneficiary is not a party to an account agreement and the bank and the depositor 125
+
+6 
+know the beneficiary has knowledge of the agreement’s terms, the bank and the depositor may 126 
+amend the agreement without the consent of the beneficiary only if the amendment does not 127 
+adversely and materially affect a payment right of the beneficiary. 128 
+ (e) If a beneficiary is not a party to an account agreement and the bank and the depositor 129 
+do not know whether the beneficiary has knowledge of the agreement’s terms, the bank and the 130 
+depositor may amend the agreement without the consent of the beneficiary only if the 131 
+amendment is made in good faith. 132 
+ Sec. 5.  Requirements for special deposit. 133 
+ A deposit is a special deposit if it is: 134 
+  (1) A deposit of funds in a bank under an account agreement;  135 
+  (2) For the benefit of at least two beneficiaries, one or more of which may be a 136 
+depositor; 137 
+  (3) Denominated in a medium of exchange that is currently authorized or adopted 138 
+by a domestic or foreign government; 139 
+  (4) For a permissible purpose stated in the account agreement; and 140 
+  (5) Subject to a contingency. 141 
+ Sec. 6.  Permissible purpose. 142 
+ (a) A special deposit must serve at least one permissible purpose stated in the account 143 
+agreement from the time the special deposit is created in the account agreement until termination 144 
+of the special deposit. 145 
+ (b) If, before termination of the special deposit, the bank or a court determines the special 146 
+deposit no longer satisfies subsection (a) of this section, sections 8 through 11 cease to apply to 147 
+any funds deposited in the special deposit after the special deposit ceases to satisfy subsection (a) 148
+
+7 
+of this section. 149 
+ (c) If, before termination of a special deposit, the bank determines the special deposit no 150 
+longer satisfies subsection (a) of this section, the bank may take action it believes is necessary 151 
+under the circumstances, including terminating the special deposit. 152 
+ Sec. 7.  Payment to beneficiary by bank. 153 
+ (a) Unless the account agreement provides otherwise, the bank is obligated to pay a 154 
+beneficiary if there are sufficient actually and finally collected funds in the balance of the special 155 
+deposit.  156 
+ (b) Except as provided in subsection (c) of this section, the obligation to pay the 157 
+beneficiary is excused if the funds available in the special deposit are insufficient to cover such 158 
+payment. 159 
+ (c) Unless the account agreement provides otherwise, if the funds available in the special 160 
+deposit are insufficient to cover an obligation to pay a beneficiary, a beneficiary may elect to be 161 
+paid the funds that are available or, if there is more than one beneficiary, a pro rata share of the 162 
+funds available. Payment to the beneficiary making the election under this subsection discharges 163 
+the bank’s obligation to pay a beneficiary and does not constitute an accord and satisfaction with 164 
+respect to another person obligated to the beneficiary. 165 
+ (d) Unless the account agreement provides otherwise, the obligation of the bank obligated 166 
+to pay a beneficiary is immediately due and payable. 167 
+ (e) The bank may discharge its obligation under this section by:  168 
+  (1) Crediting another transaction account of the beneficiary; or  169 
+  (2) Taking other action that:  170 
+   (i) Is permitted under the account agreement for the bank to obtain a 171
+
+8 
+discharge; or  172 
+   (ii) Otherwise would constitute a discharge under law. 173 
+ (f) If the bank obligated to pay a beneficiary has incurred an obligation to discharge the 174 
+obligation of another person, the obligation of the other person is discharged if action by the 175 
+bank under subsection (e) of this section would constitute a discharge of the obligation of the 176 
+other person under law that determines whether an obligation is satisfied. 177 
+ Sec. 8.  Property interest of depositor or beneficiary.  178 
+ (a) Neither a depositor nor a beneficiary has a property interest in a special deposit. 179 
+ (b) Any property interest with respect to a special deposit is only in the right to receive 180 
+payment if the bank is obligated to pay a beneficiary and not in the special deposit itself. Any 181 
+property interest under this subsection is determined under other law. 182 
+ Sec. 9.  When creditor process enforceable against bank. 183 
+ (a) Subject to subsection (b) of this section, creditor process with respect to a special 184 
+deposit is not enforceable against the bank holding the special deposit.  185 
+ (b) Creditor process is enforceable against the bank holding a special deposit with respect 186 
+to an amount the bank is obligated to pay a beneficiary or a depositor if the process: 187 
+  (1) Is served on the bank; 188 
+  (2) Provides sufficient information to permit the bank to identify the depositor or 189 
+the beneficiary from the bank’s books and records; and 190 
+  (3) Gives the bank a reasonable opportunity to act on the process. 191 
+ (c) Creditor process served on a bank before it is enforceable against the bank under 192 
+subsection (b) of this section does not create a right of the creditor against the bank or a duty of 193 
+the bank to the creditor. Other law determines whether creditor process creates a lien enforceable 194
+
+9 
+against the beneficiary on a contingent interest of a beneficiary, including a depositor as a 195 
+beneficiary, even if not enforceable against the bank. 196 
+ Sec. 10.  Injunction or similar relief. 197 
+ A court may enjoin, or grant similar relief that would have the effect of enjoining, a bank 198 
+from paying a depositor or beneficiary only if payment would constitute a material fraud or 199 
+facilitate a material fraud with respect to a special deposit. 200 
+ Sec. 11.  Recoupment or  setoff. 201 
+ (a) Except as provided in subsection (b) or (c) of this section, a bank may not exercise a 202 
+right of recoupment or setoff against a special deposit.  203 
+ (b) An account agreement may authorize the bank to debit the special deposit: 204 
+  (1) When the bank becomes obligated to pay a beneficiary, in an amount that does 205 
+not exceed the amount necessary to discharge the obligation; 206 
+  (2) For a fee assessed by the bank that relates to an overdraft in the special deposit 207 
+account;  208 
+  (3) For costs incurred by the bank that relate directly to the special deposit; or 209 
+  (4) To reverse an earlier credit posted by the bank to the balance of the special 210 
+deposit account, if the reversal occurs under an event or circumstance warranted under other law 211 
+of the District governing mistake and restitution. 212 
+ (c) The bank holding a special deposit may exercise a right of recoupment or setoff 213 
+against an obligation to pay a beneficiary, even if the bank funds payment from the special 214 
+deposit. 215 
+ Sec. 12.  Duties and liability of bank. 216 
+ (a) A bank does not have a fiduciary duty to any person with respect to a special deposit.  217
+
+10 
+ (b) When the bank holding a special deposit becomes obligated to pay a beneficiary, a 218 
+debtor-creditor relationship arises between the bank and beneficiary. 219 
+ (c) The bank holding a special deposit has a duty to a beneficiary to comply with the 220 
+account agreement and this act.  221 
+ (d) If the bank holding a special deposit does not comply with the account agreement or 222 
+this act, the bank is liable to a depositor or beneficiary only for damages proximately caused by 223 
+the noncompliance. Except as provided by other law of the District, the bank is not liable for 224 
+consequential, special, or punitive damages. 225 
+ (e) The bank holding a special deposit may rely on records presented in compliance with 226 
+the account agreement to determine whether the bank is obligated to pay a beneficiary. 227 
+ (f) If the account agreement requires payment on presentation of a record, the bank shall 228 
+determine within a reasonable time whether the record is sufficient to require payment. If the 229 
+agreement requires action by the bank on presentation of a record, the bank is not liable for 230 
+relying in good faith on the genuineness of the record if the record appears on its face to be 231 
+genuine. 232 
+ (g) Unless the account agreement provides otherwise, the bank is not required to 233 
+determine whether a permissible purpose stated in the agreement continues to exist. 234 
+ Sec 13.  Term and termination. 235 
+ (a) Unless otherwise provided in the account agreement, a special deposit terminates 5 236 
+years after the date the special deposit was first funded. 237 
+ (b) Unless otherwise provided in the account agreement, if the bank cannot identify or 238 
+locate a beneficiary entitled to payment when the special deposit is terminated, and a balance 239 
+remains in the special deposit, the bank shall pay the balance to the depositor or depositors as a 240
+
+11 
+beneficiary or beneficiaries. 241 
+ (c) A bank that pays the remaining balance as provided under subsection (b) of this 242 
+section has no further obligation with respect to the special deposit. 243 
+ Sec. 14.  Principles of law and equity. 244 
+ Subtitle I of Title 28 of the D.C. Code, consumer protection law, law governing deposits 245 
+generally, law related to escheat and abandoned or unclaimed property, and the principles of law 246 
+and equity, including law related to capacity to contract, principal and agent, estoppel, fraud, 247 
+misrepresentation, duress, coercion, mistake, and bankruptcy, supplement this act except to the 248 
+extent inconsistent with this act.  249 
+ Sec. 15.  Uniformity of application and construction. 250 
+ In applying and construing this uniform act, a court shall consider the promotion of 251 
+uniformity of the law among jurisdictions that enact it. 252 
+ Sec. 16.  Transitional provision. 253 
+ This act applies to: 254 
+  (1) A special deposit made under an account agreement executed on or after the 255 
+effective date of this act; and 256 
+  (2) A deposit made under an agreement executed before the effective date of this 257 
+act, if: 258 
+   (A) All parties entitled to amend the agreement agree to make the deposit 259 
+a special deposit governed by this act; and 260 
+   (B) The special deposit referenced in the amended agreement satisfies 261 
+Section 5. 262 
+ 263 
+Sec. 17.  Fiscal impact statement. 264
+
+12 
+ The Council adopts the attached fiscal impact statement as the fiscal impact statement 265 
+required by section 602(c)(3) of the District of Columbia Home Rule Act, approved December 266 
+24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(3)). 267 
+  Sec. 18. Effective Date 268 
+ This act shall take effect following approval by the Mayor (or in the event of veto by the 269 
+Mayor, action by the Council to override the veto), a 30-day period of Congressional review as 270 
+provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 271 
+24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of 272 
+Columbia Register. 273 
+ 274
+
+Uniform Special Deposits Act 
+drafted by the 
+NATIONAL CONFERENCE OF COMMISSIONERS 
+ON UNIFORM STATE LAWS 
+and by it 
+APPROVED AND RECOMMENDED FOR ENACTMENT 
+IN ALL THE STATES 
+WITH PREFATORY NOTE AND COMMENTS 
+Copyright © 2023 
+By 
+NATIONAL CONFERENCE OF COMMISSIONERS 
+ON UNIFORM STATE LAWS 
+May 7, 2024
+
+ABOUT ULC 
+The Uniform Law Commission (ULC), also known as National Conference of Commissioners 
+on Uniform State Laws (NCCUSL), now in its 132nd year, provides states with non-partisan, 
+well-conceived and well-drafted legislation that brings clarity and stability to critical areas of 
+state statutory law. 
+ULC members must be lawyers, qualified to practice law. They are practicing lawyers, judges, 
+legislators and legislative staff and law professors, who have been appointed by state 
+governments as well as the District of Columbia, Puerto Rico and the U.S. Virgin Islands to 
+research, draft and promote enactment of uniform state laws in areas of state law where 
+uniformity is desirable and practical. 
+•  ULC strengthens the federal system by providing rules and procedures that are consistent from 
+state to state but that also reflect the diverse experience of the states. 
+•  ULC statutes are representative of state experience because the organization is made up of 
+representatives from each state, appointed by state government. 
+•  ULC keeps state law up to date by addressing important and timely legal issues. 
+•  ULC’s efforts reduce the need for individuals and businesses to deal with different laws as 
+they move and do business in different states. 
+•  ULC’s work facilitates economic development and provides a legal platform for foreign 
+entities to deal with U.S. citizens and businesses. 
+•  Uniform Law Commissioners donate thousands of hours of their time and legal and drafting 
+expertise every year as a public service and receive no salary or compensation for their work. 
+•  ULC’s deliberative and uniquely open drafting process draws on the expertise of 
+commissioners, but also utilizes input from legal experts, and advisors and observers 
+representing the views of other legal organizations or interests that will be subject to the 
+proposed laws. 
+•  ULC is a state-supported organization that represents true value for the states, providing 
+services that most states could not otherwise afford or duplicate.
+
+Uniform Special Deposits Act 
+The committee appointed by and representing the Uniform Law Commission in preparing this 
+act consists of the following individuals: 
+Patrick A. Guida Rhode Island, Chair 
+John T. McGarvey Kentucky, Vice Chair 
+Timothy L. Amos Tennessee 
+Lani L. Ewart Hawaii 
+Greg Nibert New Mexico 
+Philip A. Nicholas Wyoming 
+Edwin E. Smith Massachusetts 
+William H. Henning Alabama, Division Chair 
+Dan Robbins California, President 
+Other Participants 
+Thomas C. Baxter Jr. New York, Co-Reporter 
+Michael Wiseman New York, Co-Reporter 
+Craig Ulman District of Columbia, American Bar Association 
+Section Advisor 
+Duane M. Searle Pennsylvania, Style Liaison 
+Tim Schnabel Illinois, Executive Director 
+Copies of this act may be obtained from: 
+Uniform Law Commission 
+111 N. Wabash Ave., Suite 1010 
+Chicago, IL 60602 
+(312) 450-6600 
+www.uniformlaws.org
+
+Uniform Special Deposits Act 
+Table of Contents 
+Prefatory Note ................................................................................................................................. 1 
+Section 1. Title .............................................................................................................................. 11 
+Section 2. Definitions.................................................................................................................... 11 
+Section 3. Scope; Choice of Law; Forum ..................................................................................... 17 
+Section 4. Variation by Agreement or Amendment...................................................................... 19 
+Section 5. Requirements for Special Deposit ............................................................................... 22 
+Section 6. Permissible Purpose ..................................................................................................... 23 
+Section 7. Payment to Beneficiary by Bank ................................................................................. 24 
+Section 8. Property Interest of Depositor or Beneficiary.............................................................. 27 
+Section 9. When Creditor Process Enforceable Against Bank ..................................................... 28 
+Section 10. Injunction or Similar Relief ....................................................................................... 29 
+Section 11. Recoupment or Set Off .............................................................................................. 30 
+Section 12. Duties and Liability of Bank ...................................................................................... 32 
+Section 13. Term and Termination ............................................................................................... 33 
+Section 14. Principles of Law and Equity..................................................................................... 34 
+Section 15. Uniformity of Application and Construction ............................................................. 35 
+Section 16. Transitional Provision................................................................................................ 35 
+[Section 17. Severability].............................................................................................................. 36 
+Section 18. Effective Date ............................................................................................................ 36
+
+1 
+Uniform Special Deposits Act 
+Prefatory Note 
+The Uniform Law Commission has approved the Uniform Special Deposits Act. 
+Comments that follow each of the sections of the statute are the official comments. They explain 
+in detail the purpose and meaning of the various sections, and the policy considerations on which 
+they are based. This Prefatory Note sets out important background about special deposits, 
+including the reasons for enacting a Uniform Special Deposits Act and some of the overarching 
+considerations affecting the drafting of the Act. 
+Introduction 
+The Uniform Special Deposits Act addresses deposits at a bank where the identity of the 
+person entitled to payment is not determined until the occurrence of a contingency identified at 
+the time that the deposit is created. An example of such an account is an escrow account holding 
+funds that will be paid to one of two potential beneficiaries depending on the outcome of a 
+contingency. Although such accounts are commonly used, the legal protections afforded them 
+are uncertain. The fundamental purpose of the Uniform Special Deposits Act is to provide a 
+vehicle that banks and their customers can elect to use providing greater legal certainty that the 
+expectations of users will be respected. 
+Historically courts have attempted to fashion protections for such accounts through, 
+among other measures, case law referring to special deposits, but the case law in this area is 
+murky and in some ways anachronistic in the context of modern banking. The Uniform Special 
+Deposits Act creates a vehicle that will provide certainty as to what protections will and will not 
+apply to the accounts of those electing to use it. Because its application is elective, persons not 
+electing to be covered by the Uniform Special Deposits Act will continue to be subject to 
+existing law. 
+Description of the Transactions Covered by the Uniform Special Deposits Act 
+The Uniform Special Deposits Act addresses concerns that have arisen about “special 
+deposits”, concerns that may undermine the use of special deposits as a useful vehicle to hold 
+funds that may be paid in the future to one or more persons depending on the resolution of one or 
+more specified contingencies. The legal uncertainty arises as to the attributes that make a deposit 
+“special”, the rights of the parties interested in the special deposit, their respective creditors, and 
+the bank holding the special deposit prior to the resolution of the contingency. These 
+uncertainties are not capable of resolution in bank-customer agreements because the agreed 
+terms cannot lawfully affect third parties who are not parties to such agreements. The Uniform 
+Special Deposits Act addresses the concerns by reducing the legal uncertainties. 
+An important threshold question is “what makes a deposit special”? The question arises 
+in a context where the law governing deposits generally is not uniform among the states. The 
+Uniform Special Deposits Act does not change that condition; the statutory changes touch only a 
+subcategory of general deposits (those which are considered to be “special”) and are limited in
+
+2 
+application such that they address exclusively the concerns about the identified legal 
+uncertainties. The approach taken is a minimalist approach, meaning that the Uniform Special 
+Deposits Act offers statutory language only when necessary to address concerns. 
+The subcategory of general deposits designated as “special” receives that designation in 
+an account agreement between the bank and its customer, referred to as a “depositor” in the Act 
+(and where the deposit involves at least one beneficiary that is not that depositor). The depositor 
+is the bank’s customer, either because the depositor is funding the special deposit or because the 
+depositor is the party that established the special deposit (which might be funded by someone 
+else). The Uniform Special Deposits Act requires more than a customer’s designation of a 
+special deposit, although that is one indispensable element. In addition, the special deposit must 
+be denominated in money (language that is based on the Uniform Commercial Code’s definition 
+of money, as described below), must serve a permissible purpose specified in the account 
+agreement, and must be subject to a contingency that has not yet been determined. Consequently, 
+a general deposit becomes special under the Uniform Special Deposits Act if the deposit is so 
+designated in an account agreement and if the deposit meets the objective elements set forth in 
+sections of the Uniform Special Deposits Act. 
+The statutory requirement that the special deposit be denominated in a medium of 
+exchange that is currently authorized or adopted by a domestic or foreign government is a key 
+limitation on scope. The Uniform Special Deposits Act would not cover a bank’s securities 
+account for a customer, nor would it cover a safe-deposit account (which is a form of custody 
+account) or a loan account. This requirement would also mean that in most cases, cryptocurrency 
+accounts would not be covered. We are aware that at least one country, El Salvador, has adopted 
+Bitcoin as a legally recognized national currency, so it follows that it would be possible for a 
+special deposit account to be denominated in Bitcoin if the parties to the account agreement, 
+including the bank, all agreed. 
+The Uniform Special Deposits Act also requires that the special deposit be for one or 
+more specifically identified permissible purposes, and the special deposit must serve such 
+permissible purpose from the time the account agreement is executed until the special deposit is 
+terminated either under the account agreement or under Section 13 if the account agreement does 
+not include a termination provision. This key requirement is designed to address possible 
+unintended and adverse consequences of two of the remedial provisions of the Uniform Special 
+Deposits Act. In protecting the special deposit from a premature creditor attack and from 
+inappropriately being swept into the depositor’s bankruptcy estate, these protective provisions of 
+the Uniform Special Deposits Act could be abused. For example, if a depositor established a 
+special deposit “with the actual intent to hinder, delay, or defraud a creditor” of the depositor, 
+this purpose would not be permissible. Cf. Uniform Voidable Transactions Act, § 4(a)(1). There 
+are also provisions in the Uniform Special Deposits Act designed to protect against the risk of 
+abuse, including, but not limited to, the permissible purpose requirement. We also note that such 
+an impermissible purpose might develop at a later point in the history of the special deposit; a 
+purpose that is permissible at the outset may become impermissible as circumstances change. In 
+such an event, the protections of the Act will be lost at the appropriate time, and any credits to 
+the account after that time will not receive the Act’s protections.
+
+3 
+There are four specific concerns that have hindered the “special deposit” from performing 
+what is widely seen as a legitimate aid to commerce and business. First, there exists uncertainty 
+about what makes a deposit “special”. The existing case law is not helpful in reducing 
+uncertainty, and perhaps even contributes to it, because decisions reference bank practices that 
+are no longer followed. The Act reduces this uncertainty by setting forth several elements for a 
+“special deposit” and by requiring the parties to the account agreement to clearly state their 
+intention to create a special deposit subject to the Act. 
+Second, there is uncertainty about the bank’s debt that arises from holding a special 
+deposit, and to whom and when that debt is due and owing. Is the debt to the depositor or is it to 
+a third person that the Uniform Special Deposits Act calls a beneficiary? Is it due and owing 
+when the deposit is funded or at a later point in time? These uncertainties render the special 
+deposit vulnerable to an attack by creditors of either the depositor or a beneficiary, and this 
+vulnerability has led many to avoid the use of special deposits. A deposit that is tied up in a 
+dispute with a creditor cannot perform its intended purpose. The Uniform Special Deposits Act 
+minimizes the vulnerability by making it clear that a special deposit is a debt owed to the 
+beneficiary after determination of a stated contingency. 
+Third, in certain situations described further below, the special deposit might be seen 
+inappropriately as an asset of the depositor, and vulnerable to being considered part of the 
+bankruptcy estate in the event of the depositor’s bankruptcy. This bankruptcy vulnerability, like 
+the uncertainty about a creditor attack, is remedied by the Uniform Special Deposits Act because 
+the depositor’s pecuniary interest in the special deposit is only as a potential beneficiary. The 
+statute makes clear that the special deposit is remote from a depositor’s bankruptcy estate unless 
+the depositor has a determined right to all or a part of the special deposit in its capacity as a 
+beneficiary after the determination of a contingency. To be sure, when a special deposit 
+terminates, the depositor may receive all or part of the balance back if the balance is not 
+distributed to a beneficiary, but it will receive that rebate in the capacity of a beneficiary, with 
+escheatment being the only alternative (an alternative that becomes much less likely as a result of 
+the provision). 
+Finally, a special deposit can be vulnerable to the bank holding the special deposit, which 
+might exercise a right of set off against the special deposit for a mature debt of the depositor or a 
+beneficiary. This vulnerability has led many to eschew the use of a special deposit because of the 
+legal uncertainty created by the prospect of a bank set off. The Uniform Special Deposits Act 
+reduces this uncertainty. 
+Legitimate and Salutary Types of Special Deposits 
+The Uniform Special Deposits Act establishes a non-exhaustive “white list” of certain 
+types of deposit accounts that might be appropriately designated as “special” and would perform 
+a permissible purpose. The idea here is to minimize uncertainty about a particular category of 
+special deposit and whether that category would be considered permissible. 
+The first listed special deposit is to “hold funds in escrow, including for a purchase and 
+sale, lease, buyback, or other transaction”. In the deliberative process leading the Uniform Law
+
+4 
+Commission to authorize development of the Uniform Special Deposits Act, the Uniform Law 
+Commission Study Committee learned of the rising popularity of escrow accounts at banking 
+organizations. Parties doing purchase-and-sale transactions associated with many different asset 
+classes, ranging from the conveyance of real estate to the sale of a business, often structure their 
+transactions in two stages: there is the contract to sell and there is the closing of the sale. To 
+provide the seller with assurance that a buyer will proceed in good faith from contract to closing, 
+the contract of sale will often include a term providing for the payment of earnest money by the 
+purchaser. This earnest money will be held by a trusted third party between contract and closing, 
+and that trusted third party will often be a bank, especially when the amount of earnest money is 
+material (and there are occasions when the special deposit can be measured in billions of 
+dollars). Of course, one of the fundamental uncertainties about the deposit received by a bank 
+acting to facilitate such a sale transaction is the uncertainty about the future disbursement of the 
+deposited funds (for example, in the sale of the subsidiary, there may be significant “due 
+diligence” about the financial statements of the subsidiary that might adversely affect the buyer’s 
+willingness to proceed). When the parties get to closing, will the special deposit be paid to the 
+seller (yes, if the transaction closes) or will the special deposit be returned to the putative buyer 
+(if the transaction does not close)? It is the uncertainty about the bank’s ultimate “due to” 
+obligation that causes some of the concerns identified above. There is no doubt, however, that 
+the special deposit is serving a permissible purpose, namely, to provide assurance that the 
+putative purchaser is serious and has the financial capability to proceed in good faith from the 
+first step to the second step. 
+Consider also another white-listed special deposit – the escrow account with respect to a 
+landlord-tenant relationship. Envision a large commercial building in a major city, where there 
+might be 150 offices and 150 tenants. In each, there will be a lease between the landlord and the 
+tenant, and the landlord will require tenants to pre-pay rent as a “security deposit” (assume that 
+the security deposit equals one month of rent). The security deposits of all the tenants can be held 
+in a commingled special deposit that the landlord establishes with a bank. Again, there will be 
+the familiar uncertainty about the bank’s “due to” obligation. Will all or a part of the balance in 
+the special deposit be “due to” the landlord or will it be “due to” the tenant? If, at the expiry of 
+any leasehold, there is no damage to the leased property, and a definitive communication along 
+these lines is made to the bank, the tenant will be the “beneficiary” of the bank’s “due to” 
+obligation and presumably the bank will discharge this liability and pay the tenant out of the 
+special deposit. But the parties will not know whether this contingency is satisfied until the end 
+of the leasehold. If there is damage to the leased property, all or part of the deposit could be due 
+to the landlord. Notwithstanding the uncertain identity of the bank’s creditor, the special deposit 
+established by the landlord in the hypothetical situation will be for a permissible purpose, to 
+secure the leased property against all but ordinary wear and tear during the leasehold. The special 
+deposit facilitates the execution of an important term within the 150 leases in the building, and 
+significant funds can be held in a regulated bank, where they will be safe and secure. While 
+providing greater certainty and protection for such a special deposit, the Uniform Special 
+Deposits Act does not displace any provisions of state law that may exist regulating such 
+deposits, such as laws governing the payment of interest on such accounts. 
+The white list includes examples of funds that may be held for other purposes. In highly 
+sophisticated financial systems, including that in the United States, it is customary for employers
+
+5 
+to collect funds in the form of pending transaction accounts to be used to meet required payrolls 
+(both salary payments and ERISA payments scheduled to be made to retirement accounts). It is a 
+common practice to collect the funds needed to discharge employer obligations to employees in a 
+special deposit and then to disburse the collected funds to employees in the form of salary, IRA, 
+or 401(k) payments. The Uniform Special Deposits Act would protect such special deposits and 
+facilitate the payout to employee/beneficiaries by freeing these deposits from an attack by 
+employer/creditors and by making such special deposits bankruptcy remote with respect to the 
+employer’s bankruptcy and free from a bank’s right of set off. Again, in this example, the 
+permissible purpose is to facilitate the discharge of the employer’s obligations to its employees. 
+A collection account to facilitate the settlement of a legal action or arbitral award is 
+another form of white-listed special deposit that “holds funds for distribution to a defined class 
+of persons”. In a class action settlement, for example, it would be typical for a settling defendant 
+to collect the funds needed to pay claimants in a special deposit that would, once the deposit is 
+fully funded, be used to pay out those claimants who are to be compensated by the court-
+approved settlement. The Uniform Special Deposits Act would protect such settlement accounts 
+from the same kind of uncertainties previously identified. The permissible purpose of the special 
+deposit in this instance is the facilitation of compensation to injured class members. 
+Another white-listed special deposit is to “provide assurance with respect to an obligation 
+created by contract”. In modern economic systems, there is financial infrastructure that depends 
+on participants that have the necessary liquidity to settle not only their own obligations but also 
+the obligations of others. One technique to assure this capability to settle the obligations of third 
+parties is for the settling participant to establish a special deposit with a material balance, which 
+will “provide assurance” that the settling participant has the wherewithal to take on its role as a 
+settlement agent. In such situations, the balance of the special deposit might be large and needs 
+to be held by a reliable and creditworthy entity such as a regulated bank. In this example, the 
+special deposit is facilitating the operation of critical financial infrastructure, and the cash 
+balance needs protection from creditors, or the balance cannot have the necessary “assuring” 
+effect. There are specific examples where the functioning of critical infrastructure has been 
+jeopardized by creditor process, and in certain situations creditor process served on the bank 
+holding a special deposit has been used as a weapon to gain an advantage that is seen to be 
+“unfair”. With respect to sovereign debt where there has been a default, some “hold out” 
+creditors have jeopardized other bond holders who agreed to a bond restructuring by attaching 
+the special collection account through which restructured bond payments were to be made, on a 
+theory that the debtor (i.e., the sovereign that defaulted) had a property interest in the account 
+used to collect funds for the payout, and the account needed to be “frozen” until that property 
+interest could be adjudicated. The Uniform Special Deposits Act would insulate special deposits 
+of this kind from such creditor attacks, and the permissible purpose is to assist with the 
+functioning of critical infrastructure and to foster the settlement of financial disputes. 
+The statute’s “white list” also protects special deposits that exist to facilitate settlements 
+done across certain private sector payment systems, which often depend upon special deposit 
+accounts that are used for settlement or are used to provide assurance with respect to obligations 
+that arise in the operation of the system or otherwise support the orderly functioning of the 
+system. Even a short delay in the execution of a settlement, where the delay lasts only for as long
+
+6 
+as it takes the parties to get to a judge and obtain relief, could pose a systemic risk to the 
+financial system. Without needed protection from the Uniform Special Deposits Act, the risk of a 
+suspended settlement arising from a levy or restraining order is always just a lawsuit away. The 
+Uniform Special Deposits Act would reduce and perhaps even eliminate this risk. 
+Finally, special deposits could potentially be used to protect accounts that hold cash 
+margin or other cash collateral required by regulators for reasons including customer protection 
+and mitigation of bilateral credit and systemic risk in securities transactions or transactions in 
+regulated derivatives (primarily swaps and futures). Several governmental authorities, including 
+the Commodity Futures Trading Commission and the Securities and Exchange Commission, 
+require that cash margin be held in an account akin to a “special deposit” where the bank holding 
+the account is contractually required to waive its set off rights against obligations of the broker or 
+dealer holding customer assets. See, e.g., 17 C.F.R. §§ 1.20; 22.5; 23.17; 240.15c3–3; 240.18a–4. 
+If these deposits became covered under the Uniform Special Deposits Act, they would receive 
+the kind of protection regulators have required and may even enhance protections currently 
+provided under federal law. The language of the Uniform Special Deposits Act is sufficiently 
+flexible to cover similar future arrangements because the holding of cash margin appears to be a 
+trend in the more sophisticated financial centers. As for the permissible purpose, the purpose 
+would be coincident with the policy that has prompted regulatory action; the special deposit 
+provides confidence in the protection of customer assets and orderly operation of securities and 
+commodities settlement systems. 
+The key point about the white-listed special deposits is that these deposits are not 
+“special” only because they are so designated in the account agreement. They are special because 
+of the designation and because the deposits perform a unique public function in facilitating 
+important prudential, commercial, or governmental objectives. It is also appropriate to draw 
+attention to the wide diversity of special deposits, and to the beneficial function that they 
+perform. 
+Nature of the Relationship between the Bank Holding the Special Deposit and the Beneficiary 
+There is old case law that mistakenly characterizes the relationship formed in a special 
+deposit. The Uniform Special Deposits Act corrects the mistaken characterizations. The old case 
+law provides that when a bank receives a special deposit in the form of cash, the bank holds this 
+deposited cash in “custody” and the bank’s obligation to repay the cash is not reflected on the 
+bank’s balance sheet. In the survey preceding the drafting of the Uniform Special Deposits Act, 
+the Uniform Law Commission Study Committee learned that this practice contemplated by the 
+old case law is not followed. No bank today that receives cash on deposit from a customer fails 
+to record a debt to the customer on its balance sheet. The Uniform Special Deposits Act makes 
+clear that the bank does not hold funds in a custodial capacity in a special deposit situation. The 
+legal and accounting relationships are in harmony. 
+Another unhelpful vestige in old case law is a suggestion that the bank taking a special 
+deposit is acting as a kind of fiduciary vis-à-vis the depositor. As discussed below, the drafters 
+are aware of no evidence that this is the current commercial practice. When a bank intends to act 
+as a trustee, the relationship is clearly provided in a trust agreement and not in a deposit contract.
+
+7 
+The Uniform Special Deposits Act provides expressly that any relationship between the 
+bank and a depositor or beneficiary arising from the special deposit is a debtor-creditor 
+relationship. Although banks may act as fiduciaries in certain situations, the relationship formed 
+when taking a special deposit is not a fiduciary relationship. The Uniform Special Deposits Act 
+reduces uncertainty on this issue, and if the intention is to change the relationship from debtor-
+creditor to fiduciary, that change should be documented in a trust agreement rather than an 
+account agreement. 
+The Uniform Special Deposits Act also makes clear that the determination of the 
+occurrence of the contingency is the trigger event that ripens the generalized “due to” obligation 
+of the bank into a specific obligation to an entitlement holder, a person that the Uniform Special 
+Deposits Act calls a beneficiary. Before the determination of the occurrence of the contingency, 
+the bank has an indebtedness that is due not to any specifically identified legal person. That is, 
+the bank’s obligation to pay is not a contingent liability of the bank, it is a debt of the bank like 
+any other deposit. What depends on the resolution of the contingency is the identity of the person 
+entitled to payment. Consequently, there is no attachable property of a specific person until 
+determination of the occurrence of the contingency, which will identify the beneficiary. 
+The Uniform Special Deposits Act also clarifies when a debt is owed by the bank to a 
+beneficiary, which can arise only after determination of the occurrence of the contingency, and 
+explicitly states how that obligation may be paid. It is at that point when the debt of the bank to 
+the beneficiary can be subject to creditor process served on the bank by a creditor of the 
+beneficiary. However, if creditor process is served before the point when the contingency is 
+determined, then the bank holding the special deposit is not obliged to act on the process. There 
+is no debt due and owing by the bank to such a beneficiary before the determination point, and 
+the Uniform Special Deposits Act provides that any premature service will not accomplish its 
+restraining objective. These provisions of the Uniform Special Deposits Act minimize legal 
+uncertainty with clear and executable rules that will enable the special deposit to serve its 
+salutary function; it leaves the “due to” free of restraint until the beneficiary’s payment right 
+becomes fixed. 
+Enforcement Features of the Uniform Special Deposits Act 
+The Uniform Special Deposits Act also contains provisions dealing with enforcement, 
+which resolve some uncertainties currently found in the case law. The Uniform Special Deposits 
+Act is enforceable by a beneficiary, and it does not matter whether the beneficiary is a party to 
+the account agreement. In the wide diversity of special deposit arrangements, there will be some 
+account agreements where the beneficiary will be a party and others where the beneficiary will 
+not be a party. For example, if two companies are contracting for the sale of a business, the buyer 
+of the business will sometimes place a down payment of earnest money in a special deposit. The 
+down payment will later be applied against the purchase price when the sale of the business 
+closes. If the sale does not close, the down payment will typically be returned to the purported 
+buyer. In this arrangement, it would be common for the buyer and the seller to be parties to the 
+special deposit agreement with the bank holding the down payment. On the other hand, with 
+respect to a different kind of special deposit – the security deposits that are taken from tenants in 
+a commercial office park – it would not be unusual for the landlord to take security deposits from
+
+8 
+tenants and place them in a special deposit at a bank. In this arrangement, the tenant/beneficiaries 
+would not typically be parties to the account agreement, which often will be between the bank 
+and the landlord. 
+The Uniform Special Deposits Act also makes clear that a depositor can enforce the 
+account agreement that creates the special deposit. The depositor’s standing is derived from the 
+depositor being the person who established the special deposit, even if it placed no funds in the 
+special deposit. Again, this would be typical of certain special deposits but not all special 
+deposits, and the drafting committee envisioned tenant security deposits being placed into a 
+special deposit established by a commercial landlord as a case in point. 
+The measure of damages for breach of the account agreement or the Uniform Special 
+Deposits Act is framed in terms of actual damages proximately caused by a breach of agreement 
+or a statutory violation. This avoids the prospect of consequential damages against a bank 
+holding a special deposit unless the bank expressly agrees to a more expanded measure of 
+damages in the account agreement or provided by other law. The limitation of consequential 
+damages is purposeful. It removes a sanction that might cause banks to avoid offering a special 
+deposits product. Given the salutary functions that special deposits perform, the Uniform Special 
+Deposits Act offers liability protection as an incentive to banks so that they will offer a special 
+deposit product.  
+Self-Imposed Limitations of the Uniform Special Deposits Act 
+The Uniform Special Deposits Act contains several self-imposed limitations. The most 
+important limitation has already been referenced – the Uniform Special Deposits Act accepts, as 
+it must, that the law governing general deposits is not uniform among the 50 states. The drafters 
+had no mandate to write a uniform law governing deposits generally. To the contrary, the charge 
+to the Drafting Committee was to address the unique concerns that are inhibiting the 
+development of a special deposits product, and to do nothing more. Subjects including when a 
+deposit is received and when it is paid out are governed by general deposit law, and that general 
+law is left untouched by the Uniform Special Deposits Act. Further, many states have substantive 
+statutory protections dealing with discrete topics arising from certain types of bank deposits, 
+including customer protection measures for security deposits received by landlords. Another 
+example concerns adverse claims against a generic bank deposit. The Uniform Special Deposits 
+Act leaves all that state law untouched, whatever it happens to be. Further, the Uniform Special 
+Deposits Act relies upon existing general deposit law to “fill in the blanks” (e.g., when is a 
+special deposit received) and does not displace the general deposit law except when necessary to 
+accomplish a specific objective. For example, whether a special deposit will bear interest and if 
+so, at what rate, would be determined by other law and by the agreement between the parties. 
+The Uniform Special Deposits Act also expressly does not address certain other topics 
+that may affect a special deposit. One such topic is the insolvency of the bank holding a special 
+deposit. This is not addressed for two different reasons. First, in the Uniform Law Commission 
+Study Committee deliberations preceding the drafting of the Uniform Special Deposits Act, bank 
+insolvency was not identified as a problem or concern. In the United States, there is a well-
+developed bank insolvency law and it has worked well for special deposits. Second, because of
+
+9 
+widespread federal deposit insurance, bank insolvency law has largely become the product of 
+federal law, and state law including the Uniform Special Deposits Act can perform only a limited 
+role. Consequently, the Uniform Special Deposits Act does not address the insolvency of the 
+bank holding the special deposit and leaves that subject to federal law. 
+While bank insolvency is a topic that the Uniform Special Deposits Act does not cover, 
+the statute does address an insolvency topic that is a significant concern – the insolvency of a 
+depositor and the possibility that a special deposit might become part of the bankruptcy estate in 
+the event of the depositor’s bankruptcy. A specific suggestion was that the special deposit be 
+made bankruptcy remote in the event of a depositor bankruptcy, which could be done by 
+reducing any uncertainty whether a depositor has a property interest in a special deposit. The 
+Uniform Special Deposits Act provides this needed clarity, and the statute makes clear that the 
+depositor as a depositor has no property interest in a special deposit, and that its only property 
+interest is as a potential beneficiary. Of course, no beneficiary has any entitlement until 
+determination of the occurrence of the contingency. This should avoid the special deposit being 
+unhelpfully drawn into depositor bankruptcy proceedings and renders the special deposit 
+bankruptcy remote. 
+A final self-limitation of the Uniform Special Deposits Act is that it is applicable only if 
+the parties to the account agreement have opted in, meaning the bank and its customer have 
+elected that the deposit is special and will receive statutory coverage. In the absence of an agreed 
+“opt-in”, the statute does not apply. One of the key attributes of a special deposit that was 
+referenced repeatedly in the Uniform Law Commission Study Committee deliberations was the 
+importance of the “opt-in” to distinguish the covered special deposit from other bank deposits. 
+Currently, banks receive demand, time, savings, and trust deposits, and each of these must be 
+distinguished from the deposit that is “special”. Given the wide diversity of “special deposits”, 
+many practitioners told the Uniform Law Commission Study Committee that the designation 
+needed to be done by the account parties through an “opt-in” provision in the account agreement. 
+The parties to the account agreement, namely the bank and its depositor(s), would best 
+understand the special purpose being served. 
+Note also that no bank is required to offer a special deposit product, and some banks may 
+decide that this will not be among their offered suite of products, or that they will offer such a 
+product only under some circumstances, such as all the potential beneficiaries being parties to 
+the account agreement. The Uniform Special Deposits Act is drafted to provide for sufficient 
+flexibility that would enable the Uniform Special Deposits Act to minimize legal uncertainty and 
+maximize the salutary commercial benefits of this deposit type. 
+Choice of Law, Choice of Forum, and Effective Date 
+It is appropriate to say a few words about choice of law, choice of forum and the effective 
+date of the Uniform Special Deposits Act. 
+One of the distinguishing features of the Uniform Special Deposits Act is that it is an 
+“opt-in” statute. The parties to the account agreement, namely the bank and its depositor(s), 
+decide upon coverage. To maximize their freedom of choice, the parties can select to be
+
+10 
+governed by the laws of a state which has enacted the Uniform Special Deposits Act, 
+notwithstanding whether there is a reasonable relation between a state that has enacted the 
+Uniform Special Deposits Act and the contracting parties, the forum state, the special deposit, or 
+any transaction associated with the special deposit. Given that the selection of the Uniform 
+Special Deposits Act would encompass certain statutory protections for the special deposit, 
+certainty of application with respect to applicable law is especially important. This certainty is 
+provided by maximizing the ability of the parties to the account agreement to select the 
+governing law. For the same policy reason, there is a choice-of-forum provision at Section 3 that 
+facilitates the selection of a forum for the resolution of disputes between the parties. 
+With respect to the effective date, one of the concerns that is addressed in the Uniform 
+Special Deposits Act relates to special deposits that are already existing at the time the statute is 
+enacted in a particular state. Will the new law apply to a pre-existing special deposit? The 
+answer is that it will apply if the necessary parties to the account agreement make the requisite 
+amendments to the existing agreement. Again, the rationale for this provision is legal certainty.
+
+11 
+Uniform Special Deposits Act 
+Section 1. Title 
+This [act] may be cited as the Uniform Special Deposits Act. 
+Section 2. Definitions 
+In this [act]: 
+(1) “Account agreement” means an agreement that: 
+(A) is in a record between a bank and one or more depositors; 
+(B) may have one or more beneficiaries as additional parties; and 
+(C) states the intention of the parties to establish a special deposit 
+governed by this [act]. 
+(2) “Bank” means a person engaged in the business of banking and includes a 
+savings bank, savings and loan association, credit union, [and] trust company[, and a bank as 
+defined in [cite to state statute]]. Each branch or separate office of a bank is a separate bank for 
+the purpose of this [act]. 
+(3) “Beneficiary” means a person that: 
+(A) is identified as a beneficiary in an account agreement; or 
+(B) if not identified as a beneficiary in an account agreement, may be 
+entitled to payment from a special deposit: 
+(i) under the account agreement; or 
+(ii) on termination of the special deposit. 
+(4) “Contingency” means an event or circumstance stated in an account 
+agreement that is not certain to occur but must occur before the bank is obligated to pay a 
+beneficiary.
+
+12 
+(5) “Creditor process” means attachment, garnishment, levy, notice of lien, 
+sequestration, or similar process issued by or on behalf of a creditor or other claimant. 
+(6) “Depositor” means a person that establishes or funds a special deposit. 
+(7) “Good faith” means honesty in fact and observance of reasonable commercial 
+standards of fair dealing. 
+(8) “Knowledge” of a fact means: 
+(A) with respect to a beneficiary, actual knowledge of the fact; or 
+(B) with respect to a bank holding a special deposit: 
+(i) if the bank: 
+(I) has established a reasonable routine for communicating 
+material information to an individual to whom the bank has assigned responsibility for the 
+special deposit; and 
+(II) maintains reasonable compliance with the routine, 
+actual knowledge of the fact by that individual; or 
+(ii) if the bank has not established and maintained reasonable 
+compliance with a routine described in clause (i) or otherwise exercised due diligence, implied 
+knowledge of the fact that would have come to the attention of an individual to whom the bank 
+has assigned responsibility for the special deposit.  
+(9) “Obligated to pay a beneficiary” means a beneficiary is entitled under the 
+account agreement to receive from the bank a payment when: 
+(A) a contingency has occurred; and 
+(B) the bank has knowledge the contingency has occurred. 
+“Obligation to pay a beneficiary” has a corresponding meaning.
+
+13 
+(10) “Permissible purpose” means a governmental, regulatory, commercial, 
+charitable, or testamentary objective of the parties stated in an account agreement. The term 
+includes an objective to: 
+(A) hold funds: 
+(i) in escrow, including for a purchase and sale, lease, buyback, or 
+other transaction; 
+(ii) as a security deposit of a tenant; 
+(iii) that may be distributed to a person as remuneration, retirement 
+or other benefit, or compensation under a judgment, consent decree, court order, or other 
+decision of a tribunal; or 
+(iv) for distribution to a defined class of persons after identification 
+of the class members and their interest in the funds; 
+(B) provide assurance with respect to an obligation created by contract, 
+such as earnest money to ensure a transaction closes; 
+(C) settle an obligation that arises in the operation of a payment system, 
+securities settlement system, or other financial market infrastructure; 
+(D) provide assurance with respect to an obligation that arises in the 
+operation of a payment system, securities settlement system, or other financial market 
+infrastructure; or 
+(E) hold margin, other cash collateral, or funds that support the orderly 
+functioning of financial market infrastructure or the performance of an obligation with respect to 
+the infrastructure. 
+(11) “Person” means an individual, estate, business or nonprofit entity,
+
+14 
+government or governmental subdivision, agency, or instrumentality, or other legal entity. The 
+term includes a protected series, however denominated, of an entity if the protected series is 
+established under law that limits, or limits if conditions specified under law are satisfied, the 
+ability of a creditor of the entity or of any other protected series of the entity to satisfy a claim 
+from assets of the protected series. 
+(12) “Record” means information: 
+(A) inscribed on a tangible medium; or 
+(B) stored in an electronic or other medium and retrievable in perceivable 
+form. 
+(13) “Special deposit” means a deposit that satisfies Section 5. 
+(14) “State” means a state of the United States, the District of Columbia, Puerto 
+Rico, the United States Virgin Islands, or any other territory or possession subject to the 
+jurisdiction of the United States. The term includes an agency or instrumentality of the state. 
+Legislative Note: The bracketed text in paragraph (2) should be included if a state defines 
+“bank” in another statute and intends for the definition to apply to this act. 
+A state should enact the definition of “person” in paragraph (11) regardless of whether the state 
+has enacted the Uniform Protected Series Act (2017) or otherwise recognizes a protected series 
+under its law. The Uniform Special Deposits Act does not require the enacting state to recognize 
+a limit on liability of a protected series organized under the law of another jurisdiction or a limit 
+on liability of the entity that established the protected series. The Uniform Special Deposits Act 
+clarifies the status of a protected series as a “person” under the choice-of-law and substantive 
+law rules of the enacting state under the Uniform Special Deposits Act. 
+Comment 
+1. Account Agreement. A fundamental question pervading the case law and among 
+parties considering the use of this banking product is what distinguishes the special deposit from 
+other types of deposits, such as checking, savings, and time deposits. The Uniform Special 
+Deposits Act resolves this fundamental question with a clear rule that distinguishes the special 
+deposit by a plain statement of intent in the account agreement. The definition makes clear that 
+the parties to the account agreement must recite a clear intention to constitute a special deposit 
+that is covered by the Uniform Special Deposits Act. The parties to the account agreement will
+
+15 
+need to mutually agree to designate a deposit as “special” and identify one or more permissible 
+purposes that it serves. If this is not done, the deposit is not a special deposit under the Uniform 
+Special Deposits Act. If it is done, the deposit will be a special deposit if it meets the other 
+requirements that are set forth in Section 5. 
+No particular talismanic language is required to express the intent to be covered by the 
+Uniform Special Deposits Act. A statement referring to the title of the applicable state legislation 
+or the relevant sections of the state code embodying the Act or a reference to the Uniform 
+Special Deposits Act as enacted in the relevant state would certainly suffice. But other 
+formulations showing the intent to fall under the Uniform Special Deposits Act would also be 
+effective. 
+An account agreement is between a bank and at least one depositor, a term that is 
+intentionally defined broadly in the Uniform Special Deposits Act. Not all of the depositors must 
+be parties to the account agreement. In addition, a depositor may also be a beneficiary, but 
+persons that may be beneficiaries of a special deposit need not be parties to the account 
+agreement. For example, there may be persons that are initially identifiable as potential or actual 
+beneficiaries as a class but not as individual persons, or individual persons that may not be 
+identifiable at the time the account agreement is executed but will be identifiable before the bank 
+becomes obligated to pay a beneficiary. There may be a special deposit with one beneficiary 
+designated – for example, a seller in a sales contract may view the deposit of earnest money by 
+the purported purchaser as a sign that the purchaser is serious and has the capability of 
+proceeding to closing. The seller will, if the sale closes, be the solitary beneficiary who receives 
+the earnest money and the remainder of the purchase price. But, if the sale does not close, the 
+purchaser/depositor (who made the original deposit) may be treated as a beneficiary and obtain 
+its earnest money back. In this type of arrangement, the seller/depositor would be considered the 
+second potential beneficiary and should be reflected as such in the account agreement. 
+2. Bank. The definition of bank is based on Sections 1-201(b)(4), 4-105(1), and 4A-105 
+of the Uniform Commercial Code and provides the option to include other state-specific 
+definitions of a bank. The Uniform Special Deposits Act covers special deposits taken by banks; 
+it does not cover deposits taken by other persons who are not banks. 
+3. Beneficiary. The definition of a beneficiary under the Uniform Special Deposits Act is 
+tied to the account agreement, which may identify a beneficiary directly or indirectly in certain 
+circumstances (e.g., the determination of the occurrence of a contingency or termination of the 
+account agreement). A beneficiary does not need to be identified specifically and may be 
+identified as a member of a class (for example, in a class action settlement) or as a type (for 
+example, all tenants in a building). Such identification should become specific with the fruition 
+of the contingency. When the account agreement identifies specifically the beneficiary of a 
+special deposit, the account agreement may provide additional information as to the making of 
+the payment, including perhaps the beneficiary’s bank and account number. For example, the 
+account agreement may specify that payment to the beneficiary would be deemed made when 
+paid to a bank that is selected by such beneficiary. The original depositor may have a right to 
+payment, but that right arises only from its capacity as a beneficiary, either because it is specified 
+in the account agreement, or upon termination, which is also addressed in Section 13.
+
+16 
+4. Contingency. The definition of “contingency” entails a measure of uncertainty with 
+respect to outcome. This is a common feature of the special deposit, where entitlement to 
+payment is dependent upon an uncertain event – the closing of a contract, the expiration of a 
+commercial lease with no damage to the leased property, settlement of a day’s payment activities 
+or daily trading activity, or the occurrence of an event that may or may not occur within a 
+specified period of time. The passage of time, without another event or criteria being satisfied or 
+being necessary to happen or occur, does not constitute a contingency. 
+5. Creditor Process. The definition of “creditor process” is based on Section 4A-502 of 
+the Uniform Commercial Code. 
+6. Depositor. The definition of “depositor” is somewhat counterintuitive in that it 
+encompasses a person who establishes a special deposit at a bank but does not necessarily 
+deposit any funds into the established account. This is designed to accommodate special deposits 
+that are established by a bank customer who is not depositing funds into the account but is best 
+positioned to establish a special deposit account to hold funds that will be paid out in the event a 
+particular contingency is determined. A paradigm example of this kind of special deposit is the 
+situation of a commercial landlord who establishes a special deposit to hold funds deposited by 
+tenants to secure individual leaseholds against the risk of property damage. In this situation, the 
+landlord will not place the landlord’s own funds in the special deposit; instead, the funds 
+comprising the special deposit will be placed by the tenants. But the landlord will likely 
+“establish” the special deposit, and this can be the most economical means to accomplish the 
+purpose – it is likely more efficient for an individual landlord to establish the special deposit than 
+for the many tenants to do so. In the landlord-tenant example, the landlord would be considered a 
+depositor and would be able to enforce the account agreement, which may be more efficient than 
+requiring the tenants to do so. A purpose of the Uniform Special Deposits Act is to foster 
+efficient, low-cost banking services meeting the needs of a diverse group of commercial actors. 
+By virtue of the individual’s status as a depositor, the individual can enforce the account 
+agreement and requirements of the Uniform Special Deposits Act. 
+As noted in comment 3 to this Section 2 above, a depositor may not always be a 
+beneficiary. A depositor may be a beneficiary to the extent that the determination of the 
+occurrence of a contingency provides such depositor with a right to payment, and only when that 
+interest has been determined and the bank has become obligated to pay the beneficiary. A 
+depositor may also become a beneficiary upon termination, which is addressed in Section 13. 
+7. Obligated to Pay a Beneficiary. A beneficiary’s interest in a special deposit is the 
+right to be paid by the bank holding the special deposit, which right will derive from the account 
+agreement but will also require additional criteria to satisfy the elements of the defined term, 
+“obligated to pay a beneficiary”. A beneficiary has no other right to payment where the proceeds 
+are sourced from a special deposit, which is a distinguishing feature of a special deposit from a 
+general deposit of a bank. A beneficiary’s right to be paid out of the special deposit arises when 
+the bank is obligated to pay a beneficiary. The disposition of the special deposit among 
+beneficiaries will be determined upon the resolution of a contingency. The bank’s obligation is 
+dependent on any contingency for payment to that beneficiary in the account agreement having 
+been determined and the bank having knowledge that such contingency has occurred. The
+
+17 
+definition makes clear that the terms of the account agreement govern determination of the 
+occurrence of a contingency. The original depositor may have an entitlement to payment, but that 
+right arises only from its capacity as a beneficiary. If a bank will determine the occurrence of a 
+contingency in an account agreement based on the receipt of records, it is anticipated that it will 
+likely do so based on a review of records. It is expected that the bank’s determination will be 
+triggered by the receipt of records similar to the receipt of documents that may trigger payment 
+under a letter of credit. 
+8. Permissible Purpose. The Uniform Special Deposits Act requires that an account 
+agreement be created only for one or more permissible purposes and includes a non-exclusive list 
+of examples of special deposits that would be for permissible purposes. Special deposits may be 
+used for a wide variety of permissible purposes, and the inclusion of certain permissible purposes 
+in the statute as examples should not be interpreted to exclude any other purpose, including 
+because such purpose is a different type than the examples included. Even where a potential 
+purpose is included in the “white list” it is expected that in practice variations of the examples 
+will also serve as permissible purposes. For example, a permissible purpose could include a sale 
+or purchase transaction that involves a title company in addition to the seller and purchaser. It is 
+not possible to identify in advance the possible ways that the protections provided by the 
+Uniform Special Deposits Act could be abused and used to facilitate the inappropriate shielding 
+of assets from creditors. It is also not possible to identify all the salutary purposes that are served 
+by special deposits. With that understood, a special deposit established for the purpose of 
+defrauding or evading creditors until funds are disbursed would not be a permissible purpose 
+under the Uniform Special Deposits Act. 
+By design, the Uniform Special Deposits Act may delay a realization by a creditor until 
+after a determination of the occurrence of a contingency in an account agreement, but that delay 
+is for the purpose of facilitating an underlying public policy and is coincident with the 
+determination of the definitive property interest. A delay for the purpose of facilitating one of the 
+legitimate policy purposes on the “white list” would be for a permissible purpose; it must be 
+“stated” in the account agreement, and because of the provisions of Section 6, comport with the 
+permissible purpose for so long as the deposit is maintained. The requirement that the purpose be 
+stated is intended as a minimal discipline on the contracting parties; it reminds them that the 
+protections of the Uniform Special Deposits Act might not be available if the discretion of the 
+contracting parties is abused, and an example of such abuse would occur when a special deposit 
+is established for the purpose of defrauding or evading creditors. 
+Section 3. Scope; Choice of Law; Forum 
+(a) This [act] applies to a special deposit under an account agreement that states the 
+intention of the parties to establish a special deposit governed by this [act], regardless of whether 
+a party to the account agreement or a transaction related to the special deposit, or the special 
+deposit itself, has a reasonable relation to this state.
+
+18 
+(b) The parties to an account agreement may choose a forum in this state for settling a 
+dispute arising out of the special deposit, regardless of whether a party to the account agreement 
+or a transaction related to the special deposit, or the special deposit itself, has a reasonable 
+relation to this state. 
+(c) This [act] does not affect: 
+(1) a right or obligation relating to a deposit other than a special deposit under this 
+[act]; or 
+(2) the voidability of a deposit or transfer that is fraudulent or voidable under 
+other law. 
+Comment 
+1. Choice of Law. The Uniform Special Deposits Act is an “opt-in” statute, meaning that 
+the parties to the account agreement must affirmatively decide to seek its protections. This also 
+means that the parties need to select the law of a state that has adopted the Uniform Special 
+Deposits Act, which could be the state where the parties are situated, or it is possible that the 
+parties are all situated in a state that has not adopted the Uniform Special Deposits Act, in which 
+case the parties will need to select an alternative governing law. The Uniform Special Deposits 
+Act facilitates such a selection, and the chosen governing law does not need to have a reasonable 
+relationship to the parties to the account agreement, the special deposit, or any transaction 
+associated with the special deposit. Although the parties to an account agreement are electing to 
+be governed by the law of a state that has enacted the Uniform Special Deposits Act, it is 
+possible that a court in the forum state will not enforce the parties’ intention to be governed by 
+law other than the law of the forum state. The court may apply the law of the forum state with 
+respect to creditors’ rights, injunctions, recoupment, and set off. The likelihood of such a result 
+may be reduced if the parties include an exclusive choice-of-forum clause in the account 
+agreement that selects as the exclusive forum a state that has also enacted the Uniform Special 
+Deposits Act.  
+2. Choice of Law Implications. If an account agreement does not choose to be governed 
+by the Uniform Special Deposits Act, then there has been no “opt in”, which is required for 
+statutory coverage. This type of deposit (i.e., a deposit where the account agreement does not 
+select coverage by the Uniform Special Deposits Act) will be governed by other law, most 
+probably the law of the jurisdiction in which the bank holding the deposit is located. 
+3. Choice of Forum. The same policy considerations supporting a broad choice-of-law 
+clause support the inclusion of a broad choice-of-forum provision. Given that the statute is an 
+“opt in”, it is especially important that banks have confidence in selecting the substantive law
+
+19 
+and also in the predictability of the forum to resolve disputes. The choice-of-forum provision is 
+modeled after Section 5-116(e) of the Uniform Commercial Code. 
+4. Scope. Subsection (c)(1) acknowledges that there are other laws that may confer 
+special rights or obligations on certain deposits, including deposits that may be considered 
+“special deposits” under other law, and the Uniform Special Deposits Act is not intended in any 
+way to displace such other law. Subsection (c)(2) works with the permissible purpose 
+requirement and is intended to signal that a special deposit that is fraudulent or voidable under 
+other law would not constitute a special deposit under the Uniform Special Deposits Act. An 
+account agreement creating a special deposit that is fraudulent or voidable under other law is a 
+nullity, and would not be for a permissible purpose.  
+Section 4. Variation by Agreement or Amendment 
+(a) The effect of Sections 2 through 6, 8 through 11, and 14 may not be varied by 
+agreement, except as provided in those sections. Subject to subsection (b), the effect of Sections 
+7, 12, and 13 may be varied by agreement. 
+(b) A provision in an account agreement or other record that substantially excuses 
+liability or substantially limits remedies for failure to perform an obligation under this [act] is not 
+sufficient to vary the effect of a provision of this [act]. 
+(c) If a beneficiary is a party to an account agreement, the bank and the depositor may 
+amend the agreement without the consent of the beneficiary only if the agreement expressly 
+permits the amendment. 
+(d) If a beneficiary is not a party to an account agreement and the bank and the depositor 
+know the beneficiary has knowledge of the agreement’s terms, the bank and the depositor may 
+amend the agreement without the consent of the beneficiary only if the amendment does not 
+adversely and materially affect a payment right of the beneficiary. 
+(e) If a beneficiary is not a party to an account agreement and the bank and the depositor 
+do not know whether the beneficiary has knowledge of the agreement’s terms, the bank and the 
+depositor may amend the agreement without the consent of the beneficiary only if the
+
+20 
+amendment is made in good faith. 
+Comment 
+1. Variation by Agreement. The account agreement will designate the special deposit 
+and trigger coverage of the Uniform Special Deposits Act if the special deposit satisfies the 
+requirements in Section 5. The Uniform Special Deposits Act embraces freedom of contract, and 
+because the statute is drafted as an “opt in”, the drafters believed it important to enable the 
+parties to the account agreement to have flexibility. Consequently, the parties may vary the effect 
+of certain statutory rules. As with other uniform acts, the statute has particular rules that are so 
+fundamental that they may not be varied by agreement, such as the requirement that the special 
+deposit be for a permissible purpose. Because statutory application is itself the product of a 
+decision to “opt in”, it is in the parties’ control if they do not wish to be covered by the Uniform 
+Special Deposits Act. The sections that are variable by agreement, such as Sections 7 and 13, 
+include default rules that would be applicable if the parties to an account agreement failed to 
+address the topics that these sections cover. 
+The permitted variation by agreement does not need to be done in the account agreement 
+that establishes the special deposit. It may be done there, but it may also be done in another 
+agreement of the parties and the drafters are mindful that banks will customarily present 
+customers with several agreements covering different bank products. The Uniform Special 
+Deposits Act acknowledges and accommodates this banking practice. 
+2. General Exculpation Ineffective. Subsection (b) renders ineffective a generalized 
+provision excusing all liability, or a provision that effectively limits any effective remedies for a 
+breach. These types of provisions are rare, but they do exist and would interfere with 
+fundamental elements of the Uniform Special Deposits Act. 
+3. Beneficiary Protection. There is a wide range of special deposits and the account 
+agreements establishing such deposits are also diverse. In some, the beneficiary is a party and in 
+others the agreement is exclusively between the depositor and the bank as observed in the 
+Prefatory Note and described in the comments to Section 2. Subsection (c) covers the account 
+agreements where the beneficiary is a party and it recites a familiar rule – the account agreement 
+may not be amended without the beneficiary’s consent unless doing so is expressly permitted by 
+an agreement that the beneficiary executed. If multiple beneficiaries are parties to the account 
+agreement, each beneficiary’s consent would be required unless the account agreement provides 
+otherwise. Subsection (d) covers account agreements where the beneficiary is not a party but has 
+knowledge of the material terms of the agreement that is being amended (and the definitional 
+section provides that only actual knowledge is sufficient with respect to a beneficiary). In these 
+types of special deposits, the beneficiary may be injured if the account agreement is amended. 
+Subsection (d) renders an amendment ineffective if it should adversely and materially affect the 
+beneficiary’s payment rights. This provision is consistent with case law interpreting the right of a 
+third-party beneficiary who had similar knowledge. In the case of a special deposit, the 
+fundamental expectation of a beneficiary who has knowledge of the terms of the account 
+agreement concerning the special deposit relates to the beneficiary’s expectation that, depending 
+on resolution of the contingency, it will receive a payment funded with proceeds from the special
+
+21 
+deposit.  Therefore, Section 4 (d) more precisely protects that expectation than would a general 
+reliance on third-party beneficiary law.  Under Section 4 (d), the beneficiary’s consent to amend 
+the account agreement is not required (and, again, this assumes the beneficiary is not a party to 
+the original account agreement) unless the amendment would adversely and materially affect a 
+payment right of the beneficiary, and the bank and the depositor have knowledge that the 
+beneficiary knows the terms of the original agreement. 
+A bank may wish to make provision in the account agreement for a representation and 
+warranty to be made by the depositor at the time the original account agreement is executed, and 
+repeated whenever it is amended, as to whether any beneficiary has knowledge of the account 
+agreement’s existence or terms.  Further, because a beneficiary with payment expectations might 
+sustain damages in the event of an amendment that adversely and materially affects its payment 
+rights, a bank might require that the depositor reaffirm its representation and warranty “as of” the 
+time of payment, such that the bank has documentary assurance of a condition material to the 
+bank’s decision to agree to an amendment – namely, that the beneficiary has no knowledge of 
+the original account agreement or any amendment.  If a beneficiary sustains damages from an 
+amendment that adversely and materially affects a beneficiary’s payment rights, and the bank has 
+relied on documentary assurance from the depositor that the beneficiary did not have the required 
+knowledge, the bank making payment would have a defense provided in Section 12 (f) of the 
+Act, which exculpates a bank for its reliance on the genuineness of a record when it makes a 
+payment.  In this circumstance, the bank would have relied on the written assurance from the 
+depositor that no beneficiary had knowledge of the original account agreement or its amendment, 
+and this record would provide the bank with a liability defense, which is the intention underlying 
+Section 12 (f) of the Act.  Of course, if the depositor cannot make the representation and 
+warranty, then the bank might appropriately decline to amend the original account agreement, 
+because of the risk that a beneficiary could sustain damages if the amendment adversely and 
+materially affects a payment right. 
+Subsection (e) covers the account agreements where the beneficiary is not a party and the 
+bank and depositor do not know if the beneficiary has knowledge of the material terms of the 
+agreement that is being amended, and renders the amendment ineffective if it is not made in 
+good faith by both the bank and depositor. This provision would also cover the scenario where 
+the bank and depositor know that the beneficiary does not have knowledge of the material terms 
+of the agreement that is being amended. This provision is consistent with case law interpreting 
+the right of a third-party beneficiary without the requisite knowledge, but the Uniform Special 
+Deposits Act contains what is regarded as a modern definition of “good faith”. The definition 
+includes the “observance of reasonable commercial standards of fair dealing”, a component that 
+may not be seen in some of the earlier cases. This component may provide additional protection 
+to a beneficiary as defined in the Uniform Special Deposits Act. 
+If the depositor does not know whether a beneficiary that is not a party to the account 
+agreement has knowledge of its terms, a bank may wish to make provision in the account 
+agreement for a representation and warranty to be made by the depositor at the time the original 
+account agreement is executed, and repeated whenever it is amended, stating that the depositor 
+does not know whether the beneficiary has knowledge of the account agreement’s terms and the 
+depositor is acting in good faith.  Similarly as described above, if such a beneficiary is harmed
+
+22 
+by an amendment to the account agreement and seeks recovery from the bank, the bank would be 
+protected by Section 12 (f) and may rely on the written assurance from the depositor that the 
+depositor did not know such beneficiary had knowledge of the account agreement’s terms and 
+was acting in good faith, and therefore the consent of such beneficiary was not required. 
+Section 5. Requirements for Special Deposit 
+A deposit is a special deposit if it is: 
+(1) a deposit of funds in a bank under an account agreement; 
+(2) for the benefit of at least two beneficiaries, one or more of which may be a 
+depositor; 
+(3) denominated in a medium of exchange that is currently authorized or adopted 
+by a domestic or foreign government; 
+(4) for a permissible purpose stated in the account agreement; and 
+(5) subject to a contingency. 
+Comment 
+Features of Special Deposits. This provision sets forth the required elements for a 
+special deposit. Consequently, a special deposit will be a subcategory of a general deposit in a 
+bank. The objective criteria specified in Section 5 distinguish the special deposit from other 
+general deposits. Subsection (1) contains the first required element – that the deposit be of funds 
+in a bank under an account agreement. “Account agreement” is a defined term in Section 2.  
+Subsection (2) provides that the account agreement must be for the benefit of at least two 
+beneficiaries, although one or more of those beneficiaries may be a depositor. Thus, in the 
+commercial real estate example that is discussed in the Prefatory Note and in the official 
+comments to Section 2, an agreement between a landlord and the bank holding security deposits 
+of commercial tenants would meet this required element. In some other situations, the account 
+agreement will have as parties the bank, the depositor(s), and the beneficiaries; in this case too, 
+the required element will be satisfied. This requirement serves a salutary purpose, namely, to 
+minimize the possibility of a person establishing a special deposit to shield its assets from 
+creditors and not to serve a proper purpose (by establishing a special deposit naming themselves 
+the only potential beneficiary). It is not the intent of the Uniform Special Deposits Act to enable 
+a depositor to shield assets from creditors; it is to facilitate the use of the special deposit to solve 
+commercial or other problems and to provide clear rules to creditors for how they might properly 
+reach mature debtor entitlements. 
+Subsection (3) requires that the special deposit be denominated in “a medium of
+
+23 
+exchange that is currently authorized or adopted by a domestic or foreign government”; this 
+language is based on the Uniform Commercial Code’s definition of “money”. This element is 
+intended to include currencies adopted by governments, such as the U.S. dollar or the Euro. It is 
+also an important scope limitation and excludes deposits of securities, digital tokens, 
+cryptocurrency (unless it has been recognized as currency by a domestic or foreign government), 
+commodities and other non-monetary items that may be deposited in a bank. For example, El 
+Salvador has adopted Bitcoin as a legally recognized national currency, so it follows that it 
+would be possible for a special deposit account to be denominated in Bitcoin if the parties to the 
+account agreement, including the bank, all agreed. 
+Subsection (4) contains another important required element that the deposit be for a 
+permissible purpose, which is defined in Section 2 and further addressed in Section 6. This 
+requirement is intended to provide some constraint to the kinds of general deposits that may be 
+designated as special. Because the Uniform Special Deposits Act affords special protection to the 
+special deposit, it is a required element that the protections apply to a limited subcategory of 
+general deposits, and deposits that are considered fraudulent or voidable under other law would 
+not qualify.  
+Subsection (5) requires that there be a contingency, another term defined in Section 2, 
+that will trigger the bank’s obligation to pay a beneficiary. While this payment obligation is 
+independent of the special deposit itself, the bank holding the special deposit will customarily 
+fund the “due to” beneficiary by debiting the special deposit. The contingency may concern the 
+resolution of conditions, occurrence of events, passage of time (with the occurrence of another 
+contingency), or combinations thereof. The requirement that the special deposit is subject to a 
+contingency is an important feature that distinguishes a special deposit from a general deposit 
+because it prevents each beneficiary from an entitlement to the special deposit until such time as 
+the contingency has occurred. 
+Section 6. Permissible Purpose 
+(a) A special deposit must serve at least one permissible purpose stated in the account 
+agreement from the time the special deposit is created in the account agreement until termination 
+of the special deposit. 
+(b) If, before termination of the special deposit, the bank or a court determines the special 
+deposit no longer satisfies subsection (a), Sections 8 through 11 cease to apply to any funds 
+deposited in the special deposit after the special deposit ceases to satisfy subsection (a). 
+(c) If, before termination of a special deposit, the bank determines the special deposit no 
+longer satisfies subsection (a), the bank may take action it believes is necessary under the
+
+24 
+circumstances, including terminating the special deposit. 
+Comment 
+1. Permissible Purpose Requirement. Subsection (a) sets forth a fundamental feature of 
+a special deposit. A criterion making a deposit “special” is if the deposit is for one or more 
+permissible purposes designated in the account agreement. A special deposit must be for one or 
+more of these permissible purposes. A permissible purpose stated in the account agreement must 
+exist at the outset and continue for the duration of the special deposit. This is true whether 
+termination is determined under the account agreement or under Section 13 in the absence of a 
+termination provision in the agreement. 
+2. Permissible Purposes Over Time. Subsections (b) and (c) address the consequences 
+to the special deposit if the purpose of the special deposit changes over time. If, during the 
+pendency of a special deposit, no purpose stated in the account agreement remains a permissible 
+purpose, or if the parties use the special deposit for a different purpose than a purpose stated in 
+the account agreement, the protections of the Uniform Special Deposits Act are no longer 
+applicable with respect to any balance of the special deposit that is credited on or after that time. 
+A bank or a court of competent jurisdiction will make the necessary determination, and the date 
+the protections of the Uniform Special Deposits Act fall away will relate back to the time that the 
+purpose ceased to be a permissible purpose. This protects the existing balance of funds deposited 
+in the special deposit prior to such determination but does not extend the Uniform Special 
+Deposits Act’s protections when there is no longer a stated permissible purpose. The part of the 
+balance of the special deposit that is no longer protected will be treated as a general deposit, and 
+will be without the protections that Sections 8-11 provide in the event of depositor bankruptcy, 
+creditor process, and/or recoupment and set off. If a permissible purpose becomes impermissible 
+under other law, there may be additional consequences to the existing balance of the funds 
+deposited in the special deposit, which would be governed by other law. 
+In exercising its discretion, the bank holding the special deposit might decide that it must 
+terminate the entire relationship with the depositor (e.g., because it is exposed to material 
+liability under federal or state anti-money laundering laws). If the parties to an account 
+agreement are concerned about this possibility, they may include more detailed provisions in the 
+account agreement (perhaps referencing an “as of” debit to the special deposit and an offsetting 
+“as of” credit to a new general deposit). Similarly, if the parties to an account agreement 
+anticipate that the permissible purpose may need to change in the future, that can be addressed in 
+the account agreement to avoid inadvertently losing protection of the Uniform Special Deposits 
+Act. These provisions are intended to clarify the application of the protections of the Uniform 
+Special Deposits Act, and are not meant to disturb the general right afforded to banks under other 
+law to decide to close any account. 
+Section 7. Payment to Beneficiary by Bank 
+(a) Unless the account agreement provides otherwise, the bank is obligated to pay a 
+beneficiary if there are sufficient actually and finally collected funds in the balance of the special
+
+25 
+deposit.  
+(b) Except as provided in subsection (c), the obligation to pay the beneficiary is excused 
+if the funds available in the special deposit are insufficient to cover such payment. 
+(c) Unless the account agreement provides otherwise, if the funds available in the special 
+deposit are insufficient to cover an obligation to pay a beneficiary, a beneficiary may elect to be 
+paid the funds that are available or, if there is more than one beneficiary, a pro rata share of the 
+funds available. Payment to the beneficiary making the election under this subsection discharges 
+the bank’s obligation to pay a beneficiary and does not constitute an accord and satisfaction with 
+respect to another person obligated to the beneficiary. 
+(d) Unless the account agreement provides otherwise, the obligation of the bank obligated 
+to pay a beneficiary is immediately due and payable. 
+(e) The bank may discharge its obligation under this section by: 
+(1) crediting another transaction account of the beneficiary; or 
+(2) taking other action that: 
+(A) is permitted under the account agreement for the bank to obtain a 
+discharge; or 
+(B) otherwise would constitute a discharge under law. 
+(f) If the bank obligated to pay a beneficiary has incurred an obligation to discharge the 
+obligation of another person, the obligation of the other person is discharged if action by the 
+bank under subsection (e) would constitute a discharge of the obligation of the other person 
+under law that determines whether an obligation is satisfied. 
+Comment 
+“Due to” Obligations. Section 7 implements one of the key features of a special deposit 
+governed by the Uniform Special Deposits Act. The special deposit receives protections in the
+
+26 
+Uniform Special Deposits Act but the bank’s obligation to pay a beneficiary, and the bank’s 
+action to discharge that payable, do not receive such protections. Subsection (a) reflects that the 
+bank’s debt to the beneficiary accrues when a bank is obligated to pay a beneficiary. “Obligated 
+to pay a beneficiary” is defined in Section 2 with respect to the contingency being determined 
+and the bank having knowledge of the determination. Subsection (a) also provides for the 
+obvious – the bank holding the special deposit will fund the “due to” to the beneficiary by 
+debiting the special deposit. The “actually and finally collected funds” element of this subsection 
+clarifies that a bank is not obligated to pay a beneficiary if there are not sufficient funds in the 
+special deposit account. Similarly, subsection (b) acknowledges that a bank has no obligation to 
+satisfy a “due to” obligation to a beneficiary if the funds in the special deposit are not sufficient 
+to cover the entitlement to such beneficiary. This statutory language is meant to be consistent 
+with other areas of law, such as Section 4-401(a) of the Uniform Commercial Code and Section 
+10B(b)(4) of the Federal Reserve Act (12 U.S.C. § 347b), which make clear that a bank is not 
+tacitly committed to provide needed credit. Thus, a bank is not obligated to provide funds in 
+addition to those on deposit in the special deposit to satisfy a “due to” obligation to a beneficiary 
+if the funds in the special deposit are not sufficient. The parties may agree, however, to a 
+different arrangement if they wish. For example, the bank can agree to pay by overdraft or to 
+make a partial payment by including such terms in the account agreement or another agreement 
+between the parties. 
+Section 7(c) provides a default rule that when funds in a special deposit are insufficient to 
+pay fully a beneficiary entitled to payment, the beneficiary may elect to receive the available 
+funds and that payment of those funds discharges the bank’s obligation to pay the beneficiary. 
+The default rule in Section 7(c) may, under Section 4(a) and the express terms of Section 7(c), be 
+varied by agreement. Any person with an interest in a special deposit should be mindful that, if 
+Section 7(c) is not varied by agreement, the underlying obligor (assuming there is one) will not 
+be discharged on any obligation to pay a beneficiary, even though funds that may have been 
+allocated for that purpose and collected in a special deposit, have been paid out in their entirety 
+to one or more beneficiaries. The default rule created by subsection (c) with respect to payments 
+to be made to beneficiaries even if the funds in the special deposit account are insufficient to 
+meet the entire payment amount contemplated is intended as a protection for certain beneficiaries 
+who may not have the necessary bargaining power with respect to the counterparties to an 
+account agreement. This could represent a trap for an unwary obligor, and exposes such an 
+obligor to a risk of additional liability if the provision is not altered by agreement because the 
+underlying obligation remains outstanding even after substantially all the funds in the special 
+deposit are paid out to an electing beneficiary. Other law determines what credit the obligor will 
+receive for the partial payment from the special deposit. In other contexts, the default rule may 
+result in outcomes inconsistent with the wishes of the parties. For example, in payment and 
+clearing system rules, there may be elaborate arrangements made to deal with account shortfalls 
+that would be wholly inconsistent with the default rule in subsection (c). Similarly, the default 
+rule in subsection (c) may not be workable where there are multiple beneficiaries or payments 
+need to be made through payment systems, which rely almost exclusively on straight-through 
+processing. Therefore, parties considering the use of the Uniform Special Deposits Act should 
+pay careful attention to whether it is necessary in the context of their transactions to draft an 
+alternate approach to the default rule in the account agreement. Section 4(a) and Section 7(c) 
+permit such a variation.
+
+27 
+Subsection (d) addresses the remaining detail as to when the bank’s obligation to the 
+beneficiary is due and payable and provides that this “due to” is immediately due and payable 
+unless the account agreement provides differently. In some cases, a bank could have multiple 
+obligations that arise from an initial obligation to pay a beneficiary. 
+Subsection (e) addresses the next obvious issue, and that is how the bank discharges its 
+“due to” to the beneficiary. This section provides that a bank obligated to pay a beneficiary 
+might fulfill its payment obligation by crediting another deposit account of the beneficiary with 
+the obligated bank. This identical issue is addressed in Section 4A-405 of the Uniform 
+Commercial Code, which covers the obligation of the beneficiary’s bank to pay a beneficiary of 
+a funds transfer. In substance, subsection (e) is drafted to incorporate the substantially similar 
+concepts from Article 4A. The purpose of this subsection is to protect the special deposit itself 
+but not the obligation of the bank to pay the beneficiary or the actual payment to the beneficiary. 
+Subsection (f) addresses the situation where the bank’s obligation to pay a beneficiary 
+will discharge the obligation of another person or persons (for example, in a simple escrow 
+between a buyer and a seller, it would be typical for the bank holding the earnest money in a 
+special deposit to pay it to the seller on closing, thereby helping to discharge the buyer’s overall 
+obligation to pay the purchase price), and explains that payment of the bank’s obligation to a 
+beneficiary will discharge the other underlying obligation to another person or persons. 
+Subsection (f) is of special importance to financial market infrastructures where an infrastructure 
+payment may discharge the underlying obligations of many participants. 
+Section 8. Property Interest of Depositor or Beneficiary 
+(a) Neither a depositor nor a beneficiary has a property interest in a special deposit. 
+(b) Any property interest with respect to a special deposit is only in the right to receive 
+payment if the bank is obligated to pay a beneficiary and not in the special deposit itself. Any 
+property interest under this subsection is determined under other law. 
+Comment 
+1. No Property Interest in Special Deposit. Section 8 contains one of the key protective 
+provisions of the Uniform Special Deposits Act that makes the special deposit “bankruptcy 
+remote” from the depositor. Neither a depositor nor a beneficiary has a property interest in a 
+special deposit. Any interest that the depositor has with respect to a special deposit relates to its 
+capacity as a beneficiary and rights that are triggered by the determination of the occurrence of 
+the contingency. If the depositor is not a beneficiary, then it has no rights in the special deposit. 
+Note that a depositor may have rights as a beneficiary if there is a residual in a special deposit 
+after all other beneficiaries have been paid out because of Section 13(b). But in this narrow 
+instance, the depositor’s property right is contingent on the bank being obligated to pay the 
+residual balance to the depositor, who is considered a beneficiary for this purpose.
+
+28 
+2. Property Interest in Right to Receive Payment. Although Section 8(a) makes it clear 
+that a beneficiary has no property interest in the special deposit, under other law a beneficiary 
+may presently have a property interest in the beneficiary’s contingent right to receive payment 
+after the bank has become obligated to pay the beneficiary. Under other law, a creditor of the 
+beneficiary may be able to create a lien on that contingent right of the beneficiary that may be 
+enforced against the beneficiary after the bank has become obligated to pay the beneficiary. 
+However, under Section 9 such a lien is not enforceable against the bank until it has actually 
+become obligated to pay the beneficiary and then only as provided in Section 9(b). 
+Section 9. When Creditor Process Enforceable Against Bank 
+(a) Subject to subsection (b), creditor process with respect to a special deposit is not 
+enforceable against the bank holding the special deposit.  
+(b) Creditor process is enforceable against the bank holding a special deposit with respect 
+to an amount the bank is obligated to pay a beneficiary or a depositor if the process: 
+(1) is served on the bank; 
+(2) provides sufficient information to permit the bank to identify the depositor or 
+the beneficiary from the bank’s books and records; and 
+(3) gives the bank a reasonable opportunity to act on the process. 
+(c) Creditor process served on a bank before it is enforceable against the bank under 
+subsection (b) does not create a right of the creditor against the bank or a duty of the bank to the 
+creditor. Other law determines whether creditor process creates a lien enforceable against the 
+beneficiary on a contingent interest of a beneficiary, including a depositor as a beneficiary, even 
+if not enforceable against the bank. 
+Comment 
+1. Protection from Creditor Process. Section 9 is another key protective provision of 
+the Uniform Special Deposits Act. This protects the special deposit from creditor process that 
+might cause the bank holding the special deposit to “freeze” all or part of the special deposit, 
+which would disable the special deposit from performing its permissible purpose. Creditor 
+process is only enforceable on a bank if the requirements in subsection (b) are met, and then the 
+process restrains only the bank’s obligation to pay a beneficiary. “Obligated to pay a 
+beneficiary” is defined in Section 2, and requires that a contingency has already occurred, and
+
+29 
+that the bank has knowledge of that fact and as a result, a beneficiary is entitled to payment. 
+Creditor process cannot be effective against the special deposit itself, or any funds in the special 
+deposit that have not already been determined under the account agreement to be subject to an 
+obligation to pay a specific beneficiary. Again, the special deposit is protected from creditor 
+process so that the special deposit might foster the policy objectives of the special deposit. 
+Protecting the special deposit from premature creditor process is a fundamental protection of the 
+Uniform Special Deposits Act. The term depositor is included in 9(b) for the elimination of any 
+doubt, but it should be noted that the only time a depositor would have any rights would be in its 
+capacity as a beneficiary. 
+2. Examples. Example 1: Creditor obtains a judgment against beneficiary, which is a 
+beneficiary of a special deposit held by bank. After bank becomes obligated to pay beneficiary 
+(after a contingency has occurred and the bank has knowledge), creditor serves a writ of 
+garnishment on bank. The writ is enforceable if the writ provides sufficient information to permit 
+bank to identify, from bank’s books and records, beneficiary’s interest in the special deposit and 
+affords bank a reasonable amount of time to act on the process before paying. 
+Example 2: Creditor obtains a judgment against beneficiary, which is a beneficiary of a 
+special deposit held by bank. Creditor serves a writ of garnishment on bank before bank becomes 
+obligated to pay beneficiary (i.e., before determination of the contingency). The premature 
+garnishment is not enforceable against bank either at the time it is served or later, after 
+determination of the contingency, when the bank becomes obligated to pay beneficiary 
+(additional process would need to be served after determination of the contingency). Whether a 
+beneficiary has a property interest in bank’s contingent obligation to pay all or any portion of the 
+special deposit to beneficiary, and whether service of the writ of garnishment creates a present 
+lien on such a property interest enforceable against the beneficiary, rather than the bank holding 
+the special deposit, is determined by other law. 
+Where a special deposit is intended to serve a payment or clearing system account with 
+multiple beneficiaries, a creditor’s writ of garnishment on the bank can only be enforceable 
+against a determined payment right of a beneficiary, and not against the special deposit itself. 
+Section 10. Injunction or Similar Relief 
+A court may enjoin, or grant similar relief that would have the effect of enjoining, a bank 
+from paying a depositor or beneficiary only if payment would constitute a material fraud or 
+facilitate a material fraud with respect to a special deposit. 
+Comment 
+Protection from Injunctions. Section 9, above, protects the special deposit from creditor 
+process. Typically, creditor process is a remedy that is addressed to a property interest of some 
+kind. The same or a similar result can be obtained by seeking a temporary restraining order or 
+preliminary injunction against a bank holding a special deposit. This section avoids that result,
+
+30 
+and creates a safeguard for situations of fraud that might occur that is modeled after Section 5-
+109(b) of the Uniform Commercial Code, which addresses fraud with respect to the issuer of a 
+letter of credit. 
+Section 11. Recoupment or Set Off 
+(a) Except as provided in subsection (b) or (c), a bank may not exercise a right of 
+recoupment or set off against a special deposit.  
+(b) An account agreement may authorize the bank to debit the special deposit: 
+(1) when the bank becomes obligated to pay a beneficiary, in an amount that does 
+not exceed the amount necessary to discharge the obligation; 
+(2) for a fee assessed by the bank that relates to an overdraft in the special deposit 
+account; 
+(3) for costs incurred by the bank that relate directly to the special deposit; or 
+(4) to reverse an earlier credit posted by the bank to the balance of the special 
+deposit account, if the reversal occurs under an event or circumstance warranted under other law 
+of this state governing mistake and restitution. 
+(c) The bank holding a special deposit may exercise a right of recoupment or set off 
+against an obligation to pay a beneficiary, even if the bank funds payment from the special 
+deposit. 
+Comment 
+Limited Exceptions to No Set Off. The special deposit receives protections under the 
+Uniform Special Deposits Act, including protection from the bank’s right of recoupment or set 
+off.  This general rule is codified in (a).  There are some significant exceptions.  First, it is 
+important to clarify that the prohibition of set off and recoupment would not prohibit a bank 
+funding its obligation to pay a beneficiary with a debit to the special deposit.  This is 
+fundamental and it is inherent in the special deposit that it exists to fund future payments to 
+beneficiaries.  Subsection (b)(1) makes this clear. 
+Note, too, that the funding of the “payable” to a beneficiary shows that there is now an 
+independent obligation of the bank to a beneficiary separate and distinct from the special deposit,
+
+31 
+where, before the determination of the contingency, the payment recipient was not yet 
+determined.  This obligation to pay a beneficiary is not protected by the Uniform Special 
+Deposits Act and is within the reach of either the bank creditor or a third-party creditor. 
+Subsections (b)(2)-(4) address other common operational issues with respect to a current 
+account.  Subsection (b)(2) addresses the current account when the balance is negative, meaning 
+that the account owes the bank an amount sufficient to bring the balance to zero, together with 
+interest on the deficit balance.  Typically, the bank will also assess some kind of fee for the 
+overdraft, and the fee will often be added to the deficit balance.  The subsection permits this. 
+Subsection (b)(3) permits the bank to debit the special deposit for “costs” that “relate 
+directly to the special deposit”.  One example would be costs associated with the bank’s defense 
+of a creditor attack on the special deposit, including the bank’s attorneys’ fees.  The costs might 
+also be borne by a third party like a securities custodian, who might also need to hire counsel to 
+defend securities held in custody and might be indemnified by the bank for performing this 
+function on behalf of the bank as a custodian.  It is also useful to consider a “cost” that would not 
+be recoverable here.  Let us suppose that the Depositor has defaulted under a separate credit 
+agreement between the bank holding the special deposit and the Depositor, and that the bank has 
+declared a default and accelerated the amount due under the credit agreement.  This amount 
+could not be set off against the balance of the special deposit, because the credit agreement is not 
+directly related to the special deposit.  However, if there is an amount due to the depositor as a 
+beneficiary, it might be subject to a set off under Subsection (c).  This result is consistent with 
+the application of setoff principles in the context of the structure of the Act.  Under the Act, the 
+depositor has no ownership interest in the special deposit other than a possible payment right as a 
+beneficiary, in the event that a contingency is determined triggering such a payment right, at 
+which point the necessary mutuality of obligation could exist.  Note that the scope of what is 
+considered a “cost” not only includes amounts paid to third parties by the bank related to the 
+special deposit, but also losses suffered by the bank as a result of its performance of the account 
+agreement governing the special deposit, such as unpaid fees under the account agreement. 
+Subsection (b)(4) enables the bank holding the special deposit to debit the special deposit 
+to reverse an earlier credit.  There are occasions when mistakes are made in handling a funds 
+transfer.  See, e.g., Citibank, N.A. v. Brigade Capital Management, 49 F.4th 42 (2d Cir. 2022) 
+(involving a mistake that affected $900 million in funds transfers).  This provision enables the 
+bank to correct a mistaken transfer that increases the balance of a special deposit.  Subsection 
+(b)(4) could address both an event or circumstance prescribed under the state’s laws governing 
+mistake or restitution, or may simply be a mistaken credit by the bank due to a clerical or other 
+error. 
+Subsection (c) exists for a different purpose and that is to make clear that, upon accrual of 
+the bank’s obligation to pay the beneficiary, that independent obligation is subject to the bank’s 
+right of recoupment or set off (if the beneficiary has a mature undischarged debt to the bank, that 
+debt can be set off against the obligation of the bank to pay the beneficiary, again assuming that 
+it is immediately due and payable, which is the default rule).  This is not an obligation that arises 
+from the special deposit itself, but rather from the contingency being determined, which triggers 
+the independent obligation of the bank to pay the beneficiary.
+
+32 
+Section 12. Duties and Liability of Bank 
+(a) A bank does not have a fiduciary duty to any person with respect to a special deposit. 
+(b) When the bank holding a special deposit becomes obligated to pay a beneficiary, a 
+debtor-creditor relationship arises between the bank and beneficiary. 
+(c) The bank holding a special deposit has a duty to a beneficiary to comply with the 
+account agreement and this [act]. 
+(d) If the bank holding a special deposit does not comply with the account agreement or 
+this [act], the bank is liable to a depositor or beneficiary only for damages proximately caused by 
+the noncompliance. Except as provided by other law of this state, the bank is not liable for 
+consequential, special, or punitive damages. 
+(e) The bank holding a special deposit may rely on records presented in compliance with 
+the account agreement to determine whether the bank is obligated to pay a beneficiary. 
+(f) If the account agreement requires payment on presentation of a record, the bank shall 
+determine within a reasonable time whether the record is sufficient to require payment. If the 
+agreement requires action by the bank on presentation of a record, the bank is not liable for 
+relying in good faith on the genuineness of the record if the record appears on its face to be 
+genuine. 
+(g) Unless the account agreement provides otherwise, the bank is not required to 
+determine whether a permissible purpose stated in the agreement continues to exist. 
+Comment 
+1. Relationship between Bank and Beneficiary. A special deposit is a form of deposit 
+which, like all bank deposits, establishes a debtor-creditor relationship between the bank and its 
+customer. Some existing case law addressing “special deposits” suggesting that the bank holding 
+the funds deposited holds it in “custody” and the relationship is in the nature of a bailment is 
+rejected in the Uniform Special Deposits Act. In modern commercial practice, no financial 
+institution takes funds from a customer and holds funds in custody. This bailment concept is
+
+33 
+anachronistic and not feasible in modern banking practice. It is also sometimes observed that a 
+special deposit is a “poor man’s trust”, where the special deposit creates a trust relationship 
+between the bank, as trustee, and the persons entitled to be paid, the trust “beneficiaries”. This 
+conception is rejected by the Uniform Special Deposits Act as well. If the parties want to create a 
+trust, they should create a trust and not use a special deposit. The Uniform Special Deposits Act 
+also makes clear that it does not create a fiduciary relationship between the bank and any person. 
+Any argument that a bank is acting as a fiduciary would likely come from a beneficiary, but there 
+could be other scenarios. 
+2. Duties and Breach. Importantly, the Uniform Special Deposits Act makes clear that 
+the ultimate obligation of a bank holding a covered special deposit will be due to a beneficiary 
+once the occurrence of a contingency is determined. If a duty expressed in either the account 
+agreement or the Uniform Special Deposits Act is breached by the bank, the bank may be liable 
+to the beneficiary for damages (not including consequential, special, or punitive damages), and is 
+not liable to any other person, including a depositor. The duty runs only to a beneficiary (which 
+could include a depositor) as a person that the bank is obligated to pay from the special deposit. 
+However, the depositor or beneficiary may enforce the account agreement against the bank 
+holding the special deposit. The depositor could be the person who established the special 
+deposit and might be the best-positioned person to enforce the account agreement. In the 
+landlord-tenant example, the landlord that establishes the special deposit may be better 
+positioned to enforce the account agreement against the bank than the individual tenants that 
+have deposited funds. 
+3. Reliance on Documents. The Uniform Special Deposits Act embraces current 
+commercial practice where the bank holding the special deposit will rely upon a record, if it, 
+rather than a third party, is to determine the contingency. This determination function, because it 
+is so consequential, will usually be memorialized in careful detail in the account agreement. 
+Although the parties may rely on the presentation of records, a special deposit is not a letter of 
+credit under Article 5 of the Uniform Commercial Code, and it would be prudent for the account 
+agreement to so state. On other occasions, a bank might rely upon an authenticated payment 
+order, perhaps as specified in Section 4A-202 of the Uniform Commercial Code. If so, the 
+payment order and its acceptance or rejection will be governed by Article 4A, which is 
+incorporated through Section 14, infra. 
+4. Permissible Purpose. Notwithstanding the requirement in Section 6 that a permissible 
+purpose exist for the duration of the special deposit, a bank does not have a duty under the 
+Uniform Special Deposits Act to make such a determination, but it may be required under other 
+law to make such a determination (for example, to determine under federal or state anti-money 
+laundering law if a special deposit violates prohibitions against money laundering), or it may be 
+required to act because another person has made such a determination under other law, including 
+a court of competent jurisdiction.  
+Section 13. Term and Termination 
+(a) Unless otherwise provided in the account agreement, a special deposit terminates five
+
+34 
+years after the date the special deposit was first funded. 
+(b) Unless otherwise provided in the account agreement, if the bank cannot identify or 
+locate a beneficiary entitled to payment when the special deposit is terminated, and a balance 
+remains in the special deposit, the bank shall pay the balance to the depositor or depositors as a 
+beneficiary or beneficiaries. 
+(c) A bank that pays the remaining balance as provided under subsection (b) has no 
+further obligation with respect to the special deposit. 
+Comment 
+1. Applicability of Termination Provision. The account agreement would normally be 
+expected to provide, and should provide, a termination provision. The terms of Section 13(a) 
+provide a default rule if the account agreement is silent about termination. The default rule would 
+end the special deposit five years after the special deposit was first funded. A special deposit is 
+first funded when a transfer of funds into the special deposit produces its first positive balance. 
+2. Right of Remission. Subsection (b) deals with the situation where, notwithstanding a 
+diligent effort to locate all of the beneficiaries, the bank holding the special deposit is unable to 
+do so. In this situation, whoever deposited funds into the special deposit will be considered a 
+beneficiary and the funds will be repaid to such depositor as a beneficiary. The provision avoids 
+a forfeiture of the remaining balance to the state, which is the probable result of the escheatment 
+law of most states. The drafters assume that the deposited funds will be apportioned among 
+depositors, appropriately taking into account the amount of their deposits into the account, prior 
+payments from the account, and earnings on the account. 
+Section 14. Principles of Law and Equity 
+[Cite to state’s Uniform Commercial Code], consumer protection law, law governing 
+deposits generally, law related to escheat and abandoned or unclaimed property, and the 
+principles of law and equity, including law related to capacity to contract, principal and agent, 
+estoppel, fraud, misrepresentation, duress, coercion, mistake, and bankruptcy, supplement this 
+[act] except to the extent inconsistent with this [act]. 
+Comment 
+1. Applicability of Supplemental Principles of Law. This Section 14 is based on the
+
+35 
+language from Section 1-103 of the Uniform Commercial Code, with the express addition of the 
+Uniform Commercial Code, consumer protection law, law governing deposits generally, and law 
+related to escheat and abandoned property. Certain provisions from the Uniform Commercial 
+Code, specifically Articles 1, 3, 4, 4A, 5, and 9, are likely to supplement this Uniform Special 
+Deposits Act for certain special deposits. As noted in the official comment to Section 1-103, this 
+language “states the basic relationship of the Uniform Commercial Code to supplemental bodies 
+of law”. Further, as noted in earlier comments, the special deposit is a subcategory of the general 
+deposit, and it is appropriate to supplement provisions of the Uniform Special Deposits Act with 
+general deposit law if that law does not conflict with any provision of the Act. When consumers 
+are affected, as in residential leases, it may be important to consider consumer protection 
+measures implemented by a state to protect consumers. It is not the intent of the drafters to 
+displace any applicable consumer protection law. The Uniform Special Deposits Act was drafted 
+in accordance with a minimalist philosophy, meaning that the drafters understood it would be 
+supplemented by other law, and the principal sources of such law are listed in Section 14. 
+Implicit in this drafting approach is the importance of contract law, as many features of the 
+special deposit arrangement will be determined by the parties in the account agreement. 
+Questions including when a deposit is received by a bank, who can make a deposit into a bank 
+account, and how adverse claims are treated will all be governed by the general law of deposits 
+in a state. It is understood that Section 14 will import that law to fill in coverage gaps. 
+2. Other Deposits. Section 3(c), supra, limits the effect of the Uniform Special Deposits 
+Act on other deposits taken by the bank. 
+Section 15. Uniformity of Application and Construction 
+In applying and construing this uniform act, a court shall consider the promotion of 
+uniformity of the law among jurisdictions that enact it. 
+Section 16. Transitional Provision 
+This [act] applies to: 
+(1) a special deposit made under an account agreement executed on or after [the 
+effective date of this [act]]; and 
+(2) a deposit made under an agreement executed before [the effective date of this 
+[act]], if: 
+(A) all parties entitled to amend the agreement agree to make the deposit a 
+special deposit governed by this [act]; and 
+(B) the special deposit referenced in the amended agreement satisfies
+
+36 
+Section 5. 
+Comment 
+Existing Special Deposits. A number of commentators observed that parties to existing 
+special deposits might wish to be covered by the Uniform Special Deposits Act when it is 
+enacted. Section 16 provides that this can be accommodated through a simple amendment to the 
+account agreement. However, it is also important that the special deposit meet all the criteria set 
+out for special deposits in Section 5. Further, the amended agreement must set forth its 
+permissible purpose, which is another requirement of Section 5. While it is easy to apply the 
+Uniform Special Deposits Act to what might be called a “legacy special deposit”, some analysis 
+will nevertheless be necessary. 
+[Section 17. Severability] 
+[If a provision of this [act] or its application to a person or circumstance is held invalid, 
+the invalidity does not affect another provision or application that can be given effect without the 
+invalid provision.] 
+Legislative Note: Include this section only if the state lacks a general severability statute or a 
+decision by the highest court of the state stating a general rule of severability. 
+Section 18. Effective Date 
+This [act] takes effect . . .
+
+The ULC is a nonprofit formed in 1892 to create nonpartisan state legislation. Over 350 volunteer commissioners—lawyers, 
+judges, law professors, legislative staff, and others—work together to draft laws ranging from the Uniform Commercial Code to 
+acts on property, trusts and estates, family law, criminal law and other areas where uniformity of state law is desirable. 
+NATIONAL CONFERENCE OF COMMISSIONERS ON UNIFORM STATE LAWS 
+Uniform Law Commission 
+111 N. Wabash Ave. 
+Suite 1010 
+Chicago, IL 60602 
+(312) 450-6600 tel 
+www.uniformlaws.org 
+UNIFORM SPECIAL DEPOSITS ACT (2023) 
+Summary 
+The Uniform Law Commission drafted the Uniform Special Deposits Act (the “Act”) to provide 
+clarity on an area of law that has been subject to uncertainty for many years. A special deposit is 
+a deposit of money at a bank created for a particular purpose where the person entitled to the 
+money is only determined after a specified event or contingency occurs. 
+Special deposits play an important role in commerce and industry, but their use has been 
+diminished because of legal uncertainties. Various state laws improperly characterize special 
+deposits as something akin to a trust, bailment, or agency – which do not accurately describe how 
+special deposits are used in practice. Existing case law creates even more confusion because it 
+refers to bank practices that are no longer followed.  
+The Act establishes a framework for banks and their customers to utilize special deposits with 
+greater certainty of how such deposits will be treated under various circumstances. Importantly, 
+the Act is an “opt in” statute. Banks and their customers must specify in their account agreement 
+that they intend to be covered by the Uniform Special Deposits Act as enacted in a particular state. 
+This feature permits existing relationships to continue undisturbed, and lets parties choose to 
+utilize the protections provided by the Act when they wish. Matters not addressed by the Act are 
+controlled by general laws already governing deposits or contractual arrangements. 
+The Act remedies four key legal uncertainties . First, the Act clarifies what a “special deposit” is . 
+It establishes clear criteria for a deposit to be considered “special” under the Act. A special deposit 
+must be (i) designated as “special” in an account agreement governing the deposit at a bank, (ii) 
+for the benefit of at least two beneficiaries (one or mo re of which may be a depositor), (iii) 
+denominated in money, (iv) for a permissible purpose identified in the account agreement, and (v) 
+subject to a contingency specified in the account agreement that is not certain to occur, but if it 
+does occur, creates the bank’s obligation to pay a beneficiary. If all those criteria are satisfied, the 
+deposit is a special deposit. 
+Second, the Act clarifies the treatment of a special deposit in the event of the bankruptcy of a 
+depositor. Under the current law of many states, it is unclear whether funds deposited into a special 
+deposit could be swept into the bankruptcy estate of the person who deposited them. A special 
+deposit under the Act is “bankruptcy remote” because Section 8 provides that neither a depositor 
+nor a beneficiary has a property interest in a special deposit. No person is entitled to funds in a 
+special deposit until the bank becomes obligated to pay a beneficiary. The only property interest 
+that may arise with respect to a special deposit is in the right to receive payment from the bank 
+after the occurrence of a contingency.
+
+2 
+Third, the Act clarifies the applicability of creditor process on a special deposit. Under the current 
+law, a creditor can freeze a special deposit and interfere with the purpose that the deposit is 
+designed to achieve. 
+Section 9 of the Act provides that creditor process is not enforceable against the bank holding the 
+special deposit, except in limited circumstances. Instead, creditor process may be enforceable 
+against the bank holding a special deposit with respect to any amount that it mus t pay after the 
+determination of a contingency, but not on the special deposit itself. Section 10 provides a similar 
+limitation on using an injunction or temporary restraining order to achieve the same outcome. 
+Fourth, the Act   provides clarity on the legality of the bank exercising a set off or right of 
+recoupment against a special deposit that is unrelated to any payment to a beneficiary or the special 
+deposit itself. Section 11 prohibits set off or recoupment except in limited circumstances.   
+Once a special deposit has been established under the Act, it creates an assignable and pledgeable 
+interest for a beneficiary – a definite and clear right to payment upon the occurrence of a 
+contingency and notice to the bank, where one may not otherwise exist. The Uniform Special 
+Deposits Act creates a mechanism for parties to a commercial transaction to obtain a low cost and 
+safe return on earnest money. The Uniform Special Deposits Act is narrowly tailored to cure these 
+four legal uncertainties and eliminate doubts so that parties can utilize special deposits with greater 
+confidence. 
+For more information about the Uniform Special Deposits Act, please contact Legislative Counsel 
+Kari Bearman at (312) 450-6617 or kbearman@uniformlaws.org.
+
+The ULC is a nonprofit formed in 1892 to create nonpartisan state legislation. Over 350 volunteer commissioners—lawyers, 
+judges, law professors, legislative staff, and others—work together to draft laws ranging from the Uniform Commercial Code to 
+acts on property, trusts and estates, family law, criminal law and other areas where uniformity of state law is desirable. 
+NATIONAL CONFERENCE OF COMMISSIONERS ON UNIFORM STATE LAWS 
+Uniform Law Commission 
+111 N. Wabash Ave. 
+Suite 1010 
+Chicago, IL 60602 
+(312) 450-6600 tel 
+www.uniformlaws.org 
+WHY STATES SHOULD ADOPT THE UNIFORM SPECIAL DEPOSITS ACT 
+A special deposit is a deposit of money at a bank where the person entitled to the money is only 
+determined after a contingency occurs. Special deposits perform important work in commerce and 
+industry throughout the United States. For example, consider a security deposit paid by a tenant to 
+a landlord, or the deposit to an account that will fund the payment to members of a court-approved 
+class action settlement. Special deposits could serve a variety of parties in business, commerce, 
+and other various contexts, but legal uncertainties have led many to avoid using them.  
+The Uniform Special Deposits Act (the “Act”) cures the legal uncertainties that prevent businesses 
+and commercial actors from making full use of the special deposit. Under the Act, parties will be 
+able to utilize special deposits with greater confidence that their expectations will be met. Below 
+are some of the reasons why states should adopt the Uniform Special Deposits Act. 
+• The Act is an “opt in” statute. The parties must specifically elect to be covered by the Act in 
+their account agreement. This means parties can elect to utilize the protections for certain 
+deposit products and not others. Th e optional nature of the Act allows banks to add special 
+deposits to the suite of products they offer without impacting existing arrangements. A bank 
+can choose when and to what extent it will offer a special deposit to customers. 
+• The Act was drafted with a minimalist philosophy. The Act does not duplicate provisions 
+of law governing deposits generally. Instead, it remedies uncertaint ies in the law surrounding 
+the special deposit. Existing commercial and consumer protection law s supplement the Act, 
+except where inconsistent. 
+• The Act prevents parties from using a special deposit to defraud or hinder creditors. A 
+special deposit must serve a specified permissible purpose from the time the deposit is created 
+until termination. If the deposit ceases to serve a permissible purpose before termination, the 
+protections of the Act fall away, and the funds are subject to the payee’s creditors. For example, 
+a deposit or transfer that is fraudulent or voidable under other law is not protected. 
+• Under the Act, a special deposit cannot be swept into the bankruptcy estate of the 
+depositor if there is a bankruptcy filing. Under the current law of many states, a depositor 
+will have rights to the special deposit before the determination of a contingency that resolves 
+ownership of all or part of the balance of a special deposit. The Act makes it clear that any 
+property intere st with respect to a special deposit is the right to receive payment after the 
+occurrence of the contingency—there is no property interest in the special deposit itself.  
+• The Act protects special deposits from premature creditor process. Under current law, 
+creditor process can “freeze” a special deposit and interfere with the purpose that the deposit 
+is designed to achieve. When the special deposit is established, the identity of the bank’s 
+ultimate creditor has not been determined. Under the Act, creditor process is only enforceable 
+against the bank holding the special deposit after the determination of a contingency.
+
+2 
+• The Act protects the special deposit from the bank’s set off right. Under current law of 
+certain states, a bank might exercise a right of set off or recoupment that is unrelated to a 
+payment to a beneficiary (or to the special deposit itself). This has discouraged some from 
+using special deposits. The Act prevents the bank from exercising a right of set off or 
+recoupment to its own advantage with respect to unrelated debtor-creditor relationships. 
+The Act also clarifies other aspects of a special deposit relationship that have been muddled in the 
+case law. For example, it expressly provides that the relationship between the bank and a 
+beneficiary is a debtor -creditor relationship and that bank does not have a fiduciary duty to any 
+person in connection with a special deposit.  
+For more information about the Uniform Special Deposits Act, please contact Legislative Counsel 
+Kari Bearman at (312) 450-6617 or kbearman@uniformlaws.org.

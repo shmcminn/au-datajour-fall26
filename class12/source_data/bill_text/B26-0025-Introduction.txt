@@ -1,0 +1,167 @@
+1 
+ 1 
+ ____________________________                                       ______________________________ 2 
+Councilmember Charles Allen    Councilmember Christina Henderson 3 
+ 4 
+ 5 
+____________________________                                       ______________________________ 6 
+ Councilmember Zachary Parker            Councilmember Janeese Lewis George 7 
+ 8 
+ 9 
+______________________________ 10 
+Councilmember Anita Bonds    11 
+ 12 
+ 13 
+A BILL 14 
+ 15 
+_________________ 16 
+ 17 
+ 18 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA 19 
+ 20 
+_________________ 21 
+ 22 
+ 23 
+To amend the Health Services Planning Program Re-establishment Act of 1996 to exempt from 24 
+the certificate of need process digital-only telehealth platforms and providers and primary 25 
+care and specialty care providers not affiliated with hospitals and medical schools, to 26 
+define group practice and nonpatient care project, to remove the 3 year maximum on 27 
+certificate of need applications for active projects, to require the State Health Planning 28 
+and Development Agency to update the capital expenditure and medical equipment 29 
+spending thresholds every two years, to increase the number of beds that must be added 30 
+or removed at a health care facility in order to trigger a certificate of need, and to require 31 
+the Department of Health to create a registration process for facilities offering primary 32 
+and secondary care, virtual provider networks, and virtual telehealth platforms. 33 
+ 34 
+ BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 35 
+act may be cited as the “Certificate of Need Improvement Amendment Act of 2025.” 36 
+ Sec. 2. The Health Services Planning Program Re-establishment Act of 1996, effective 37 
+April 9, 1997 (D.C. Law 11-191; D.C. Official Code § 44–401 et seq.), is amended as follows: 38 
+ (a) Section 2 is amended as follows: 39 
+  (1) Paragraph (3) is amended as follows: 40
+
+2 
+   (A) Subparagraph (A) is amended as follows: 41 
+(i) Sub-subparagraph (i) is amended by striking the phrase 42 
+“SHPDA may, by rule, adjust this threshold annually” and inserting the phrase “SHPDA shall, 43 
+by rule, adjust this threshold every 2 years” in its place. 44 
+   (ii) Sub-subparagraph (ii) is amended by striking the phrase 45 
+“SHPDA may, by rule, adjust this threshold annually” and inserting the phrase “SHPDA shall, 46 
+by rule, adjust this threshold every 2 years” in its place. 47 
+   (B) A new subparagraph (C) is added to read as follows: 48 
+   “(C) The term “capital expenditure” does not include an expenditure on a 49 
+nonpatient care project.”. 50 
+  (2) A new paragraph (9B) is added to read as follows: 51 
+ “(9B) “Group practice” means: 52 
+“(A) A group of 2 or more health professionals, including a faculty practice 53 
+plan, legally organized and authorized to do business in the District of Columbia, for which: 54 
+“(i) Each member of the group is licensed to practice in the District 55 
+of Columbia and provides substantially the full range of services which the health professional 56 
+routinely provides, including medical care, consultation, diagnosis, or treatment, through the 57 
+joint use of shared office space, facilities, equipment and personnel, except surgery as defined at 58 
+D.C. Official Code § 44-501(13A); 59 
+“(ii) Substantially all of the services provided through the group are 60 
+billed under a billing number assigned to the group and amounts received are treated as revenue 61 
+of the group; 62
+
+3 
+“(iii) The overhead expenses of and the income from the practice are 63 
+distributed in accordance with methods previously determined by group members; 64 
+“(iv) No member of the group directly or indirectly receives 65 
+compensation based on the volume or value of referrals by the health professional; and 66 
+“(v) Members of the group personally conduct no less than 75 67 
+percent of the patient encounters of the group practice. 68 
+“(B) In the case of a faculty practice plan associated with a hospital, 69 
+institution of higher education, or medical school with an approved medical residency training 70 
+program, paragraph (A) of this section shall only apply to the services provided within the 71 
+faculty practice plan.”. 72 
+  (3) Paragraph (10) is amended to read as follows: 73 
+ “(10) “Health care facility” or “HCF” means any private general hospital, 74 
+psychiatric hospital, other specialty hospital, rehabilitation facility, skilled nursing facility, 75 
+intermediate care facility, ambulatory care center or clinic, ambulatory surgical facility, kidney 76 
+disease treatment center, freestanding hemodialysis facility, diagnostic health care facility home 77 
+health agency, hospice, or other comparable health care facility which has an annual operating 78 
+budget of at least $500,000. The term “health care facility” shall not include the private office 79 
+facilities, clinics, or other establishments with no operating rooms where a health professional or 80 
+group of health professionals provides primary care services or specialty care services according 81 
+to the applicable scope of practice defined by their licensure; a virtual provider network or 82 
+virtual telehealth platform; or a health care facility licensed or to be licensed as a community 83 
+residence facility, or an Assisted Living Residence as defined by section 201 of the Assisted 84
+
+4 
+Living Residence Regulatory Act of 2000, effective June 24, 2000 (D.C. Law 13-127; D.C. 85 
+Official Code § 44-102.01).”. 86 
+  (4) Paragraph (12) is amended by striking the phrase “services provided by 87 
+physicians, dentists, HMOs, and other individual providers in individual or group practice.” and 88 
+inserting the phrase “services provided within private office facilities, clinics, or other 89 
+establishments with no operating rooms where a health professional or group of health 90 
+professionals provides primary care services or specialty care services according to the 91 
+applicable scope of practice defined by their licensure, or services provided by a virtual 92 
+provider network or accessed through a virtual telehealth platform.” in its place.  93 
+  (5) Paragraph (14)(A)(i) is amended by striking the phrase “SHPDA may, by rule, 94 
+adjust this threshold annually” and inserting the phrase “SHPDA shall, by rule, adjust this 95 
+threshold every 2 years” in its place. 96 
+  (6) Paragraph (15) is amended as follows: 97 
+   (A) Subparagraph (A) is amended as follows: 98 
+    (i) Sub-subparagraph (iii) is amended by striking the phrase “Any 99 
+new health service;” and inserting the phrase “Any new health service with a physical location;” 100 
+in its place. 101 
+    (ii) Sub-subparagraph (iv) is amended by striking the phrase “or 102 
+10%” and insert the phrase “or 20%” in its place. 103 
+   (B) Subparagraph (B) is amended by striking the phrase “SHPDA may, by 104 
+rule, adjust this threshold annually” and inserting the phrase “SHPDA shall, by rule, adjust this 105 
+threshold every 2 years” in its place. 106 
+  (7) A new paragraph (15A) is added to read as follows: 107
+
+5 
+ “(15A) “Nonpatient care project” means any capital project by a healthcare facility or a 108 
+hospital that does not solely directly or indirectly impact clinical procedures, treatments, patient 109 
+interactions, or clinical areas. Nonpatient care projects can include the construction or renovation 110 
+of administrative offices; the purchase of non-medical equipment such as office furniture or IT 111 
+systems; renovation or replacement of electrical, heating, cooling and ventilation systems; 112 
+replacement or renovation of elevator and escalators or other means of ingress and egress; 113 
+renovation or replacement of fire and life safety systems; and other initiatives focused solely on 114 
+supporting the administrative functions of the facility.”. 115 
+(8) New paragraphs (21) and (22) are added to read as follows: 116 
+ “(21) “Virtual provider network” means a provider-owned and managed entity which 117 
+employs or contracts with licensed health care providers, and which exclusively provides 118 
+telehealth or telemedicine health care services through a virtual telehealth platform. The term 119 
+“virtual provider network” does not mean an entity who maintains a physical facility, office, or 120 
+other similar location in any jurisdiction where a person may go to seek care in person. 121 
+ “(22) “Virtual telehealth platform” means a digital-only telehealth or telemedicine entity 122 
+which facilitates the ability for District residents to access licensed health care providers by 123 
+exclusively providing health care services through a virtual provider network. The term “virtual 124 
+telehealth platform” does not mean an entity who maintains a physical facility, office, or other 125 
+similar location in any jurisdiction where a person may go to seek care in person.”. 126 
+ (b) Section 3 is amended as follows: 127 
+  (1) Subsection (b-1) is repealed. 128 
+  (2) A new subsection b-2 is inserted to read as follows: 129
+
+6 
+ “(b-2)(1) The Director of the Department of Health shall create a registration process for 130 
+facilities offering primary care and specialty care services, virtual provider networks, and virtual 131 
+telehealth platforms operating in the District.  132 
+“(2) The registration process shall be consistent with and shall not create 133 
+requirements more restrictive than those set forth in the provisions contained in this Act.”. 134 
+ (c) Section 8(b) is amended as follows: 135 
+(1) Paragraph (3) is amended by striking the phrase “requiring the obligation of a 136 
+capital expenditure of less than $8 million;” and inserting a semicolon in its place. 137 
+(2) A new paragraph (21) is added to read as follows: 138 
+  “(21) Any proposal by a virtual telehealth platform or virtual provider network to 139 
+provide access to, offer, or develop health care services provided exclusively via a virtual 140 
+telehealth platform and accessible by District of Columbia residents.”. 141 
+ (d) Section 12(a) is amended by striking the phrase “; except that no certificate of need 142 
+shall be effective for more than 3 years from the original date of issuance.” and inserting a period 143 
+in its place.  144 
+ Sec. 3. Fiscal impact statement. 145 
+ The Council adopts the fiscal impact statement in the committee report as the fiscal 146 
+impact statement required by section 4a of the General Legislative Procedures Act of 1975, 147 
+approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a). 148 
+ Sec. 4. Effective date. 149 
+ This act shall take effect following approval by the Mayor (or in the event of veto by the 150 
+Mayor, action by the Council to override the veto), a 30-day period of congressional review as 151 
+provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 152
+
+7 
+24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of 153 
+Columbia Register.  154

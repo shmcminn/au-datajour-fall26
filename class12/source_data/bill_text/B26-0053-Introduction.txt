@@ -1,0 +1,1663 @@
+1 
+ 
+          _____________________________ 1 
+Councilmember Robert C. White, Jr.              Chairman Phil Mendelson 2 
+  3 
+ 4 
+              5 
+Councilmember Brianne K. Nadeau                                     Councilmember Charles Allen 6 
+ 7 
+ 8 
+              9 
+Councilmember Christina Henderson            Councilmember Janeese Lewis George  10 
+ 11 
+ 12 
+ 13 
+ 14 
+A BILL 15 
+ 16 
+         17 
+ 18 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA 19 
+ 20 
+          21 
+ 22 
+ 23 
+To require the Department of Aging and Community Living to create a tangled title information 24 
+sheet and to require funeral service providers to give the information sheet to survivors of 25 
+a deceased District resident; to amend Title 18 of the District of Columbia Official Code 26 
+to allow for the creation of an electronic will registry; to establish a single family home 27 
+rehabilitation program; to amend Chapter 8 of Title 47 of District of Columbia Official 28 
+Code to establish payment plans for the payment of delinquent real property taxes; to 29 
+amend Title 29 of the District of Columbia Official Code to require all commercial 30 
+registered agents to accept service of process by electronic mail; to amend Subchapter II 31 
+of Chapter 31A of Title 42 and Chapter 12 of Title 47 of the District of Columbia Official 32 
+Code to conform the notice process provisions in Subchapter I and amendments to Title 33 
+29; to amend An Act To provide for the abatement of nuisances in the District of 34 
+Columbia by the Commissioners of said District, and for other purposes, to amend 35 
+definitions, factors for establishing vacancy or blight, and exemptions from registration, 36 
+to require the submission of vacant building maintenance plans, and to allow the Mayor 37 
+to petition the Superior Court of the District of Columbia for vacant property receivership 38 
+actions; to amend the Construction Codes Approval and Amendments Act of 1986 to 39 
+require the Department of Buildings to establish an expedited permit review process for 40 
+certain construction and building permits for Class 3 and 4 properties; to amend Section 41 
+47-812 of the District of Columbia Official Code to establish new tax rates for Class 3 42 
+and 4 properties; to amend Chapter 13A of Title 47 of the District of Columbia Official 43 
+Code to establish a new process for tax sales of Class 3 and 4 properties; and to amend 44 
+Title 47 of the District of Columbia Official Code to establish a tax credit for the 45 
+renovation or rehabilitation of Class 3 or 4 properties and to establish a tax abatement for 46
+
+2 
+ 
+the renovation or rehabilitation of Class 3 or 4 properties that are used for commercial 47 
+purposes.  48 
+ 49 
+BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 50 
+act may be cited as the “Vacant to Vibrant to Amendment Act of 2025”. 51 
+TABLE OF CONTENTS 52 
+TITLE I. PREVENTION OF VACANT AND BLIGHTED PROPERTIES.......................... 2 53 
+SUBTITLE A. TANGLED TITLE INFORMATION SHEET............................................ 2 54 
+SUBTITLE B. ELECTRONIC WILL REGISTRY............................................................. 3 55 
+SUBTITLE C. SINGLE FAMILY HOME REHABILITATION PROGRAM................. 5 56 
+SUBTITLE D. REAL PROPERTY TAX PAYMENT PLANS............................................ 7 57 
+TITLE II. SERVICE OF PROCESS REFORMS................................................................... 16 58 
+TITLE III. VACANT AND BLIGHTED PROPERTY REGISTRATION 59 
+IMPROVEMENTS..................................................................................................................... 18 60 
+TITLE IV. VACANT AND BLIGHTED PROPERTY INCENTIVES AND TAXES........... 46 61 
+SUBTITLE A. EXPEDITED PERMIT REVIEW FOR VACANT AND BLIGHTED          62 
+PROPERTIES........................................................................................................................ 46 63 
+SUBTITLE B. VACANT AND BLIGHTED PROPERTY TAX RATES.......................... 47 64 
+SUBTITLE C. TAX SALE PROCEDURE FOR VACANT AND BLIGHTED 65 
+PROPERTIES........................................................................................................................ 48 66 
+SUBTITLE D. VACANT AND BLIGHTED HOME REVITALIZATION TAX 67 
+CREDIT.................................................................................................................................. 56 68 
+SUBTITLE E. TAX ABATEMENT FOR THE REDEVELOPMENT OF VACANT AND 69 
+BLIGHTED COMMERCIAL PROPERTIES.................................................................... 59 70 
+TITLE V. FISCAL IMPACT STATEMENT; EFFECTIVE DATE....................................... 65 71
+
+3 
+ 
+ TITLE I. PREVENTION OF VACANT AND BLIGHTED PROPERTIES. 72 
+ SUBTITLE A. TANGLED TITLE INFORMATION SHEET. 73 
+ Section 102. Definitions.  74 
+ For purposes of this section, the term: 75 
+  (1) “Department” means the Department of Aging and Community Living. 76 
+  (2) “Funeral services establishment” shall have the meaning as § 3–402(11). 77 
+  (3) “Survivor of the deceased” means a spouse, child, or companion of the 78 
+deceased with whom funeral services are being arranged. 79 
+ Sec. 103. Tangled Title disclosure.  80 
+ (a) Within 180 days of the effective date of the Vacant to Vibrant Amendment Act of 81 
+2024, the Department shall, in consultation with the Department of Housing and Community 82 
+Development and the Superior Court of the District of Columbia, create and make publicly 83 
+available a tangled title information sheet detailing the steps necessary for an heir or heirs, after 84 
+the death of a title property owner, to legally transfer the property to avoid a tangled title. The 85 
+information sheet shall also include information on legal service providers who offer low-cost or 86 
+no-cost services for probate, estate, and trust administration.  87 
+ (b) No later than five days after the final disposition of the deceased, a funeral service 88 
+establishment shall provide the tangled title information sheet made available by the Department 89 
+to survivors of the deceased. 90 
+ 91 
+ SUBTITLE B. ELECTRONIC WILL REGISTRY. 92 
+ Sec. 104. Title 18 of the District of Columbia Official Code is amended as follows: 93 
+ (a) The table of contents is amended by adding a new chapter 10 to read as follows: 94
+
+4 
+ 
+ “Chapter 10. Register of wills. 95 
+ “§ 18-1001. Electronic register of wills.”. 96 
+ (b) A new chapter 10 is added to read as follows: 97 
+ “§ 18-1001. Electronic register of wills. 98 
+ “(a) An electronic will that meets the requirements of the Uniform Electronic Wills Act 99 
+(D.C. Official Code § 18-901 et seq.) may be deposited by a testator, or by the testator’s agent, 100 
+with the Register of Wills to be safely kept until delivered or disposed of as hereinafter provided. 101 
+ “(b)(1) The will shall be deposited electronically and in a manner which would track any 102 
+viewing or modification after deposit of the will. 103 
+  “(2) The will is not to be delivered or opened except as provided in this section. 104 
+  “(3) Upon payment of the required fee, the Register of Wills shall give a receipt to 105 
+the testator or testator’s agent. 106 
+ “(c) The Register of Wills shall retain a permanent copy of an electronic will and a copy 107 
+of any other document associated with the will, in paper, photographic, magnetic, mechanical, 108 
+electronic, digital, or any other medium if the copy is maintained in a manner that: 109 
+  “(1) Is clear and legible; 110 
+  “(2) Accurately reproduces the original document in its entirety, including any 111 
+attachments to the document; 112 
+  “(3) Is capable of producing a clear and legible hard copy of the original 113 
+document; and 114 
+  “(4) Preserves evidence of any signature contained on the document. 115 
+ “(d) During the lifetime of the testator, a deposited will may be delivered only to the 116 
+testator, or to a person authorized by the testator in writing to receive it. 117
+
+5 
+ 
+ “(e)(1) The will shall be opened by the Register of Wills after being informed of the death 118 
+of the testator. 119 
+  “(2) The Register of Wills shall notify the personal representative named in the 120 
+will that the will is on deposit with the Register of Wills. 121 
+  “(3) The will shall be retained by the Register of Wills as a deposited will until 122 
+offered for probate. 123 
+  “(4) If the proper venue for the probate of the will is in another court, the will 124 
+shall be transmitted to such Court; provided, that before such transmission a true copy thereof 125 
+shall be made and retained in the Court in which the will was deposited. 126 
+ “(f) The Register of Wills shall develop procedures for a testator or testator’s agent to 127 
+withdraw and/or replace a registered will during the lifetime of the testator.”.   128 
+ SUBTITLE C. SINGLE FAMILY HOME REHABILITATION PROGRAM. 129 
+ Sec. 106. Definitions. 130 
+ (a) For purposes of this section, the term: 131 
+  (1) “Department” means the Department of Housing and Community 132 
+Development. 133 
+  (2) “Eligible homeowner” means an owner (or owners) who:  134 
+   (A) Own a single-family residential property;  135 
+   (B) Whose household income is 120% of median family income or less;   136 
+   (C) Has resided in the single-family residential property as a primary 137 
+residence for at least 3 years; 138 
+   (D) Is current on all mortgage payments for the last 12 months;  139 
+   (E) Is current on all District and federal taxes; and 140
+
+6 
+ 
+   (E) Possesses current homeowners insurance. 141 
+  (3) “Median family income” means the median family income for a household in 142 
+the Washington Metropolitan Statistical Area as set forth in the periodic calculation provided by 143 
+the United States Department of Housing and Urban Development, adjusted for family size 144 
+without regard to any adjustments made by the United States Department of Housing and Urban 145 
+Development for the purposes of the programs it administers. 146 
+  (4) “Single-family residential property” shall have the same meaning as § 47–147 
+803(6).  148 
+ Sec. 107. Single-family home rehabilitation program. 149 
+ (b) The Department may offer grants of up to $60,000 to an eligible homeowner to pay 150 
+for the following: 151 
+  (1) Accessibility modifications to adjust physical barriers within the property for a 152 
+person with limited mobility or other physical impairments;  153 
+  (2) Repairs or replacement of the roof; or 154 
+  (3) Repairs to the foundation, structurally significant damaged wood or other 155 
+materials; or 156 
+  (4) Significant repairs to electrical, plumbing or heating and cooling systems.  157 
+ (c)(1) The Department shall work with qualifying applicants to develop a scope of work, 158 
+select a licensed and certified contractor, and manage the construction.  159 
+  (2) Any payments to contractors shall be made by the Department on behalf of the 160 
+eligible homeowner. 161 
+ (d) The Mayor may issue rules to implement the provisions of this section in accordance 162 
+with subchapter I of Chapter 5 of Title 2.   163
+
+7 
+ 
+ SUBTITLE D. REAL PROPERTY TAX PAYMENT PLANS. 164 
+ Sec. 108. Title 47 is amended as follows: 165 
+ (a) Chapter 8 is amended as follows: 166 
+ (1) The table of contents is amended by adding a new section designation to read 167 
+as follows:  168 
+“47-870. Real property tax payment plans.”. 169 
+  (2) A new section 47-870 is added to read as follows: 170 
+ “§ 47-870. Real property tax payment plans. 171 
+ “(a) For purposes of this section, the term: 172 
+  “(1) “Eligible homeowner” means an owner (or owners): 173 
+   “(A) Who receives the homestead deduction pursuant to § 47-850; and 174 
+    “(i) Can demonstrate hardship; or 175 
+    “(ii) Is 65 years of age or older. 176 
+  “(2) “Tax liabilities” means both property real property taxes which are 177 
+delinquent and real property taxes which are currently due but not yet delinquent. Tax Liabilities 178 
+do not include: 179 
+   “(A) Amounts, which may have been previously sold at a tax sale; 180 
+   “(B) Business improvement district (BID) taxes; 181 
+   “(C) Tax Increment Financing (TIF) payments; 182 
+   “(D) Payments In Lieu of Taxes (PILOTs);  183 
+   “(E) Southeast Water and Sewer (SEWS) assessments; 184 
+   “(F) Special Energy Assessment assessments; or  185 
+   “(G) Amounts certified by external agencies pursuant to § 47-1340. 186
+
+8 
+ 
+ “(b) Real property tax payment plans with eligible homeowners are authorized for all 187 
+amounts due on real property tax liabilities subject to the following terms and conditions: 188 
+  “(1) Eligibility for a real property tax payment plan shall require a showing of 189 
+financial hardship or inability to pay based on individual circumstances. 190 
+  “(2) Real property tax payment plans shall be computed on a 12-month basis. Tax 191 
+Liabilities are to be paid in equal installments over that 12-month period; 192 
+   “(A) No down payment shall be required; 193 
+   “(B) Payments shall be made by direct ACH debit from the eligible 194 
+homeowner’s bank account to the District. If there are insufficient funds for the debit, the eligible 195 
+homeowner shall also be liable for a fee imposed by the District for the dishonored payment; 196 
+   “(C) An eligible homeowner cannot have more than one payment plan 197 
+active at a time; 198 
+   “(D) An eligible homeowner cannot apply for a payment plan for periods 199 
+covered under a payment plan that he or she previously defaulted on;  200 
+   “(E) If there is a reclassification of a property, a homestead or 201 
+senior/disabled audit, or the granting of tax relief applications during the term of a payment plan, 202 
+the existing payment plan shall terminate, and the eligible homeowner can reapply for the same 203 
+periods; and 204 
+   “(F) Property will not be sold at a tax sale during the time a payment plan 205 
+is active. 206 
+  “(3) While enrolled in a payment plan, an eligible homeowner shall remain 207 
+current on real property taxes that come due. 208
+
+9 
+ 
+  “(4)(A) An eligible homeowner may be declared in material breach of a real 209 
+property payment plan if he or she fails to make the required payments; provided, that a material 210 
+breach may not be declared earlier than the sixty-fifth day from the agreed upon due date and the 211 
+forty-fifth day from the mailing of a notice of risk of material breach. 212 
+   “(B) An eligible homeowner who has been declared in material breach of a 213 
+payment plan may have his or her payment plan reinstated if he or she pays a lump sum equal to 214 
+as much as twice the regular monthly payment due together with the missed payments as well as 215 
+any payments currently due. 216 
+  “(5) An eligible homeowner may be declared in default if he or she has failed to 217 
+cure a material breach within 45 days of the date the eligible homeowner is declared in material 218 
+breach. If an eligible homeowner is declared in default of a payment plan, such plan shall be null 219 
+and void. 220 
+ “(c) Requests for property tax payment plans entered into pursuant to this section shall 221 
+made online at MyTaxDC.gov. A payment plan agreement confirmation shall be provided to the 222 
+eligible homeowner and shall contain the following: 223 
+  “(1) The monthly payment amount; 224 
+  “(2) The past due date; 225 
+  “(3) The length of the plan, including the number of payments; 226 
+  “(4) The total amount agreed due under the plan; 227 
+  “(5) A statement of the delinquent tax periods covered by the plan as well as an 228 
+itemized statement of the amounts due for each period specifying the amount due for principal, 229 
+interest, penalties, and any other charges or fees;  230
+
+10 
+ 
+  “(6) A statement that the eligible homeowner is required to remain current on real 231 
+property taxes during the length of the agreement, as well as an explanation of how current 232 
+payments should be tendered in order to avoid misapplication of payments to delinquent taxes. 233 
+  “(7) A brief explanation of how payments will be applied to the delinquency; 234 
+  “(8) A brief explanation of the consequences of breach and default on the payment 235 
+plan; and 236 
+  “(9) A statement that payments are to be remitted to the District electronically by 237 
+direct debit, and that the payments will be withdrawn from the eligible homeowner’s account on 238 
+the monthly payment due date. If there are insufficient funds for the debit, the eligible 239 
+homeowner shall also be liable for a fee imposed by the District for the dishonored payment.  240 
+ “(d)(1) If an eligible homeowner fails to make a required payment within 20 days of an 241 
+agreed-upon payment due date, a notice of risk of material breach shall be sent to the eligible 242 
+homeowner. The notice shall include a statement that the eligible homeowner is at risk of 243 
+material breach, the entire amount required to cure the missed payment(s) as well as any 244 
+payments currently due, and a brief description of the consequences of a material breach.  245 
+  “(2) If an eligible homeowner is declared in material breach of a payment plan, a 246 
+notice of material breach shall be sent to the eligible homeowner that includes a clear statement 247 
+that he or she has been declared in material breach, the date on which the material breach was 248 
+declared, the entire amount required to cure the missed payments as well as any payments 249 
+currently due and lump sum payments that may be required, and a clear statement that failure to 250 
+make the required payment will result in default.”.  251 
+ (b) Section 47-1341 is amended as follows: 252 
+  (1) Subsection (a)(2) is amended to read as follows: 253
+
+11 
+ 
+  “(2) The notice required pursuant to paragraph (1) of this subsection shall be in 254 
+substantively the following form and may include a payment coupon or enclosed bill: 255 
+“THIS IS A NOTICE OF DELINQUENCY FAILURE TO PAY TAXES WILL HAVE SERIOUS 256 
+CONSEQUENCES WHICH MAY INCLUDE LOSS OF TITLE TO THE PROPERTY 257 
+“Subject Property: [Identify by taxation square, suffix, and lot number, or parcel and lot number, 258 
+and by premises address, the real property to be sold] 259 
+“TO AVOID TAX SALE YOU MUST PAY $ [Amount Subject to Sale] by May 31, 20__. 260 
+“The amount that you must pay to avoid the tax sale may be less than the total amount owed on 261 
+the real property account. This amount may include fees or fines due to other DC agencies that 262 
+have been certified to the Office of Tax and Revenue to be included in a tax sale pursuant to D.C. 263 
+Code § 47-1340. 264 
+“According to the Mayor’s tax roll, you own or may have an interest in the real property listed 265 
+above. Notice is given that unless you pay the amount stated above or fall within one of the 266 
+limited exemptions from the tax sale, the Office of Tax and Revenue may sell this real property 267 
+at tax sale. 268 
+“If the property is sold at tax sale, the purchaser may have the right to file a lawsuit to foreclose 269 
+on the property. You must act now to avoid additional costs and significant expenses, as well as 270 
+potential loss of title to the property. 271 
+“Payment to the “DC Treasurer” may be made online at MyTaxDC.gov or at a mailed (with 272 
+payment coupon from tax bill) to the Office of Tax and Revenue, DC Government Real Property 273 
+Taxes, P.O. Box 718095, Philadelphia, PA 19171-8095 (please write your square, suffix and lot 274 
+numbers on the check). You should keep a copy of your proof of payment in case there is a later 275 
+dispute about the payment. 276
+
+12 
+ 
+“If payment is not made before May 31, 20__, the amount listed on this notice may no longer be 277 
+accurate. In that case, you must contact the Office of Tax and Revenue at ______ to obtain an 278 
+updated payoff amount. 279 
+“YOU MAY BE ELIGIBLE FOR ASSISTANCE, INCLUDING A HARDSHIP 280 
+FORBEARANCE, A REAL PROPERTY TAX PAYMENT PLAN, OR FREE LEGAL 281 
+SERVICES. PLEASE SEE THE NEXT PAGE FOR ADDITIONAL INFORMATION. 282 
+“Should you have additional questions, please call the Customer Service Center for the Office of 283 
+Tax and Revenue at (202) 727-4TAX (4829). 284 
+“RESOURCES FOR REAL PROPERTY TAXPAYERS IN THE DISTRICT OF COLUMBIA 285 
+“Real Property Tax Ombudsman. Homeowners and other interested parties may be eligible for 286 
+assistance from the Real Property Tax Ombudsman. If you need assistance with a tax sale or 287 
+related property tax matters, contact the Real Property Tax Ombudsman at ___________. 288 
+“Classification Disputes. If your real property is classified as vacant or blighted and you believe 289 
+this classification is incorrect, contact the Vacant Building Enforcement Unit of the Department 290 
+of Buildings at ______ for information on how to appeal the property classification. 291 
+“Hardship Forbearance. You may be eligible to defer, or postpone, payment of the past due 292 
+amount. For information on how to apply for this deferral, please contact the Office of Tax and 293 
+Revenue at ___________. 294 
+“Senior Citizen and Low-Income Tax Relief. Senior citizens and low-income households may 295 
+have additional rights to defer property taxes. If you think you may be eligible for this tax relief, 296 
+please contact the Office of Tax and Revenue at _______ for more information. 297
+
+13 
+ 
+“Additional Legal Services. Free and reduced-cost legal services may be available to low- and 298 
+moderate-income households. You can get a list of service providers from the Real Property Tax 299 
+Ombudsman (above). 300 
+“Housing Counseling Services. The U.S. Department of Housing and Urban Development 301 
+(“HUD”) sponsors housing counseling agencies throughout the country that can provide advice 302 
+on buying a home, renting, defaults, foreclosures, and credit issues. You can get a list of HUD-303 
+approved housing counseling agencies from the Real Property Tax Ombudsman (above).”. 304 
+  (2) Subsection (b-1)(2) is amended to read as follows: 305 
+  “(2) The notice required pursuant to paragraph (1) of this subsection shall be in 306 
+substantively the following form, and may include a payment coupon or enclosed bill: 307 
+“THIS IS A NOTICE OF DELINQUENCY. FAILURE TO PAY TAXES IMMEDIATELY MAY 308 
+HAVE SERIOUS CONSEQUENCES WHICH MAY INCLUDE LOSS OF TITLE TO THE 309 
+PROPERTY 310 
+“Subject Property: [Identify by taxation square, suffix, and lot number, or parcel and lot number, 311 
+and by premises address, the real property to be sold] 312 
+“TO AVOID TAX SALE YOU MUST PAY $[Amount Subject to Sale] by [Last Business Day 313 
+before tax sale] 314 
+“The amount that you must pay to avoid the tax sale may be less than the total amount owed on 315 
+the real property account. This amount may include fees or fines due to other DC agencies that 316 
+have been certified to the Office of Tax and Revenue to be included in a tax sale pursuant to D.C. 317 
+Code § 47-1340. 318 
+“According to the Mayor’s tax roll, you own or may have an interest in the real property listed 319 
+above. Notice is given that unless you pay the amount stated above or fall within one of the 320
+
+14 
+ 
+limited exemptions from the tax sale, the Office of Tax and Revenue may sell this real property 321 
+at tax sale. 322 
+“If the property is sold at tax sale, the purchaser may have the right to file a lawsuit to foreclose 323 
+on the property. You must act now to avoid additional costs and significant expenses, as well as 324 
+potential loss of title to the property. 325 
+“Payment to the “DC Treasurer” may be made online at MyTaxDC.gov or at a mailed (with 326 
+payment coupon from tax bill) to the Office of Tax and Revenue, DC Government Real Property 327 
+Taxes, P.O. Box 718095, Philadelphia, PA 19171-8095 (please write your square, suffix and lot 328 
+numbers on the check). You should keep a copy of your proof of payment in case there is a later 329 
+dispute about the payment. 330 
+“If payment is made less than 10 calendar days before [the last business day before tax sale], you 331 
+must provide a copy of the receipt directly to the Office of Tax and Revenue in order to ensure 332 
+that your property is removed from the tax sale. 333 
+“You may FAX the receipt to (202) 478-5995; EMAIL the receipt to [email address]; or HAND-334 
+DELIVER a copy of the paid receipt to a Tax Sale Unit representative in the Customer Service 335 
+Center located at 1101 4th Street, SW, Suite 270W, Washington, DC 20024. 336 
+“Do not mail your paid receipt. 337 
+“YOU MAY BE ELIGIBLE FOR ASSISTANCE, INCLUDING A HARDSHIP 338 
+FORBEARANCE, A REAL PROPERTY TAX PAYMENT PLAN, OR FREE LEGAL 339 
+SERVICES. PLEASE SEE THE NEXT PAGE FOR ADDITIONAL INFORMATION. 340 
+“Should you have additional questions, please call the Customer Service Center for the Office of 341 
+Tax and Revenue at (202) 727-4TAX (4829). 342 
+“RESOURCES FOR REAL PROPERTY TAXPAYERS IN THE DISTRICT OF COLUMBIA 343
+
+15 
+ 
+“Real Property Tax Ombudsman. Homeowners and other interested parties may be eligible for 344 
+assistance from the Real Property Tax Ombudsman. If you need assistance with a tax sale or 345 
+related property tax matters, contact the Real Property Tax Ombudsman at ___________. 346 
+“Classification Disputes. If your real property is classified as vacant or blighted and you believe 347 
+this classification is incorrect, contact the Vacant Building Enforcement Unit of the Department 348 
+of Buildings at _______ for information on how to appeal the property classification. 349 
+“Hardship Forbearance. You may be eligible to defer, or postpone, payment of the past due 350 
+amount. For information on how to apply for this deferral, please contact the Office of Tax and 351 
+Revenue at ___________. 352 
+“Senior Citizen and Low-Income Tax Relief. Senior citizens and low-income households may 353 
+have additional rights to defer property taxes. If you think you may be eligible for this tax relief, 354 
+please contact the Office of Tax and Revenue at _______ for more information. 355 
+“Additional Legal Services. Free and reduced-cost legal services may be available to low- and 356 
+moderate-income households. You can get a list of service providers from the Real Property Tax 357 
+Ombudsman (above). 358 
+“Housing Counseling Services. The U.S. Department of Housing and Urban Development 359 
+(“HUD”) sponsors housing counseling agencies throughout the country that can provide advice 360 
+on buying a home, renting, defaults, foreclosures, and credit issues. You can get a list of HUD-361 
+approved housing counseling agencies from the Real Property Tax Ombudsman (above).”.  362 
+ TITLE II. SERVICE OF PROCESS REFORMS.  363 
+ Sec. 201. Title 29 of the District of Columbia Official Code is amended as follows: 364 
+ (a) Section 29-104.03 is amended as follows: 365 
+  (1) Paragraph (1) is amended by striking the word “and” at the end. 366
+
+16 
+ 
+  (2) Paragraph (2) is amended by striking the period at the end and inserting the 367 
+phrase “; and” in its place.  368 
+  (3) A new paragraph (3) is added to read as follows: 369 
+  “(3) Electronic mailing address.”. 370 
+ (b) Section 29-104.04 is amended as follows:  371 
+  (1) Subsection (a)(2)(A) is amended by striking the word “address” and inserting 372 
+the word “address(es)” in its place. 373 
+  (2) Subsection (a)(2)(B) is amended by striking the phrase “address of the 374 
+business office of that person.” and inserting the phrase “physical or electronic mailing address 375 
+of the business office of that person, pursuant to § 29-104.03.” in its place. 376 
+ (c) Section 29-104.05 is amended as follows: 377 
+  (1) Subsection (a)(3) is amended by striking the word “address” and inserting the 378 
+word “address(es)” in its place.  379 
+  (2) Subsection (b) is amended to read as follows: 380 
+ “(b) A commercial registered agent listing statement shall include the information 381 
+regarding acceptance by the agent of service of process in a form other than a written record as 382 
+provided for in § 29-104.12(e), including but not limited to, electronic mail.” 383 
+ (d) Section 29-104.12(e) is amended to read as follows: 384 
+ “(e) Service of process, notice, or demand on a registered agent and a commercial 385 
+registered agent shall be in a written record. Service may be made on a commercial registered 386 
+agent by electronic mail or other forms, and subject to such requirements, as the agent has stated 387 
+in its listing under § 29-104.05 that it will accept; provided, that commercial registered agents 388
+
+17 
+ 
+may not require service by physical mail as a condition for accepting service by electronic 389 
+mail.”.  390 
+ Sec. 202. Sec. 47-1203 of the District of Columbia Official Code is amended as follows: 391 
+ (a) Subsection (a) is amended as follows: 392 
+  (1) Paragraph (1) is amended as follows: 393 
+   (A) Subparagraph (A) is amended to read as follows: 394 
+ “(A) When mailed by first class mail to the owner’s mailing address as updated in the 395 
+real property tax records of the Office of Tax and Revenue.”. 396 
+   (B) Subparagraph (D) is amended by striking the period semicolon at the 397 
+end and inserting the phrase “; or” in its place. 398 
+   (C) Subparagraph (E) is struck. 399 
+   (D) Subparagraph (F) is redesignated as subparagraph (E).  400 
+  (2) Paragraph (2) is amended to read as follows: 401 
+  “(2) Any notice to a corporation shall, for the purposes of §§ 47-1201 to 47-1206, 402 
+be deemed to have been served on such corporation if served on its agent registered pursuant to 403 
+Subchapter IV of Chapter 1 of Title 29, or on the president, secretary, treasurer, general manager, 404 
+or any principal officer of such corporation in a manner hereinbefore provided for the service of 405 
+notices on natural persons holding property in their own right; and notices to a foreign 406 
+corporation shall, for the purposes of §§ 47-1201 to 47-1206, be deemed to have been served if 407 
+served personally on any agent of such corporation, or if left with any person of suitable age and 408 
+discretion residing at the usual residence or employed at the usual place of business of such agent 409 
+in the District of Columbia.”. 410 
+  (3) Paragraph (3) is struck.  411
+
+18 
+ 
+ (b) Subsection (b)(1) is amended to read as follows: 412 
+ “(b)(1) All special assessments authorized to be levied by the District of Columbia for 413 
+public improvements, with the exception of assessments levied in condemnation proceedings, 414 
+may be paid without interest within 30 days from the date of service of notice. Interest of 1.5% 415 
+for each month or part thereof shall be charged on all unpaid amounts from the expiration of 30 416 
+days from the date of service. If any such assessment or any part thereof shall remain unpaid 417 
+after the expiration of 1 year from date of service of notice, the property against which said 418 
+assessment was levied may be sold for such assessment or unpaid portion thereof with interest 419 
+and penalties thereon at the next ensuing annual tax sale conducted under Chapter 13A of this 420 
+title, in the same manner and under the same conditions as property sold for delinquent general 421 
+taxes, if said assessment with interest and penalties thereon shall not have been paid in full prior 422 
+to said sale.”. 423 
+ TITLE III. VACANT AND BLIGHTED PROPERTY REGISTRATION 424 
+IMPROVEMENTS. 425 
+ Sec. 301. An Act To provide for the abatement of nuisances in the District of Columbia 426 
+by the Commissioners of said District, and for other purposes, approved April 14, 1906 (34 Stat. 427 
+114; D.C. Official Code § 42-3131.01 et seq.), is amended as follows: 428 
+ (a) The table of contents for Chapter 31A, Subchapter II is amended as follows: 429 
+  (1) Strike the section designation “42–3131.05a. Notice by mail.” and insert the 430 
+section designation “42–3131.05a. Notice.” in its place. 431 
+  (2) A new section designation 42–3131.05b is added to read as follows: 432 
+ “42–3131.05b. Determination of vacancy and blight.”. 433
+
+19 
+ 
+  (3) Strike the section designation “42–3131.06. Registration of vacant buildings.” 434 
+and insert the section designation “42–3131.06. Registration of vacant buildings; renewal.” in its 435 
+place.  436 
+  (4) A new section designation 42–3131.06a is added to read as follows: 437 
+ “42–3131.06a. Exemptions.”. 438 
+  (5) Strike the section designation “42–3131.07. Registration and renewal 439 
+procedure.” and insert the section designation “42–3131.07. Registration and renewal procedure. 440 
+[Repealed].” in its place.  441 
+  (6) Strike the section designation “42–3131.12. Vacant building maintenance 442 
+standard.” and insert the section designation “42–3131.12. Vacant building maintenance standard 443 
+and plan.” in its place.  444 
+  (7) Strike the section designation “42.3131.16. Transmission of list by Mayor.” 445 
+and insert the section designation “42.3131.16. Transmission of list by Mayor; reconciliation of 446 
+information.” in its place.  447 
+  (8) Strike the section designation “42–3131.17. Transmission of list of blighted 448 
+vacant buildings by Mayor.” and insert the section designation “42–3131.17. Transmission of list 449 
+of blighted vacant buildings by Mayor. [Repealed].” in its place.  450 
+  (9) Strike the section designation “42–3131.18. Publication of list by the 451 
+Department of Buildings.” and insert the section designation “42–3131.18. Publication of vacant 452 
+and blighted vacant building information by the Department.” in its place.  453 
+  (10) Strike the section designation “42–3131.19. Vacant and blighted vacant 454 
+buildings belonging to foreign governments.” and insert the section designation “42–3131.19. 455
+
+20 
+ 
+Vacant and blighted vacant buildings belonging to foreign governments. [Repealed].” in its 456 
+place. 457 
+  (11) A new section designation 42–3131.20 is added to read as follows: 458 
+ “42–3131.20. Vacant and blighted vacant building receivership.” 459 
+  (12) A new section designation 42-3131.21 is added to read as follows: 460 
+ “42.3131.21. Vacant and blighted building report and plan.” 461 
+  (13) A new section designation 42–3131.22 is added to read as follows: 462 
+ “42–3131.22. Rules.” 463 
+ (b) Section 5 (D.C. Official Code § 42–3131.05) is amended to read as follows: 464 
+ “(1) “Blighted vacant building” means any vacant building that is in such a condition as 465 
+to pose a danger to the health, safety, and general welfare of the community. 466 
+ “(2) “Commercial unit” means a building, or a part of a building, zoned for commercial 467 
+purposes under the zoning regulations of the District of Columbia. 468 
+ “(3) “Dwelling unit” means a room, or group of rooms forming a single unit, designed, or 469 
+intended to be used, for living and sleeping, whether or not designed or intended for the 470 
+preparation and eating of meals or to be under the exclusive control of the occupant. The term 471 
+“dwelling unit” shall not include a room, or group of rooms forming a single unit, in a hotel or 472 
+motel licensed in the District of Columbia, actively operating as a hotel or motel. 473 
+ “(4) “Fit for occupancy” means ready for immediate occupancy by a tenant without more 474 
+than minor cosmetic changes. 475 
+ “(5) “Multifamily residential building” means a building containing two or more 476 
+dwelling units. 477 
+ “(6) “Occupied” means: 478
+
+21 
+ 
+  “(A) For purposes of a dwelling unit, the use of one’s residence in improved real 479 
+property on a regular basis; or 480 
+  “(B) For purposes of a commercial unit, use consistent with zoning regulations, 481 
+for which there is a current valid certificate of occupancy, and (i) paid utility receipts for the 482 
+specified period, executed lease agreements, or sales tax return, or (ii) other evidence of use of 483 
+the building that the Mayor may require by rule. 484 
+ “(7) “Owner” means one or more persons or entities with an interest in real property in 485 
+the District of Columbia that appears in the real property tax records of the Office of Tax and 486 
+Revenue, and a tax sale purchaser under § 47-1353(b) or the purchaser’s assignee, as applicable, 487 
+except where the owner of record is challenging or appealing the vacant status of the real 488 
+property for the same period. 489 
+ “(8) “Owner of record” means the person or persons named in the public record as the 490 
+title holder of the property. 491 
+ “(9) “Real property” shall have the same meaning as § 47-802(1). 492 
+ “(10) “Related owners” or “related ownership” exists when a deduction for a loss from 493 
+the sale or exchange of properties between taxpayers would be disallowed under section 267 of 494 
+the Internal Revenue Code of 1986, approved August 16, 1954 (68A Stat. 78; 26 U.S.C. § 267); 495 
+provided, that the exclusion under section 267(a)(1) for a loss in a distribution in a complete 496 
+liquidation shall not apply. 497 
+ “(11) “Relative” means a spouse, domestic partner, sibling, parent, grandparent, child, 498 
+grandchild, or the sibling's child, spouse, or domestic partner. 499 
+ “(12) “Vacant building” means any real property improved by a building that is not 500 
+lawfully occupied on a regular and habitual basis by the owner, a tenant, or other person having 501
+
+22 
+ 
+the permission of the owner; provided, that in the case of residential buildings, the Mayor 502 
+determines that there is no resident for which an intent to return and lawfully occupy the building 503 
+can be shown.”. 504 
+ (b) Section 5a (D.C. Official Code § 42–3131.5a) is amended to read as follows: 505 
+ “Sec. 5a. Notice. 506 
+ “(a) Notice shall be deemed to be served properly on the date when mailed by first class 507 
+mail to the owner of record of the vacant building at the owner’s mailing address as updated in 508 
+the real property tax records of the Office of Tax and Revenue.  509 
+ “(b)(1) In addition to the notice requirement of subsection (a) of this section, the Mayor 510 
+shall cause notice to be posted on the premises; provided, that the official notice shall be mailed 511 
+pursuant to subsection (a) of this section.  512 
+  “(2) Unless the vacant property is eligible for an exemption pursuant to § 42–513 
+3131.06a of this chapter, the notice shall not be posted by difficult-to-remove adhesive.  514 
+ “(c) A courtesy copy of the notice provided pursuant to subsection (a) of this section shall 515 
+be mailed or electronically mailed to the Advisory Neighborhood Commission in which the 516 
+vacant building is located. The courtesy copy required by this subsection shall not be construed 517 
+to satisfy, nor be construed as necessary to satisfy, the notice requirement of subsection (a) of this 518 
+section.”. 519 
+ (c) A new Section 5b (D.C. Official Code § 42–3131.05b) is added to read as follows: 520 
+ “Sec. 5b. Determination of vacancy and blight. 521 
+ “(a) When making a determination that a building is vacant, the Mayor shall consider the 522 
+following: 523 
+  “(1) Neighbor complaints; 524
+
+23 
+ 
+  “(2) Advisory Neighborhood Commission certification; 525 
+  “(3) Accumulated mail, fliers, or newspapers; 526 
+  “(4) Past due utility notices, disconnected utilities, or utilities not in use; 527 
+  “(5) Presence of overgrown vegetation, dead or diseased trees, or noxious weeds; 528 
+  “(6) Absence of furnishings or personal items consistent with habitation;  529 
+  “(7) The building is open to casual entry or trespass; and 530 
+  “(8) Any other criteria the Mayor deems relevant. 531 
+ “(b) When making a determination that a vacant building is a blighted vacant building, 532 
+the Mayor shall consider the following: 533 
+  “(1) The incidence of illegal activity, as documented by police reports; 534 
+  “(2) Whether the vacant building is the subject of a condemnation proceeding 535 
+before the Board of Condemnation and Insanitary Buildings; 536 
+  “(3) Referrals to the Department of Buildings from other District agencies;  537 
+  “(4) One or more windows, doors, or other means of entry are missing or boarded 538 
+up; 539 
+  “(5) Collapsing, missing or deteriorating walls, roof, stairs, porches, balconies, 540 
+chimneys, and other building elements;  541 
+  “(6) Siding or exterior walls that are seriously damaged, missing, or deteriorating;  542 
+  “(7) Trash and debris are improperly stored or accumulated on the premises; 543 
+  “(8) The building shows visible signs of vandalism such as graffiti; 544 
+  “(9) The presence of mold, algae, abandoned or wild animals, or insect or pest 545 
+infestation;  546 
+  “(10) Any other criteria the Mayor deems relevant. 547
+
+24 
+ 
+ “(c) For purposes of this section, the term “Advisory Neighborhood Commission 548 
+certification” means a resolution approved by a majority vote of an Advisory Neighborhood 549 
+Commission in which the building is located requesting that the Mayor classify a building as 550 
+vacant or blighted vacant.”. 551 
+ (d) Section 6 (D.C. Official Code § 42–3131.06) is amended to read as follows: 552 
+ “Sec. 6. Registration of vacant buildings; renewal. 553 
+ “(a) Except as provided in § 42–3131.06a of this chapter, the owner of a vacant building 554 
+shall, within 180 days after it becomes vacant, register the building and pay the registration fee. 555 
+The Mayor may extend the time for good cause. 556 
+ “(b)(1) Each application for the registration of a vacant building shall be in a form 557 
+prescribed by the Mayor and shall contain the following information: 558 
+   “(A) The street address of the vacant building; 559 
+   “(B) The date on which the building became vacant;  560 
+   “(C) The name, street address, telephone number, and electronic mail 561 
+address of the owner of record; except as provided in subsection (f) of this section; 562 
+   “(D) The name, address, telephone number, and electronic mail address of 563 
+a person based in the District who is responsible for the security and maintenance of the 564 
+property, if other than the owner of record; 565 
+   “(E) A signed vacant building maintenance plan required pursuant to § 42–566 
+3131.12 of this chapter.  567 
+  “(2) If at any time the information provided pursuant to paragraph (1) of this 568 
+subsection is no longer valid, the owner shall file a new registration within ten days containing 569
+
+25 
+ 
+current information. There shall be no additional fee to provide current information pursuant to 570 
+this paragraph. 571 
+ “(c) At the time of application for the initial registration or renewal of registration of a 572 
+vacant building, the owner shall arrange with the Mayor for the inspection of the building. On 573 
+receiving an application for the initial registration or renewal of registration of a vacant building, 574 
+the Mayor shall thereafter inspect the building. The Mayor shall approve the initial registration or 575 
+the renewal of registration for one year if: 576 
+  “(1) The application for registration contains all of the information required 577 
+pursuant to subsection (a) of this section. 578 
+  “(2) The building has been maintained in accordance with the requirements of § 579 
+42–3131.12; and 580 
+  “(3) The vacancy of the building will not: 581 
+   “(A) Be detrimental to the public health, safety, and welfare;  582 
+   “(B) Unreasonably interfere with the reasonable and lawful use and 583 
+enjoyment of the other premises within the neighborhood; and 584 
+   “(C) Pose a hazard to police officers or firefighters entering the building in 585 
+an emergency.  586 
+  “(4) The building complies with the fire, building, and housing codes of the 587 
+District of Columbia; 588 
+  “(5) The continuance of any maintenance work or condition of occupancy is not 589 
+dangerous to life or property; 590 
+  “(6) No false statements or misrepresentations have been made upon the 591 
+registration application; 592
+
+26 
+ 
+  “(7) Orders on a building have been complied with and the building complies 593 
+with any applicable occupancy requirements; 594 
+  “(8) An adequate water supply or facilities for firefighting purposes is furnished 595 
+as required in the fire code; and 596 
+  “(9) The Mayor is permitted to inspect the building before initial registration, 597 
+during the registration period, and before a renewal of registration. 598 
+ “(d) If the owner of a vacant building fails to comply with the provisions of subsection 599 
+(c) of this section, both initially and throughout the registration period, the Mayor may deny or 600 
+revoke the owner’s registration and may subject the owner to the penalties provided in § 42–601 
+3131.10. 602 
+ “(e)(1) After the initial designation of a property as vacant or blighted, the Mayor shall 603 
+not be required to perform additional inspections or surveys to sustain that classification. 604 
+  “(2) After the Mayor has made a final determination that a building is a vacant 605 
+building or a blighted vacant building, that final determination shall remain in effect until the 606 
+owner submits information to the Mayor sufficient to warrant a change to that classification. 607 
+ “(f)(1)(A) Except as provided in subparagraph (B) of this paragraph, no person except the 608 
+owner of record or an authorized agent of the owner of record, with proof of authorization from 609 
+the owner of record, may register a building as vacant. 610 
+   “(B) The Mayor, upon a showing that the owner of record is physically 611 
+unable to register the property, may allow a relative of the owner of record to register the 612 
+building as vacant; provided, that the relative can show proof of being a relative and, to the 613 
+satisfaction of the Mayor, that the owner of record is physically unable to register the property. 614
+
+27 
+ 
+  “(2) This subsection shall not in any way limit the Mayor's authority to register as 615 
+vacant or blighted any property whose owner fails to register it as required by this chapter.”. 616 
+ (e) A new section 6a (D.C. Official Code § 42–3131.06a) is added to read as follows: 617 
+ “Sec. 6a. Exemptions. 618 
+ “(a) A vacant or blighted vacant building shall not be subject to the registration 619 
+requirements of § 42–3131.06 if it is: 620 
+  “(1) Owned by the government of the United States or its instrumentalities; or 621 
+  “(2) Authorized as exempt from real estate taxes by the United States Department 622 
+of State's Office of Foreign Missions on the basis of its use for diplomatic or consular purposes 623 
+or for the official business of an international organization. 624 
+ “(b) A vacant building shall not be subject to the increased real property tax rates for 625 
+vacant buildings in § 47-812(b-10) if it is:  626 
+  “(1) Exempted by the Mayor in extraordinary circumstances and upon a showing 627 
+of substantial economic or personal hardship as determined in subsection (c) of this section; 628 
+  “(2) In compliance with the requirements of § 42–3131.12 and applicable 629 
+property maintenance code standards for the District of Columbia and the owner or his or her 630 
+agent has been actively seeking in good faith to rent or sell the building; provided, that an 631 
+exemption under § 42-3131.06a(b)(2) shall only be available for a period not to exceed: 632 
+   “(A) Half a tax year from the initial listing, offer, or advertisement of sale 633 
+in the case of single-family residential buildings; 634 
+   “(B) Two tax years from the initial listing, offer, or advertisement of sale 635 
+for multifamily residential buildings; or 636
+
+28 
+ 
+   “(C) Two tax years from the initial listing, offer, or advertisement of rent 637 
+or sale for commercial buildings; 638 
+  “(3) For a period not to exceed 3 tax years, the subject of a probate proceeding or 639 
+the title is the subject of litigation (not including a foreclosure of the right of redemption action 640 
+brought under Chapter 13A of Title 47 [§ 47-1330 et seq.]). The tax year in which the exemption 641 
+under § 42-3131.06a(b)(3) starts is determined by the filing date of the applicable probate 642 
+proceeding and/or litigation; 643 
+  “(4) For a period not to exceed 2 tax years, the subject of a pending application 644 
+for a necessary approval for development before the Board of Zoning Adjustment, the Zoning 645 
+Commission for the District of Columbia, the Commission on Fine Arts, the Historic 646 
+Preservation Review Board, the Mayor’s Agent for Historic Preservation, the Department of 647 
+Public Works, or the National Capital Planning Commission; or  648 
+  “(5) For a period not to exceed half a tax year, the owner of the property or his or 649 
+her agent has an active building permit application that is being reviewed and processed by the 650 
+District, and the owner is actively seeking in good faith to obtain a building permit for the 651 
+purposes of making the building fit for occupancy; or 652 
+  “(6) For a period not to exceed 3 tax years, under active construction or 653 
+undergoing active rehabilitation, renovation, or repair, and there is a valid active building permit 654 
+to make the building fit for occupancy. During the half tax year in which the exemption is 655 
+requested, the building must be under active construction or undergoing active rehabilitation, 656 
+renovation, or repair under a valid active building permit. The term “active construction” means 657 
+the conducting of activities that contribute directly to the completion of improvements 658 
+contemplated or shown on active permits.  659
+
+29 
+ 
+ “(c)(1) To qualify for an exemption for substantial economic or personal hardship 660 
+pursuant to subsection (b)(1) of this section, an owner must demonstrate: 661 
+   “(A) He or she was a debtor in an individual bankruptcy action within the 662 
+last 12 months; 663 
+   “(B) He or she experienced a significant medical event that prevented him 664 
+or her from engaging in normal work or business activities for at least a period of 30 days;  665 
+   “(C) He or she was involuntarily terminated from employment and was 666 
+unemployed for at least 60 days within the last 12 months;  667 
+   “(D) He or she is: 668 
+    “(i) 60 years of age or older and is receiving social security 669 
+disability insurance; 670 
+    “(ii) 65 years of age or older and has a household income that does 671 
+not exceed 120% of the median family income and has experienced medical, personal, or 672 
+financial hardship in the past 180 days; 673 
+   “(E) He or she was impacted by a fire at the property that was not the 674 
+result of criminal activity or negligence as identified by a Fire and Emergency Medical Services 675 
+investigation; or 676 
+   “(F) He or she was impacted by a natural disaster at the property. 677 
+  “(2) The exemption may be granted for a period not to exceed one tax year from 678 
+the required registration date, subject to renewal on the basis of continuing extraordinary 679 
+circumstances and substantial undue economic hardship. The Mayor may withdraw the 680 
+exemption at any time. 681
+
+30 
+ 
+ “(d)(1) The cumulative time period for exemption from registration and fee requirements 682 
+for a vacant building under the same, substantially similar, or related ownership shall not exceed 683 
+3 tax years. 684 
+  “(2) The limitations set forth in paragraph (1) of this subsection shall not apply to 685 
+vacant buildings that benefit from an exemption under subsection (a) of this section. 686 
+ “(e) The total cumulative time for exemptions granted under subsection (b) of this section 687 
+to any property shall not exceed 5 tax years in any 12-year period, excluding exemptions granted 688 
+under subsection (a) of this section.”. 689 
+ (f) Sec. 7 (D.C. Official Code § 42–3131.07) is repealed.  690 
+ (g) Sec. 9 (D.C. Official Code § 42–3131.09) is amended to read as follows: 691 
+ “(a) Except as provided in § 42–3131.06a(a), the owner of a building shall register the 692 
+building and pay registration fees within 180 days after it becomes a vacant or blighted vacant 693 
+building.  694 
+ “(b) Fees for registration and renewal shall be as follows: 695 
+  “(1) The initial registration fee shall be $350. 696 
+  “(2) The renewal registration fee shall be $500.  697 
+ “(c) The Mayor may increase the fees in subsection (b) of this section through rules 698 
+issued pursuant to § 42–3131.21.”. 699 
+ (h) Section 10 (D.C. Official Code § 42–3131.10) is amended to read as follows: 700 
+ “(a)(1) The failure of the owner of a vacant or blighted vacant building to register and 701 
+pay all required fees under § 42-3131.06(a) or § 42-3131.09 after notice of the designation of the 702 
+owner’s building as vacant or blighted vacant, the determination of delinquency of registration or 703 
+fee payment, the denial or revocation of registration, the filing by an owner of any false or 704
+
+31 
+ 
+misleading registration-related information, or the refusal of the owner of a vacant or blighted 705 
+vacant building to permit the Mayor to inspect the building shall be subject to a civil penalty of 706 
+up to $1,000 for the first violation, $2,500 for the second violation, and $5,000 for the third and 707 
+subsequent violations. 708 
+  “(2) The Director of the Department of Buildings shall provide the Office of the 709 
+Attorney General with a list of all owners who fail to register and pay the required fee after 710 
+notice. 711 
+ “(b) If the owner of a vacant building fails to maintain the building in compliance with 712 
+the requirements of § 42–3131.12 or, having obtained a vacant property registration, 713 
+subsequently fails to comply with the other registration requirements under § 42–3131.06, the 714 
+Mayor, in addition to issuing civil penalties pursuant to subsection (a) of this section, may: 715 
+  “(1) Charge the owner with failure to comply and enforce all applicable penalties 716 
+under this chapter; and 717 
+  “(2) Take other action as required by the Construction Codes or Construction 718 
+Codes Supplement of the District of Columbia to bring the building into compliance with those 719 
+codes. 720 
+ “(c) Criminal prosecutions under § 42-3131.05 through § 42-3131.15 shall be brought in 721 
+the name of the District of Columbia by the Attorney General for the District of Columbia.”. 722 
+ (i) Section 11(b) (D.C. Official Code § 42–3131.11(b) is amended by striking the phrase 723 
+“Department of Consumer and Regulatory Affairs” and inserting the phrase “Department of 724 
+Buildings” in its place. 725 
+ (j) Section 12 (D.C. Official Code § 42–3131.12) is amended to read as follows: 726 
+ “Sec. 12. Vacant building maintenance standard and plan. 727
+
+32 
+ 
+ “(a) The owner of a vacant building shall comply with the following maintenance 728 
+requirements: 729 
+  “(1) The exterior of the building shall be maintained free of graffiti, tagging, or 730 
+similar markings; 731 
+  “(2) Exterior walls shall be free of holes, breaks, and loose or rotting materials;  732 
+  “(3) The interior of the building, and the property on which the building is 733 
+located, shall be free from debris, rubbish, and garbage;  734 
+  “(4) Exposed metal and wood surfaces on the exterior of the building and any 735 
+accessory or appurtenant structures shall be protected from the elements and against decay or 736 
+rust; 737 
+  “(5) The cornices, belt courses, corbels, terra cotta trim, wall facings, and similar 738 
+decorative features shall be safe, anchored, and in good repair; 739 
+  “(6) All balconies, canopies, marquees, signs, metal awnings, stairways, fire 740 
+escapes, standpipes, exhaust ducts, and similar features shall be in good repair, anchored, safe 741 
+and sound;  742 
+  “(7) Doors, windows, areaways, and other openings shall be weather-tight and 743 
+secured against entry by birds, vermin, and trespassers, and missing or broken doors, windows, 744 
+and other openings shall be covered with 1/2 inch CDX plywood that is painted in accordance 745 
+with the predominant tone of the building and is weather protected, tightly fitted to the opening, 746 
+and secured by screws or bolts; 747 
+  “(8) The roof and flashing shall be sound and tight, not admit moisture, and 748 
+drained to prevent dampness or deterioration in the walls or interior; 749
+
+33 
+ 
+  “(9) The building storm drainage system shall be adequately sized and installed in 750 
+an approved manner and functional; 751 
+  “(10) The structural members shall be free of deterioration and capable of safely 752 
+bearing imposed dead and live loads; 753 
+  “(11) The foundation walls shall be plumb, free from open cracks and breaks, and 754 
+vermin-proof; 755 
+  “(12) Chimneys, cooling towers, smokestacks, and similar appurtenances shall be 756 
+structurally safe, sound, and in good repair; 757 
+  “(13) Openings in sidewalks shall be safe for pedestrian travel;  758 
+  “(14) The property on which the building is located shall be free from excessive 759 
+vegetation and debris; and 760 
+  “(15) The property on which the building is located, as well as any accessory or 761 
+appurtenant structures, shall be free from safety, health, or fire hazards.  762 
+ “(b) The owner of a vacant property or his or her agent shall submit a vacant property 763 
+maintenance plan with the registration form required pursuant to § 42–3131.06. The plan shall 764 
+include the following: 765 
+  “(1) The name, address, and contact information (telephone number and 766 
+electronic mail address where applicable) of the person submitting the plan; 767 
+  “(2) Contact information for the person designated to manage and maintain the 768 
+property; 769 
+  “(3) A copy of a letter or notice to properties immediately adjacent to the vacant 770 
+building advising residents of the name and contact information of the person designated to 771 
+manage and maintain the property; 772
+
+34 
+ 
+  “(4) A plan for actively monitoring, maintaining, and securing the property for the 773 
+anticipated or expected period of vacancy that demonstrates how the property will be maintained 774 
+in accordance with subsection (a) of this section; 775 
+  “(5) Any other information deemed necessary by the Mayor for purposes of 776 
+effectuating this section.”. 777 
+ (k) Section 15 (D.C. Official Code § 42-3131.15) is amended to read as follows: 778 
+ “(a) Within 15 days after the designation of an owner’s building as a vacant building, the 779 
+determination of delinquency of registration or fee payment, the denial or revocation of 780 
+registration, or the designation of a vacant building as a blighted vacant building, the owner may 781 
+petition the Mayor for reconsideration by filing the form prescribed by the Mayor. 782 
+ “(b) Within 60 days after receiving a petition pursuant to subsection (a) of this section, 783 
+the Mayor shall issue a notice of final determination to the owner of the vacant building. The 784 
+petition shall be deemed denied, and it shall have the same effect of the issuance of a notice of 785 
+final determination, if the Mayor does not act upon the petition within 60 days. 786 
+ “(c) Within 15 days after the date of the notice of final determination under subsection (b) 787 
+of this section, or within 15 days after the expiration of the time period under subsection (b) of 788 
+this section, an owner may file an appeal with the Real Property Tax Appeals Commission for the 789 
+District of Columbia on the form prescribed by the Mayor; provided, that the notice of final 790 
+determination or passive appeal under subsection (b) of this section shall be a prerequisite to 791 
+filing an appeal with the Real Property Tax Appeals Commission for the District of Columbia. 792 
+The Real Property Tax Appeals Commission may not extend the time to file an appeal. 793 
+ “(d) After receiving a notice of appeal from an owner as required under subsection (c) of 794 
+this section, the Real Property Tax Appeals Commission for the District of Columbia shall 795
+
+35 
+ 
+provide by mail or electronic mail to the Advisory Neighborhood Commission in which the 796 
+vacant building is located, at least 15 days before any scheduled hearing on the appeal, the 797 
+following information related to the building at issue: 798 
+  “(1) The name of the owner of the building, and the address of the building, 799 
+including square, suffix and lot numbers; 800 
+  “(2) The determination under review; and 801 
+  “(3) The date, time, and location of the hearing. 802 
+ “(e) The District, through the Office of the Attorney General, may appeal a decision of 803 
+the Real Property Tax Appeals Commission to the Superior Court of the District of Columbia 804 
+within 90 days after the receipt of a written decision.”.  805 
+ (l) Section 16 (D.C. Official Code § 42-3131.16) is amended to read as follows: 806 
+ “(a) No less than once a week, the Mayor shall transmit to the Office of Tax and Revenue 807 
+a list of buildings: 808 
+  “(1) Registered as vacant or blighted vacant; 809 
+  “(2) Designated as vacant or blighted vacant; and 810 
+  “(3) For which the time period to issue a notice of final determination under § 42-811 
+3131.15(b) has expired or a notice of final determination has been issued under § 42-3131.15 and 812 
+administrative appeals have been exhausted or expired. 813 
+ “(b) The list shall be in the form and medium prescribed by the Office of Tax and 814 
+Revenue. 815 
+ “(c) Buildings shall remain on the list required by this section until a change in 816 
+classification is approved. 817
+
+36 
+ 
+ “(d) The Mayor and the Office of Tax and Revenue shall develop a procedure to reconcile 818 
+any material differences between information retained by the Department of Buildings regarding 819 
+buildings registered as vacant or designated as blighted vacant, and buildings taxed as Class 3 or 820 
+4, on at least a monthly basis.”. 821 
+ (m) Section 17 (D.C. Official Code § 42-3131.17) is repealed. 822 
+ (n) Section 18 (D.C. Official Code § 42-3131.18) is amended to read as follows: 823 
+ “Sec. 18. Publication of vacant and blighted vacant building information by the 824 
+Department. 825 
+ “(a) The Department of Buildings shall maintain, on a publicly available website, a 826 
+database or list of vacant and blighted buildings. The database or list shall, at a minimum, 827 
+contain the following information: 828 
+  “(1) The address of the building, including the square, suffix, and lot number of 829 
+the property on which the building is located; 830 
+  “(2) The Advisory Neighborhood Commission and Ward in which the building is 831 
+located; 832 
+  “(3) The date on which the building was determined to be a vacant or blighted 833 
+vacant building or registered as a vacant or blighted vacant building pursuant to § 42-3131.06; 834 
+  “(4) The type of exemption the building has received, the date on which the 835 
+building received an exemption, and the number of half tax years the building has been exempt, 836 
+if applicable; 837 
+  “(5) The number of months the building has been registered vacant or designated 838 
+as blighted vacant; 839 
+  “(6) The last date on which the property was inspected by the Department; and 840
+
+37 
+ 
+  “(7) The current tax classification of the property.”. 841 
+ (o) Sec. 19 (D.C. Official Code § 42-3131.19) is repealed. 842 
+ (p) A new section 20 (D.C. Official Code § 42-3131.20) is added to read as follows: 843 
+ “Sec. 20. Vacant and blighted vacant building receivership. 844 
+ “(a) The Mayor may petition the Superior Court of the District of Columbia for the 845 
+appointment of a receiver to rehabilitate, demolish, or sell a vacant or blighted vacant building, 846 
+upon the occurrence of any of the following, each of which is deemed a nuisance per se: 847 
+  “(1) The vacant building has been registered as vacant for at least 12 months, 848 
+excluding any exemptions provided pursuant to § 42–3131.6a, and at least one notice of 849 
+infraction for which a final order has been issued by the Office of Administrative Hearings has 850 
+not been abated by the owner 30 days after the issuance of the final order;  851 
+  “(2) The vacant building has been registered as vacant for at least 36 months, 852 
+excluding any exemptions provided pursuant to § 42–3131.6a; 853 
+  “(3) The blighted vacant building has been designated as blighted vacant for at 854 
+least 12 months, excluding any exemptions provided pursuant to § 42–3131.6a; or 855 
+  “(4) The vacant or blighted vacant building is subject to a condemnation order by 856 
+the Board for the Condemnation of Insanitary Buildings pursuant to § 6-903. 857 
+ “(b) The Mayor shall give notice to the owner of the building no less than 90 days prior 858 
+to the filing of a petition.  859 
+ “(c) The petition for appointment of a receiver shall include: 860 
+  “(1) A copy of the registration form or designation form; 861 
+  “(2) A copy of the final order from the Office of Administrative Hearings, if 862 
+applicable; and 863
+
+38 
+ 
+  “(3) A verified pleading that identifies and states the qualifications of the 864 
+proposed receiver. 865 
+ “(c) The petition for the appointment of a receiver shall name as respondents: 866 
+  “(1) The owner of the property; 867 
+  “(2) Any lien holder of record; and  868 
+  “(3)(A) The plaintiff in a proceeding to foreclose the right of redemption.  869 
+    “(B) Failure to name the plaintiff shall not prevent the action from going 870 
+forward but shall prevent the receiver’s lien for expenses incurred from rehabilitating, 871 
+demolishing, or selling the building from having priority over the plaintiff’s lien interest. 872 
+  “(d)(1) After filing a petition and before a receiver is appointed, the Mayor shall 873 
+give notice of pendency and nature of the proceedings by certified mail to the last known 874 
+addresses of all judgment creditors and lien holders with a recorded interest in the property. This 875 
+notice is not required for respondents named under subsection (c) of this section. 876 
+  “(2) Within 30 days after the date on which the notice was mailed, a judgment 877 
+creditor or lien holder with a recorded interest in the property may apply to intervene in the 878 
+proceeding and to be appointed a receiver. A creditor or lien holder whose interest is not recorded 879 
+does not have standing to intervene in the proceeding and is not eligible to be appointed a 880 
+receiver.  881 
+  “(3) Failure to give notice to any judgment creditors or lien holders as required by 882 
+this subsection shall not prevent the action from going forward but shall prevent the receiver’s 883 
+lien for expenses incurred from rehabilitating, demolishing, or selling the building from having 884 
+priority over that person’s lien interest. 885
+
+39 
+ 
+ “(e)(1) Instead of appointing a receiver to rehabilitate, demolish, or sell the building, the 886 
+Court may permit an owner, mortgagee, or other person with an interest in the property to 887 
+rehabilitate or demolish it, if the person: 888 
+   “(A) Demonstrates the ability to complete the rehabilitation or demolition 889 
+within a reasonable time; 890 
+   “(B) Agrees to comply with a specified schedule for rehabilitation or 891 
+demolition of the building; and  892 
+   “(C) Posts bond, in an amount determined by the court, as security for the 893 
+performance of the required work in compliance with a specified schedule. 894 
+  “(2)(A) The Mayor may apply to the court for immediate revocation of a person’s 895 
+appointment pursuant to this subsection if the person appointed is not proceeding with due 896 
+diligence or in compliance with the specified schedule.  897 
+   “(B) In the event that the court revokes the person’s appointment and 898 
+appoints a receiver, the bond posted under subparagraph (C) of paragraph (1) of this subsection 899 
+shall be applied to the subsequently appointed receiver’s expenses for rehabilitating, 900 
+demolishing, or selling the building.  901 
+ “(f)(1) If no qualified person with an ownership interest requests an appointment to 902 
+rehabilitate or demolish the property, or if an appointee is dismissed, the court shall appoint a 903 
+receiver of the property for the purposes of rehabilitating and managing the property, 904 
+demolishing the property, or selling it to a qualified bidder.  905 
+  “(2) On the appointment of a receiver to rehabilitate, demolish, or sell the 906 
+property, all parties are divested from any authority to act in furtherance of those goals. 907
+
+40 
+ 
+  “(3) A receiver appointed to rehabilitate, demolish, or sell a vacant building has 908 
+no duty to, and is not personally liable for failing to, maintain the property or protect the property 909 
+from casualty or loss.  910 
+ “(g) A receiver appointed to rehabilitate or demolish a vacant building, in addition to all 911 
+necessary and customary powers, has the right of possession with authority to: 912 
+  “(1) Contract for necessary labor and supplies for rehabilitation or demolition. 913 
+  “(2) Borrow money for rehabilitation or demolition from an approved lending 914 
+institution or through a government agency or program, using the receiver’s lien against the 915 
+property as security;  916 
+  “(3) Manage the property for a period of up to 2 years and apply the rent received 917 
+to current operating expenses and to repayment of outstanding rehabilitation expenses; and 918 
+  “(4) Foreclose on the receiver’s lien or accept a deed in lieu of foreclosure. 919 
+ “(h)(1) A receiver appointed to sell a vacant building, in addition to all necessary and 920 
+customary powers, may sell the property to the high bidder at public auction.  921 
+  “(2) The receiver must post a notice of a public auction 60 days prior to the date 922 
+on which the auction will be held. The notice must contain: 923 
+   “(A) The address of each building for sale at the public auction; 924 
+   “(B) A description of each building for sale at the public auction, including 925 
+the size and type of the building; and 926 
+   “(C) Any other information deemed necessary by the receiver.  927 
+  “(3) The minimum bid required to purchase a building at a public auction shall be 928 
+$5,000. 929
+
+41 
+ 
+  “(4) Before any sale, applicants to bid in a public auction or the proposed buyer in 930 
+a private sale must demonstrate that: 931 
+   “(A) The applicants or proposed buyer have financial resources available 932 
+to rehabilitate the property; 933 
+   “(B) The applicants or proposed buyer have experience rehabilitating 934 
+properties or have a contract or agreement with a person or organization that has experience 935 
+rehabilitating properties; and 936 
+   “(C) The applicants or proposed buyers do not have any outstanding 937 
+property maintenance violations in the District, if applicable.  938 
+  “(5) The receiver may charge a reasonable fee to applicants in connection with an 939 
+application to bid at a public auction or in connection with the solicitation of offers for a private 940 
+sale.  941 
+  “(6) After deducting the expenses of the sale, the amount of outstanding taxes and 942 
+other government assessments, and the amount of the receiver’s lien, the receiver must apply the 943 
+remaining proceeds of the sale, first to the petitioner’s costs and expenses, and then to the liens 944 
+against the property in order of priority.  945 
+ “(i)(1) Any costs or fees incurred by the receiver for purposes of rehabilitating, 946 
+demolishing, or selling a building pursuant to this subsection shall be a lien against the property. 947 
+The receiver’s lien shall have priority over all other liens and encumbrances, except taxes or 948 
+other government assessments. The receiver must allow the Mayor’s costs and expenses, 949 
+including reasonable attorney’s fees, to be paid to the extent that proceeds of a sale permit.  950 
+  “(2) A receiver may foreclose on the lien by a sale of the building at a public 951 
+auction. After deducting the expenses of the sale, the receiver must apply the proceeds of the sale 952
+
+42 
+ 
+to the liens against the building, in order of priority.  In lieu of foreclosure, and only if the 953 
+receiver has rehabilitated the building, an owner may pay the receiver’s costs, fees, including 954 
+attorney’s fees, and expenses or may transfer all ownership in the property to either the receiver 955 
+or an agreed-on third party for an amount agreed to by all parties to the receivership as being the 956 
+property’s fair market value. 957 
+ “(j) Following court ratification of a sale made pursuant to subsection (h) of this section, 958 
+the receiver must sign a deed conveying title to the buyer, free and clear of all liens, judgments 959 
+and other encumbrances. On court ratification of the sale, any secured interest of a lien or 960 
+judgment creditor automatically attaches to the proceeds from the sale to the extent that those 961 
+proceeds are available. 962 
+ “(k) Upon sale of the property, the receiver must: 963 
+  “(1) File with the court a final accounting; and 964 
+  “(2) At the same time, file a motion with the court to dismiss the action.  965 
+ “(l) The Mayor may contract with a nonprofit or for-profit organization to act as a 966 
+receiver pursuant to this section; provided, that any organization acting as a receiver must: 967 
+  “(1) Not be delinquent on any fees, fines, taxes, or financial penalties owed to the 968 
+District; and 969 
+  “(2) Have demonstrated experience with the management or sale of residential or 970 
+commercial properties; or 971 
+  “(3) If the receiver will rehabilitate or demolish properties, have demonstrated 972 
+experience in the rehabilitation or demolition of residential or commercial properties.”. 973 
+ (q) A new section 21 (D.C. Official Code § 42-3131.21) is added to read as follows: 974 
+ “Sec. 21. Vacant and Blighted Building Report and Plan. 975
+
+43 
+ 
+ “(a) By January 1, 2026, the Mayor shall submit a report to the Council containing the 976 
+following information: 977 
+  “(1) A description of predictive statistical models that could be used to identify 978 
+properties at risk of becoming vacant or blighted, as well as the data sources and information 979 
+technology infrastructure necessary to effectively implement these models; 980 
+  “(2) A detailed description of proactive measures utilized by other jurisdictions in 981 
+the United States to enforce vacant and blighted property registration ordinances; and 982 
+  “(3) An analysis and determination of the feasibility of utilizing proactive 983 
+measures to enforce the District’s laws regarding registration and maintenance of vacant and 984 
+blighted buildings. 985 
+ “(b) By January 1, 2027, and every three years thereafter, the Mayor shall submit a 986 
+vacant and blighted property rehabilitation strategic plan to the Council. In developing the 987 
+strategic plan, the Mayor shall: 988 
+  “(1) Analyze the extent and nature of interagency collaboration among District 989 
+agencies with respect to: 990 
+   “(A) Enforcing legal requirements related to vacant and blighted buildings 991 
+in the District; and 992 
+   “(B) Incentivizing the successful redevelopment or rehabilitation of vacant 993 
+and blighted buildings; 994 
+  “(2) Review the use and effectiveness of existing incentives in the District that 995 
+support the redevelopment or rehabilitation of vacant and blighted buildings; 996 
+  “(3) Review best practices for preventing vacancy and blight, and best practices 997 
+for redeveloping or rehabilitating vacant and blighted buildings; 998
+
+44 
+ 
+  “(4) Develop and refine performance metrics that measure the effectiveness of the 999 
+District’s programs, interventions, and incentives regarding vacant and blighted properties; and 1000 
+  “(5) Consult with stakeholders, including the following: 1001 
+   “(A) Advisory Neighborhood Commissions; 1002 
+   “(B) Organizations with significant experience redeveloping or 1003 
+rehabilitating vacant or blighted buildings; and 1004 
+   “(C) Organizations or individuals with policy or research expertise on: 1005 
+    “(i) Implementing strategic code enforcement programs; 1006 
+    “(ii) Development incentives; and 1007 
+    “(iii) Developing performance measures.”. 1008 
+ (r) A new section 22 (D.C. Official Code § 42-3131.22) is added to read as follows: 1009 
+ “Sec. 22. Rules. 1010 
+ “The Mayor, pursuant to subchapter I of Chapter 5 of Title 2, may issue rules to 1011 
+implement the provisions of this chapter. The proposed rules shall be submitted to the Council 1012 
+for a 45-day period of review, excluding days of Council recess. If the Council does not approve 1013 
+or disapprove of the proposed rules, by resolution, within the 45-day review period, the proposed 1014 
+rules shall be deemed approved.”.  1015 
+ Sec. 302. Section 47-825.01a(e)(1)(B) of the District of Columbia Official Code is 1016 
+amended to read as follows: 1017 
+   “(B)(i) If an owner is aggrieved by a notice of final determination issued 1018 
+pursuant to §42-3131.15 or the time period to issue a notice of final determination under that 1019 
+section has expired, the owner may file an appeal on the determination of vacancy with the 1020 
+Commission within 15 days after the date of the notice or expiration. The Commission may not 1021
+
+45 
+ 
+extend the time to file an appeal. Notwithstanding any other provision of this section, the 1022 
+Commission shall render a decision on the appeal within 120 days after the filing. 1023 
+    “(ii) An appeal to the Commission under this subparagraph shall be 1024 
+on the same terms and under the same conditions, to the extent reasonable, as if the appeal were 1025 
+brought under subparagraph (A) of this paragraph; except, that no worksheet shall be required to 1026 
+be mailed, the Department of Buildings shall be the responsible agency, and any supplemental 1027 
+filing shall be provided to the Commission and the Department of Buildings. 1028 
+    “(iii) A response from the Department of Buildings shall be 1029 
+available for inspection at least 7 days before the scheduled hearing. 1030 
+    “(iv) The Department of Buildings shall have the authority, as 1031 
+provided to OTR under subsection (f) of this section, to make redeterminations of vacancy and 1032 
+blight and any reclassifications that may be necessary. 1033 
+    “(v) The Department of Buildings shall be entitled to a rehearing to 1034 
+establish the proper status, vacant or blight, and tax classification of the real property under the 1035 
+same conditions and to the same extent under paragraph (6) of this subsection; provided, that 1036 
+paragraph (6)(D) of this subsection shall not apply.”. 1037 
+ TITLE IV. VACANT AND BLIGHTED PROPERTY INCENTIVES AND TAXES. 1038 
+ SUBTITLE A. EXPEDITED PERMIT REVIEW FOR VACANT AND BLIGHTED 1039 
+PROPERTIES. 1040 
+ Sec. 401. (a) The Construction Codes Approval and Amendments Act of 1986, effective 1041 
+March 21, 1987 (D.C. Law 6-216; D.C. Official Code § 6-1401 et seq.), is amended by adding a 1042 
+new section 10e to read as follows: 1043 
+ “Sec. 10e. Expedited permit review for vacant and blighted vacant properties. 1044
+
+46 
+ 
+ “(a) No later than 180 days after the effective date of the Vacant to Vibrant Amendment 1045 
+Act of 2024, the Department shall establish an expedited permit review process for permits 1046 
+described in subsection (b) of this section; provided, that the expedited permit review process 1047 
+shall only apply to permits for Class 3 and Class 4 properties. 1048 
+ “(b) The following permits shall be eligible for an expedited permit review process 1049 
+established pursuant to subsection (a) of this section: 1050 
+  “(1) A demolition permit; 1051 
+  “(2) A raze permit; 1052 
+  “(3) An addition, alteration, and repair permit; 1053 
+  “(4) An alteration and repair permit; 1054 
+  “(5) A sheeting and shoring permit; 1055 
+  “(6) A new building permit; and 1056 
+  “(7) Trade permits. 1057 
+ “(c) The Department shall not charge additional fees beyond the standard permit fees for 1058 
+eligible applicants to utilize the expedited permit review process established pursuant subsection 1059 
+(a) of this section.”. 1060 
+ SUBTITLE B. VACANT AND BLIGHTED PROPERTY TAX RATES. 1061 
+ Sec. 402. Section 47-812 of the District of Columbia Official Code is amended by 1062 
+adding a new subsection (b-13) to read as follows: 1063 
+ “(b-13)(1) Notwithstanding the provisions of subsection (a) of this section, the sum of 1064 
+real property tax rates and special property tax rates for taxable Class 3 properties in the District 1065 
+of Columbia for the tax year beginning October 1, 2025, and each tax year thereafter, shall be as 1066 
+follows: 1067
+
+47 
+ 
+   “(A) For the first year in which the property is registered as vacant, the tax 1068 
+rate shall be the applicable tax rate for a Class 1A, Class 1B, or Class 2 property. 1069 
+   “(B) For the second year in which the property is registered as vacant, the 1070 
+tax rate shall be $3 for each $100 of assessed value. 1071 
+   “(C) For the third year in which the property is registered as vacant, the 1072 
+tax rate shall be $4 for each $100 of assessed value. 1073 
+   “(D) For the fourth year, and any subsequent years, in which the property 1074 
+is registered as vacant, the tax rate shall be $5 for each $100 of assessed value. 1075 
+  “(2) Notwithstanding the provisions of subsection (a) of this section, the sum of 1076 
+the real property tax rates and special real property tax rates for taxable Class 4 Properties in the 1077 
+District of Columbia for the tax year beginning October 1, 2025, and each year thereafter, shall 1078 
+be as follows: 1079 
+   “(A) For the first year in which the property is designated as blighted 1080 
+vacant, the tax rate shall be the tax rate for a Class 1A, Class 1B, or Class 2 property. 1081 
+   “(B) For the second year in which the property is designated as blighted 1082 
+vacant, the tax rate shall be $6 for each $100 of assessed value. 1083 
+   “(C) For the third year in which the property is designated as blighted 1084 
+vacant, the tax rate shall be $8 for each $100 of assessed value. 1085 
+   “(D) For the fourth year, and any subsequent years, in which the property 1086 
+is designated as blighted vacant, the tax rate shall be $10 for each $100 of assessed value.”. 1087 
+ SUBTITLE C. TAX SALE PROCEDURE FOR VACANT AND BLIGHTED 1088 
+PROPERTIES. 1089
+
+48 
+ 
+ Sec. 403. Chapter 13A of Title 47 of the District of Columbia Official Code is amended 1090 
+as follows: 1091 
+ (a) The table of contents is amended by adding the following at the end: 1092 
+ “Subchapter V. Procedures for Class 3 and 4 Properties. 1093 
+ “§ 47-1390. Eligibility to foreclose on a Class 3 or 4 Property. 1094 
+ “§ 47-1391. Pre-foreclosure action notice; publication requirements. 1095 
+ “§ 47-1392. Parties. 1096 
+ “§ 47-1393. Complaint form; notice to certain persons. 1097 
+ “§ 47-1394. Foreclosure proceedings; right of redemption. 1098 
+ “§ 47-1395. Tax sale notice; bidder qualifications; excess; tax deed.”. 1099 
+ (b) Section 47-1330 is amended as follows: 1100 
+  (1) New paragraphs (1A) and (1B) are added to read as follows: 1101 
+  “(1A) “Class 3 property” shall have the same meaning as § 47–813(c-9)(4)(A). 1102 
+  “(1B) “Class 4 property” shall have the same meaning as § 47–813(c-9)(5)(A).”. 1103 
+ (c) Section 47-1332 is amended as follows: 1104 
+  (1) Subsection (c) is amended to read as follows: 1105 
+ “(c) The Mayor shall not sell any real property if: 1106 
+  “(1) A forbearance authorization has been approved in writing by the Mayor for 1107 
+the applicable tax sale; 1108 
+  “(2) The owner enters into a payment plan pursuant to § 47-870 prior to the date 1109 
+of the tax sale; 1110 
+  “(3) For an improved Class 1A or 1B Property, the tax amount to be sold is less 1111 
+than $7,500;  1112
+
+49 
+ 
+  “(4) The real property is a Class 1A or 1B Property that is receiving a homestead 1113 
+deduction, with respect to which there is an outstanding non-void certificate of sale; provided, 1114 
+that no real property shall be excluded from sale solely pursuant to this paragraph if the non-void 1115 
+certificate of sale has been outstanding for 3 years or more; or 1116 
+“(5) For a Class 3 or Class 4 property, the owner has been delinquent for less than 1117 
+one year.”. 1118 
+ (2) Subsection (e)(3)(A) is amended to read as follows: 1119 
+  “(3)(A) The Mayor shall approve an application if the real property receives a 1120 
+homestead deduction and the tax amount to be sold is less than or equal to $12,500.”.  1121 
+(d) New sections 47-1390 through 47-1396 are added to read as follows: 1122 
+ “Sec. 47-1390. Eligibility to foreclose on a Class 3 or 4 Property.  1123 
+ “After the expiration of one year from the date of delinquency, the Mayor may file a 1124 
+complaint with the Superior Court to foreclose on a tax certificate or certificates for a Class 3 or 1125 
+4 property.”. 1126 
+ “Sec. 47-1391. Pre-foreclosure action notice; publication requirements.  1127 
+ “(a)(1) No less than 90 days prior to the filing of a complaint with the Court pursuant to § 1128 
+47-1393, the Mayor shall send written notice to the owner of record of the property at such 1129 
+owner’s mailing address as updated in OTR’s real property records..  1130 
+   (A) The notice shall inform the owner of the intent to file a complaint to 1131 
+foreclose on the tax certificate or certificates. The notice shall also contain the amount due as of 1132 
+the day of the notice, and state that the owner may pay the amount due, together with any 1133 
+additional interest, which may be owed prior to the filing date to halt any foreclosure action.  1134
+
+50 
+ 
+  “(2) The written notice pursuant to paragraph (1) of this subsection shall be sent 1135 
+by first class mail. 1136 
+ “(b) At any time after 60 days from the mailing of the notice required in subsection (a) of 1137 
+this section, the Mayor shall cause to be advertised once in not less than 2 newspapers of general 1138 
+circulation in the District that are published once every 2 weeks, notice that the listed properties 1139 
+will subject to foreclosure proceedings due to delinquent real property taxes.   1140 
+ “Sec. 47-1392. Parties.  1141 
+ “(a) The plaintiff in an action to foreclose a Class 3 or 4 property pursuant to § 47-1394 1142 
+shall be the District.  1143 
+ “(b) The defendants in an action to foreclose a Class 3 or 4 Property pursuant to § 47-1144 
+1394 shall be: 1145 
+  “(1) The record owner of the real property; 1146 
+  “(2) If the real property is encumbered by a recorded life tenancy, the record life 1147 
+tenant and record remaindermen; 1148 
+  “(3) If the real property is subject to a recorded estate for life or a recorded lease 1149 
+or ground rent for a term (with renewals) that is at least 30 years, the record owner of the fee 1150 
+simple title and the owner of the possessory interest as disclosed by a search performed in 1151 
+accordance with generally accepted standards of title examination of the records of the Recorder 1152 
+of Deeds; 1153 
+  “(4) Any mortgagee of the real property, or any assignee of the mortgage of 1154 
+record, named as such in an unreleased mortgage recorded in the records of the Recorder of 1155 
+Deeds; 1156
+
+51 
+ 
+  “(5) The trustee of record under a deed of trust recorded against the real property 1157 
+and a holder of a beneficial interest in a deed of trust who files notice of the interest, which 1158 
+notice includes identification of the deed of trust, the book and page or roll and frame where the 1159 
+deed of trust is recorded, and the current address at which the holder may be served with a 1160 
+summons.  1161 
+ “(c) If the identity of an owner cannot be ascertained, the unknown owner of the real 1162 
+property may be included may be included as a defendant by the designation: “Unknown owner 1163 
+of real property (insert a description of the real property in substantially the same form as the 1164 
+description that appears on the certificate of sale along with the street address, if any), the 1165 
+unknown owner’s heirs, devisees, and personal representatives and their or any of their heirs, 1166 
+devisees, executors, administrators, grantees, assigns, or successors in right, title and interest.” 1167 
+ “Sec. 47-1393. Complaint form; notice to certain persons.  1168 
+ “(a) A complaint filed to foreclose on a tax certificate or certificates for a Class 3 or 4 1169 
+Property shall, for each property listed in the complaint, contain: 1170 
+  “(1) A description of the real property, by premises address, taxation square, 1171 
+suffix, and lot number, or parcel and lot number; 1172 
+  “(2) The name(s) of the owner or owners of the property; 1173 
+  “(3) A statement of the amount of taxes owed, including interest and penalties; 1174 
+and 1175 
+  “(4) A request that the Court pass a judgment to foreclose on right of redemption.  1176 
+ “(b) For each property listed in a complaint filed pursuant to subsection (a) of this 1177 
+section, a copy of the written notice provided to the owner pursuant to § 47-1391(a) shall be 1178 
+attached.   1179
+
+52 
+ 
+ “(c)(1) Upon filing a complaint with Superior Court pursuant to subsection (a) of this 1180 
+section, the Mayor shall send written notice of the action to all persons having a recorded 1181 
+interest, recorded claim, or recorded lien, including a recorded judgment, who have not been 1182 
+made a defendant in the action. 1183 
+  “(2) The written notice required under paragraph (1) of this subsection shall be 1184 
+sent by first class mail and shall include as an attachment thereto a copy of the summons and 1185 
+complaint.    1186 
+ “(d) The Mayor shall file a statement that the notice provisions of subsection (c) of this 1187 
+section have been complied with, or an affidavit stating that the address of the holder of the 1188 
+subordinate interest is not reasonably ascertainable. 1189 
+ “Sec. 47-1394. Foreclosure proceedings; right of redemption.  1190 
+ “(a)(1) Any defendant listed under § 47-1392(b) may file an answer and defense to the 1191 
+complaint within 30 after service of the notice and complaint.  The answer may object to the 1192 
+proposed foreclosure upon one or more of the following grounds only: 1193 
+   “(A) The real property is exempt from taxation or assessment pursuant to 1194 
+§ 47–1002; or 1195 
+   “(B) The delinquent taxes or assessments identified in the tax certificate or 1196 
+certificates were in fact paid;   1197 
+  “(2) If an answer and defense is filed by any defendant or other interested person, 1198 
+the matter shall be heard in a summary manner without other pleading, and the court shall 1199 
+pronounce judgment.   1200 
+ “(b) Real property subject to a foreclosure proceeding pursuant to this section may be 1201 
+redeemed at any time before the close of business before a judgment is entered, by payment, as 1202
+
+53 
+ 
+prescribed by the Mayor, of the total amount of delinquent taxes, inclusive of interest and 1203 
+penalties. 1204 
+ “(c) In the event that no answer by any person having a right to answer pursuant to 1205 
+subsection (a) of this section is provided, the Court determines that the issue raised by the answer 1206 
+of the defendant is without merit, or there is a failure to redeem pursuant to subsection (b) of this 1207 
+section, the Court shall order the District to sell the property at a public auction to satisfy the 1208 
+amount of lien, fees, and costs.  1209 
+ “(d) The Court shall tax as a part of the taxable costs all legal fees and charges 1210 
+necessarily paid or incurred in procuring searches relative to the title of the real property, 1211 
+prosecuting the foreclosure action, providing for a court-ordered sale (including advertising and 1212 
+auctioneer fees) and securing and maintaining a guardian ad litem.  1213 
+ “(e) The District shall not be required to plead or prove various steps, proceedings, and 1214 
+notices for the assessment and levy of taxes or assessments against the real property and all such 1215 
+taxes and assessment shall be presumed to be valid. A defendant alleging any jurisdictional 1216 
+defect or invalidity in the tax or assessment, because said real property was not liable to taxation 1217 
+or assessment, must particularly specify in the defendant’s answer such jurisdictional defect or 1218 
+invalidity and must affirmatively establish such defense. 1219 
+ “(f) A guardian ad litem shall be appointed to serve for all persons known or unknown 1220 
+who have or may have an interest in the real property subject to a foreclosure action and who are 1221 
+or may be minors or individuals adjudicated incompetent at the date of filing such a list.  1222 
+ “Sec. 47-1395. Tax sale notice; bidder qualifications; excess; tax deed.  1223 
+ “(a) No less than 90 days after a judgment is entered by the Court, the Mayor shall 1224 
+publicly notice any Class 3 and 4 Properties that will be sold at a tax sale as follows: 1225
+
+54 
+ 
+  “(1) In not less than 2 newspapers of general circulation in the District that are 1226 
+published once every 2 weeks, a public notice stating the listed real property will be sold at 1227 
+public auction and at the place named in the public notice; and  1228 
+  “(2) A list of real property in the public notice on the Office of Tax and Revenue’s 1229 
+website. 1230 
+ “(b) The list in the public notice shall contain the following: 1231 
+  “(1) A description of the real property, by premises address, taxation square, 1232 
+suffix, and lot number, or parcel and lot number; 1233 
+  “(2) The name of the person who last appears on the Mayor’s tax roll as the owner 1234 
+of the real property; 1235 
+  “(3) The minimum bid required to purchase the property at tax sale.  1236 
+ “(c) Before any sale, applicants to bid in a public auction must demonstrate that: 1237 
+  “(1) The applicants or proposed buyer have financial resources available to 1238 
+rehabilitate the property; 1239 
+  “(2) The applicants or proposed buyer have experience rehabilitating properties or 1240 
+have a contract or agreement with a person or organization that has experience rehabilitating 1241 
+properties;  1242 
+  “(3) The applicants or proposed buyer do not have any unresolved notices of 1243 
+infraction related to property maintenance violations in the District, if applicable; and  1244 
+  “(4) The applicant is current on all taxes and liabilities owed to the District.   1245 
+ “(d) Real property sold at tax sale pursuant to this section shall be sold “as is.” There is 1246 
+no guarantee or warranty of any kind, express or implied, relative to: Title, eligibility to build 1247
+
+55 
+ 
+upon or subdivide the property; zoning classification; size; location; fitness for any use or 1248 
+purpose; or any other feature or condition of a foreclosed property sold pursuant to this section. 1249 
+ “(e) If the highest bid for a property sold pursuant to this section exceeds the minimum 1250 
+bid due upon the whole property, the excess must be refunded, following payment of any 1251 
+recorded liens, to the owner of the record of the property. In the event that no claim for the 1252 
+excess is received by the Mayor within three years after the date of the sale, the Chief Financial 1253 
+Officer shall deposit the excess in the General Fund of the District of Columbia.  1254 
+ “(f) The Mayor shall issue a deed for any property purchased by a bidder at a tax sale 1255 
+held pursuant to this section. The deed shall be prima facie evidence of a good and perfect title in 1256 
+fee simple to the real property.”. 1257 
+ SUBTITLE D. VACANT AND BLIGHTED HOME REVITALIZATION TAX 1258 
+CREDIT. 1259 
+ Sec. 404. Title 47 of the District of Columbia Official Code is amended as follows: 1260 
+ (a) The table of contents is amended by adding a new chapter designation to read as 1261 
+follows: 1262 
+ “19. Vacant and Blighted Property Rehabilitation Credit.” 1263 
+ (b) A new chapter 19 is added to read as follows: 1264 
+ “CHAPTER 19. VACANT AND BLIGHTED PROPERTY REHABILITATION 1265 
+CREDIT. 1266 
+ “47-1819.01. Definitions. 1267 
+ “47-1819.02. Credit Established. 1268 
+ “47-1819.03. Annual Cap. 1269 
+ “47-1819.04. Application and Mayoral Certification. 1270
+
+56 
+ 
+ “Sec. 47-1819.01. Definitions. 1271 
+ “For purposes of sections § 47–1806.17a through 47-1806.17g, the term: 1272 
+  “(1) “Area median family income” means the median family income for the 1273 
+Washington Metropolitan Statistical Area as set forth by the United States Department of 1274 
+Housing and Urban Development, adjusted for household size.  1275 
+  “(2) “Class 3 property” shall have the same meaning as § 47–813(c-9)(4)(A). 1276 
+  “(3) “Class 4 property” shall have the same meaning as § 47–813(c-9)(5)(A). 1277 
+  “(4) “Eligible development costs” means amounts paid or incurred by an eligible 1278 
+taxpayer after December 31, 2025 for the acquisition of eligible property, construction, 1279 
+substantial rehabilitation, demolition of structures, or environmental remediation. 1280 
+  “(5) “Eligible property” means a Class 3 or Class 4 property that is: 1281 
+   “(A) A house comprised of 4 or fewer residential units or a condominium 1282 
+unit; and 1283 
+   “(B) Located in a qualifying census tract as determined by the Mayor as of 1284 
+the date of the application pursuant to § 47–1819.04. 1285 
+  “(6) “Eligible taxpayer” means a taxpayer certified by the Mayor pursuant § 47–1286 
+1819.04(b) as eligible to claim the credit established under this chapter. 1287 
+  “(7) “Qualifying census tract” means a census tract which has: 1288 
+   “(A) A median family income which does not exceed 120% of the median 1289 
+family income of the District; 1290 
+   “(B) A poverty rate that is not less than 130% of the poverty rate of the 1291 
+District; and  1292
+
+57 
+ 
+   “(C) A median value for owner-occupied homes that does not exceed the 1293 
+median value for all owner-occupied homes in the District. 1294 
+  “(8) “Qualified homeowner” means an individual whose family income is 120% 1295 
+or less of the area median family income as of the date that a binding contract is entered into 1296 
+between that individual and an eligible taxpayer for the sale of the eligible property. 1297 
+  “(9) “Substantial rehabilitation” means amounts paid or incurred for rehabilitation 1298 
+of an eligible property if such amounts exceed $150,000 multiplied by the difference between the 1299 
+Consumer Price Index for the preceding tax year and the Consumer Price Index for the tax year 1300 
+2024 divided by the Consumer Price Index for tax year 2024. For the purposes of this paragraph, 1301 
+the Consumer Price Index for any real property tax year is the average of the Consumer Price 1302 
+Index for the Washington-Baltimore Metropolitan Statistical Area for all urban consumers 1303 
+published by the Department of Labor, or any successor index, as of the close of the 12-month 1304 
+period ending on September 30 of such tax year. 1305 
+ “Sec. 47-1819.02. Credit established. 1306 
+ (a) For tax years beginning after December 31, 2025, there is established a District of 1307 
+Columbia vacant and blighted home revitalization tax credit that may be claimed against taxes 1308 
+imposed under this subtitle. 1309 
+ (b) The amount of the credit shall be 75% of the eligible development costs as certified 1310 
+by the Mayor to the Chief Financial Officer pursuant to § 47–1819.04(b). 1311 
+ (c) The credit may exceed the tax liability under this chapter, including any minimum tax 1312 
+due under §§ 47-1807.02(b) or 47-1808.03(b), for that taxable year and shall be refundable to the 1313 
+eligible taxpayer, including an organization exempt under § 47–1802.01(a)(3) from taxation 1314 
+under this subtitle. 1315
+
+58 
+ 
+ (d) The credit may only be allowed if it: 1316 
+  (1) Has been approved and certified by the Mayor to the Chief Financial Officer 1317 
+pursuant to § 47–1819.04:  1318 
+  (2) Is claimed by an eligible taxpayer in the taxable year in which the substantial 1319 
+rehabilitation of the eligible property is completed; and 1320 
+  (3) Is claimed in the manner and form prescribed by the Chief Financial Officer.  1321 
+ “Sec. 47-1819.03. Annual Cap. 1322 
+ “The Mayor may approve up to $2,500,000 in credits under this subchapter each fiscal 1323 
+year. 1324 
+ “Sec. 47-1809.04. Application and Mayoral certification. 1325 
+ (a) Before a taxpayer may claim a credit pursuant this subchapter, the taxpayer must 1326 
+apply to the Mayor requesting approval. 1327 
+ (b) If a taxpayer’s application is approved in accordance with this subchapter, the Mayor 1328 
+shall certify to the Chief Financial Officer the following on before December 1 of the calendar 1329 
+year following the end of the fiscal year in which the credit was approved: 1330 
+  (1) The name and taxpayer identification number of the eligible taxpayer; 1331 
+  (2) The address of the eligible property (including square and lot); 1332 
+  (3) That the eligible taxpayer’s application in accordance with this section was 1333 
+approved; 1334 
+  (4) The date the substantial rehabilitation was completed;  1335 
+  (5) That the eligible taxpayer sold the property to a qualifying homeowner;  1336 
+  (6) The total amount of the eligible development costs incurred by the eligible 1337 
+taxpayer;  1338
+
+59 
+ 
+  (7) The total amount of the credit approved for the eligible taxpayer; and 1339 
+  (8) Any other information requested by the Chief Financial Officer.”. 1340 
+ SUBTITLE E. TAX ABATEMENT FOR THE REDEVELOPMENT OF VACANT 1341 
+AND BLIGHTED COMMERCIAL PROPERTIES. 1342 
+ Sec. 405. Title 47 of the District of Columbia Official Code is amended as follows: 1343 
+ (a) Section 47-813 is amended as follows: 1344 
+  (1) Subsection (c-9)(4) is amended to read as follows: 1345 
+ “(c-9)(4)(A) Class 3 property shall be comprised of all improved real property that 1346 
+appears as vacant on the list compiled under § 42-3131.16. 1347 
+   “(B) The Office of Tax and Revenue may request the Mayor to inspect the 1348 
+improved real property to determine whether the property is correctly designated or registered as 1349 
+vacant on the list compiled under § 42-3131.16.”. 1350 
+  (2) Subsection (c-9)(5) is amended to read as follows: 1351 
+ “(c-9)(5)(A) Class 4 Property shall be comprised of all improved real property that 1352 
+appears as blighted vacant on the list compiled under § 42-3131.16. 1353 
+   “(B) The Office of Tax and Revenue may request the Mayor to inspect the 1354 
+improved real property to determine whether the property is correctly designated as blighted 1355 
+vacant on the list compiled under § 42-3131.16.”. 1356 
+ (c) By adding new sections 47-861.01 through 47-861.04 to read as follows: 1357 
+“Sec. 47-861.01. Tax abatements for the redevelopment of vacant and blighted 1358 
+commercial properties – Definitions. 1359 
+ “For purposes of §§ 47-861.01 through 47-861.04, the term: 1360 
+  “(1) “Class 3 property” shall have the same meaning as § 47–813(c-9)(4)(A). 1361
+
+60 
+ 
+  “(2) “Class 4 property” shall have the same meaning as § 47–813(c-9)(5)(A). 1362 
+  “(3) “Eligible development costs” means amounts paid or incurred for 1363 
+construction, substantial rehabilitation, demolition of structures, or environmental remediation of 1364 
+an eligible property. Eligible development costs shall not include land acquisition costs.  1365 
+  “(4) “Eligible property” means a Class 3 or Class 4 property that: 1366 
+   “(A) Shall be redeveloped to be used for commercial purposes as defined 1367 
+in paragraph 5 of this section; and 1368 
+   “(B) Has been registered as a Class 3 or Class 4 property for at least 12 1369 
+months without any exemptions pursuant to § 42–3131.06a.  1370 
+  “(5) “Used for commercial purposes” means use of real property primarily for 1371 
+conducting any trade, business, or profession, whether for profit or not, including providing 1372 
+goods or services or operating as a hotel or inn.  1373 
+  “(6) “OTR” means the Office of Tax and Revenue. 1374 
+ “Sec. 47-861.02. Tax abatements for the redevelopment of vacant and blighted 1375 
+commercial properties – Requirements.  1376 
+ “(a) Subject to § 47-861.03, the Mayor may approve an abatement of the tax otherwise 1377 
+imposed under this chapter, in an amount calculated pursuant to § 47-861.03(a), for an eligible 1378 
+property if: 1379 
+  “(1) Eligible development costs exceed $1.5 million. 1380 
+  “(2) The property owner, or its designee or assignee, demonstrates to the 1381 
+satisfaction of the Mayor that the abatement shall materially assist the redevelopment project and 1382 
+the redevelopment project would not go forward without the abatement.  1383
+
+61 
+ 
+  “(3) The property owner, or its designee or assignee, enters into an agreement 1384 
+with the District that requires the owner, or its designee or assignee, to, at a minimum, contract 1385 
+with certified business enterprises for at least 35% of the contract dollar volume of the 1386 
+construction of the project, in accordance with § 2-218.46. 1387 
+  “(4) The property owner, or its designee or assignee, executes a First Source 1388 
+Agreement for the construction and operation of the project. 1389 
+  “(5) The property owner, or its designee or assignee, requests a letter from the 1390 
+Mayor stating that the proposed redevelopment project is eligible for the tax abatement, setting 1391 
+forth the expected amount of the abatement, as determined pursuant to § 47-861.03(a), and 1392 
+reserving that amount for the project. 1393 
+  “(6) The Mayor transmits to the owner the eligibility and reservation letter 1394 
+requested under paragraph (4) of this section, subject to such conditions as may be imposed by 1395 
+the Mayor and subject to the adjustment of the abatement amount based on the certifications 1396 
+provided for in § 47-860.03(a) and the abatement cap set forth in § 47-861.03(b). 1397 
+ “(b) The Mayor shall, as nearly as practicable, review requests for eligibility and 1398 
+reservation letters in the order in which each completed request is received.  1399 
+ “(c) The Mayor shall transmit to OTR a copy of each eligibility and reservation letter 1400 
+transmitted by the Mayor to an owner pursuant to subsection (a)(5) of this section.  1401 
+ “(d) An abatement of the tax otherwise imposed under this chapter shall not be provided 1402 
+for a property for which an eligibility and reservation letter was transmitted by the Mayor 1403 
+pursuant to subsection (a)(5) of this section if the project which was the basis upon which the 1404 
+eligibility and reservation letter was issued has not received a certificate of occupancy within 24 1405
+
+62 
+ 
+months after the date the eligibility and reservation letter was transmitted; provided, that the 1406 
+Mayor may extend the 24-month period for up to 8 months as deemed necessary. 1407 
+ “(e)(1) After the completion of a project for which an eligibility and reservation letter was 1408 
+issued, the Mayor shall, if the conditions set forth in this section and the eligibility and 1409 
+reservation letter have been met, and subject to the abatement cap set forth in § 47-860.03(b), 1410 
+issue the property owner a certification of tax abatement, subject to such conditions as the Mayor 1411 
+may impose. The Mayor shall provide a copy of the certification letter to OTR. The certification 1412 
+shall identify: 1413 
+   “(A) The property to which the certification applies by square and lot, or 1414 
+parcel or reservation number; 1415 
+   “(B) The full legal name of the property owner, including taxpayer 1416 
+identification number; 1417 
+   “(C) The tax to which the certification applies; 1418 
+   “(D) The portion of the property that is eligible; 1419 
+   “(E) The commencement date of the abatement; 1420 
+   “(F) Any other information OTR shall require to administer the abatement. 1421 
+  “(2) The Mayor shall notify the property owner and OTR if any property or owner 1422 
+certified under paragraph (1) of this subsection becomes ineligible for the abatement. The notice 1423 
+shall be written, shall identify the ineligible property, the date that the property became 1424 
+ineligible, and any other information required by OTR to terminate the abatement. 1425 
+ “Sec. 47-861.03. Tax abatements for the redevelopment of vacant and blighted 1426 
+commercial properties – Abatement period, abatement amount, and caps.  1427
+
+63 
+ 
+ “(a) For each property for which a certification of abatement was issued under § 47-1428 
+860.02(e), the real property tax imposed on the property under this chapter shall be abated as 1429 
+follows: 1430 
+  “(1) Half of the otherwise applicable tax in each of the first six tax years 1431 
+following the tax year during which a certification of tax abatement is issued pursuant to § 47-1432 
+860.02(e); 1433 
+  “(2) Two-thirds of the applicable tax in each of the seventh and eighth tax years 1434 
+following the tax year during which a certification of tax abatement is issued pursuant to § 47-1435 
+860.02(e); and 1436 
+  “(3) Three-quarters of the applicable tax in each of the ninth and tenth tax years 1437 
+following the tax year during which a certification of tax abatement is issued pursuant to § 47-1438 
+860.02(e).  1439 
+ “(b) The total amount of tax abatements the Mayor may approve or certify under § 47-1440 
+860.02 in each fiscal year, including amounts certified in prior years, shall be capped at the 1441 
+following amounts, subject to the availability of funding: 1442 
+  “(1) For fiscal years 2027, 2028, and 2029, up to $3 million; and 1443 
+  “(2) For each succeeding fiscal year after Fiscal Year 2029, up to $6 million.  1444 
+ “(c) (1) Prior to the preparation by OTR of tax bills for each half-year installment of tax, 1445 
+the Mayor shall certify to OTR, by a date and in a form and medium prescribed by OTR, each 1446 
+property eligible to receive a real property tax abatement pursuant to a certification issued 1447 
+pursuant to § 47-860.02(e), and the portion of the tax to be abated under subsection (a) of this 1448 
+section for each such property with respect to such half-year installment bill. 1449
+
+64 
+ 
+  “(2) The certification required by paragraph (1) of this subsection shall be 1450 
+accompanied by a statement from the Mayor specifying the total amount of the tax abatement 1451 
+under subsection (b) of this section for the semiannual period of the certification that is available 1452 
+to abate the taxes of the properties identified pursuant to paragraph (1) of this subsection.   1453 
+ “(d) If the amount of tax to be abated for any semiannual billing period for all properties 1454 
+certified under subsection (c)(1) of this section exceeds the total dollar amount of tax abatements 1455 
+available as certified under subsection (c)(2) of this section, the available dollar amount shall be 1456 
+allocated pro rata among all properties certified under subsection (c)(1) of this section. 1457 
+ “Sec. 47-861.04. Tax abatements for the redevelopment of vacant and blighted 1458 
+commercial properties – Rules. 1459 
+ “The Mayor shall, pursuant to Subchapter I of Chapter 5 of Title 2, issue rules to 1460 
+implement §§ 47-861.01 through 47-861.03.”. 1461 
+ TITLE V. FISCAL IMPACT STATEMENT; EFFECTIVE DATE. 1462 
+ Sec. 501. Fiscal impact statement. 1463 
+ The Council adopts the fiscal impact statement in the committee report as the fiscal 1464 
+impact statement required by section 4a of the General Legislative Procedures Act of 1975, 1465 
+approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a). 1466 
+ Sec. 502. Effective date. 1467 
+ This act shall take effect following approval by the Mayor (or in the event of veto by the 1468 
+Mayor, action by the Council to override the veto), a 30-day period of congressional review as 1469 
+provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 1470 
+24, 1973, (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of 1471 
+Columbia Register. 1472

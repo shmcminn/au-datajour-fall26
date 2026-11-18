@@ -1,0 +1,856 @@
+MURIEL BOWSER 
+        MAYOR 
+ 
+July 10, 2026 
+ 
+The Honorable Phil Mendelson 
+Chairman 
+Council of the District of Columbia 
+John A. Wilson Building 
+1350 Pennsylvania Avenue, NW, Suite 504 
+Washington, DC 20004 
+ 
+Dear Chairman Mendelson: 
+ 
+Enclosed for consideration and adoption by the Council of the District of Columbia is a bill entitled the 
+“Housing Investment Protection Act of 2026”.  
+ 
+This bill strengthens the District’s housing laws to support tenants, protect housing investments, and 
+improve the court process. Specifically, the Act will: 
+ 
+• Give the District of Columbia Housing Authority (DCHA) the flexibility necessary to support a 
+tenant while their unit is repaired or rehabilitated.  
+• Clarify a housing provider’s right and responsibility to access their units to make repairs.  
+• Expand the Local Rental Supplement Program for project-based vouchers from 30% to 50%. This 
+will expand the supply of affordable housing. 
+• Clarify the definition of “tenant” so it is clear who can assert the right of first refusal under the 
+Tenant Opportunity to Purchase Act (TOPA).  
+• Improve the TOPA law to ensure that transactions are enforceable, prevent unintended 
+consequences, and support the administration of the program. 
+• Strengthen the District’s Opportunity to Purchase Act to clarify that the Mayor has ability to 
+purchase newer buildings within a 15-year window, on an expedited timeframe, to preserve more 
+affordable units. 
+ 
+The Act will also improve the court process by: 
+ 
+• Clarifying that tenants receiving housing vouchers are only required to pay their fair share into 
+protective orders. 
+• Establishing a 60-day hearing timeline for eviction cases to ensure there is a predictable timeline 
+for landlords and tenants. 
+• Modernizing processes for delivery and receipt of eviction notices. 
+ 
+I urge the Council to take prompt and favorable action on the enclosed bill. 
+ 
+Sincerely, 
+ 
+Muriel Bowser 
+ 
+Enclosures
+
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+40 
+41 
+42 
+43 
+~--Z~ son 
+at the request of the Mayor 
+A BILL 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA 
+To amend the District of Columbia Housing Authority Act of 1999 to clarify the definition of the 
+term "obligation", to expand eligibility of the Local Rent Supplement Program to include 
+District residents with very low income, and to allow rental assistance contract funding, 
+in connection with the Local Rent Supplement Program, to be transferred from the 
+original property to a different property while the original property undergoes 
+renovations or repairs; to amend the Rental Housing Act of 1985 to exclude from the 
+limitation on the exemption to a housing accommodation owned by natural persons for 
+the purpose of registration and coverage requirements those units owned by an inter vivos 
+trust, to clarify the right of entry by a housing provider, to authorize the court to enjoin 
+and assess damages against a tenant who denies the housing provider's right of access to 
+the housing unit, to amend the notice requirements for eviction notices, to clarify the 
+applicability of other laws protecting District residents, to require initial eviction hearings 
+be held within 30 or 60 days based on the grounds for eviction, and to amend the service 
+requirements for eviction notices; to amend the Rental Housing Conversion and Sale Act 
+of 1980 to update and standardize definitions, to repeal redundant definitions, and to 
+remove the 30-day timeline for agreements or contracts to be filed, to reduce the 
+minimum number of days the Mayor has to negotiate in the event that tenants are not 
+properly notified of a pending sale, to lengthen the time in which the Mayor must file 
+required affordability covenants after purchasing a housing accommodation with existing 
+tenants, to remove the requirements regarding units that were vacant at the time of 
+purchase, and to remove the restriction on reducing the number of units affordable at 
+30% when developing an affordability plan; and to amend the Summary Abatement of 
+Life-or-Health Threatening Conditions Act of 1982 to require register agents to be 
+designated in accordance with procedures described in Subchapter IV of Chapter 1 of 
+Title 29 of the District of Columbia Official Code. 
+BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 
+act may be cited as the "Housing Investment Protection Act of 2026". 
+Sec. 2. The District of Columbia Housing Authority Act of 1999, effective May 9, 2000 
+(D.C. Law 13-105; D.C. Official Code§ 6-201 et seq.), is amended as follows: 
+1
+
+2 
+ (a) Section 2 (D.C. Official Code § 6-201) is amended as follows: 44 
+  (1) Paragraph (35) is amended as follows: 45 
+   (A) The existing text is designated as subparagraph (A). 46 
+   (B) A new subparagraph (B) is added to read as follows: 47 
+   “(B) A loan applied for, accepted, or received by the Authority from a 48 
+public or private source, as authorized by section 4(35), shall not be considered an obligation for 49 
+the purposes of section 10 or 11.”.  50 
+  (2) Paragraph (42A) is amended by striking the phrase extremely low-income” 51 
+and inserting the phrase “extremely low-income and very low-income” in its place. 52 
+  (3) A new paragraph (43D) is added to read as follows: 53 
+  “(43D) “Very low-income” means an individual or family whose gross income 54 
+does not exceed 50% of the area median income.”. 55 
+(b) Section 26a(a) (D.C. Official Code § 6-226(a)) is amended by striking the phrase 56 
+“extremely low-income” and inserting the phrase “extremely low-income and very low-income” 57 
+in its place. 58 
+(c) Section 26a(c) (D.C. Official Code § 6-226(c)) is amended by striking the phrase 59 
+“extremely low-income” and inserting the phrase “extremely low-income and very low-income” 60 
+in its place. 61 
+(d) Section 26b (D.C. Official Code § 6-227) is amended as follows: 62 
+  (1) Subsection (b-1) is amended as follows: 63 
+   (A) Paragraph (1) is amended by striking the phrase “extremely low-64 
+income” and inserting the phrase “extremely low-income and very low-income”. 65
+
+3 
+   (B) Paragraph (2) is amended by striking the phrase “for such assistance” 66 
+and inserting the phrase “for such assistance, including standards for approving temporary 67 
+transfers of Long-Term Subsidy Contracts under subsection (f)(3) and (4) of this section” in its 68 
+place. 69 
+(2) New paragraphs (f)(3) and (4) are added to read as follows: 70 
+  “(3) A housing provider that has an existing Long-Term Subsidy Contract 71 
+(“LTSC”) for project-based assistance awarded under this section may request approval from the 72 
+Authority and the Department of Housing and Community Development to transfer, on a 73 
+temporary basis, the assistance provided by the LTSC to another project or projects (the 74 
+“receiving project”) for the purpose of renovating or rehabilitating the initial LTSC project for 75 
+re-occupancy. The receiving project must meet the eligibility criteria of the Rent Supplement 76 
+Program housing assistance, and the provider shall prioritize impacted residents for return to 77 
+units in the initial LTSC project once its renovation or rehabilitation is complete. 78 
+  “(4) If a property receiving Rent Supplement Program funds awarded under this 79 
+section is placed into receivership, experiences a casualty that causes units in the property to be 80 
+deemed uninhabitable, fails multiple regular Authority inspections, fails an emergency Authority 81 
+inspection, or fails an emergency housing quality standards inspection, then the Authority may 82 
+suspend or terminate the Rent Supplement Program funds for the property and, with the approval 83 
+of the Department of Housing and Community Development, transfer the Rent Supplement 84 
+Program funds to another property on a temporary or permanent basis as is in the interest of the 85 
+tenants. The property to which the Rent Supplement Program assistance funds are transferred 86 
+must meet all eligibility criteria in order for the Rent Supplement Program housing assistance to 87 
+continue.” 88
+
+4 
+ Sec. 3. The Rental Housing Act of 1985, effective July 17, 1985 (D.C. Law 6-10; D.C. 89 
+Official Code § 42-3501.01 et seq.), is amended as follows: 90 
+ (a) Section 205(a)(3)(D) (D.C. Official Code § 42-3502.05(a)(3)(D)), is amended to read 91 
+as follows: 92 
+   “(D) The limitation of the exemption to a housing accommodation owned 93 
+by natural persons shall not apply to: 94 
+    “(i) A housing accommodation owned or controlled by a 95 
+decedent’s estate or testamentary trust if the housing accommodation was, at the time of the 96 
+decedent’s death, already exempt under the terms of paragraphs (3)(A) and (3)(B) of this 97 
+subsection; or 98 
+    “(ii) A housing accommodation held in an inter vivos trust that was 99 
+established by not more than 2 natural persons who collectively, directly or indirectly, own or 100 
+control 4 or fewer rental units in the District, all of which are held in the trust, and the 101 
+beneficiaries of which are natural persons who as a result of inheriting would own, directly or 102 
+indirectly, no other rental units in the District; and” 103 
+ (b) Section 208(a)(1)(G) (D.C. Official Code § 42-3502.08(a)(1)(G)), is amended by 104 
+striking the phrase “pursuant to section 203 of Title 14 of the District of Columbia Municipal 105 
+Regulations” and inserting the phrase “designated in accordance with the procedures in 106 
+Subchapter IV of Chapter 1 of Title 29 of the District of Columbia Official Code” in its place. 107 
+ (c) Section 501 (D.C. Official Code § 42-3505.01) is amended as follows: 108 
+  (1) Subsection (a)(2) is repealed.: 109 
+  (2) Subsection (a-1)(3) is repealed. 110 
+  (3) New subsections (a-2) and (a-3) are added to read as follows: 111
+
+5 
+ “(a-2) The notices required by subsections (a) and (a-1) of this section shall be provided 112 
+as follows: 113 
+  “(1) By certified mail, return receipt requested, or delivery service providing 114 
+delivery tracking confirmation; and 115 
+  “(2) By hand delivery to the rental unit or by posting on the front door of the 116 
+rental unit. If notice is served by posting a copy on the front door of the rental unit, a photograph 117 
+of the posted notice shall be submitted to the court. The photograph shall have a readable 118 
+timestamp that indicates the date and time the summons was posted.” 119 
+ “(a-3) Nothing in this section shall be construed to excuse a housing provider’s unlawful 120 
+retaliatory action or failure to comply with the Violence Against Women Act of 1994, approved 121 
+September 13, 1994 (108 Stat. 1902; 34 U.S.C. § 12291 et seq.), or successor legislation, the 122 
+Americans with Disabilities Act of 1990, approved July 26, 1990 (104 Stat. 327; 42 U.S.C. § 123 
+12101 et seq.), Titles VIII and IX of the Civil Rights Act of 1968, approved April 11, 1968 (82 124 
+Stat. 81; 42 U.S.C. §§ 3601-3619, 3631), the Human Rights Act of 1977, effective December 13, 125 
+1977 (D.C. Law 2-38; D.C. Official Code §§ 2-1401.01 et seq.), sections 507 and 508 of the 126 
+Rental Housing Act of 1985, effective July 17, 1985 (D.C. Law 6-10; D.C. Official Code §§ 42-127 
+3505.07 and 42-3505.08), or other applicable federal or District law.” 128 
+ (4) Subparagraph (a-1)(2) is amended by striking the phrase “30 days” and 129 
+inserting the phrase “10 days” in its place.  130 
+ (5) Subsection (c) is amended as follows: 131 
+   (A) Paragraph (1) is amended to read as follows:  132 
+  “(1) A housing provider may recover possession of a rental unit where a court of 133 
+competent jurisdiction has determined that the tenant, or a person occupying the premises with or 134
+
+6 
+in addition to the tenant, has performed an illegal act within the rental unit or the housing 135 
+accommodation. The housing provider shall serve on the tenant a 30-day notice to vacate. If the 136 
+person who was found to have performed an illegal act is someone occupying the premises other 137 
+than the tenant, the tenant may be evicted only if the tenant knew or should have known that an 138 
+illegal act was taking place.”  139 
+   (B) Paragraph (2) is amended as follows: 140 
+    (i) Subparagraph (A) is amended to read as follows: 141 
+   “(A)(i) A housing provider may, pursuant to the procedures set forth in this 142 
+paragraph, recover possession of a rental unit where it is alleged that the tenant, or a person 143 
+occupying the premises with or in addition to the tenant, has performed an illegal act within the 144 
+rental unit or housing accommodation that would constitute a dangerous crime as defined in § 145 
+23-1331(3) or a crime of violence as defined in § 23-1331(4).: 146 
+    “(ii) The housing provider, after considering in good faith all reasonable 147 
+available means to preserve the housing of non-offending occupants, such as barring the 148 
+offending individual from the property or assessing whether the lease can be transferred to an 149 
+eligible occupant, shall serve on the tenant a 10-day notice to vacate 150 
+    “(ii) In a claim to recover possession brought by a housing provider under 151 
+this paragraph, the Court shall hold a hearing on an expedited basis within 20 days after the filing 152 
+of the claim.”. 153 
+    (ii) Subparagraph (B) is amended as follows: 154 
+     (I) Sub-sub paragraph (i) is amended by striking the phrase 155 
+“; or” and inserting a semicolon in its place. 156
+
+7 
+      (II) Sub-subparagraph (ii) is amended by striking the phrase 157 
+“; or” and inserting a semicolon in its place. 158 
+     (III) Sub-subparagraph (iii) is amended by striking the 159 
+period and inserting the phrase “; or” in its place. 160 
+     (IV) A new sub-subparagraph (iv) is added to read as 161 
+follows: 162 
+    “(iv) The crime was committed in self-defense or defense of 163 
+another.”. 164 
+ (6) A new subsection (u) is added to read as follows: 165 
+ “(u) The Court shall hold an initial hearing on a case brought under subsection (a-1) or 166 
+(b) of this section within 60 days after the complaint is filed and an initial hearing on a case 167 
+brought under subsection (c)(1) or (c)(2) of this section within 30 days after the complaint is 168 
+filed.” 169 
+ (d) Section 531 (D.C. Official Code § 42-3505.51), is amended as follows: 170 
+  (1) Subsection (b) is amended by adding a new paragraph (4) to read as follows: 171 
+  “(4) Upon a showing by a housing provider that the tenant has refused entry to the 172 
+rental unit in violation of this section, or has not provided a housing provider with a new key or 173 
+means of access to the rental unit in violation of this section, any court of competent jurisdiction 174 
+may enjoin the tenant from that behavior, assess appropriate damages against the tenant for 175 
+breach of the housing provider’s right of access to the premises, or strike any relevant claim or 176 
+defense asserted by the tenant if doing so is an appropriate sanction. 177 
+  (2) New subsections (c) and (d) are added to read as follows: 178
+
+8 
+ “(c) Subject to the provisions of this section, a housing provider shall have the right to 179 
+enter a rental unit during the tenancy for any reasonable purpose, at a reasonable time, after 180 
+having provided the tenant reasonable notice. 181 
+ “(d)(1) A housing provider shall have a key or other means of access to each rental unit at 182 
+all times. 183 
+  “(2) If the lock or other means of access to the rental unit are changed by the 184 
+tenant or a third party on behalf of the tenant, the tenant shall provide the housing provider with 185 
+the new key or means of access within 48 hours of the change.” 186 
+ (e) Section 904(a) (D.C. Official Code § 42-3509.04(a)) is amended as follows: 187 
+  (1) Paragraph (2) is repealed. 188 
+  (2) A new paragraph (2A) is added to read as follows:  189 
+  “(2A) By email or other written electronic means if the recipient has given written 190 
+consent to receive communications through a particular email address or electronic account.”  191 
+Sec. 4. Chapter 15 of Title 16 of the District of Columbia Official Code is amended as 192 
+follows: 193 
+ (a) Section 16-1502a(a) is amended by striking the phrase “rent payment” and inserting 194 
+the phrase “tenant’s portion of the rent payment” in its place. 195 
+  Sec. 5. The Rental Housing Conversion and Sale Act of 1980, effective September 10, 196 
+1980 (D.C. Law 3-86; D.C. Official Code 42-3401.01 et seq.) is amended as follows: 197 
+ (a) Section 103 (D.C. Official Code § 42-3401.03) is amended as follows: 198 
+  (1) A new paragraph (8A) is added to read as follows:  199 
+ “(8A) “Department” means the Department of Housing and Community Development, or 200 
+any successor agency.” 201
+
+9 
+  (2) A new paragraph (13A) is added to read as follows: 202 
+ “(13A) “New building” means a building that has completed construction within the 15 203 
+years before the relevant date of sale, including: 204 
+    “(A) A building that received a permanent certificate of occupancy for a 205 
+new multifamily building within the 15-year period; 206 
+     “(2) A building whose gross floor area was increased through an 207 
+addition that resulted in the greater of 10 new dwelling units or a 50% increase in the number of 208 
+dwelling units relative to what existed in the building before the addition, if the permanent 209 
+certificate of occupancy for the addition was issued within the 15-year period; or  210 
+    “(3) A building changed in use and occupancy from any non-211 
+residential category to Residential Group R-2, as defined by the Construction Codes, a 212 
+permanent certificate of occupancy for which was issued within the 15-year period .”” 213 
+  (3) Paragraph (14) is amended to read as follows: 214 
+  “(14) “Owner” means: 215 
+   “(A) Any person, any one of a number of persons, or any entity in whom is vested 216 
+all or any part of the beneficial ownership, dominion, or title of a housing accommodation; or 217 
+   “(B) The committee, conservator, or legal guardian of a person described in 218 
+subparagraph (A) of this paragraph who is non compos mentis, a minor child, or otherwise under 219 
+a disability. 220 
+   (4) Paragraph (17) is amended to read as follows: 221 
+ “(17)(A) “Tenant” means any person or persons who, under the terms of a current or 222 
+expired written lease or other rental agreement, are entitled to occupy the housing 223 
+accommodation and are liable to the owner for the payment of rent. 224
+
+10 
+  “(B) Nothing in this paragraph shall be construed to limit the definition of 225 
+“tenant” for purposes of any other law.”. 226 
+  (5) A new paragraph (20) is added to read as follows:  227 
+ “(20) “Qualified purchaser” means a person: 228 
+  “(A) Certified by the Mayor pursuant to section 402d; or 229 
+  “(B) An agency or instrumentality of the District government.”. 230 
+ (b) Section 401a (D.C. Official Code § 42–3404.01a) is repealed.  231 
+ (c) Section 402b (D.C. Official Code § 42-3404.02b(b)) is amended to read as follows: 232 
+  (1) Paragraph (9) is amended to read as follows: 233 
+  “(9) The transfer of ownership interest in a corporation, partnership, limited 234 
+liability company, association, statutory trust entity formed under the Uniform Statutory Trust 235 
+Entity Act of 2010, D.C. Official Code § 29-1201.01 et seq., or a similar provision of another 236 
+jurisdiction, or other entity that owns a housing accommodation; provided, that the sole purpose 237 
+of the transfer is to admit one or more limited partners, investor members, or other equity 238 
+investors, and either: 239 
+   “(A)(1) Such new equity investors individually or combined, if more than 240 
+one, will have a minority interest; 241 
+     “(2) Before and after the transfer, or transfers, to such new equity 242 
+investors, the owner is controlled, directly or indirectly, by the same person or entity; and 243 
+     “(3) a Notice of Transfer is sent to tenants for this exemption 244 
+pursuant to section 403a; or 245
+
+11 
+    “(B)(1) Each of such new equity investors will receive tax benefits 246 
+pursuant to 26 U.S.C. § 42, or a comparable District program, and will make capital 247 
+contributions required in order to receive such tax benefits; and 248 
+    “(2) A Notice of Transfer is sent to tenants for this exemption pursuant to 249 
+section 403a.” 250 
+  (2) Paragraph (20) is amended to read as follows: 251 
+  “(20) A sale or other transfer of interest  in a new building as defined in section 252 
+103(13A); provided, that a Notice of Transfer is sent to tenants for this exemption pursuant to 253 
+section 403a; provided further, that this exemption shall not apply to the District’s opportunity to 254 
+purchase under title IV-A.”. 255 
+ (d) Section 403a (D.C. Official Code § 42-3404.03a) is amended as follows: 256 
+  (1) Subsection (a) is amended to read as follows: 257 
+  “(a) If a Notice of Transfer is required to be sent to the tenants pursuant to section 402(b), 258 
+the owner shall also provide the Mayor with a Notice of Transfer in a housing accommodation 259 
+before the transfer of the housing accommodation or the transfer of an interest in a housing 260 
+accommodation.” 261 
+  (2) Subsection (g) is amended to read as follows: 262 
+  “(g) Failure of a tenant or tenant organization to file timely a petition for relief pursuant 263 
+to section 403a(b) shall preclude the tenant or tenant organization from asserting any rights under 264 
+titles IV and V. 265 
+  (e) Section 405a(a) (D.C. Official Code § 42-3404.05a(a)) is amended by striking the 266 
+phrase “is filed with the Department within 30 days after signature by all parties” and inserting 267 
+the phrase “filed with the Department” in its place.: 268
+
+12 
+ (f) Section 433 (D.C. Official Code § 42-3404.33) is amended as follows:: 269 
+  (1) Subsection (b)(1) is amended as follows: 270 
+   (A) Subparagraph (A) is amended by striking the phrase “the monthly 271 
+rent” and inserting the phrase “the monthly rent for such tenants.” 272 
+   (B) The lead-in language to subparagraph (B) is amended to read as 273 
+follows: 274 
+   “(B) After the first 12 months, the monthly rent for such tenants shall be 275 
+subject to allowable percentage increases annually, limited to the greater of:” 276 
+  (2) Subsection (c) is amended as follows: 277 
+   (A) Paragraph (1) is amended by striking the phrase “Upon the initial sale” 278 
+and inserting the phrase “Within one year of the initial sale” in its place. 279 
+   (B) Paragraph (2) is repealed. 280 
+  (3) Subsection (d) is amended as follows: 281 
+   (A) Paragraph (1) is amended by striking the phrase “The Mayor, or an 282 
+assignee” and inserting the phrase “Within one year of the initial sale of the housing 283 
+accommodation to the Mayor or the Mayor’s assignee, the Mayor, or an assignee” in its place. 284 
+   (B) Paragraph (3) is amended by striking the phrase “at 30% or 60%” and 285 
+inserting the phrase “at 60%” in its place. 286 
+ (g) Section 434(a) (D.C. Official Code § 42-3404.34(a)) is amended by striking the 287 
+phrase “negotiate a contract for sale.” and inserting the phrase “negotiate a contract for sale, 288 
+except in the case where a notice of sale is not issued to the tenants pursuant to section 289 
+402b(b)(20), in which case the Mayor shall have not less than 60 days from the date of the 290
+
+13 
+owner’s receipt of the Mayor’s written statement of interest, issued pursuant to section 432(b), to 291 
+negotiate a contract for sale.” in its place. 292 
+ Sec. 6.  Section 5(b)(1) of the Summary Abatement of Life-or-Health Threatening 293 
+Conditions Act of 1982, effective March 10, 1983 (D.C. Law 4-205; D.C. Official Code § 42-294 
+903(b)(1)), is amended to read as follows: 295 
+“(b)(1) A person or entity that is the nonresident owner of one or more rental units shall 296 
+appoint and continuously maintain a registered agent for the service of process. The registered 297 
+agent shall be designated in accordance with the procedures in Subchapter IV of Chapter 1 of 298 
+Title 29 of the District of Columbia Official Code. The registered agent shall be an individual 299 
+who is a resident of the District of Columbia or an organization with an address located in the 300 
+District of Columbia.”. 301 
+Sec. 7. Fiscal impact statement.  302 
+The Council adopts the fiscal impact statement in the committee report as the fiscal 303 
+impact statement required by section 4a of the General Legislative Procedures Act of 1975, 304 
+approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).  305 
+Sec. 8. Effective date. 306 
+This act shall take effect following approval by the Mayor (or, in the event of veto by the 307 
+Mayor, action by the Council to override the veto), a 30-day period of Congressional review as 308 
+provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 309 
+24, 1973 (87 Stat. 813, D.C. Official Code § 1-206.02(c)(1)), and publication in the District of 310 
+Columbia Register. 311
+
+1350 Pennsylvania Avenue, N.W., Suite 409, Washington, D.C. 20004  
+Phone (202) 262-6402    Email: adele.el-khouri@dc.gov 
+ 
+ 
+ 
+GOVERNMENT OF THE DISTRICT OF COLUMBIA 
+OFFICE OF THE ATTORNEY GENERAL 
+ 
+ 
+BRIAN L. SCHWALB     PRIVILEGED AND CONFIDENTIAL  
+ATTORNEY GENERAL       ATTORNEY-CLIENT COMMUNICATION 
+ 
+ 
+ 
+LEGAL COUNSEL DIVISION 
+ 
+  
+MEMORANDUM 
+ 
+TO:   Tomás Talamante 
+Director 
+  Office of Policy and Legislative Affairs 
+  
+FROM:  Adele El-Khouri 
+Deputy Attorney General  
+Legal Counsel Division  
+  
+DATE:  July 2, 2026 
+  
+SUBJECT:   Legal Sufficiency Review of Rental Amendment Act of 2026  
+(AE-26-159) 
+_____________________________________________________________________________________ 
+ 
+This is to Certify that the Office of the Attorney General has reviewed the 
+above-referenced legislation and found it to be legally sufficient. If you have any questions in this 
+regard, please do not hesitate to call me at (202) 262-6402. 
+ 
+ 
+ 
+_________________________________ 
+Adele El-Khouri
+
+Government of the District of Columbia 
+Office of the Chief Financial Officer 
+ 
+Glen Lee 
+Chief Financial Officer 
+ 
+ 
+ 
+ 
+ 
+1350 Pennsylvania Avenue, NW, Suite 203, Washington, DC 20004 (202)727-2476 
+www.cfo.dc.gov 
+MEMORANDUM 
+ 
+TO:    The Honorable Phil Mendelson 
+Chairman, Council of the District of Columbia 
+ 
+FROM:    Glen Lee 
+Chief Financial Officer 
+ 
+DATE:    July 8, 2026 
+  
+SUBJECT:  Fiscal Impact Statement – RENTAL Amendment Act of 2026 
+ 
+REFERENCE:  Draft bill as provided to the Office of Revenue Analysis on July 7, 2026 
+ 
+ 
+Conclusion 
+ 
+Funds are sufficient in the proposed revised fiscal year 2026 and proposed fiscal year 2027 through 
+fiscal year 2030 budget and financial plan to implement the bill.  
+ 
+Background 
+ 
+The District of Columbia Housing Authority Act of 19991 established the District of Columbia Housing 
+Authority (DCHA) as an independent corporate body to oversee public housing; implement the 
+federal Housing Act of 1937; and provide housing for low- and moderate‑income residents.  District 
+law2 grants DHCA broad powers to acquire, manage, develop, finance, and oversee housing and 
+related operations, including to issue financial obligations; receive and use public or private sources 
+including gifts, grants, and loans; and provide grants, loans, and guarantees for housing development 
+and operations.  The bill clarifies that loans from private sources are not considered obligations3.  
+ 
+The bill also adds a definition for the term “very low-income” defined as an individual or family whose 
+gross income does not exceed 50% of the area median income (AMI). The bill clarifies that the Rent 
+ 
+1 Effective May 9, 2000 (D.C. Law 13-105; D.C. Official Code § 6-201 et seq.). 
+2 D.C. Official Code § 6–203. 
+3 Defined as revenue bonds, notes, mortgages, or other obligations (including refunding bonds, notes, or other 
+obligations) to finance or refinance the undertakings of DCHA pursuant to Chapter 2, Title 6 of the DC Official 
+Code in connection with DCHA’s issuance of bonds.
+
+The Honorable Phil Mendelson 
+FIS: “RENTAL Amendment Act of 2026”, Draft Bill as provided to the Office of Revenue Analysis on July 7, 
+2026 
+Page 2 of 8 
+ 
+Supplement Program (RSP)4 and the Department of Housing and Community Development (DHCD) 
+funds allocated under the Partnership Program For Affordable Housing5 for sponsor-based voucher 
+assistance are for very- and extremely low-income residents.   
+ 
+District law6 authorizes a term of up to 20 years for Long-Term Subsidy Contracts, or the maximum 
+initial term allowed for a Housing Assistance Payments (￼HAP7 contract￼, whichever is longer. 8An 
+existing Long-Term Subsidy Contract may be extended without competition￼ if the extension 
+complies with Council approval requirements and the contractor remains the same or is the 
+successor to the original contractor for the affordable housing units covered by the contract.  The bill 
+authorizes an existing Long-Term Subsidy Contract provider to request the transfer 9their RSP 
+contract to another site if they need to renovate or rehabilitate the original property￼ and if the 
+receiving site and tenants satisfy all eligibility criteria.  The bill requires the provider to present a 
+clear renovation timeline and to prioritize the return of displaced residents to renovated units.  If a 
+property receiving RSP funds goes into receivership, becomes uninhabitable due to casualty, or 
+repeatedly fails 10HQS￼) or emergency HQS inspections, the bill authorizes the DHCA to require the 
+11 RSP funds to another property￼, on a temporary or permanent basis, to protect tenants.   
+ 
+The Rental Housing Act of 198512 provides the statutory framework for the Rental Housing 
+Commission and the District’s rent stabilization program.  All rental units in the District are subject 
+to the law, with exceptions for: 
+• Units in federally- or District- owned or subsidized housing. 
+• Units rented or co-leased by home‑ and community‑based services waiver providers for 
+tenants with disabilities. 
+• Units receiving Low-Income Housing Tax Credits. 
+• Units in buildings constructed after 197513 or buildings with additional units created after 
+January 1, 198014. 
+• Units in small housing accommodations of four or fewer total units if: they are owned by no 
+more than four natural persons, the owners have no direct or indirect interest in other DC 
+rental units, and a valid exemption claim is filed and updated when ownership changes.  
+Estates and testamentary trusts may preserve the exemption under certain conditions and 
+ 
+4 Defined as the program established under D.C. Official Code § 6-226 to provide housing assistance to 
+extremely low-income District residents, including those who are homeless and those in need of supportive 
+services, such as elderly individuals or those with disabilities. 
+5 D.C. Official Code § 6-227(b-1)(1).  
+6 D.C. Official Code § 6-227(f). 
+7 Defined as a project-based housing assistance payments contract executed between the owner of an 
+affordable multifamily housing property and the Secretary of the U.S. Department of Housing and Urban 
+Development (HUD) or a public housing agency pursuant to section 8 of the United States Housing Act of 
+1937. 
+8 Pursuant to D.C. Official Code § 1–204.51. 
+9 Subject to Council approval. 
+10 HQS (Housing Quality Standards) inspections are minimum health and safety evaluations required by HUD 
+for rental units in voucher programs.  
+11 Any new property and participants must still meet all eligibility criteria for assistance to continue. 
+12 Effective July 17, 1985 (D.C. Law 6-10; D.C. Official Code § 42-3501.01 et seq.). 
+13 Permits issued after December 31, 1975. 
+14 This exemption does not apply if the new construction replaced rent‑controlled units, unless more units 
+were added than demolished.
+
+The Honorable Phil Mendelson 
+FIS: “RENTAL Amendment Act of 2026”, Draft Bill as provided to the Office of Revenue Analysis on July 7, 
+2026 
+Page 3 of 8 
+ 
+all rental units within a condo owned by the same natural persons count toward the four‑unit 
+limit. 
+• Units that have been continuously vacant and not rented since January 1, 1985, provided they 
+meet housing code requirements when re‑rented. 
+• Units in cooperative buildings where the proprietary lease is owned by no more than four 
+natural persons, these individuals have no interest in more than four DC rental units total, 
+and they file a proper exemption claim and report changes in ownership or interests.  
+• Housing accommodations under an approved building improvement plan or other DHCD 
+multifamily rehabilitation programs, if the plan is filed with 70% tenant approval, the 
+exemption ends when the plan expires, and at expiration, the plan’s rent and services 
+schedule becomes the baseline for future rent control purposes. 
+The bill clarifies that the provision limiting certain rent‑control exemptions to properties owned by 
+individuals does not apply when the property: 
+• Is owned or controlled by a decedent’s estate or testamentary trust, if the property qualified 
+for the exemption at the time of the owner’s death; and  
+• Is held in a living trust created by no more than two individuals who collectively own no more 
+than four rental units in the District, and the beneficiaries are individuals who, after 
+inheriting, would not own any additional rental units in the District. 
+ 
+District law15 authorizes a housing provider to enter a tenant’s unit for a reasonable purpose, at a 
+reasonable time, and with reasonable notice, except in emergency circumstances. If a tenant shows 
+that a housing provider has improperly entered or repeatedly made unreasonable entry demands, a 
+court may prohibit the behavior and award damages for the violation.  Tenants are required to permit 
+access for inspection or repairs within 48 hours of report to, and receipt by, the housing provider of 
+a housing code violation.  The bill authorizes a court to issue an order and award damages against a 
+tenant who improperly refuses entry to the unit or fails to provide the housing provider with new 
+keys after changing the locks.  The bill adds that a housing provider must always have a key or other 
+means of access to the unit and requires the tenant to furnish the housing provider with a new key 
+or access method within 48 hours, if the tenant has changed the locks.  
+ 
+District law16 prohibits evictions because a tenant’s lease has expired.17 A tenant may only be evicted 
+after receiving a proper written notice that meets legal requirements; and for all eviction notices 
+other than nonpayment of rent, the notice must be served on both the tenant and the Rent 
+Administrator18. The bill clarifies that eviction notices may be served by certified mail or another 
+delivery service that provides tracking and a return receipt; by hand‑delivery to the rental unit; or 
+by posting the notice19 on the unit’s front door.  
+ 
+ 
+15 D.C. Official Code § 42–3505.51.  
+16 D.C. Official Code § 42–3505.01. 
+17 If the tenant continues to pay all rent owed. Failure to pay a late fee cannot be used as a basis for eviction.  
+18 Appointed by the Mayor with the advice and consent of the Council to serve a 3-year term amongst other 
+conditions (D.C. Official Code § 42–3502.03a); must be admitted to practice before the District of Columbia 
+Court of Appeals amongst other qualification requirements (D.C. Official Code § 42–3502.03b); and is charged 
+with overseeing the rent stabilization program amongst other duties (D.C. Official Code § 42–3502.04).  
+19 If the notice is posted, the housing provider must submit a photo to the court showing the posted notice 
+with a clear, timestamped date and time.
+
+The Honorable Phil Mendelson 
+FIS: “RENTAL Amendment Act of 2026”, Draft Bill as provided to the Office of Revenue Analysis on July 7, 
+2026 
+Page 4 of 8 
+ 
+District law20 requires a housing provider, in the case of nonpayment of rent, to give the tenant at 
+least 10 days’ notice of the intent to file, unless the unpaid rent is less than $600, in which case no 
+such notice may be issued.21 The notice must state the total amount owed; include a rent ledger; 
+explain that the tenant may remain if the full balance is paid; and clarify that eviction can only be filed 
+if the balance is at least $600 and remains unpaid after 10 days. The bill requires the court hold an 
+initial hearing on a case brought regarding this section within 60 days.    
+ 
+District law22 allows a housing provider, in the case of a lease violation, other than nonpayment of 
+rent, to recover possession of the property if the tenant is given notice of the violation and fails to 
+correct it within 30 days.  The bill requires the court hold an initial hearing on a case brought 
+regarding this section within 60 days. 
+ 
+The bill recodifies the disclaimer clause that precludes a housing provider from engaging in unlawful 
+retaliation or violating federal or District protections or any applicable laws.23   
+ 
+District law24 authorizes a housing provider to evict a tenant, with a 30-day notice, if a court has 
+determined that the tenant, or occupant25, committed an illegal act on the premises.  If the alleged 
+illegal act qualifies as a dangerous crime or crime of violence that was not committed in 
+self‑defense26, the housing provider is required to first consider all reasonable ways27 to allow 
+non‑offending tenants to remain. If eviction is still pursued, the provider must offer a 10‑day notice 
+to vacate. After filing the case, the court must hold an expedited hearing within 20 days.  The bill 
+clarifies that the definitions28 for a dangerous crime or a crime of violence are within existing law. 
+ 
+District law29 provides that a tenant may defend against an eviction based on allegations of a 
+dangerous or violent crime if: 
+• The tenant did not know and had no reason to know whether criminal activity was occurring 
+or likely to occur; 
+• The tenant took reasonable steps30 to prevent the activity;  
+• The tenant was a victim or intended victim of the criminal activity; or  
+• The tenant is a victim, or the parent or guardian of a minor victim, of an intrafamily offense 
+when that offense is the basis for the notice to vacate. 
+ 
+20 D.C. Official Code § 42–3505.01(a-1). 
+21 The notice must also inform the tenant of their right to defend themselves in court and provide contact 
+information for free legal assistance. 
+22 D.C. Official Code § 42–3505.01(b). 
+23 Violence Against Women Act of 1994, approved September 13, 1994 (108 Stat. 1902; 34 U.S.C. § 12291 et 
+seq.), or successor legislation, the Americans with Disabilities Act of 1990, approved July 26, 1990 (104 Stat. 
+327; 42 U.S.C. § 12101 et seq.), Titles VIII and IX of the Civil Rights Act of 1968, approved April 11, 1968 (82 
+Stat. 81; 42 U.S.C. §§ 3601-3619, 3631), Unit A of Chapter 14 of Title 2, D.C. Official Code §§ 42-3505.07 and 
+42-3505.08. 
+24 D.C. Official Code § 42–3505.01. 
+25 If the illegal act was committed by someone other than the tenant, the tenant can only be evicted if they 
+knew or should have known about it. 
+26 For eviction cases filed after December 31, 2025. 
+27 Such as barring the offending person or transferring the lease. 
+28 As defined in D.C. Official Code § 23–1331(3) and § 23–1331(4), respectively.  
+29 D.C. Official Code § 42–3505.01(c).  
+30 Such as asking to remove the offending person from the lease, reporting prior incidents to police, seeking 
+help from social services, or refusing to allow the offending person to live in the home when feasible.
+
+The Honorable Phil Mendelson 
+FIS: “RENTAL Amendment Act of 2026”, Draft Bill as provided to the Office of Revenue Analysis on July 7, 
+2026 
+Page 5 of 8 
+ 
+The bill adds to the list of acceptable defenses that the tenant committed the dangerous or violent 
+crime in self-defense or defense of another.  The bill requires the court hold an initial hearing on a 
+case brought regarding this section within 30 days. 
+ 
+District law31 authorizes service of required documents to be completed by hand‑delivery, properly 
+stamped and addressed mail via the U.S. Postal Service, or any other method authorized by an order 
+of the Rental Housing Commission or Rent Administrator.  The bill repeals service by telegram and 
+authorizes by electronic means if the recipient has given express consent to receive communications 
+through a particular address or account.   
+ 
+District law32 authorizes a party in a nonpayment‑of‑rent eviction case to request a protective order 
+requiring the defendant to pay ongoing monthly rent into the court registry.  The bill clarifies that it 
+is the tenant’s portion of the monthly rent.  
+ 
+The purpose33 of the Tenant Opportunity to Purchase Act of 1980 (TOPA), as amended34 was to 
+protect tenants from displacement during the sale or conversion of rental housing, preserve 
+affordable housing, and strengthen tenants’ ability to organize and negotiate.  The law also aimed to 
+support continued affordability for tenants who remain after conversion, provide relocation 
+assistance to those who must move, balance affordable homeownership and rental preservation, and 
+authorize actions needed to carry out these objectives.  The bill recodifies35 the definitions section.    
+ 
+The purpose of the District Opportunity to Purchase Amendment Act (DOPA)36 was to preserve and 
+expand affordable rental housing in the District. It requires owners of rental buildings with five or 
+more units—where at least 25% of the units are affordable—to give the District the chance to 
+purchase the property. However, tenants have the first right to purchase under TOPA37, and the 
+District’s rights under DOPA apply only after tenants decline or do not move forward. 
+ 
+The bill amends TOPA to clarify that written certifications issued related to the sale38 of a property 
+by the owner39 to the tenant40 are via Review of File Letter.  The bill provides that the term sale does 
+not include when a New Building41 is sold or transferred, but mandates that tenants and the Mayor 
+ 
+31 D.C. Official Code § 42–3509.04(a). 
+32 D.C. Official Code § 16–1502a. 
+33 D.C. Official Code § 42–3401.02. 
+34 Effective September 10, 1980 (D.C. Law 3-86; D.C. Official Code § 42-3401.01 et seq.). 
+35 D.C. Official Code § 42–3404.01a. 
+36 Effective December 24, 2008 (D.C. Law 17-286; D.C. Official Code § 42-3401.01 et seq.). 
+37 Effective September 10, 1980 (D.C. Law 3-86; D.C. Official Code § 42–3404.02 et seq.). 
+38 Or issuance of a notice to vacate for purposes of demolition or discontinuance of housing use.  
+39 Defined as any person, any one of a number of persons, or any entity in whom is vested all or any part of 
+the beneficial ownership, dominion, or title of a housing accommodation; or the committee, conservator, or 
+legal guardian of a person who is non compos mentis, a minor child, or otherwise under a disability. 
+40 Defined as any person or persons who, under the terms of a current or expired written lease or other rental 
+agreement, are entitled to occupy the housing accommodation and are liable to the owner for the payment of 
+rent. 
+41 Defined as a building that in sum or a whole of its parts did not exist previously; a development that is 
+proposing new gross floor area beyond that existing at the time of the building permit application that would 
+result in the greater of 10 new dwelling units or a 50% increase in the number of dwelling units relative to 
+what existed on the site prior to development; or a construction project involving a change of use and
+
+The Honorable Phil Mendelson 
+FIS: “RENTAL Amendment Act of 2026”, Draft Bill as provided to the Office of Revenue Analysis on July 7, 
+2026 
+Page 6 of 8 
+ 
+receive a Notice of Transfer prior to transferring the housing accommodation or any interest in it.  
+The bill precludes the tenant or tenant organization from asserting any rights if they fail to file timely 
+a petition42 for relief. 
+ 
+TOPA43 excludes certain transactions from being classified as a sale; specifically, the terms “sell” and 
+“sale” do not include transfers of ownership interests in an entity that owns a housing 
+accommodation as long as: 
+• The transfer is only to add new limited partners or investor members who will hold a 
+minority interest, and each contributes capital equal to the value of the ownership share they 
+receive, or the transfer allows existing partners or members to exit the entity; 
+• The new investor is barred from acquiring any additional interest in the housing 
+accommodation for 12 months after joining; and 
+• A Notice of Transfer44 is provided to the tenants.  
+The bill amends this section so that a transfer of ownership interest in an entity that owns a housing 
+accommodation is exempt if the transfer is only for bringing in new limited partners or equity 
+investors. The bill requires that: 
+• the new investors together hold only a minority interest, ownership control remains the same 
+before and after the transfer, and tenants receive a Notice of Transfer; or  
+• the new investors are receiving federal or local tax-credit benefits and are making the 
+required capital contributions, and tenants receive a Notice of Transfer. 
+ 
+TOPA45 invalidates purchase agreements and/or contracts filed with DHCD if those documents do 
+not retain specific details46 and if those documents are not filed within 30 days. DHCD must issue 
+rules47 that create a standard purchase‑contract template and define the minimum information all 
+purchase contracts must include.  The bill removes the 30-day time frame and makes enforceability 
+and validity subject only to the inclusion of the specific details.  
+ 
+DOPA48 requires an owner to provide the Mayor the same opportunity to purchase property that 
+tenants receive49 before selling any housing accommodation with five or more units. The bill clarifies 
+that the exemption for the term sale, as it relates to the sale or transfer of interest in a new building 
+that has completed construction50, does not apply to the Mayor’s opportunity to purchase. 
+ 
+DOPA51 requires that in instances where the Mayor purchases a housing accommodation, rents for 
+existing tenants must remain affordable. For the first 12 months, rent cannot be higher than it was 
+on the date the Mayor received the offer of sale.  After the first year, rent may only increase annually 
+ 
+occupancy for a building from any non-residential category to Residential Group R-2, as defined by the 
+Construction Codes. 
+42 Pursuant to D.C. Official Code § 42–3404.03a(b). 
+43 D.C. Official Code § 42–3404.02b(b)(9). 
+44 Pursuant to D.C. Official Code § 42–3404.03a. 
+45 D.C. Official Code § 42–3404.05a. 
+46 That is, address and ward; unit count; sales price; information related to rent-stabilization; information 
+related to income-restricted units and subsidies; and other information as determined by DHCD. 
+47 By June 29, 2026. 
+48 D.C. Official Code § 42-3404.31. 
+49 D.C. Official Code § 42–3404.02. 
+50 As evidenced by a permanent certificate of occupancy for a new multifamily building within the 15 years 
+before the date of sale. 
+51 D.C. Official Code § 42–3404.33.
+
+The Honorable Phil Mendelson 
+FIS: “RENTAL Amendment Act of 2026”, Draft Bill as provided to the Office of Revenue Analysis on July 7, 
+2026 
+Page 7 of 8 
+ 
+by the smaller of the standard rent‑stabilization increase allowed by District law52, or the increase 
+permitted under any applicable local or federal affordability program.  The bill clarifies that the 
+monthly rent is for “such tenants” and that the increase may be by the larger of the two options.  
+ 
+DOPA53 requires that when the Mayor purchases a housing accommodation, the Mayor record a 
+covenant mandating that certain units remain rent‑ and income‑restricted for as long as the property 
+remains rental housing.  Units with rents at or below the 60% AMI rent level at the time of the offer 
+must be preserved as affordable, along with any additional units identified in the required 
+affordability plan.  The bill amends the law to allow this to occur within one year of the initial sale 
+instead of upon the initial sale.   
+ 
+The bill repeals the requirement that units vacant at the time of the offer, or that become vacant 
+before the covenant is signed, be restricted to AMI levels outlined in the law.54 
+ 
+The bill amends the law to require the Mayor to create an affordability plan within one year of the 
+purchase of a housing accommodation that explains how the Mayor will meet the required 
+affordability restrictions and, when possible, increase the number of units affordable to households 
+at or below 60% of AMI.  The bill amends the law to prohibit the plan from reducing the number of 
+units affordable at 60% AMI55 that existed at the time the Mayor received the offer of sale. 
+ 
+DOPA56 grants the Mayor 150 days to negotiate a contract for the sale of a housing accommodation.  
+The bill clarifies that if a notice of sale is not issued to the tenants regarding a new building that has 
+completed construction57, the Mayor has 60 days from the date of the owner’s receipt of the Mayor’s 
+written statement of interest.  
+ 
+District law58 requires a nonresident owner of one or more rental units to designate and maintain a 
+registered agent in the District for service of legal documents. The owner must file the agent’s 
+information with the Mayor, and if the agent or any of the agent’s details change, the owner must file 
+an updated statement notifying the Mayor.  The bill amends the law to clarify that the agent must be 
+designated following the procedures pursuant to District law59, and must be either a District resident 
+or an organization with a District address. 
+ 
+ 
+52 D.C. Official Code § 42–3502.08(h). 
+53 D.C. Official Code § 42–3404.33(c). 
+54 Units previously renting at or below the 60% AMI level must be restricted to households at or below 60% 
+AMI; units at or below the 30% AMI level must be restricted to households at or below 30%. All other units 
+must have rents set according to the affordability plan.  The Mayor may waive these specific affordability 
+requirements for vacant units to improve the financial feasibility of the project, in which case those units 
+follow the affordability plan instead. 
+55 Instead of the current 30% or 60%.  
+56 D.C. Official Code § 42–3404.34(a). 
+57 As evidenced by a permanent certificate of occupancy for a new multifamily building within the 15 years 
+before the date of sale. 
+58 D.C. Official Code § 42-903(b)(1). 
+59 D.C. Official Code Title 29, Chapter 1, Subchapter IV, which details the legal requirements for establishing 
+and maintaining a registered agent for businesses operating within the District.
+
+The Honorable Phil Mendelson 
+FIS: “RENTAL Amendment Act of 2026”, Draft Bill as provided to the Office of Revenue Analysis on July 7, 
+2026 
+Page 8 of 8 
+ 
+Financial Plan Impact 
+ 
+Funds are sufficient in the proposed revised fiscal year 2026 and proposed fiscal year 2027 through 
+fiscal year 2030 budget and financial plan to implement the bill.  The bill impacts the eviction process 
+for both tenants and housing providers.  Currently, the federal government employs and pays the 
+costs of judicial proceedings. The fiscal impact statement is not required to assess any impacts of the 
+bill on federal agencies.  DHCD, DCHA, and the Deputy Mayor of Planning and Economic Development 
+can implement the bill within current resources.  DHCD does not require additional resources to 
+implement changes regarding the TOPA or DOPA.  DHCD will continue to administer the rent control 
+program and process eviction notices and applications using current resources.  DCHA does not 
+require additional resources to administer payments under the RSP.

@@ -1,0 +1,178 @@
+Statement of Introduction 
+Rodent Abatement and Transparency (RAT) Act of 2025 
+November 19, 2025 
+ 
+Today, alongside Councilmembers Parker, Allen, Nadeau, Pinto, and Henderson, I am proud to 
+introduce the Rodent Abatement and Transparency (RAT) Amendment Act of 2025 to address 
+Washington, D.C.’s growing rodent population and safeguard public health across the District. 
+Rodents are more than an urban nuisance. They carry diseases that can spread to humans, and a 
+recent study in Science Advances found that among 15 major cities, D.C. had the fastest-growing 
+rat population. Researchers point to increasing urban density and climate change as key 
+drivers—meaning this problem will only worsen without coordinated action. 
+The RAT Amendment Act strengthens the District’s approach by improving enforcement, 
+expanding data transparency, and bolstering trash-related policies. It ensures the District can 
+recover the costs of corrective actions when it must step in to address rodent infestation, 
+harborage, or food sources, and allows additional reasonable costs to be assessed so that chronic 
+problem properties are held accountable. 
+To improve transparency and help the public understand where rodent activity is concentrated, 
+the bill requires DC Health to create a publicly accessible rodent abatement dashboard by 
+January 1, 2027. This dashboard will include rodent population estimates, geospatial trends in 
+treatments and service requests, and filters by Ward, ANC, and SMD. The bill also requires DC 
+Health to submit a comprehensive report to the Council by March 30, 2027, outlining abatement 
+efforts, their effectiveness, and the resources needed to make meaningful progress. 
+Because trash is a major food source for rodents, the bill requires Advisory Neighborhood 
+Commissions to be notified before public litter cans are removed from residential blocks. It also 
+ensures that if DPW encounters active rodent activity during enforcement of trash violations, 
+those violations are referred to DC Health so both agencies can coordinate abatement. 
+Reducing the rodent population requires targeted, multi-layered strategies. The RAT Amendment 
+Act provides practical, community-centered tools to improve enforcement, strengthen data 
+systems, and support cleaner neighborhoods. I look forward to working with my colleagues to 
+advance this legislation and protect the health and safety of residents across the District.
+
+The RAT Amendment Act of 2025 strengthens rat abatement efforts by increasing fines for 
+corrective actions undertaken by the District and requiring trash violations that occur in areas 
+with visible rodent activity to be automatically jointly referred to DC Health.  
+The bill also seeks to strengthen abatement efforts by increasing data regarding the rat 
+population. The RAT Amendment Act of 2025 will increase transparency around rodent 
+abatement efforts by establishing a rat abatement dashboard, allowing the public to have a broad 
+understanding of where rat populations have been reported and where DC Health has 
+implemented abatement strategies. Additionally, it would require DC Health deliver a report to 
+the Council efficacy of reduction strategies and recommendations for further reducing the rodent 
+population.
+
+1 
+ 1 
+ 2 
+___________________________         ___________________________ 3 
+Councilmember Zachary Parker     Councilmember Janeese Lewis George 4 
+ 5 
+ 6 
+_____________________________            _____________________________  7 
+Councilmember Charles Allen Councilmember Brianne K. Nadeau 8 
+            9 
+ 10 
+_____________________________       _____________________________ 11 
+Councilmember Brooke Pinto                                                Councilmember Christina Henderson 12 
+ 13 
+A BILL 14 
+ 15 
+ 16 
+_________ 17 
+ 18 
+ 19 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA 20 
+ 21 
+__________________ 22 
+ 23 
+ 24 
+To amend the Rodent Control Act of 2000 to require the Department of Health to require the 25 
+development of a rodent abatement dashboard and report on rodent abatement efforts and 26 
+permit treble fines on corrective actions; to amend the Sustainable Solid Waste 27 
+Management Amendment Act of 2014 to require Department of Public Works provide 28 
+notice to Advisory Neighborhood Commissions before the removal of public trash cans 29 
+in residential zones and ensure that any sightings of active rodent or vector activity 30 
+during the course of enforcement under the act also be referred to the Department of 31 
+Health; to amend the Vector-Borne Infectious Diseases Control Act of 2004 to repeal the 32 
+Vector-Borne Infectious Diseases Control Fund which is not in use. 33 
+ 34 
+BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 35 
+act may be cited as the “Rodent Abatement and Transparency (RAT) Amendment Act of 2025”. 36 
+Sec. 2. Subtitle B of the Rodent Control Act of 2000, effective February 2, 2001 (D.C. 37 
+Law 13-172; D.C. Official Code § 2103.01 et seq.), is amended as follows: 38 
+(a) Sec. 904 (D.C. Official Code § 8–2103.01) is amended to add a new paragraph (7) to 39 
+read as follows: 40
+
+2 
+ “(7) “Dashboard” means a publicly accessible, regularly updated online data 41 
+interface that is: 42 
+   “(A) Machine-readable;  43 
+   “(B) Enabled for source-data export; 44 
+   “(C) Maintained with time-series and geospatial data; and 45 
+   “(D) Capable of filtering data by attributes through a graphical user 46 
+interface;”. 47 
+ (b) Sec. 907 (D.C. Official Code § 8–2103.04) is amended as follows: 48 
+  (1) Subsection (a) is amended to strike the phrase “certain health hazards that 49 
+have resulted from the harborage of rodents” and insert in its place the phrase “violations of this 50 
+subtitle”. 51 
+  (2) Subsection (b) is amended to read as follows: 52 
+ “(b) If the District incurs costs for undertaking any corrective or enforcement action to 53 
+abate rodent infestation, rodent harborage, or rodent food sources, all parties found to be liable 54 
+by the Mayor shall be jointly and severally liable to the District government for the costs 55 
+incurred by the District. In addition to any other enforcement action, the Mayor may assess any 56 
+reasonable costs, to total no more than three times the costs incurred by the District, for 57 
+correcting the condition and any related expenses as a tax against the property, carry the tax on 58 
+the regular tax rolls, and collect the tax in the same manner as real estate taxes are collected.”. 59 
+ (c) Sec. 908(a) (D.C. Official Code § 8–2103.05(a)) is amended as follows:    60 
+ “(a) It shall be unlawful for any person to provide harborage to rodents on private 61 
+property which they own, or cause or permit the accumulation of debris on public or private 62
+
+3 
+property, or cause or permit weeds or grass to grow to a height of 8 inches or more on private 63 
+property which they own.”. 64 
+ (d) A new section 908b is added to read as follows: 65 
+ “Sec. 908b. Rodent Abatement Dashboard. 66 
+ “(a) By January 1, 2027, the Department shall create a dashboard on rodent abatement 67 
+metrics and data, which shall be prominently accessible from the Department’s Rodent and 68 
+Vector Control Division webpage. The dashboard shall include the following: 69 
+  “(1) Latest estimate of the District’s rodent population, including the date the 70 
+estimate was calculated; 71 
+  “(2) Time series geospatial data of types of rodent abatement treatments utilized; 72 
+  “(3) Time series geospatial data of rodent abatement treatment requests and 73 
+resolution status; and 74 
+  “(4) Filters to enable users to view data by Ward, Advisory Neighborhood 75 
+Commission, Single Member District, and calendar quarter.”. 76 
+ (c) A new section 908c is added to read as follows: 77 
+ “Sec. 908c. Rodent Abatement Report. 78 
+ “(a) By March 30, 2027, the Department shall submit a report to the Council detailing the 79 
+Department’s rodent abatement efforts over the previous three years and their outcomes, and 80 
+recommendations for further reducing the rodent population. At minimum, the report shall 81 
+include: 82 
+  “(1) An overview of the current and planned rodent abatement measures, 83 
+including goals and specific benchmarks and timelines; 84
+
+4 
+  “(2) Metrics the Department is using to measure the efficacy of rodent abatement, 85 
+including a description of whether the Department has seen improvement, as measured by such 86 
+metrics, and, if so, how such improvement has been achieved;  87 
+  “(3) Metrics on rodent population during the reporting period; 88 
+  “(4) Metrics on the number of Notices to Abate Violation issued and corrective 89 
+measures undertaken on behalf of property owners; 90 
+  “(5) A description of public education and outreach measures undertaken by the 91 
+Department in relation to rodent abatement; and 92 
+  “(6) Budgetary recommendations needed to achieve a 20 percent decrease in 93 
+rodent population over 3 years.”. 94 
+ Sec. 3: Subtitle A of Title I of the Sustainable Solid Waste Management Amendment Act 95 
+of 2014, effective Feb. 26, 2015 (D.C. Law 20-154; D.C. Official Code § 8–1031.01 et seq.) is 96 
+amended as follows:  97 
+ (a) A new section 106c is added to read as follows: 98 
+ “Sec. 106c. Removal of public litter containers. 99 
+ “(a) Before removing a public litter container on a block in a Residential Zone, DPW 100 
+must:  101 
+  “(1) Receive a request for removal;  102 
+  “(2) Issue a written notice of intent to install a public litter container to the 103 
+Council and the affected Advisory Neighborhood Commissions (“ANC”) and provide the 104 
+Council and affected ANCs 30 days, excluding Saturdays, Sundays, and legal holidays, to 105 
+respond; and  106
+
+5 
+  “(3) Give great weight to any comment from an affected ANC, pursuant to section 107 
+13(3)(A) of the Advisory Neighborhood Commissions Act of 1975 (D.C. Law 1-21; D.C. 108 
+Official Code§ 1-309.10(3)(A)).”. 109 
+ (b) Section 114 is amended to add a new subsection (c-1) to read as follows: 110 
+ “(c-1) If during the course of enforcement as provided in subsection (c) of this section 111 
+there is evidence of active rodent or other vector activity, DPW shall also refer the violations to 112 
+the Department of Health as set forth in sections 907 and 908 of the Rodent Control Act of 2000, 113 
+effective February 2, 2001 (D.C. Law 13-172; D.C. Official Code § 2103.04 et seq.)  114 
+and section 6 of the Vector-Borne Infectious Diseases Control Act of 2004, effective May 18, 115 
+2004 (D.C. Law 15-163; D.C. Official Code § 8–2131.05).”. 116 
+Sec. 4. Section 8 of the Vector-Borne Infectious Diseases Control Act of 2004, effective 117 
+May 18, 2004 (D.C. Law 15-163; D.C. Official Code § 8–2131.07) is repealed. 118 
+Sec. 5. Fiscal impact statement. 119 
+The Council adopts the fiscal impact statement in the committee report as the fiscal 120 
+impact statement required by section 4a of the General Legislative Procedures Act of 1975, 121 
+approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a). 122 
+Sec. 6. Effective date. 123 
+This act shall take effect following approval by the Mayor (or in the event of veto by the 124 
+Mayor, action by the Council to override the veto) and a 30-day period of congressional review 125 
+as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 126 
+24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)). 127

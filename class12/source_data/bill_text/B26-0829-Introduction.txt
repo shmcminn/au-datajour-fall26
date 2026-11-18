@@ -1,0 +1,260 @@
+COMMITTEE ON HOUSING 
+ROBERT C. WHITE, JR., CHAIR 
+COUNCIL OF THE DISTRICT OF COLUMBIA 
+ 
+ 
+ 
+   
+ 
+Statement of Introduction 
+Shared Housing Agreements and Resolution Effort (SHARE) Pilot Program Amendment 
+Act of 2026 
+__________ 
+September 28, 2026 
+Today, alongside Councilmembers Charles Allen, Brianne Nadeau, and Matthew Frumin, I am 
+introducing the Shared Housing Agreements and Resolution Effort (SHARE) Pilot Program Amendment 
+Act of 2026. Thousands of District residents face eviction each year, and most cases are based on 
+nonpayment of rent. At the time of filing, most tenants owe less than $6,000.1 Even when tenants 
+ultimately remain housed, litigation is expensive for landlords, stressful for tenants, and burdensome for 
+the courts. There is broad support among stakeholders for earlier mediation to preserve viable tenancies 
+and prevent rent debt from growing during lengthy court proceedings. Eviction diversion programs have 
+proven effective in other jurisdictions,2 and District working groups have recommended earlier mediation 
+intervention.3 
+This bill creates a targeted eviction diversion pilot with mandatory early mediation and limited District 
+financial assistance when tenants and housing providers also contribute toward resolving the debt. While 
+the program requires public investment, early intervention is a more effective use of resources than 
+reacting to the downstream costs of displacement. 
+The SHARE program recognizes that tenants, housing providers, and the District all share responsibility 
+for resolving avoidable evictions. It targets the tenants most likely to stabilize long term while reducing 
+unnecessary court congestion. The pilot approach will test this model, evaluate its effectiveness, and 
+determine whether it should be expanded. The SHARE program is not intended to prevent every eviction, 
+but to intervene early where eviction is avoidable.  
+This bill was drafted in collaboration with The Coalition, the Office of the Tenant Advocate, Legal 
+Counsel for the Elderly, and incorporates feedback from the Housing Unity rent nonpayment working 
+group convened by the Federal City Council. 
+___________________ 
+ 
+Councilmember Robert C. White, Jr. 
+ 
+1 https://www.newamerica.org/insights/an-update-on-dc-evictions-june-2025-through-february-2026/ 
+2 https://www.urban.org/research/publication/diverting-eviction-related-cases-away-courts 
+3 https://www.urban.org/research/publication/collaborative-framework-eviction-prevention-dc
+
+1 
+ 
+ 1 
+ 2 
+________________________   ____________________________ 3 
+Councilmember Charles Allen   Councilmember Robert C. White, Jr. 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+_____________________________   ____________________________ 10 
+Councilmember Brianne K. Nadeau   Councilmember Matthew Frumin 11 
+ 12 
+ 13 
+ 14 
+ 15 
+A BILL 16 
+____________ 17 
+ 18 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA 19 
+ 20 
+_____________________ 21 
+ 22 
+To amend the Rental Housing Act of 1985 to establish a pilot program to require mediation 23 
+between parties for certain eviction cases based on nonpayment of rent, and to create a 24 
+fund to provide District funding for housing providers under certain mediation 25 
+agreements.  26 
+ BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 27 
+act may be cited as the "Shared Housing Agreements and Resolution Effort Pilot Program 28 
+Amendment Act of 2026". 29 
+ Sec 2. The Rental Housing Act of 1985, effective July 17, 1985 (D.C. Law 6-10; D.C. 30 
+Official Code §42-3501.01 et seq.) is amended as follows:  31 
+ (a) A new Title V-C is added to read as follows: 32 
+ "TITLE V-C. ESTABLISHMENT OF THE SHARED HOUSING AGREEMENTS AND 33 
+RESOLUTION EFFORT PILOT PROGRAM. 34
+
+2 
+ 
+ "Sec. 536. Establishment of the SHARE Pilot Program 35 
+ "(a) In Fiscal Year 2028, the Department of Housing and Community Development 36 
+("Department") shall establish a Shared Housing Agreements and Resolution Effort (“SHARE”) 37 
+Pilot Program ("pilot") to operate a residential eviction diversion program to facilitate dispute 38 
+resolution in certain cases between landlords and tenants prior to the filing of an eviction notice 39 
+on the basis of nonpayment of rent. 40 
+ "(b)(1) The Department shall establish an application process through which a housing 41 
+provider may apply to enroll one or more specified residential rental properties in the pilot 42 
+program.   43 
+“(2) An application may be submitted by: 44 
+"(A) The owner of the residential rental property; or 45 
+"(B) A property manager or other authorized agent acting with the written 46 
+authorization of the owner.  47 
+"(3) The Department may enroll residential rental properties containing no more than 48 
+[2,000] rental units in the aggregate. 49 
+"(4) In selecting residential rental properties for participation, the Department shall 50 
+ensure, to the extent applications permit, that the pilot includes, at a minimum: 51 
+"(A) One fully affordable residential rental property; 52 
+"(B) One fully market-rate residential rental property; and 53 
+"(C) One mixed-income residential rental property. 54 
+"(5) For purposes of this subsection: 55
+
+3 
+ 
+"(A) A “fully affordable residential rental property” means a residential rental 56 
+property in which all rental units are subject to income or rent restrictions imposed pursuant to 57 
+federal or District law, a recorded covenant, subsidy agreement, or another binding affordability 58 
+restriction; 59 
+"(B) A “fully market-rate residential rental property” means a residential rental 60 
+property in which no rental units are subject to the affordability restrictions described in 61 
+subparagraph (A), excluding inclusionary zoning units; and 62 
+"(C) A “mixed-income residential rental property” means a residential rental 63 
+property containing both rental units subject to the affordability restrictions described in 64 
+subparagraph (A), excluding inclusionary zoning units; and rental units that are not subject to 65 
+such restrictions. 66 
+"(6) The Department shall consider the applicant's commitment to community 67 
+engagement and the extent to which the selected properties will allow the Department to evaluate 68 
+the pilot across different property types, tenant populations, and affordability levels. 69 
+"(7) A housing provider shall be considered a participant in the pilot only with respect to 70 
+a residential rental property approved by the Department. Approval of a residential rental 71 
+property shall not subject any other property owned or managed by the same housing provider to 72 
+the requirements of this title. 73 
+ "(c)(1) No later than December 1, 2027, the Department shall issue a grant to a 74 
+community organization ("grantee") to implement the pilot program. To be eligible for a grant, 75 
+an applicant shall: 76 
+  "(A) Be located in the District; 77
+
+4 
+ 
+  "(B) Be a nonprofit organization with a 501(c)(3) status, as determined by the 78 
+Internal Revenue Service; 79 
+  "(C) Demonstrate familiarity with housing law in the District; and 80 
+  "(D) Demonstrate ability to provide mediation by trained mediators or execute 81 
+sub-contracts for the purpose of mediation with a nonprofit organization with a 501(c)(3) status, 82 
+as determined by the Internal Revenue Service;  83 
+  "(E) Demonstrate ability to collect data on the following: 84 
+   "(A) Total number of cases; 85 
+   "(B) Number of cases per Ward; 86 
+   "(C) Household demographic information; 87 
+   "(D) Number of elderly or disabled people in each household; 88 
+   "(E) Whether the household receives government subsidy; 89 
+   "(F) Number of cases that reached resolution, broken down by outcome; 90 
+   "(G) Average arrearage per case; 91 
+   "(H) Average time to resolution; 92 
+   "(I) Total amount of rent forgiven; 93 
+   "(J) Average amount of Housing Stability Fund awards; 94 
+   "(K) Participant satisfaction; 95 
+   "(L) Agreement violations reported; 96
+
+5 
+ 
+   "(M) Housing retention rate at 6 and 12 months; and 97 
+   "(N) Repeat participation. 98 
+  "(3) Grantees shall share the data with the Department, the Council, and any third-99 
+party evaluator. 100 
+ "(d)(1) If a housing provider seeks to evict a tenant residing at a residential property 101 
+participating in the pilot program for nonpayment of rent and the amount owed is greater than 102 
+$600, pursuant to section 501(a-1)(1) of the Rental Housing Act of 1985, effective July 17, 1985 103 
+(D.C. Law 6-10; D.C. Official Code §42-3501.01(a-1)(1)), and is less than the lesser of either 104 
+$6,000 or three months' of the tenant's monthly rent obligation, the housing provider shall send a 105 
+Notice of Diversion Rights to the tenant at the same time as the intent to file pursuant to section 106 
+501(a-1). 107 
+  "(2) The housing provider shall also file the Notice of Diversion Rights with the 108 
+grantee. 109 
+  "(3) The Notice of Diversion Rights shall contain the following or substantively 110 
+similar language: 111 
+ '[Housing provider name] is participating in the SHARE Eviction Mediation Pilot 112 
+Program. Based on the amount of rent you owe, you are eligible to participate in the program. 113 
+The SHARE Program provides mediation services designed to help tenants and housing 114 
+providers work toward an agreements and, in some cases, financial assistance for tenants before 115 
+the initial hearing in an eviction case. A representative from the program will reach out to you.' 116
+
+6 
+ 
+ "(d) Upon receipt of the Notice of Diversion Rights, the grantee shall contact the tenant 117 
+within 7 days to conduct intake. 118 
+ "(e) In the event of an agreement between parties, the terms of the agreement shall be 119 
+written and signed by all parties, and a copy of the agreement shall be provided to the tenant, the 120 
+housing provider, and filed with the Court.  121 
+  "(1) Settlement agreement terms may include:  122 
+   "(A) Repayment agreement; 123 
+   "(B) Move-out agreement; 124 
+   "(C) Lease modification; 125 
+   "(D) Repair plan; 126 
+   "(E) Rent debt forgiveness;  127 
+   "(F) Financial assistance pursuant to section 537 of this title. 128 
+ "(h)(1) The grantee shall issue a Certificate of Completion stating that the requirements 129 
+of the SHARE Pilot Program applicable to the housing provider have been completed if: 130 
+   “(A) The housing provider and tenant reach an agreement within 21 days;  131 
+“(B) The mediation fails to reach an agreement within 21 days with good 132 
+faith participation from all parties;  133 
+   "(C) The tenant does not respond to the grantee's outreach; or 134 
+   "(D) The tenant declines to participate in mediation. 135
+
+7 
+ 
+"(2) A housing provider shall not file an action for possession based on nonpayment of 136 
+rent against an eligible tenant residing at a residential rental property participating in the pilot 137 
+program until the grantee issues a Certificate of Completion for the case, unless otherwise 138 
+authorized by Mayoral rule. 139 
+"(3) Paragraph (2) of this subsection shall not apply to an action for possession filed 140 
+before the tenant or residential rental property became subject to the requirements of the SHARE 141 
+Pilot Program. 142 
+ "(i) A housing provider with a residential rental property participating in the pilot 143 
+program shall not delay commencement of the SHARE process for an eligible tenant to avoid 144 
+applicability of this title.  145 
+ "Sec. 537. Establishment of the SHARE Program Assistance Fund and access to repair 146 
+funds. 147 
+ "(a)(1) There is established a special fund named the SHARE Program Assistance Fund 148 
+("Fund") which shall be administered by the Department. 149 
+   "(A) The Fund shall consist of appropriations made by the Council, grants, 150 
+gifts, donations, and any other funds directed to the Fund. 151 
+   "(B) Money in the Fund shall not revert to the unrestricted fund balance of 152 
+the District at the end of a fiscal year but shall remain available for the purposes set forth in this 153 
+section, subject to authorization in an approved budget and financial plan. 154 
+  "(2) The Department may award assistance to support implementation of an 155 
+executed mediation agreement under section 536 of this title including: 156
+
+8 
+ 
+   "(A) Rental assistance paid to the housing provider to cover a tenant's 157 
+back rent, provided that the assistance shall cover no more than one third of the total amount of 158 
+amount owed and the housing provider agrees to forgive at least one third of the amount owed; 159 
+or 160 
+   "(B) Moving expenses for the tenant to relocate under a move-out 161 
+agreement, including the cost of hiring a moving crew or truck, security deposit, or rental 162 
+application fees. 163 
+  "(3)(A) A tenant shall not be eligible for Fund assistance more than twice. 164 
+   "(i) Ineligibility for Fund assistance under this subsection does not 165 
+disqualify the tenant from eligibility for the SHARE Program mediation services and the 166 
+opportunity to reach a settlement agreement that does not include Fund assistance.  167 
+  "(4)(A) Payments from the Fund to housing providers shall not be issued until an 168 
+agreement is signed by all parties.  169 
+   "(B) The Mayor shall issue rules regarding compliance actions that the 170 
+housing provider and tenant must complete prior to receiving any disbursements. 171 
+ "(b) The Department shall prioritize residential rental properties participating in the 172 
+SHARE Program, or housing providers with respect to those participating properties for 173 
+stabilization funding from the Housing Production Trust Fund for repairs directly related to 174 
+housing code violations identified in SHARE cases, provided that the housing provider clearly 175 
+demonstrates that the funds are necessary for the repairs to be made.  176 
+ "Sec 538. Establishment of the SHARE Program grants 177
+
+9 
+ 
+ "(a) No later than December 1, 2027, the Department may award grants, subject to the 178 
+availability of funds, to community-based organizations to provide housing counseling services 179 
+or same-day legal representation to tenants in the SHARE program. 180 
+ Sec. 3. Fiscal impact statement.  181 
+ The Council adopts the fiscal impact statement in the committee report as the fiscal 182 
+impact statement required by 4a of the General Legislative Procedures Act of 1975, approved 183 
+October 16, 2006 (120 Stat. 2038; D.C. Official Code §1-301.47a). 184 
+ Sec. 4. Effective date.  185 
+ This act shall take effect following approval by the Mayor (or in the event of veto by the 186 
+Mayor, action by the Council to override the veto), a 30-day period of Congressional review as 187 
+provided in sections 602(c)(1) of the District of Columbia Home Rule Act, approved December 188 
+24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of 189 
+Columbia Register. 190 
+ 191 
+ 192

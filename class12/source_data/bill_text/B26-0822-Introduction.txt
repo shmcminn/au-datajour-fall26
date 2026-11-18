@@ -1,0 +1,185 @@
+OFFICE OF COUNCILMEMBER ROBERT C. WHITE, JR 
+CHAIR, COMMITTEE ON HOUSING 
+THE JOHN A. WILSON BUILDING 
+1350 PENNSYLVANIA AVENUE, NW, SUITE 107 
+WASHINGTON, DC 20004 
+ 
+The John A. Wilson Building, 1350 Pennsylvania Avenue, N.W., Suite 114 
+Washington, DC 20004 
+September 25, 2026  
+ 
+Dear Secretary Howard, 
+ 
+District residents deserve access to safe, affordable homes in every Ward. Yet today, many of our most 
+urgently needed housing projects face regulatory processes that add cost, delay, and uncertainty that have 
+led to historic lows in new construction.1 Recent analyses of DC’s housing ecosystem show that costs 
+have dramatically increased due in part to elongated permitting timelines, duplicative reviews, and 
+regulatory requirements that do not always scale appropriately.2 
+To help address these challenges, I am introducing the Build Housing Package, a set of four targeted bills 
+designed to lower costs, speed project delivery, and make our limited housing dollars go further. These 
+reforms are practical, specific, and grounded in findings from developers, nonprofit housing providers, 
+agency personnel, and technical experts. The package is endorsed by Greater Greater Washington and the 
+Pew Charitable Trusts, was drafted in collaboration with The Coalition, DC Policy Center, and the 
+Department of Buildings, and incorporates feedback from the Housing Unity permitting reform working 
+group convened by the Federal City Council. 
+ 
+1. Understanding the Cost of Housing Regulations Act of 2026  
+The District currently has no insight into the cumulative or individual cost burden of its housing 
+regulations. Requirements are often adopted individually without assessing how they interact when 
+stacked on a single project. The result is a regulatory environment where individually reasonable rules can 
+collectively produce outsized costs and delays, undermining project feasibility and reducing the number 
+of units our subsidy dollars can support.3 This bill establishes a third-party cost review comparing DC’s 
+development costs, permitting timelines, and regulatory burdens with Maryland and Virginia peer 
+jurisdictions to equip the District to understand the tradeoffs in its current regulatory environment. 
+ 
+1 At a Breaking Point: The Realities of Delivering Affordable Housing in DC, National Housing Trust, 2026, 
+https://nationalhousingtrust.org/news/breaking-point-realities-delivering-affordable-housing-dc 
+2 Breaking the scarcity-subsidy cycle: A new housing vision for the District of Columbia, Yesim Sayin  
+Emilia Calma, D.C. Policy Center, 2026, https://www.dcpolicycenter.org/publications/breaking-the-scarcity-
+subsidy-cycle-a-new-housing-vision-for-the-district-of-columbia/ 
+3 Lowering the Cost of Affordable Housing in DC, Urban Land Institute Technical Assistance Panel and the 
+Coalition, 2025, https://thecoalitiondc.org/news/as-affordable-housing-costs-rise-the-coalition-partners-with-
+uli-washington-to-explore-solutions-for-dc/
+
+Page 2 of 3 
+Councilmember Pinto and I are co-leading this bill and Councilmember Bonds has co-introduced. 
+ 
+2. Affordable Housing Tax Assessment Alignment Act of 2026 
+Affordable housing should not be taxed as though it can collect market rate rents. Yet that is what 
+happened at Intersect, a 74-unit mixed-income development at 1338 8th Street NW with 24 affordable 
+units. The Office of Tax and Revenue (OTR) assessed those affordable units at $5.75 million, even though 
+Roadside Development's analysis found that their actual operating income supported a value of negative 
+$630,000 before taxes—a difference of roughly $6.38 million. 
+The owner appealed its Tax Year 2025 assessment of $39.97 million and ultimately obtained a court-
+ordered reduction to $34.5 million—a reduction of approximately $5.47 million. But the correction took 
+nearly two years. The owner had to pay the full, unreduced tax bill while the appeal was pending, and 
+after finally securing the reduction, 25% of the tax savings went to the tax consultant. 
+Intersect was developed through a public-private partnership, making the disconnect particularly 
+concerning: the District had already imposed the affordability requirements and had information about the 
+property's legally restricted rents. Yet that information did not make its way to OTR in a way that allowed 
+the affordable units to be accurately assessed. 
+This problem persists across all affordable housing development and is even greater for fully affordable 
+developments. A mixed-income project can use revenue from market-rate units to help absorb the costs 
+of affordable units, but inflating tax assessments on fully affordable developments reduces the resources 
+available to operate and preserve affordable homes. 
+This bill closes that information gap by requiring the Department of Housing and Community 
+Development (DHCD) to provide OTR with the affordability covenant data it needs to account for legally 
+restricted rents when assessing property value. The District should not require properties to remain 
+affordable and then tax them as though they are not. Councilmember Pinto and I are co-leading this bill.  
+Chairman Mendelson and Councilmembers Bonds, Allen, Nadeau, and Frumin have co-introduced.  
+ 
+3. Pre-Approved Housing Plans Act of 2026 
+Small-scale housing projects should not have to pay for the same design and technical work every time a 
+builder wants to construct a rowhouse, townhouse, duplex, or other small multifamily building. This bill 
+establishes a pre-approved housing plan program within the Department of Buildings (DOB) to make 
+permit-ready, code-compliant plans publicly available for these repeatable housing types. DOB would 
+develop or competitively procure standardized plans, while also allowing previously approved plans to 
+be reused within three years, and would publish the zoning, construction, and site requirements 
+associated with each plan. The plans would be designed for adaptation to different lots and site 
+conditions without requiring a complete redesign, creating a more predictable and affordable pathway 
+for small-scale housing development. 
+This approach has been adopted by jurisdictions across the country. A 2026 report from The Pew 
+Charitable Trusts found that roughly 40 jurisdictions have implemented some form of pre-approved
+
+Page 3 of 3 
+building plan program and estimates that these programs can reduce overall development costs. Pre-
+approved plans can reduce architectural and engineering costs and shorten permitting timelines by 
+completing much of the technical review upfront. Pew also found that these programs can be particularly 
+valuable for smaller and newer builders, for whom upfront design and permitting costs can make small 
+infill and “missing middle” projects difficult to finance. The District can build on this model while 
+tailoring it to the housing types and development conditions that are most appropriate for DC. 
+Councilmember Pinto and I are co-leading this bill. Councilmembers Bonds, Allen, Nadeau, Lewis 
+George, and Frumin, have co-introduced.  
+ 
+4. Risk-Based Third-Party Code Review Act of 2026 
+Today’s statutory third-party review system does not shorten permitting timelines. Even when applicants 
+pay qualified external architects or engineers to certify plans, DOB still performs a full technical review, 
+meaning third-party review adds a step without replacing one. Applicants pay twice, and the government 
+queue remains unchanged.  
+This bill establishes a binding, risk-based third-party pathway, under which DOB would rely on certified 
+submissions for defined project types unless the agency identifies a specific defect within a set review 
+window. DOB would shift to targeted auditing rather than universal re-review, with oversight scaled based 
+on project complexity and the performance history of the development team. This approach adds usable 
+private-sector review capacity, frees DOB staff for complex, high-risk work, prevents costly 
+construction-stage delays through timely inspections, and maintains safety via qualifications, standardized 
+certifications, audits, and meaningful sanctions. 
+DOB would issue implementing rules on eligibility, qualifications, audit rates, defect thresholds, and 
+enforcement. This bill is co-introduced by Councilmember Pinto. 
+ 
+These four bills target avoidable cost drivers, create predictable pathways for small and routine projects, 
+align tax policy with affordability commitments, and provide the District with the tools needed to respond 
+to changing market conditions. Together, they strengthen our ability to deliver housing efficiently and 
+responsibly, ensuring that public investments translate into real units for District residents. 
+ 
+I look forward to working with the Council to advance these reforms. Please contact the Committee on 
+Housing staff at housing@dccouncil.gov with any questions.
+
+1 
+_____________________________    _____________________________  2 
+Councilmember Brooke Pinto                                               Councilmember Robert C. White, Jr.  3 
+ 4 
+ 5 
+_____________________________ 6 
+Councilmember Anita Bonds 7 
+ 8 
+ 9 
+ 10 
+A BILL 11 
+__________ 12 
+ 13 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA 14 
+__________ 15 
+ 16 
+To establish an independent review of the District’s housing development costs, require 17 
+comparison with peer jurisdictions, establish a process for identifying regulations that 18 
+materially contribute to excessive housing development costs, and present recommended 19 
+legislative changes based on the findings. 20 
+ BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 21 
+act may be cited as the “Understanding the Cost of Housing Regulations Act of 2026”. 22 
+ Sec. 2. Housing development cost review. 23 
+(a) The Mayor shall procure an independent third-party study of the District’s housing 24 
+development costs and regulatory environment. 25 
+(b) The study shall: 26 
+(1) Compare the District’s housing development costs and applicable regulations 27 
+with peer jurisdictions in Maryland, including Montgomery County, Prince George’s County, 28 
+Charles County, Calvert County, and Frederick County, and Arlington County, Alexandria, 29 
+Fairfax County, Loudoun County, and Prince William County in Virginia. 30 
+(2) Include a national peer set of comparable high-cost jurisdictions with a 31
+
+rationale provided for inclusion; 32 
+(3) Measure, to the extent possible:  33 
+(A) Total development cost per housing unit; 34 
+(B) Soft costs and financing costs per housing unit; 35 
+(C) Median time from application to permit; 36 
+(D) Permitting and entitlement duration; 37 
+(E) Regulatory and development fees; 38 
+(F) Property taxes incurred during construction; 39 
+(G) Major District-specific compliance costs; 40 
+(H) Units permitted and completed; and 41 
+(I) Other costs or delays identified by the independent reviewer as 42 
+materially affecting housing production. 43 
+  (c) The study shall identify specific laws, regulations, administrative requirements, 44 
+processes, or other governmental requirements that materially contribute to housing development 45 
+costs or permitting delays, and identify the approximate additional cost or delay associated with 46 
+each. 47 
+(d) The study shall identify whether a cost or delay is: 48 
+  (1) Unique to the District; 49 
+(2) Materially greater in the District than in peer jurisdictions; and 50 
+(3) Supported by a demonstrated public benefit sufficient to justify the 51 
+identified cost or delay.  52 
+(e) The study shall make recommendations on how to modify or alter the identified laws, 53 
+regulations, administrative requirements, processes, or other governmental requirements in 54
+
+subsection (c) to reduce costs on housing development.  55 
+ (f) Within 30 days after completion of the study required by section 2, the Mayor shall 56 
+transmit the study to the Council.  57 
+Sec. 3. Fiscal impact statement. 58 
+ The Council adopts the fiscal impact statement in the committee report as the fiscal 59 
+impact statement required by section 4a of the General Legislative Procedures Act of 1975, 60 
+approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a). 61 
+ Sec. 4. Effective date. 62 
+ This act shall take effect following approval by the Mayor (or in the event of veto by the 63 
+Mayor, action by the Council to override the veto), a 30-day period of congressional review as 64 
+provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 65 
+24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of 66 
+Columbia Register. 67

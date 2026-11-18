@@ -1,0 +1,177 @@
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+May 6, 2025 
+ 
+Nyasha Howard 
+Secretary to the Council 
+Council of the District of Columbia 
+1350 Pennsylvania Avenue, NW 
+Washington, D.C. 20004 
+ 
+Secretary Howard: 
+ 
+Today, along with Councilmembers Lewis George, Henderson, and Nadeau, I am introducing the 
+“Automated Curbside Management System Amendment Act of 2025”. Please find enclosed a 
+signed copy of the legislation. 
+ 
+Management of curbside space in the District is a persistent challenge. Loading and unloading 
+zones are often illegally occupied or obstructed by personal automobiles, which forces freight 
+and delivery drivers to double-park in vehicle travel lanes. While vehicles can be ticketed for 
+failure to pay for a metered space or remaining in the space after the meter has expired, 
+accountability relies on parking enforcement officers discovering a violation before the vehicle is 
+moved. The lack of consistent accountability for these violations reduces the supply of an already 
+scarce resource in the District: parking space. Poor curbside management leads to increased 
+traffic congestion, noise, and emissions as drivers circle the block to find available parking. It also 
+frustrates residents, businesses, and delivery workers who rely on consistent access to curbside 
+space for deliveries.  
+  
+D.C. Code § 50–2651 currently requires that the Mayor establish a curb loading zone 
+management program, which may include a system of automated enforcement. Separately, D.C. 
+Code § 50–2303.02a authorizes the Mayor to use an automated parking enforcement system to 
+detect parking infractions. Despite being authorized to administer an automated curbside 
+management system, the District has not yet established a system that efficiently manages the 
+use of curbside space.
+
+2 
+ 
+Recently, several cities in the United States—including Pittsburgh1 and Houston2—have launched 
+programs that automate the management of curbside space, particularly loading and unloading 
+zones, using an online billing system and automated license plate readers. These programs, often 
+referred to as Smart Loading Zone programs, typically require that drivers set up an account 
+through which they are automatically billed for using curbside space instead of manually paying 
+for curbside access at a meter or kiosk. License plate readers detect when a vehicle enters the 
+loading zone and drivers are billed accordingly, while drivers who use the zone without an 
+account are issued tickets. Some programs provide a brief grace period for registered and 
+unregistered drivers to occupy the curb without charge.  
+  
+Inspired by the success of these programs, this bill would require that the District Department of 
+Transportation (“DDOT”) establish an Automated Curbside Management System that uses 
+technology to obtain and transmit real-time information of curbside use and automatically bills 
+drivers for the time spent at the curb. More specifically, the bill also requires that DDOT establish 
+and issue regulations for a Smart Loading Zones Program, enumerating certain topics that must 
+be addressed in the regulations (e.g., the fee schedule for registered users). The bill allows, but 
+does not require, DDOT to use a dynamic pricing system that adjusts parking rates based on 
+demand. Finally, the bill requires that DDOT, for any procurement related to implementation of 
+the bill, prioritize applicants whose automated curbside management technology can provide 
+additional functionality, such as the automated enforcement of moving violations. Together, 
+these changes in law will facilitate more seamless access to the curb, reduce traffic congestion, 
+and allow for more efficient deliveries.  
+ 
+Sincerely, 
+ 
+ 
+ 
+Councilmember Charles Allen, Ward 6 
+Chairperson, Committee on Transportation & the Environment 
+ 
+ 
+ 
+ 
+ 
+ 
+1 City of Pittsburgh, Smart Loading Zones (last visited May 1, 2025), https://engage.pittsburghpa.gov/smart-
+loading-zones.  
+2 Automotus, Automotus Partners with ParkHouston to Launch Smart Loading Zones in Houston (Feb 12, 2025), 
+https://www.automotus.ai/post/automotus-partners-with-parkhouston-to-launch-smart-loading-zones-in-
+houston.
+
+1 
+ _____________________________     _____________________________  1 
+Councilmember Christina Henderson                                               Councilmember Charles Allen           2 
+ 3 
+ 4 
+_____________________________                                        _____________________________ 5 
+Councilmember Janeese Lewis George                                            Councilmember Brianne K. Nadeau  6 
+ 7 
+ 8 
+ 9 
+A BILL 10 
+  11 
+________  12 
+  13 
+ 14 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA  15 
+ 16 
+_________________________  17 
+  18 
+  19 
+To amend the District of Columbia Traffic Adjudication Act of 1978 to require that the District 20 
+Department of Transportation establish an Automated Curbside Management System, to 21 
+require that the District Department of Transportation establish and issue regulations for a 22 
+Smart Loading Zone Program, and to make conforming amendments.  23 
+  24 
+ BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 25 
+act may be cited as the “Automated Curbside Management System Amendment Act of 2025”.  26 
+ Sec. 2. Section 302 of the District of Columbia Traffic Adjudication Act of 1978, effective 27 
+September 12, 1978 (D.C. Law 2-104; 25 DCR 1275), is amended to read as follows:   28 
+ “(a) The District Department of Transportation (“DDOT”) shall establish an Automated 29 
+Curbside Management System that manages the use of curbside space through: 30 
+  “(1) Cameras, sensors, or other technology that obtain and transmit real-time 31 
+information regarding the use of curbside space; 32 
+  “(2) An automated payment system that can charge, invoice, or otherwise collect 33 
+payment from individuals for the lawful use of curbside space, including through an account-based 34 
+or subscription system available through a browser-based or mobile application; and 35
+
+2 
+  “(3) The issuance of fines or the assessment of points against individuals or their 36 
+motor vehicles for the unlawful use of curbside space, including parking and other non-moving 37 
+violations. 38 
+ “(b) The Automated Curbside Management System may use dynamic pricing that adjusts 39 
+fees for the use of curbside space based on duration, location, time of day, and current demand. 40 
+ “(c)(1) DDOT shall establish within its Automated Curbside Management System a Smart 41 
+Loading Program that manages curbside space reserved for picking up and dropping off passengers 42 
+or loading and unloading goods through an automated payment system as described in subsection 43 
+(a)(2) of this section.  44 
+  “(2) No later than 90 days after the effective date of this section, DDOT shall issue 45 
+regulations for the Smart Loading Zones Program (“Program”) that include: 46 
+   “(A) A description of locations where Smart Loading Zones are established 47 
+and the hours during which Smart Loading Zones are in effect;  48 
+   “(B) A description of how individuals or businesses can enroll in the 49 
+Program, including any restrictions or eligibility criteria;  50 
+   “(C) A fee schedule for the lawful use of Smart Loading Zones;   51 
+   “(D) A fine schedule for the unlawful use of Smart Loading Zones; and 52 
+   “(E) The process by which individuals and businesses are notified of, and 53 
+can contest the issuance of, a fee or fine.  54 
+  “(3)(A) No later than six months after the effective date of this section, DDOT shall 55 
+begin operating the Program.  56 
+   “(B) DDOT may, for the first month during which the Program is in effect, 57 
+issue warning citations that do not impose a monetary penalty. 58
+
+3 
+ “(d)(1) DDOT may contract with a third-party vendor to implement the requirements of 59 
+this section. 60 
+  “(2) For any request for proposal or any other solicitation of a contract related to 61 
+the implementation of the requirements of this section as authorized under paragraph (1) of this 62 
+subsection, DDOT shall prioritize applicants whose technology provides, or can provide, 63 
+additional functionality, such as: 64 
+   “(A) Automated lane enforcement; 65 
+   “(B) Automated traffic enforcement for moving violations; and 66 
+   “(C) Dynamic pricing.  67 
+ “(e) For the purposes of this section, the term “curbside space” means the space within a 68 
+street or road adjacent to the curb designated for parking, picking up and dropping off passengers, 69 
+or loading and unloading goods, excluding parking spaces managed by the Residential Permit 70 
+Parking (“RPP”) Program administered pursuant to 18 DCMR § 4232 et seq.  71 
+ Sec. 3. The Commercial Curbside Loading Zone Implementation Act of 2009, effective 72 
+October 22, 2009 (D.C. Law 18-66; 56 DCR 6608), is repealed.   73 
+ Sec. 4. Fiscal impact statement.  74 
+ The Council adopts the fiscal impact statement in the committee report as the fiscal impact 75 
+statement required by section 4a of the General Legislative Procedures Act of 1975, approved 76 
+October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).  77 
+ Sec. 5. Effective date.  78 
+ This act shall take effect after approval by the Mayor (or in the event of veto by the 79 
+Mayor, action by the Council to override the veto), a 30-day period of congressional review as 80 
+provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 24, 81
+
+4 
+1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of 82 
+Columbia Register. 83

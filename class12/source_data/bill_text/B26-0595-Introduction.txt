@@ -1,0 +1,215 @@
+COMMITTEE ON HOUSING 
+ROBERT C. WHITE, JR., CHAIR 
+COUNCIL OF THE DISTRICT OF COLUMBIA 
+Statement of Introduction 
+Transparent Rates and Utility Expenses (TRUE) Amendment Act of 2026 
+February 13, 2026
+Today, alongside Councilmembers Bonds, Nadeau, Frumin, Parker, and T. White, Sr., I am 
+introducing the Transparent Rates and Utility Expenses (TRUE) Amendment Act of 2026. 
+Across the District, tenants are being hit with hidden or confusing utility charges on top of their 
+rent.1,2 These unexpected costs can push tenants into financial distress, not because they chose an 
+unaffordable unit or lost their income but because their total housing costs have suddenly 
+climbed out of their financial means.  
+The TRUE Act would address this problem by requiring housing providers to clearly explain and 
+itemize all charges for which a tenant will be responsible, both at the application stage and 
+throughout their tenancy. Tenants would see recent utility bills, get a clear explanation of how 
+charges are calculated, and receive contact information for third-party billing companies. If 
+disclosures are not provided, utility charges would be unenforceable. The bill also extends the 
+right to redeem (catch up on) utility debts before eviction, mirroring the protections that already 
+exist for nonpayment of rent.  
+Utility costs are rising nationwide, but tenants should not be left to shoulder that burden, 
+especially without transparency or accountability. The TRUE Act ensures that tenants know 
+exactly what they’ll be charged for so they can make a responsible decision about what unit they 
+can afford. These disclosures and protections benefit everyone: tenants gain the security of 
+knowing their true housing costs up front, and landlords gain stronger, more stable tenancies. By 
+making housing costs clear and fair, this legislation helps prevent both eviction and unaffordable 
+units, which ultimately benefits tenants and landlords alike. 
+1 Washington City Paper, Corporate Landlords Nickel and Dime D.C. Tenants with Deceptive and Hidden Utility Fees. Aug 28, 
+2024. https://washingtoncitypaper.com/article/747728/corporate-landlords-nickel-and-dime-d-c-tenants-with-deceptive-and-
+hidden-utility-fees/  
+2 The Office of the Attorney General. Attorney General Schwalb Issues Alert to Help Tenants Understand How Utilities Are 
+Billed & Make Sure They Are Not Overpaying. May 16, 2025. https://oag.dc.gov/release/attorney-general-schwalb-issues-alert-
+help-tenants
+
+1 
+ 1 
+ 2 
+_________________________ ______________________________ 3 
+Councilmember Anita Bonds   Councilmember Robert C. White, Jr. 4 
+ 5 
+ 6 
+ 7 
+_____________________________   ______________________________ 8 
+Councilmember Brianne K. Nadeau  Councilmember Matthew Frumin 9 
+ 10 
+ 11 
+ 12 
+ 13 
+_____________________________  _____________________________ 14 
+Councilmember Zachary Parker  Councilmember Trayon White, Sr. 15 
+ 16 
+ 17 
+ 18 
+A BILL 19 
+ 20 
+___________ 21 
+ 22 
+ 23 
+IN THE COUNCIL OF DISTRICT OF COLUMBIA 24 
+ 25 
+_________________ 26 
+ 27 
+To amend the Rental Housing Act of 1985 to require housing providers to provide prospective 28 
+tenants with a list of all applicable charges for renting the rental unit, a description of the 29 
+method that the housing provider will use to allocate charges for the utility to a tenant; to 30 
+allow tenants to periodically request a copy of the utility provider's bill to the housing 31 
+provider; to require that housing providers include in a lease a description of the method 32 
+that the housing provider will use to allocate charges for a utility to the tenant, contact 33 
+information for third-party billers, and statements of a tenant's right to certain disclosures 34 
+and to inspect water submetering equipment or usage records; to require housing 35 
+providers to permit a tenant to inspect water submetering equipment; to make utility 36 
+charges unenforceable in the event that housing providers violate disclosure 37 
+requirements; and to provide the right to redeem to tenants for the nonpayment or late 38 
+payment of utilities, damages, or related charges or fees.  39 
+ 40 
+ BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 41 
+act may be cited as the “Transparent Rates and Utility Expenses Amendment Act of 2026”. 42
+
+2 
+  Sec. 2. The Rental Housing Act of 1985, effective July 17, 1985 (D.C. Law 6-10; D.C. 43 
+Official Code § 42-3501.01 et seq.)) is amended as follows: 44 
+  (a) Section 103 (D.C. Official Code § 42–3501.03) is amended by: 45 
+   (1) A new paragraph (25B) is added to read as follows: 46 
+   "(25B) "Ratio Utility Billing System" means a program that utilizes a 47 
+mathematical formula for allocating, among the tenants and property ownership in a residential 48 
+building, their share of the actual or anticipated water, sewer, electrical, oil, or natural gas 49 
+charges billed to the housing provider from a direct or third-party provider of any such utility 50 
+service. Permitted allocation methods may include formulas based on square footage, occupancy, 51 
+or number of bedrooms. A housing provider shall designate one allocation method per building, 52 
+and that method shall be applied uniformly to all tenants in the building, and disclosed to the 53 
+tenant prior to the time of application, and in the lease documents.". 54 
+   (2) A new paragraph (37A) is added to read as follows: 55 
+   "(37A) “Utility” includes: 56 
+   “(A) Electricity usage; 57 
+   “(B) Gas usage; 58 
+   “(C) Wastewater and sewage disposal service usage; and 59 
+   “(D) Water consumption or usage.”. 60 
+  (b) Section 222 (D.C. Official Code § 42-3502.22) is amended as follows: 61 
+   (1) Subsection (b) is amended as follows:  62 
+    (A) Paragraph (1) is amended as follows: 63 
+     (i) The lead-in language is amended by striking the phrase "At the 64 
+time a prospective tenant files an application to lease any rental unit" and inserting the phrase 65
+
+3 
+"Before requesting the application fee from a prospective tenant as part of tenant screening 66 
+pursuant to section 510(b)" in its place. 67 
+     (ii) Subparagraph (A) is amended to read as follows: 68 
+“(A) An itemized list of all applicable charges for renting the rental unit, 69 
+and residing at the property, whether or not included in the rent, including a description of the 70 
+reason for each charge, whether the charge is optional or mandatory, and the applicable amount 71 
+at the outset of the tenancy, including: 72 
+“(i) The applicable rent for the rental unit;  73 
+“(ii) Any surcharge pursuant to sub-paragraph (C) of this 74 
+paragraph;  75 
+“(iii) Any pet fee; 76 
+“(iv) Any utility charge or fee pursuant to section 911(a); provided 77 
+that, if the charge may vary, the housing provider shall provide the method of calculation 78 
+pursuant to section 911(a)(1) and an itemized list of all utility charges or fees charged for the 79 
+rental unit during the previous 12 months. 80 
+"(v) Any other mandatory fee or charge above the rent that is the 81 
+responsibility of the tenant. 82 
+(iii) Subparagraph (K) is amended by striking the phrase “; and” 83 
+and inserting a semicolon in its place. 84 
+(iv) Subparagraph (L) is amended by striking the period and 85 
+inserting the phrase “; and” in its place. 86 
+(v) New subparagraphs (O) and (P) are added to read as follows: 87
+
+4 
+“(O) For any utility for which the costs are billed to the tenant by the 88 
+housing provider:  89 
+“(i) A copy of the two most recent bills for the utility charged to 90 
+the housing provider by the utility provider; 91 
+“(ii) A complete description, presented in plain language, of the 92 
+method that the housing provider will use to allocate the charges for the utility to a tenant, 93 
+whether under a Ratio Utility Billing System formula or any other method of calculation. The 94 
+description shall include all inputs, rates, factors, denominators, or multipliers used in any 95 
+formula to calculate a tenant's individual monthly utility charge(s), along with a demonstrative 96 
+example that reflects realistic costs and inputs for the applicable unit or property. 97 
+"(P) A statement detailing the number of service disconnections by any 98 
+utility company or provider to the property in the previous 12 months.". 99 
+    (B) Paragraph (2) is amended as follows: 100 
+     (i) Subparagraph (D) is amended by striking the phrase “; and” and 101 
+inserting a semicolon in its place. 102 
+     (ii) Subparagraph (E) is amended by striking the period and 103 
+inserting the phrase “; and” in its place. 104 
+     (iii) A new subparagraph (F) is added to read as follows: 105 
+“(F) For any utility for which the costs are billed to the tenant by the 106 
+housing provider, within 10 business days after written request by any tenant once every two 107 
+months, provide to the tenant without charge:  108 
+     "(i) A copy of the utility provider’s bills to the housing provider 109 
+for the preceding 6 months; and  110
+
+5 
+     "(ii) An itemized list of all utility charges or fees charged for the 111 
+rental unit during the previous 12 months, including whether the charge is mandatory or optional. 112 
+   (2) Subsection (c) is amended to read as follows:  113 
+"(c) If the housing provider willfully violates any provision of this section or fails to 114 
+comply within 10 business days of written notice of any violation:  115 
+"(1) The rent for any rental unit shall not be increased; and  116 
+"(2) The utility charges or fees shall be unenforceable.". 117 
+  (c) A new section 911 is added to read as follows: 118 
+  “Sec. 911. Utility Billing Fairness. 119 
+  “(a) Where the costs of any utility are billed to the tenant by the housing provider, the 120 
+lease shall include: 121 
+   “(1) A complete description, presented in plain language, of the method that the 122 
+housing provider will use to allocate the charges for the utility to a tenant, whether under a Ratio 123 
+Utility Billing System formula or any other method of calculation. The description shall include 124 
+all inputs, rates, factors, denominators, or multipliers used in any formula to calculate a tenant's 125 
+individual monthly utility charge, along with a demonstrative example that reflects realistic costs 126 
+and inputs for the applicable unit or property; 127 
+   “(2) The amount and purpose of any additional fees, service charges, or other 128 
+costs that the tenant must pay in connection with the utility or the operation of any billing system 129 
+for the utility; subject to the limitations of § 42-3505.10(b-2)(1). 130 
+   “(3) An itemized list of all utility charges or fees charged for the rental unit during 131 
+the previous 12 months; 132
+
+6 
+   “(4) Where the housing provider employs a third-party billing company, its name 133 
+and contact information;  134 
+   "(5) Where the housing provider employs a third-party billing company, a 135 
+statement that any disputes relating to the computation of the tenant's bill are between the tenant 136 
+and the landlord; 137 
+   “(6) A statement of the tenant’s right to disclosure of utility billing information 138 
+under section 222(b)(1)(O) and section 222(b)(2)(F);  139 
+   “(7) A statement that the tenant may inspect any water submetering equipment or 140 
+submeter usage records for the tenant’s unit, as provided in subsection (b) of this section. 141 
+  “(b) Where a housing provider submeters a housing accommodation for the purpose of 142 
+billing tenants for water service, the housing provider shall permit a tenant to:  143 
+   “(1) Inspect the submetering equipment for the tenant’s unit once per month. The 144 
+housing provider shall allow a tenant to use a third-party inspector for this inspection; and 145 
+   “(2) Inspect the usage readings of the submetering equipment for that tenant’s 146 
+unit, for the entire time period that the tenant has occupied that unit. 147 
+  “(c) Where a housing provider intends to newly impose a utility charge or change the 148 
+method of calculation for a utility charge during the tenancy, the housing provider shall not do so 149 
+unless and until the tenant has agreed to the new charge in writing.”.  150 
+ (d) Section 501 is amended by adding an additional subparagraph (u) to read as follows:  151 
+ "(u) No tenant shall be evicted for the nonpayment or the late payment of utilities, utility-152 
+related charges, damages, or other fees if the tenant pays the full amount they owe or a court 153 
+finds they owe in utilities, utility-related charges, or other fees at any time before the United 154 
+States Marshals Service carries out an eviction. A housing provider may not file a claim under 155
+
+7 
+this paragraph unless the amount owed in utilities, utility related charges, damages, or other fees 156 
+is at least $600, and may do so only after providing the tenant with a 10-day notice that includes 157 
+an itemized ledger and otherwise complies with the notice, service, and translation requirements 158 
+applicable to claims under this subsection and section (a) of this subchapter.". 159 
+ Sec. 4.  Fiscal impact statement. 160 
+ The Council adopts the fiscal impact statement in the committee report as the fiscal 161 
+impact statement required by 4a of the General Legislative Procedures Act of 1975, approved 162 
+October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a). 163 
+ Sec. 5.  Effective date. 164 
+ This act shall take effect following approval by the Mayor (or in the event of veto by the 165 
+Mayor, action by the Council to override the veto), a 30-day period of Congressional review as 166 
+provided in sections 602(c)(1) of the District of Columbia Home Rule Act, approved December 167 
+24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of 168 
+Columbia Register. 169

@@ -1,0 +1,173 @@
+COUNCIL OF THE DISTRICT OF COLUMBIA 
+The John A. Wilson Building 
+1350 Pennsylvania Avenue, NW 
+Washington, D.C. 20004 
+ 
+ 
+Statement of Introduction on the  
+Transparency in Downcoding Amendment Act of 2026  
+October 5, 2026 
+Today I, along with Chairman Phil Mendelson, Councilmembers Charles Allen, Anita 
+Bonds, Matthew Frumin, Janeese Lewis George, Brianne K. Nadeau, Zachary Parker, Brooke 
+Pinto, and Trayon White, Sr., am introducing the Transparency in Downcoding Amendment Act 
+of 2026. This legislation protects District of Columbia clinicians and patients from the growing 
+practice of health insurers automatically downcoding medical claims and reducing payment for 
+care that has been provided. Downcoding occurs when an insurer changes a service code submitted 
+by a clinician to a lower-level code, resulting in lower reimbursement. Increasingly, insurers are 
+using automated systems, algorithms, and artificial intelligence to identify and downcode claims, 
+sometimes without a clinical professional reviewing the clinical record or the information 
+submitted by the treating clinician. This practice can undermine clinical judgment, impose 
+significant administrative burdens on medical practices, and unfairly penalize clinicians who care 
+for patients with complex or chronic conditions. 
+This legislation would prohibit insurers from automatically downcoding claims using 
+artificial intelligence or other automated tools when the decision is based solely on a reported 
+diagnosis code. It would also establish basic transparency and due-process protections: when an 
+insurer downcodes a claim, the clinician must be clearly notified that the claim was downcoded, 
+provided with the reason for the change, and given a clear and accessible process to appeal the 
+decision. The bill would further prohibit insurers from using downcoding practices to target 
+clinicians who routinely care for patients with complex or chronic conditions. 
+This problem extends beyond the District; automatic downcoding has become a growing 
+national concern. The American Medical Association has reported widespread use of payer 
+downcoding programs, sharing examples of how insurers are increasingly using automated 
+downcoding programs to reduce physician payments without adequate notice or review of the 
+patient's medical record.1 Other states are acting: Illinois,2 Indiana,3 and Virginia,4 have enacted 
+legislation prohibiting insurers from using an automated process, including artificial intelligence, 
+as the sole basis for downcoding without clinical review, while also requiring notice, an appeals 
+process, and protections against targeting clinicians who treat complex patients. In addition to 
+ 
+1 https://www.ama-assn.org/system/files/payer-em-downcoding-resource.pdf 
+2 https://ilga.gov/legislation/PublicActs/View/104-0568 
+3 https://www.ama-assn.org/health-care-advocacy/advocacy-update/march-27-2026-state-advocacy-update 
+4 https://law.lis.virginia.gov/uncodifiedactssub/2026/session1/chapter881/ 
+Christina Henderson Committee Member 
+Councilmember, At-Large Facilities 
+Chairperson, Committee on Health Human Services 
+ Transportation and the Environment
+
+legislation, some states are issuing regulatory guidance; the Maryland Insurance Administration 
+determined that certain downcoding practices violated state claim-payment requirements and 
+subsequently issued guidance making clear that insurers may not routinely modify service codes 
+without first obtaining the information necessary to justify a downgrade.5 
+The District of Columbia should not wait for these practices to become more entrenched. 
+Clinicians should be paid accurately for the care they provide, and insurers should not be permitted 
+to substitute a diagnosis code reviewed by an algorithm in lieu of clinical judgment and 
+documentation of the treating professional without a justification. This legislation will bring 
+greater transparency, accountability, and fairness to health care reimbursement in the District while 
+ensuring that patients with complex and chronic conditions are not indirectly disadvantaged by 
+insurance payment practices. I encourage my colleagues to support this legislation.  
+ 
+5 https://insurance.maryland.gov/Pages/Bulletins/Bulletin-26-9.aspx?
+
+1 
+ 2 
+Chairman Phil Mendelson               Councilmember Christina Henderson 3 
+ 4 
+ 5 
+     6 
+ 7 
+Councilmember Janeese Lewis George    Councilmember Charles Allen 8 
+ 9 
+ 10 
+        11 
+ 12 
+Councilmember Brooke Pinto     Councilmember Trayon White, Sr.  13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+Councilmember Zachary Parker     Councilmember Matthew Frumin 19 
+ 20 
+ 21 
+ 22 
+         23 
+Councilmember Anita Bonds      Councilmember Brianne K. Nadeau 24 
+  25 
+ 26 
+A BILL   27 
+   28 
+__________________ 29 
+   30 
+ 31 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA   32 
+ 33 
+__________________ 34 
+ 35 
+ 36 
+To amend the Prompt Pay Act of 2002 to prohibit health insurers from automatically 37 
+downcoding a claim using artificial intelligence and based solely on the reported 38 
+diagnosis code; to require health insurers who downcode claims to notify the clinician to 39 
+clearly indicate the claim had been downcoded; to provide clinicians with a clear and 40 
+accessible process for appealing downcoded claims; to not target clinicians who routinely 41 
+treat patients with complex or chronic conditions; and to make violations of this act 42 
+enforceable by the Department.  43 
+ 44 
+BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 45 
+Act may be cited as the “Transparency in Downcoding Amendment Act of 2026”. 46 
+ 47
+
+Sec. 2. The Prompt Pay Act of 2002, effective July 23, 2002 (D.C. Law 14-176; D.C. 48 
+Official Code § 31-3131 et seq.), is amended as follows: 49 
+ (a) Section 2 (D.C. Official Code § 31-3131) is amended as follows:  50 
+  (1) The existing paragraph (1) is redesignated as paragraph (1A). 51 
+  (2) A new paragraph (1) is added to read as follows: 52 
+“(1) “CARC” means the Claim Adjustment Reason Codes, which provide the 53 
+reason for a financial adjustment specific to a particular claim or service referenced in the 54 
+Accredited Standards Committee X12 835 standard transaction adopted by the Department of 55 
+Health and Human Services under 45 CFR § 162.1602.”. 56 
+(3) A new paragraph (3A) is added to read as follows: 57 
+ “(3A) “Downcoding” means the unilateral alteration by a health insurer of the 58 
+level of evaluation and management service code or other service code submitted on a claim, 59 
+resulting in a lower payment to the provider.”. 60 
+(4) Paragraph (5) is amended by striking the period and inserting the phrase “, 61 
+including a third-party administrator or other payer responsible for adjudicating claims on behalf 62 
+of a health insurer.”. 63 
+(5) A new paragraph (9) is added to read as follows: 64 
+“(9) “RARC” means the Remittance Advice Remark Codes, which provide 65 
+supplemental information about a financial adjustment indicated by a CARC or information 66 
+about remittance processing.”.  67 
+ (b) A new section 5a is added to read as follows: 68 
+ “Sec. 5a. Prohibition on downcoding. 69 
+ “(a) A health insurer shall not: 70
+
+“(1) Use an automated process, system, or tool to downcode a claim, including the 71 
+use of artificial intelligence; 72 
+“(2) Downcode a claim based solely on the reported diagnosis code; or 73 
+“(3) Use downcoding practices in a targeted or discriminatory manner against a 74 
+physician who routinely treat patients with complex or chronic conditions.”. 75 
+ “(b) All downcoding decisions shall be made by a clinician licensed in the District and of 76 
+the same specialty as the treating provider who shall perform a documented review of the clinical 77 
+information supporting the billed service. 78 
+ “(c) When a claim is downcoded, the health insurer shall notify the physician using the 79 
+appropriate CARC and RARC to clearly indicate that the claim has been downcoded and 80 
+provide: 81 
+“(1) The specific reason for the downcoding, including by reference to the clinical 82 
+criteria used to justify the downcoding;  83 
+“(2) The original and revised service codes and payment amounts; 84 
+“(3) The National Provider Identifier of the physician responsible for the 85 
+downcoding decision, as well as the physician’s credentials, board certifications, and areas of 86 
+specialty expertise and training; and 87 
+“(4) A notice of the right to appeal as provided in subsection (d) of this section. 88 
+“(d)(1) A health insurer shall provide providers with a clear and accessible process for 89 
+appealing downcoded claims, including a written or electronic notice detailing how to initiate an 90 
+appeal, contact information for the individual managing the appeal, reasonable timelines for 91 
+submission of an appeal that are no less than 180 days, and timelines for the adjudication of the 92 
+appeal. 93
+
+“(2) A provider shall have the right to appeal in batches of similar claims 94 
+involving substantially similar downcoding issues, without restriction. 95 
+“(e) Any pattern or practice of discriminatory downcoding identified by the 96 
+Commissioner or other regulatory authority shall be subject to enforcement actions, including 97 
+fines, restitution, or suspension of health insurer licensure in the District. 98 
+“(f) Violations of this section shall be enforceable by the Commissioner and may include: 99 
+“(1) Monetary penalties of up to $50,000 per violation; and  100 
+“(2) Orders to reprocess improperly downcoded claims with interest.”. 101 
+ Sec. 3. Fiscal impact statement. 102 
+ The Council adopts the fiscal impact statement in the committee report as the fiscal 103 
+impact statement required by section 4a of the General Legislative Procedures Act of 1975, 104 
+approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a). 105 
+ Sec. 4. Effective date. 106 
+ This act shall take effect after approval by the Mayor (or in the event of veto by the 107 
+Mayor, action by the Council to override the veto) and a 30-day period of congressional review 108 
+as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 109 
+24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)). 110

@@ -1,0 +1,443 @@
+February 24, 2025 
+ 
+Nyasha Howard 
+Secretary to the Council 
+Council of the District of Columbia 
+1350 Pennsylvania Avenue, NW 
+Washington, D.C. 20004 
+ 
+Secretary Howard: 
+ 
+Today, along with Councilmembers Frumin, Lewis George, Nadeau, Parker, Pinto, and Robert White, I 
+am introducing the “Guiding Renewable Interconnection and Distribution (GRID) Amendment Act of 
+2026.” Please find enclosed a signed copy of the legislation. 
+ 
+Utility costs have a severe impact on District residents, and a fast switch to clean energy is one of the 
+most direct ways to protect residents from erratic power markets and spiking grid upgrade costs. From 
+2000 to 2019, the average District resident’s electricity bill increased by over 75%—from 
+approximately $55 to $98.1 Now, for one-quarter of low-income households in the DC Metropolitan 
+Area, energy expenses account for nearly 16% of their income. 2 This is more than four times higher 
+than the median energy burden for other customers.3 Higher utility rates can exacerbate existing 
+financial burdens for residents, many of whom are already struggling to keep pace with rising costs in 
+the District.  
+ 
+A recent study from the Clean Energy Buyers Association (CEBA) found that recent changes in federal 
+investments and repeal of tax credits would raise the average U.S. residential electricity prices by 
+nearly 7% by 2026 – which is around $110 for the average customer.4 And DC is currently faced with 
+ 
+1 Ariel Drehoble et al., An Examination of District Residents’ Experiences with Utility Burdens and Affordability 
+Programs, at 5, AMERICAN COUNCIL FOR AN ENERGY EFFICIENT ECONOMY, https://doee.dc.gov/sites/default/files/
+dc/sites/ddoe/service_content/attachments/Report_An%20Examination%20of%20District%20Residents%E
+2%80%99%20Experiences%20with%20Utility%20Burdens%20and%20Affordability%20Programs.pdf .  
+2 Roxana Ayala & Amanda Dewey, Data Update: City Energy Burdens, at 3–4, AMERICAN COUNCIL FOR AN ENERGY 
+EFFICIENT ECONOMY, https://www.aceee.org/policy-brief/2024/09/data-update-city-energy-burdens  
+3 Id. at 4.  
+4 Electricity Price Impacts of Technology-Neutral Tax Incentives With Incremental Electricity Demand from 
+Data Centers, NERA Economic Consulting (NERA) on behalf of Clean Buyers Energy Association (CEBA)
+
+spiking power prices from data centers and other demands on the grid—as well as the long term trend 
+of utilities spending more on delivering electricity.5 One of the best strategies for reducing DC’s power 
+needs while directly lowering costs is allowing residents. More than half of costs for residential solar 
+projects are linked to soft costs rather than the actual solar equipment and construction materials . 6 
+By standardizing approval processes and reducing costs for connecting to the grid, more solar can be 
+installed in DC.  
+ 
+To ensure that all the District is on the right path for reducing utility bills and speeding up home-
+grown clean energy, this bill would: 
+ 
+1. Affirm, update, and enshrine Public Service Commission regulations into law to strengthen 
+enforcement of existing standards. The PSC has some standards in place, but they are not 
+effective enough to reduce timelines and costs for solar customers. The bill also requires a 
+regularly updated guide to costs and processes be available on Pepco’s website. Finally, it 
+requires the Commission to update solar processes in line with nationwide solar permitting 
+policies on a regular cycle. 
+2. Create an ombuds within the Public Service Commission, in coordination with the Office of 
+the People’s Counsel and the Department of Energy and the Environment, to guide 
+customers through the interconnection process and troubleshoot sticking points causing 
+delays and inflated costs. 
+3. Allow residents to buy and plug in their own "balcony solar” systems straight into their home 
+electric system. Homeowners or renters would be allowed to install plug-in panel systems 
+without going through the same approval process as rooftop solar. From just a single panel to 
+larger back yard arrays, residents can get $35-55 in savings per month depending on where 
+you live.7  
+ 
+ 
+Sincerely, 
+ 
+ 
+ 
+Councilmember Charles Allen, Ward 6 
+Chairperson, Committee on Transportation & the Environment 
+ 
+ 
+(February 10, 2025), https://cebuyers.org/wp-content/uploads/2025/02/CEBA_Electricity-P rice-Impacts-of-
+Technology-Neutral-Tax-Incentives-With-Incremental-Electricity-Demand-From-Data-Centers_February-
+2025.pdf  
+5 Grid Infrastructure Investments Drive increase In Utility Spending Over Last Two Decades, U.S. Energy 
+Information Administration, https://www.eia.gov/todayinenergy/detail.php?id=63724  
+6 US Solar Market Insight Executive summary, Wood Mackenzie and Solar Energy Industries Association 
+(December 1, 2025), https://go.woodmac.com/l/131501/2025 -12-
+03/35531k/131501/1764798867gDnZdTaM/USSMI_Q4_2025_ES.pdf 
+7 Plug-In Solar Panels for Homes, Brightsaver, 
+https://www.brightsaver.org/? srsltid=AfmBO ormrgjTDqXv1Eb6XeCQvo3VT6NY-
+Omm1CyQbUsvQhRii670OebL
+
+1 
+1  
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+A BILL21 
+22 
+________
+ 23 
+24
+ 
+25 
+I
+N THE COUNCIL OF THE DISTRICT OF COLUMBIA 26 
+27 
+_________________________
+ 28 
+29 
+30 
+T
+o amend the Clean and Affordable Energy Amendment Act of 2008 to guide existing processes 31 
+for District residents and solar developers on connect ing their solar systems to the grid, 32 
+minimum standards for cost transparency, permitting timelines, and accountability for 33 
+small generation facilities less than or equal to 20 megawatts, not subject to PJM 34 
+interconnection requirements, for generating facilities that are designed to operate in 35 
+parallel with the electric distribution system in the District, and instructs the grid manager 36 
+to comply with reasonable, uniform, and efficient standards, fees and processes for the 37 
+interconnection of solar in the District of Columbia. 38 
+39 
+B
+E IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 40 
+act may be cited as the “Guiding Renewable Interconnection and Distribution (GRID) Amendment 41 
+Act of 2026”. 42
+
+2 
+ Sec. 2.  The Clean and Affordable Energy Amendment Act of 2008, effective October 2 2, 43 
+2008, (D.C. Law 17-250; D.C. Official Code § 8–1773.01 et seq.), is amended as follows: 44 
+ (a) Section 101 (D.C. Official Code § 8–1773.01) is amended as follows: 45 
+  (1) Paragraph (1) is redesignated as paragraph (1A) 46 
+  (2) A new paragraph (1) is added to read as follows: 47 
+  “(1) “Interconnection Customer” means any individual, entity, or their 48 
+representative who applies to connect a solar system to a District electric grid managed by an 49 
+electric company.”. 50 
+  (3) Paragraph (2) is redesignated as paragraph (2A) 51 
+  (4) A new paragraph (2) is added to read as follows: 52 
+  “(2) “Grid” means the electric distribution system that provides power and allows 53 
+small generators including commercial and community solar customers  in the District to 54 
+interconnect.”. 55 
+  (5) Paragraph (3) is redesignated as paragraph (3A) 56 
+  (6) A new paragraph (3) is added to read as follows: 57 
+  “(3) “Small Generator Facility ” means the equipment used by a customer  to 58 
+generate or store electricity that operates in tandem with the grid, and usually includes an electric 59 
+generator, storage capability, and interconnection equipment.”.   60 
+  (7) Paragraph (4) is redesignated as paragraph (4A) 61 
+  (8) A new paragraph (4) is added to read as follows: 62 
+  “(4) “Interconnection Request” means the initial submission by an applicant or their 63 
+representative to an Electric Company  that begins review of whether a  solar system may be 64 
+connected safely and reliably to the grid.”.  65
+
+3 
+  (9) Paragraph (5) is redesignated as paragraph (5A) 66 
+  (10) A new paragraph (5) is added to read as follows: 67 
+  “(5) “Net energy metering” means measuring the difference between the electricity 68 
+supplied to an eligible customer-generator from the electric grid and the electricity generated and 69 
+fed back to the electric grid by the eligible customer-generator.”. 70 
+  (11) Paragraph (6) is redesignated as paragraph (6A) 71 
+  (12) A new paragraph (6) is added to read as follows: 72 
+  “(6) “Solar system” means a system  using radiant energy, direct, diffuse, or 73 
+reflected, received from the sun at wavelengths suitable for conversion into thermal, chemical, or 74 
+electrical energy, that is collected, generated, or stored for use at a later time.”  75 
+  (13) Paragraph (7) is redesignated as paragraph (7A) 76 
+  (14) A new paragraph (7) is added to read as follows:  77 
+“(7) “Primary voltage customer” means customers receiving power from a higher  78 
+voltage level of 4kV, 13kV, 27kV, and 33kV.”.   79 
+  (15) Paragraph (8) is redesignated as paragraph (8A) 80 
+  (16) A new paragraph (8) is added to read as follows: 81 
+“(8) “Secondary voltage customer” means a customers receiving power directly 82 
+from the grid distribution system at lower voltage levels of 120/208V; 120/240V or 265/460V.” 83 
+  (17) Paragraph (9) is redesignated as paragraph (9A) 84 
+  (18) A new paragraph (9) is added to read as follows: 85 
+“(9) “Electric company” means an electric utility entity that 86 
+distributes electricity to customers and is subject to the jurisdiction of the  Public Service 87 
+Commission.”. 88
+
+4 
+(b) A new section 206a to read as follows: 89 
+ “Sec 206a . Solar interconnection standards ; solar permitting  and cost transparency for 90 
+small solar projects and electricity ratepayers.  91 
+ “(a) As part of the ir initial application for authorization to install their solar system,  any 92 
+Interconnection Customer that seeks to connect a distributed energy resource to the grid shall 93 
+submit an Interconnection Request to the Electric Company.  94 
+ “(b)(1) Upon receipt of the initial Interconnection Request from a n Interconnection  95 
+Customer or their representative, any Electric Company shall conduct an internal review prior to 96 
+formal authorization to proceed to installing solar onsite to determine: 97 
+   “(A) The technical feasibility of the proposed solar project;  98 
+   “(B) Whether any upgrades to the grid are required to facilitate the specific 99 
+interconnection for which an Interconnection Request has been submitted; and  100 
+              “(C) An estimated cost for interconnection, based on the median costs 101 
+published on the Electric Company’s website in accordance with the requirements of  102 
+section (d)(2) below. 103 
+  “(2)(A) For all projects going through initial interconnection review, the Electric 104 
+Company shall comply with all requirements of 15 DCMR § 4007 et seq. 105 
+   “(B) The Electric Company shall meet the following deadlines and 106 
+requirements outlined in this section.  107 
+  “(C) Where any conflicts arise between existing solar interconnection  108 
+requirements under 15 DCMR § 4007 et seq, this section shall control.” 109 
+(3)(A) Following its internal review, the Electric Company shall notify a Customer 110
+
+5 
+of its initial decision on Part 1 of the initial interconnection request in writing or by electronic mail 111 
+pursuant, within the timeline provided by 15 DCMR § 4004.3.   112 
+   “(B) When completing the internal review for any Customer ’s initial  113 
+Interconnection Request, if the Electric Company determined that the Interconnection Request is 114 
+incomplete or transferred to a different project level , the Electric Company shall notify the 115 
+Customer of its determination and provide the Interconnection Customer with an opportunity to 116 
+resubmit their application.     117 
+ “(3)(A) For assessing any modifications  to the proposed interconnection  118 
+equipment after the initial review , the Electric Company  shall provide notice to the 119 
+Interconnection Customer of its updated cost estimate and construction schedule  no later 120 
+than fifteen days after notice of the initial interconnection review results. 121 
+   “(B) If additional analysis of system upgrades is needed , the Electric 122 
+Company shall notify the  Interconnection Customer that a wider  study of the interconnection 123 
+infrastructure and potential impacts to the grid will need to be completed within twenty-five days.  124 
+   “(C) The Electric Company shall provide a Interconnection Customer with 125 
+a facilities study no later than twenty-five from providing notice to the Interconnection Customer 126 
+as described in paragraph (3)(A) of this subsection .  127 
+    128 
+  “(5)(A) An Electric Company  shall issue a report to the Commission at least 129 
+annually assessing whether interconnection review timelines comply with the requirements of 15 130 
+DCMR § 4000 et seq., and adhere to all corrective action plans and reporting requirements.  131
+
+6 
+   “(B) The report shall include compliance with 15 DCMR § 4004.7 requiring 132 
+that the company issue at least ninety percent of final permits within twenty days of receiving a 133 
+completed application. 134 
+    “(6) For any project that the EDC determines it approves with conditions such as 135 
+construction or installation of interconnection facilities or distribution system upgrades, or 136 
+operating requirements, the Electric Distribution Company shall send an executed interconnection 137 
+agreement to the customer or their representative that includes: 138 
+     “(A) Any operating requirements; and  139 
+     “(B) A cost estimate  for interconnection, based on the most recent 140 
+guidance published as described in paragraph (3).  141 
+      “(7) For any project that was denied approval, an Electric Distribution Company 142 
+shall provide a reason for the denial indicating which screens the proposed project failed, including 143 
+the days and times per year that the EDC screening tools showed the proposed system failed the 144 
+screen. 145 
+       “(8) An Electric Company shall comply with 15 DCMR § 4009 et seq. governing 146 
+complaint procedures on resolving disputes promptly, equitably, and in a good faith manner. The 147 
+company shall also ensure that: 148 
+  “(A) Estimated costs during dispute resolution do not exceed the most  149 
+recent public guidance by the company.  150 
+    “(B) A legal representative for the company must be present and able to  151 
+participate in final dispute resolution. 152 
+      “(C) The E lectric Company shall not assess Interconnection Customers 153 
+for costs that are more than 15 percent above the initial cost estimate provided pursuant to 15 154
+
+7 
+DCMR § 4005.6. The Electric Company  shall be responsible for costs  invoiced to the 155 
+interconnection customer more than 60 days after the completion of the interconnection facility or 156 
+distribution upgrades.  157 
+ 158 
+“(c)(1) The Commission, in consultation with the Department of Energy and Environment and the 159 
+Office of the People’s Counsel , shall regularly update and ensure that  the Electric Company 160 
+adheres to all existing requirements of the District of Columbia Small Generator Interconnection 161 
+Rules established pursuant to D.C. Official Code §§ 2-505 and 34-802. 162 
+ “(d)(1) The Commission, in consultation with the Department of Energy and Environment 163 
+and the Office of the People’s Counsel, shall establish an interconnection ombuds  office. The 164 
+ombuds will possess technical expertise related to interconnection and interconnection procedures. 165 
+The duties of the interconnection ombuds include but are not limited to the requirements of 166 
+paragraph: 167 
+   “(A) Tracking interconnection complaints and disputes; 168 
+   “(B) Facilitating the efficient and fair resolution of disputes between 169 
+customers seeking to interconnect and investor-owned transmission and distribution utilities; 170 
+   “(C) Reviewing investor -owned transmission and distribution utility 171 
+interconnection policies to assess opportunities for reducing interconnection disputes and reducing 172 
+interconnection costs; 173 
+   “(D) Preparing reports that detail the number, type, resolution timeline and 174 
+outcome of interconnection complaints and disputes. 175 
+  “(2) Any Electric Company shall:  176
+
+8 
+   “(A) Publish and maintain a time-stamped guide to interconnection for 177 
+small generators interconnection on its website that describes the process for interconnection and 178 
+provides median costs for equipment, labor, and other expenses that are included in its cost 179 
+estimates for interconnection facilities and distribution system upgrades, based on average costs 180 
+for the last two years; 181 
+   “(B) Bill interconnection customers only for necessary modifications to the 182 
+distribution system, and provide an itemized list of major costs, broken down by, at a minimum, 183 
+itemized equipment and labor, overhead, taxes, and contingency to the customer.   184 
+   “(C) Comply with any changes to the Chapter 40 Public Service 185 
+Commission “Approval to Install” definition that include approval of high-level schematics, public 186 
+equipment specifications, and naming the feeder that the Electric Company approves 187 
+interconnection, when relevant.  188 
+     “(D) Issue “Authorization to Interconnect ” responses within fifteen 189 
+business days of notification of screening results. 190 
+      “(E) Transmit invoices for cost estimates  within 10 business days after 191 
+receipt of notification by the interconnection customer that it accepts the cost estimate;  192 
+      “(F) Finalize construction and installation of necessary Interconnection 193 
+Facilities, Distribution System Upgrades, or other equipment the Electric Company needs to 194 
+provide or install no later than three (3) months after a temporary-pending-final or final inspection 195 
+certificate from a District electric code official is submitted to the company by the interconnection 196 
+customer. If the Electric Company cannot meet the deadline, it shall notify the Commission, which 197 
+may approve an extension not to exceed three months, unless additional actions and a reasonable 198 
+interconnection timeline are provided. 199
+
+9 
+        “(G) Issue Authorization to Operate for all systems within twenty (20) 200 
+business days of receiving a completed Part II -  Small Generator Facility Interconnection 201 
+Certificate of Completion Form, including the signed inspection certificate. 202 
+  “(3) On or before February 1 of each year, the Electric Company  shall submit to 203 
+the Commission a report on each recorded voted cast by the Electric Company  or an affiliate of 204 
+the Electric Company  at a meeting of the regional transmission organization during the 205 
+immediately preceding calendar year. The report shall include all recorded votes cast by the 206 
+Electric Company. 207 
+ “(4)(A) Within one year of the effective date of this act, the Electric Company shall 208 
+submit a service tariff to the Public Service Commission for approval for  a cost sharing and 209 
+allocation methodology for solar interconnection customers in accordance with the requirements 210 
+of this paragraph. 211 
+  “(B) Under the cost sharing and allocation methodology, an electric utility 212 
+may propose a grid capacity upgrade project to the interconnection customer or customers.  213 
+“(C) The utility shall charge primary, high voltage interconnection  214 
+customers a hosting capacity fee for its share of the hosting capacity upgrade cost proportional to 215 
+the interconnection customer's utilization of hosting capacity. 216 
+   “(i) An Electric Company may petition the Commission to 217 
+implement a grid capacity cost sharing and allocation methodology for solar interconnection 218 
+customers that is not locationally based in their tariff filing. 219 
+   “(ii) An Interconnection Request shall be eligible for hosting 220 
+capacity cost sharing and allocation under this section unless they are exempted for the following 221 
+reasons: 222
+
+10 
+“(I) The Interconnection Request is subject to the 223 
+PJM  Interconnection, LLC Tariff. 224 
+     “(II) The interconnection is on a dedicated primary 225 
+voltage feeder that may not benefit any other interconnection customer 226 
+      “(III) If more than one Interconnection Request 227 
+exists in the interconnection queue that will benefit from the electric utility proposed hosting 228 
+capacity upgrade project, these interconnection customers shall be clustered together for the 229 
+purpose of calculating hosting capacity fees.” 230 
+    “(ii) Hosting capacity fees for clustered interconnection customers 231 
+shall be calculated proportional to each interconnection customer's utilization of the hosting 232 
+capacity created by the hosting capacity upgrade project. 233 
+     “(iv) All hosting capacity upgrade costs in excess of hosting 234 
+capacity fees collected shall be accumulated in a separate unallocated cost account for future 235 
+expenditures on to primary voltage interconnection. 236 
+      “(v) Unallocated hosting capacity upgrade costs for primary 237 
+voltage Interconnection Customers shall be shared and allocated to other primary voltage 238 
+customers using a primary voltage hosting capacity cost sharing and allocation methodology in an 239 
+electric utility service tariff approved by the Commission. 240 
+   “(F) The utility shall charge secondary, lower voltage interconnection  241 
+residential and commercial customer a hosting capacity fee for its share of the hosting capacity 242 
+upgrade cost proportional to the Interconnection Customer's utilization of hosting capacity. 243
+
+11 
+    (i) If sufficient hosting capacity is not available at a point of 244 
+interconnection for a secondary voltage Interconnection Customer, an electric utility may construct 245 
+a hosting capacity upgrade project for the Interconnection Customer or Customers. 246 
+    (ii) All secondary voltage hosting capacity upgrade costs shall be 247 
+accumulated in separate unallocated accounts for both residential and commercial secondary 248 
+voltage Interconnection Customers for future allocation in hosting capacity fees. 249 
+    (iii) Unallocated hosting capacity upgrade costs for both residential 250 
+and commercial secondary voltage Interconnection Customers shall be shared and allocated to 251 
+other secondary voltage I nterconnection Customers using a hosting capacity cost sharing and 252 
+allocation fee in an electric utility service tariff approved by the Commission. 253 
+   “(G) Hosting capacity fees for primary voltage Interconnection Customers 254 
+shall be reset using a cost sharing and allocation methodology approved by the Commission in an 255 
+electric utility service tariff filing whenever a change in methodology is proposed, unless the fee 256 
+is zero or the fee change is less than $1 per kilowatt. 257 
+   “(H) Hosting capacity fees for secondary voltage Interconnection 258 
+Customers shall be reset annually using a cost sharing and allocation methodology approved by 259 
+the Commission unless the fee is zero or the fee change is less than $1 per kilowatt from the current 260 
+fee in the electric utility's service tariff. 261 
+   “(I) A utility may submit for Commission approval an administrative charge 262 
+in its service tariff to recover its administrative costs for managing the cost sharing and allocation 263 
+methodology for primary and secondary voltage Interconnection Customers. 264
+
+12 
+   “(J) A utility shall describe all hosting capacity upgrade project rightsizing 265 
+projects describing their forecasts, inputs, and assumptions in their next rate case to assist relevant 266 
+groups in a prudency review. 267 
+  “(K) The cost -sharing framework and relevant interconnection 268 
+requirements shall be regularly updated and approved by the Public Service Commission, in 269 
+consultation with the Department of Energy and Environment and the Office of the People’s 270 
+Counsel. 271 
+“(e)(1) Notwithstanding any other provision of law, a portable solar generation device shall 272 
+not be subject to interconnection or net metering requirements unless the owner of a portable solar 273 
+generation device choose s to voluntarily enter into an interconnection or net metering 274 
+agreement”.”  275 
+ “(2) The Electric Company may not require a customer using a portable solar generation 276 
+device to: 277 
+  “(I) Obtain approval before installing or using the system; 278 
+  “(II) Pay any fee or charge related to the system; or 279 
+  “(III) Install any additional controls or equipment beyond what is integrated into 280 
+the system. 281 
+ “(3) The Electric Company is not liable for any damage or injury caused by a portable solar 282 
+generation device. 283 
+  “(4)(A) In order to ensure safe operation and reduce impacts on the grid, portable solar 284 
+generation devices must: 285 
+  “(B) Meet the most recent version of the National Electrical Code and be certified 286 
+by Underwriters Laboratories or an equivalent nationally recognized testing laboratory; 287 
+“(C) Include a device or feature that prevents the system from energizing the 288 
+building's electrical system during a power outage”.” 289
+
+13 
+Sec. 3 The Renewable Energy Portfolio Standard Act of 2004, effective April 12, 2005 290 
+(D.C. Law 15-340; D.C. Official Code § 34-1431 et seq.), is amended as follows.  291 
+ (a) Section 3(15)(H) (D.C. Official Code § 34- 1431(15)(H)) is amended by striking the 292 
+phrase “Raw or treated wastewater” and inserting the phrase “Raw wastewater, treated wastewater, 293 
+or air” in its place. 294 
+ (b) Section 4 (D.C. Official Code § 34-1432) is amended as follows 295 
+  (1) Subsection (e) is amended by adding new paragraphs (4), (5), and (6) to read as 296 
+follows:  297 
+  “(4) Six months after the effective date of the Guiding Renewable Interconnection 298 
+and Distribution (GRID) Amendment Act of 2025, a system or facility using geothermal energy 299 
+located outside of the District of Columbia shall not be eligible to generate renewable energy 300 
+credits.  301 
+  “(5) New certifications for Tier 1 renewable energy systems utilizing air as energy 302 
+sources as defined in Section 15(3)(H) of this act must: 303 
+   “(A) Be put into first operation after October 1, 2025; 304 
+   “(B) Be located in the District of Columbia; and  305 
+   “(C) Replace existing equipment that provides thermal energy to buildings 306 
+via on-site combustion of fuels.  307 
+  “(6)(A) A renewable energy system using energy sources defined in section 308 
+3(15)(H) whose output capacity is smaller than 134,000 British thermal energy units per hour shall 309 
+be assigned all renewable energy credits at the time of registration of the system upfront.  310 
+   “(B) A lifetime total of nine renewable energy credits shall be assigned for 311 
+every 1,000 British thermal units of rated thermal energy capacity of such a system.  312
+
+14 
+   “(C) No further renewable energy credits shall accrue for such a system 313 
+after the upfront assignment of lifetime credits”.” 314 
+ Sec. 5. Fiscal impact statement.  315 
+ The Council adopts the fiscal impact statement in the committee report as the fiscal impact 316 
+statement required by section 4a of the General Legislative Procedures Act of 1975, approved 317 
+October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).  318 
+ Sec. 6. Effective date.  319 
+ This act shall take effect after approval by  the Mayor (or in the event of  veto by the 320 
+Mayor, action by the Council  to override the veto), a 30- day period of congressional review as 321 
+provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 24, 322 
+1973 (87 Stat. 813; D.C. Official Code § 1- 206.02(c)(1)), and publication in the District of 323 
+Columbia Register.                                           324 
+ 325 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       326

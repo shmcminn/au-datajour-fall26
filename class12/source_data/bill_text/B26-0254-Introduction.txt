@@ -1,0 +1,131 @@
+1  
+______________________________ 1 
+  Councilmember Kenyan R. McDuffie 2 
+ 3 
+ 4 
+ 5 
+ 6 
+A BILL 7 
+__________ 8 
+ 9 
+COUNCIL OF THE DISTRICT OF COLUMBIA 10 
+____________________ 11 
+ 12 
+  13 
+To amend the Private Contractor and Subcontractor Prompt Payment Act of 2013 to prohibit clauses in 14 
+construction contracts that preclude contractors or subcontractors from stopping work if they 15 
+have not been paid for completed work within a reasonable timeframe, to establish a 16 
+procedure and minimum timeline for contractors and subcontractors to provide notice of 17 
+nonpayment and intent to suspend work, to establish notification requirements and timelines 18 
+for owners, contractors, and subcontractors to withhold payment for deficient items, to require 19 
+non-deficient items to be paid according to the District's prompt pay statute, and to require 20 
+owners, contractors, and subcontractors to notify other contractors or subcontractors of errors 21 
+in an invoice and to provide an explanation of the errors.  22 
+ 23 
+ BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act 24 
+may be cited as the "Contractor's Right to Stop Work for Nonpayment Amendment Act of 2025". 25 
+ Sec. 2. The Private Contractor and Subcontractor Prompt Payment Act of 2013, effective 26 
+November 5, 2013 (D.C. Law 20-34; D.C. Official Code§ 27A-101 et seq.), is amended as follows: 27 
+ (a) Section 2 (D.C. Official Code§ 27A-101) is amended as follows:  28 
+(1) Paragraph (1) is redesignated as paragraph (1A) 29 
+  (2) A new paragraph (1) is added to read as follows: 30 
+“(1) Billing period” means a payment cycle agreed to by the parties or, in the absence of 31 
+an agreement, the calendar month within which work is performed.”. 32 
+(3) A new paragraph (2A) is added to read as follows: 33 
+  “(2A) “Deficiency item” means work performed but which an owner, contractor, or 34 
+subcontractor, or any inspector authorized by an owner, contractor, or subcontractor, will not certify as 35 
+being completed according to the specifications of the contract.”. 36
+
+2  
+ (b) Section 3 (D.C. Official Code§ 27A-102) is amended as follows:  37 
+(1) A new subsection (d) is added to read as follows:  38 
+  "(d) A contract provision that creates a default by the contractor for suspending work 39 
+when the contractor has not received payment pursuant to subsections(a), (b), and (c) of this section, or 40 
+has the effect of prohibiting a contractor from suspending work for a violation of this act is against 41 
+public policy and is void and unenforceable.". 42 
+ (c) Section 4 (D.C. Official Code§ 27A-103) is amended to read as follows:  43 
+  (1) The lead-in language is redesignated as (a). 44 
+  (2) New subsections (b), (c), and (d) are added to read as follows:  45 
+"(b)(l) If payment is not received by a contractor within the deadlines established by § 46 
+27A-102 subsections(a), and (c), the contractor shall have the right to suspend performance of any 47 
+work, without penalty, until payment is received according to the terms of the contract. 48 
+  "(2) A contractor may suspend performance for a violation of this act only if: 49 
+   "(A) The contractor provides written notice to the owner or the owner's 50 
+authorized agent, via electronic mail or postal service, stating that the payment is at least 15 days 51 
+delinquent according to the deadlines established by subsections (a) or (c) of this section; 52 
+   "(B) At least 15 calendar days have passed since the written notice in 53 
+subparagraph (A) of this paragraph was sent; and 54 
+   "(C) The contractor has provided at least 10 calendar days' written notice, via 55 
+certified mail, of the contractor's intent to suspend performance to the owner or the owner's authorized 56 
+agent. 57 
+  "(c)(1) An owner may withhold payment for deficiency items or disputed amounts 58 
+according to the terms of a construction contract. Notwithstanding the above, the owner shall pay the 59 
+contractor according to the provisions of this act for any items that appear on the invoice or payment 60 
+request and have been satisfactorily completed or are undisputed. 61
+
+3  
+ "(2) If an owner withholds payment from a construction contractor for a 62 
+deficiency item, the amount withheld shall be reasonable and the owner shall notify the contractor of 63 
+the deficiency item by a written explanation of its good faith reason within 14 calendar days of the date 64 
+that the invoice is received. 65 
+    "(A) Failure to comply with paragraph (2) shall constitute a waiver of the 66 
+basis to withhold payment and necessitate payment of the contractor in full for the invoice. 67 
+"(d)(1) If an invoice is filled out incorrectly or incompletely by the contractor or if there 68 
+is any other defect or impropriety in an invoice or payment request, the owner shall give written notice 69 
+to the contractor within 7 business days of receipt of the invoice or payment request. The notice shall 70 
+plainly list any deficiencies contained in the contractor's invoice or payment request. 71 
+ "(2) Pursuant to § 27A-102(a), (c) and subsection (c) of this section, shall not 72 
+apply until such time as the contractor resubmits an invoice or payment request that cures all 73 
+deficiencies listed in the notice required by paragraph (1) of this subsection. 74 
+ (c) Section 6 (D.C. Official Code§ 27A-105) is amended as follows:  75 
+  (1) The lead in language is designated as paragraph (b) 76 
+  (2) New subsections (a-1), (a-2), (a-3), (a-4), and (a-5) are added to read as follows:  77 
+  "(a-1) A contract provision that creates a default by the contractor for suspending work 78 
+when the contractor has not received payment pursuant to§ 27A-102 subsections(a), (b), and (c), or has 79 
+the effect of prohibiting a contractor from suspending work for a violation of this act is against public 80 
+policy and is void and unenforceable.". 81 
+  "(a-2) Any contract provision which creates a default by the subcontractor for 82 
+suspending work under the contract when the contractor has received payment pursuant to subsection 83 
+(a) of this section or has the effect of prohibiting a subcontractor from suspending work under a 84 
+contract is against public policy and is void and unenforceable.". 85 
+  "(a-3)(1) If payment is not received by a subcontractor within the deadlines established 86
+
+4  
+by § 27A-104 subsections(a), the subcontractor shall have the right to suspend performance of any 87 
+work, without penalty, until payment is received according to the terms of the contract. 88 
+   "(2) A subcontractor may suspend performance for a violation of this act only if: 89 
+    "(A) The subcontractor provides written notice to the owner or the 90 
+owner's authorized agent, via electronic mail or postal service, stating that the payment is at least 30 91 
+days delinquent according to the deadlines established by subsection (a) of this section;  92 
+    "(B) At least 30 calendar days have passed since the written notice in 93 
+subparagraph (A) of this paragraph was sent; and 94 
+    "(C) The subcontractor has provided at least 10 calendar days' written 95 
+notice, via certified mail, of the subcontractor's intent to suspend performance to the owner or the 96 
+owner's authorized agent. 97 
+  "(a-4)(1) A contractor or subcontractor may withhold payment for deficiency items or 98 
+disputed amounts according to the terms of the construction contract. 99 
+   "(2) If a contractor or subcontractor withholds payment from a subcontractor for 100 
+a deficiency item, the amount withheld shall be reasonable, and the owner shall notify the subcontractor 101 
+of the deficiency item by a written explanation of its good faith reason within 14 calendar days of the 102 
+date that the invoice is received. 103 
+    "(A) Failure to comply with paragraph (2) shall constitute a waiver of the 104 
+basis to withhold payment and necessitate payment of the subcontractor in full for the invoice. 105 
+  "(a-5)(1) If an invoice is filled out incorrectly or incompletely by the subcontractor or if 106 
+there is any other defect or impropriety in an invoice or payment request, the contractor or 107 
+subcontractor shall give written notice to the subcontractor within 7 business days of receipt of the 108 
+invoice or payment request. The notice shall plainly list any deficiencies contained in the 109 
+subcontractor's invoice or payment request. 110 
+   "(2) Pursuant to § 27A-104(a) and (a-2) of this section, this shall not apply until 111
+
+5  
+such time as the subcontractor resubmits an invoice or payment request that cures all deficiencies listed 112 
+in the notice required by paragraph (a-5)(1) of this section. 113 
+ Sec. 3. Fiscal impact statement. 114 
+ The Council adopts the fiscal impact statement in the committee report as the fiscal impact 115 
+statement required by section 4a of the General Legislative Procedures Act of 1975, approved October 116 
+16, 2006 (120 Stat. 2038; D.C. Official Code§ 1-301.47a). 117 
+Sec. 4. Effective date. 118 
+ This act shall take effect following approval by the Mayor (or in the event of veto by the Mayor, 119 
+action by the Council to override the veto), a 30-day period of congressional review as provided in 120 
+602(c)(2) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 813; D.C. 121 
+Official Code§ 1-206.02(c)(l)), and publication in the District of Columbia Register.  122

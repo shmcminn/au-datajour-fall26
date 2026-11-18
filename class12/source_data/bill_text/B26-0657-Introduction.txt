@@ -1,0 +1,1354 @@
+COUNCIL OF THE DISTRICT OF COLUMBIA  
+OFFICE OF COUNCILMEMBER BROOKE PINTO  
+THE JOHN A. WILSON BUILDING  
+1350 PENNSYLVANIA AVENUE, N.W., SUITE 106  
+WASHINGTON, D.C. 20004  
+ 
+   
+ 
+April 10th, 2026 
+Nyasha Howard, Secretary 
+Council of the District of Columbia 
+1350 Pennsylvania Avenue, N.W. 
+Washington, DC 20004  
+Dear Secretary Howard,  
+Today, I am introducing the “Housing Opportunity, Mobility, Equity, and Stability (HOMES) 
+Omnibus Amendment Act of 2026.” This legislation provides a comprehensive housing 
+package designed to expand housing production, preserve existing affordable housing units, 
+create additional pathways to homeownership, reduce barriers to small-scale infill development, 
+and improve the systems through which housing development and rehabilitation is financed, 
+approved, and delivered in the District.  
+The District continues to face a severe housing affordability and supply challenge across 
+multiple income levels.1 Addressing that challenge requires more than a single policy tool. It 
+requires a broader, creative housing framework that both increases the production of new 
+homes and strengthens the District’s ability to preserve affordable units, support neighborhood 
+stabilization, and help residents remain in and access housing in communities across the city. 
+This omnibus bill is intended to advance that framework by bringing together a set of 
+complementary reforms that address housing finance, vacant property reuse, homeownership 
+access, infill housing opportunities, and administrative barriers within the development 
+and permitting process.  
+The HOMES Amendment Act will: 
+1. Modernize the District’s tax increment financing authority to allow a new 
+noncontiguous renewal District model that can support housing, infrastructure, resident 
+stabilization, and anti-displacement strategies across multiple areas under a single 
+financing plan. 
+2. Establish a vacant and blighted property acquisition and affordable housing disposition 
+program to return these properties to productive use with priority transfer to community 
+land trusts and mission-driven affordable housing nonprofit providers, with the ability 
+for the District-held taxes and liens attached to the property to be forgiven. 
+3. Create a lease-purchase homeownership opportunity pilot to help households who are 
+not yet mortgage-ready, lack necessary financial savings, are impacted by low credit 
+scores, or simply need a buffer, transition into homeownership through structured lease-
+ 
+1 Washington D.C. Economic Partnership, DC Development Report, (2025/2026), available here
+
+purchase agreements backed by homeownership counseling services, credit repair 
+opportunities and supports, escrow matching funds, and consumer protections.  
+4. Create a first-time homebuyer mortgage interest tax credit for qualifying households to 
+reduce the burdens of early homeownership and help low- and moderate-income first-
+time homebuyers afford their mortgage payments. 
+5. Establish a residential infill program to streamline the subdivision process for zoning 
+confirming residential lots and support homeowners that participate in the program with 
+predevelopment assessment grants and low- to no-cost loans for the development of 
+new affordable housing. 
+6. Create a revolving housing financing tool to accelerate the production of mixed-income 
+multifamily housing by providing subordinate construction loans and mezzanine 
+financing as gap-closing mechanisms for shovel-ready or near-shovel ready projects 
+that are unable to close because of a shortfall in senior debt, interest-rate conditions, or 
+equity constraints that have left the development undercapitalized. 
+7. Establish a Building Permit Advisory Council to make policy recommendations for 
+improving the efficiency, transparency, and predictability of the District’s permitting 
+process.   
+Together, these reforms are intended to provide the District with a broader and more 
+coordinated set of tools to support housing growth, affordability, and stability. This omnibus 
+reflects the understanding that the District’s housing challenges exist across the full continuum: 
+from vacant and blighted properties that could contribute to the supply of affordable housing, 
+to renters and prospective homeowners facing barriers to stable housing access, to multifamily 
+developments delayed by capital stack gaps, to smaller infill opportunities constrained by 
+process barriers, and to the need for more predicable permitting and implementation. By 
+combining supply-side, preservation, and access-oriented strategies into one legislative 
+package, this bill aims to further advance durable housing policies for the District.  
+Should you have any questions about this legislation, please contact my Legislative Counsel, 
+Isaiah Boyd, at iboyd@dccouncil.gov.  
+Thank you, 
+ 
+Brooke Pinto  
+Councilmember, Ward 2 
+Chairwoman, Committee on the Judiciary and Public Safety 
+Council of the District of Columbia
+
+1 
+ 
+ 1 
+                          _____________________________2 
+                              Councilmember Brooke Pinto 3 
+ 4 
+ 5 
+A BILL 6 
+ 7 
+_________________________ 8 
+ 9 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA 10 
+ 11 
+_________________________ 12 
+ 13 
+ 14 
+To amend the Tax Increment Financing Authorization Act of 1998 to create a modernization lane 15 
+for the certification and approval of noncontiguous renewal district financing plans, to 16 
+authorize renewal district specific bond caps, sunset issuances, and termination dates for 17 
+renewal districts, and to authorize affiliated development projects, district-level eligible 18 
+uses, anti-displacement and affordability requirements, resident stabilization 19 
+programming, public participation, advisory oversight, and monitoring and ex post 20 
+assessment; to amend Title IV of the Abatement and Condemnation of Nuisance 21 
+Properties Omnibus Amendment Act of 2000 to establish a Department of Housing And 22 
+Community Development program for the acquisition and affordable disposition of a 23 
+vacant and blighted residential properties, including priority transfer to community land 24 
+trusts and affordable housing nonprofit providers; to establish a Lease-Purchase 25 
+Homeownership Opportunity Program to provide a structured pathway to 26 
+homeownership for eligible households through lease-purchase agreements, to authorize 27 
+financial assistance, an escrow matching program, counseling, and consumer protections 28 
+in connection with that program, to authorize coordination with existing District 29 
+homeownership assistance programs, to require reporting on program outcomes; to 30 
+amend Chapter 18 of Title 47 of the District of Columbia Official Code to establish  first-31 
+time homebuyer mortgage interest tax credit for qualifying first-time homebuyers with a 32 
+household income at or below 150% of area median income; to amend An Act To 33 
+establish a code of law for the District of Columbia to establish a streamlined 34 
+administrative pathway for conforming residential low subdivision, buildability and 35 
+design review, anti-displacement protections, reporting requirements, and 36 
+recommendations for future zoning and planning amendments; to establish a Housing 37 
+Acceleration Fund to provide revolving subordinate acquisition and construction 38 
+financing for shovel-ready or acquisition-ready mixed-income multifamily rental housing 39 
+developments through a designated administering agency and to originate loans directly 40 
+or through qualified co-lenders, to establish eligibility criteria, underwriting standards, 41 
+and project priorities, to require repayment and recycling of Fund capital, and to require 42
+
+2 
+ 
+transparency and annual reporting; and to establish the Building Permit Advisory Council 43 
+for the Department of Buildings.  44 
+ 45 
+TABLE OF CONTENTS 46 
+TITLE I. TAX INCREMENT FINANCING MODERNIZATION ................................................3 47 
+Sec. 101. Short title ......................................................................................................................3 48 
+Sec. 102. Section 2 amended ........................................................................................................3 49 
+Sec. 103. Section 3 amended ........................................................................................................5 50 
+Sec. 104. New sections 4a through 4i ..........................................................................................6 51 
+Sec. 105. Section 5 amended ......................................................................................................13 52 
+Sec. 106. Section 6 amended ......................................................................................................14 53 
+TITLE II. VACANT PROPERTY ACQUISITION AND AFFORDABLE DISPOSITION 54 
+PROGRAM. ...................................................................................................................................14 55 
+Sec. 201. Short title ....................................................................................................................14 56 
+Sec. 202. Amendments ...............................................................................................................14 57 
+TITLE III. LEASE-PURCHASE HOMEOWNERSHIP OPPORTUNITY PILOT......................20 58 
+Sec. 301. Short title ....................................................................................................................20 59 
+Sec. 302. Definitions ..................................................................................................................20 60 
+Sec. 303. Lease-purchase Homeownership Opportunity Program established ..........................21 61 
+Sec. 304. Eligible households, eligible properties, and participating entities ............................22 62 
+Sec. 305. Financial assistance and eligible uses  ........................................................................22 63 
+Sec. 306. Required terms of lease-purchase agreements............................................................24 64 
+Sec. 307. Escrow accounts .........................................................................................................25 65 
+Sec. 308. Counseling and mortgage-readiness requirements .....................................................26 66 
+Sec. 309. Consumer protections. ................................................................................................26 67 
+Sec. 310. Conversion to ownership. ...........................................................................................27 68 
+Sec. 311. Treatment of escrow funds if purchase option is not exercised .................................27 69 
+Sec. 312. Sunset .........................................................................................................................28 70 
+TITLE IV. FIRST-TIME HOMEBUYER MORTGAGE INTEREST TAX CREDIT .................28 71 
+Sec. 401. Short title ....................................................................................................................28 72 
+Sec. 402. Amendments ...............................................................................................................28 73 
+TITLE V. RESIDENTIAL INFILL OPPORTUNITY PROGRAM .............................................30 74 
+SUBTITLE A. AMENDATORY LANGUAGE........................................................................30 75 
+Sec. 501. Short title ....................................................................................................................31 76 
+Sec. 502. Amendments ...............................................................................................................31 77 
+SUBTITLE B. SMALL-SITE AFFORDABLE HOUSING SUPPORT PROGRAM ..............33 78 
+Sec. 503. Small-Site Affordable Housing Support Program established ...................................33 79 
+Sec. 504. Predevelopment grants ...............................................................................................33 80 
+Sec. 505. Small infill loans .........................................................................................................33 81 
+Sec. 506. Fee waivers or reimbursements ..................................................................................33 82 
+Sec. 507. Affordability covenants and recapture .......................................................................33 83 
+Sec. 508. Eligible property inventory and recommendations ....................................................34 84 
+Sec. 509. Anti-displacement protections ....................................................................................34 85
+
+3 
+ 
+TITLE VI. HOUSING ACCELERATION FUND ........................................................................36 86 
+Sec. 601. Short title ....................................................................................................................36 87 
+Sec. 602 Definitions ...................................................................................................................36 88 
+Sec. 603 Housing acceleration fund established ........................................................................37 89 
+Sec. 604 Administration of the fund ..........................................................................................38 90 
+Sec. 605 Eligible uses of the fund ..............................................................................................39 91 
+Sec. 606 Eligible sponsors and projects .....................................................................................39 92 
+Sec. 607 Underwriting and loan terms .......................................................................................40 93 
+Sec. 608 Conditions before closing ............................................................................................42 94 
+Sec. 609 Fund priorities .............................................................................................................42 95 
+Sec. 610 Revolving use of funds ................................................................................................43 96 
+Sec. 611 Reporting .....................................................................................................................43 97 
+TITLE VII. BUILDING PERMIT ADVISORY COUNCIL ........................................................44 98 
+Sec. 701. Short title ....................................................................................................................44 99 
+Sec. 702. Amendments ...............................................................................................................44 100 
+TITLE VIII. STANDARD PROVISIONS ....................................................................................48 101 
+Sec. 801. Rulemaking .................................................................................................................48 102 
+Sec. 802. Fiscal Impact Statement..............................................................................................48 103 
+Sec. 803. Effective Date .............................................................................................................48 104 
+BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 105 
+act may be cited as the “Housing Opportunity, Mobility, Equity, and Stability (HOMES) 106 
+Omnibus Amendment Act of 2026”. 107 
+TITLE I. TAX INCREMENT FINANCING MODERNIZATION.  108 
+Sec. 101. Short title.  109 
+This title may be cited as the “Tax Increment Financing Modernization Amendment Act 110 
+of 2026”. 111 
+Sec. 102. Section 2 amended  112 
+Section 2 of the Tax Increment Financing Authorization Act of 1998, effective 113 
+September 11, 1998 (D.C. Law 12-143; D.C. Official Code §§ 2-1217.01 et seq.), is amended as 114 
+follows:  115 
+(a) New paragraphs (33) through (39) are added to read as follows: 116
+
+4 
+ 
+“(33) “Affiliated development project” means a project located within or in proximity to 117 
+a renewal district area and identified in, or later added to, an approved renewal district financing 118 
+plan pursuant to section 4d. 119 
+“(34) “Anti-displacement strategy” means the set of policies, programs, covenants, 120 
+investments, and protections contained in a renewal district financing plan to minimize the 121 
+displacement of residents, tenants, small businesses, and community-serving uses already present 122 
+in a renewal district area. And shall, at a minimum, address: 123 
+ “(1) housing affordability preservation or production objectives; 124 
+ “(2) tenant protections or relocation measures where occupied housing is affected; 125 
+ “(3) measures to support low-income homeowners, renter-serving housing, or 126 
+small businesses where District investment may increase displacement pressure; 127 
+ “(4) any affordability covenants, replacement requirements, or preservation 128 
+commitments applicable to assisted housing; and 129 
+ “(5) any reserve, subaccount, or dedicated allocation for resident stabilization 130 
+activities or affordability-protection purposes. 131 
+“(35) “Renewal district financing plan” means a plan certified pursuant to section 4a for a 132 
+renewal district area and may include one or more projects, phases, public improvements, 133 
+affiliated development projects, grant programs, reserves, and other eligible uses. 134 
+“(36) “Renewal district” means a noncontiguous TIF area approved pursuant to sections 135 
+4a and 5 for one or more combined purposes, including housing, community revitalization, 136 
+transit-supportive infrastructure, resident stabilization, or anti-displacement activities.  137
+
+5 
+ 
+“(37) “Noncontiguous TIF area” means 2 or more separate geographic areas, parcels, 138 
+corridors, subareas, or project clusters designated and established under a single renewal 139 
+financing plan approved pursuant to this act. 140 
+“(38) “Resident stabilization activity” means a grant, forgivable loan, preservation 141 
+investment, 80% AMI affordability commitments, or other approved intervention designed to 142 
+preserve long-term housing affordability, support low-wealth homeowners, stabilize renter-143 
+serving housing, reduce utility burden, or mitigate displacement pressure. 144 
+“(39) “Transit-supportive infrastructure” means public improvements, transportation 145 
+improvements, bus-priority improvements, station-area access improvements, utility relocations, 146 
+streetscape improvements, sidewalks, bridges, and other infrastructure that supports mobility, 147 
+access, redevelopment, or housing opportunity within or serving a renewal district. 148 
+Sec. 103. Section 3 amended  149 
+Section 3 of the Tax Increment Financing Authorization Act of 1998, effective 150 
+September 11, 1998 (D.C. Law 12-143; D.C. Official Code §§ 2-1217.01 et seq.), is amended as 151 
+follows: 152 
+(a) Subsection (b) is amended by striking the phrase “eligible projects approved pursuant 153 
+to this act” and inserting the phrase “eligible projects approved pursuant to this act or renewal 154 
+financing plans approved pursuant to section 4a” in its place.”. 155 
+(b) A new subsection (f) is added to read as follows: 156 
+“(f)(1) For a renewal financing plan approved pursuant to section 4a, the Mayor shall 157 
+specify in the proposed resolution transmitted to the Council: 158 
+ “(A) the maximum aggregate principal amount of TIF bonds or other 159 
+obligations authorized for the modernization district; 160
+
+6 
+ 
+  “(B) the final date by which such bonds or other obligations may be 161 
+issued; 162 
+  “(C) the termination date for the allocation of tax increment revenues to 163 
+the modernization district; 164 
+  “(D) any district-specific reserves or limitations applicable to housing, 165 
+infrastructure, resident stabilization activities, anti-displacement measures, grant programming, 166 
+affiliated development projects, or transit-supportive infrastructure; and 167 
+  “(E) any other district-specific financing limitation required by the Chief 168 
+Financial Officer.  169 
+ “(2) The Chief Financial Officer shall not issue bonds or other obligations for a 170 
+renewal financing plan unless the district-specific financing limitations required under paragraph 171 
+(1) of this subsection are included in the approved resolution transmitted to the Council and the 172 
+Chief Financial Officer has certified that the issuance is consistent with applicable District debt-173 
+limit requirements.”.  174 
+Sec. 104. New sections 4a through 4i. 175 
+The Tax Increment Financing Authorization Act of 1998, effective September 11, 1998 176 
+(D.C. Law 12-143; D.C. Official Code §§ 2-1217.01 et seq.), is amended by adding new sections 177 
+4a through 4h to read as follows: 178 
+“Sec. 4a. Certification of noncontiguous renewal financing plan. 179 
+“(a) In addition to certification of an individual development project under section 4, the 180 
+Chief Financial Officer (“CFO”) may certify a renewal financing plan for a Renewal district. 181 
+“(b) An application under this section shall include: 182
+
+7 
+ 
+ “(1) The boundaries of the proposed noncontiguous TIF area and each proposed 183 
+subarea, parcel group, lot number, or project cluster; 184 
+ “(2) A description of the proposed land uses, public improvements, housing 185 
+activities, revitalization activities, transit-supportive infrastructure, resident stabilization 186 
+activities, and any affiliated development projects; 187 
+ “(3) A description of the use of financing proceeds and projected tax increment 188 
+revenues; 189 
+ “(4) A pro forma projection of revenues and expenses for the renewal financing 190 
+plan; 191 
+ “(5) An assessment of the financial feasibility of the renewal financing plan; 192 
+ “(6) A general description of the anticipated timing, phasing, and implementation 193 
+of the renewal financing plan;  194 
+ “(7) A description of the plan’s compatibility with the Comprehensive plan’ 195 
+ “(8) A description of the zoning consistency or anticipated zoning plan where 196 
+applicable;  197 
+ “(9) An analysis of the projected tax revenues and public benefits to be generated 198 
+by the renewal financing plan.  199 
+ “(10) An analysis demonstrating that the renewal financing plan would not 200 
+proceed in the same scope, timing, affordability mix, or public-benefit form without the renewal 201 
+district designation.  202 
+ “(11) An anti-displacement strategy; and  203 
+ “(12) A summary of public participation conducted before final certification and 204 
+submission to the Council. 205
+
+8 
+ 
+“(c) Not later than 180 days after receipt of a completed application under this section, 206 
+the Chief Financial Officer shall certify or reject the renewal district financing plan. 207 
+“(d) In determining whether to certify a renewal financial plan, the Chief Financial 208 
+Officer shall consider: 209 
+ “(1) Whether the renewal financing plan is financially feasible; 210 
+ “(2) Whether the plan is likely to result in a new increase in taxes payable to the 211 
+district, taking into account anticipated increments and other District revenues; 212 
+ “(3) Whether the plan is consistent with the Comprehensive Plan and will advance 213 
+development priorities identified in the Comprehensive plan for the affected area or areas;  214 
+ “(4) whether the total anticipated public and financial benefits to the District 215 
+exceed the total anticipated costs to the District; 216 
+ “(5) Whether the requested allocation of increment would substantially compete 217 
+with or supplant benefits from other sources otherwise reasonably available for the goals of the 218 
+renewal financing plan; 219 
+ “(6) Whether the proposed renewal district is characterized by one or more of the 220 
+following: underinvestment, inadequate housing supply, infrastructure deficiency, weak transit 221 
+access, fragmented development patterns, corridor distress, or other barriers impeding equitable 222 
+growth; and 223 
+ “(7) Whether the renewal financing plan includes adequate affordability for 224 
+current residents, anti-displacement, public participation, and monitoring provisions;  225 
+“(e) Upon certification, the Chief Financial Officer may negotiate with the Mayor or the 226 
+designated applicant agency concerning the boundaries of the renewal district, the amount and 227 
+type of tax increment allocation, the renewal area-specific bond caps and issuance sunset, the 228
+
+9 
+ 
+termination date of the district, reserve requirements, and the terms and conditions of 229 
+implementation agreements or financing documents. 230 
+“Sec. 4b. Eligible uses under a renewal district financing plan. 231 
+“(a) In addition to any development costs authorized elsewhere in this act, an approved 232 
+renewal financing plan may authorize the use of TIF proceeds, tax increment revenues, or both, 233 
+for the following renewal district-level uses: 234 
+ “(1) housing production, preservation, rehabilitation, or acquisition; 235 
+ “(2) community revitalization, including corridor improvement, façade 236 
+improvement, neighborhood commercial stabilization, and public space improvements; 237 
+ “(3) transit-supportive infrastructure; 238 
+ “(4) resident stabilization activities, including low-wealth homeowner repair 239 
+grants, weatherization, energy-efficiency improvements, and renter-serving preservation 240 
+investments; 241 
+ “(5) anti-displacement s and affordability-preservation activities; 242 
+ “(6) grants or forgivable loans to eligible households, nonprofit entities, 243 
+community-serving uses, or small businesses where authorized by the renewal financing plan; 244 
+ “(7) implementation, monitoring, and administrative costs directly related to the 245 
+renewal district financing plan; and 246 
+ “(8) any other use determined by the Chief Financial Officer to fall within the 247 
+scope of development costs under section 2(13) of the act and specifically approved by 248 
+resolution of the Council for the renewal district. 249 
+“Sec. 4c. Renewal financing plan requirements. 250
+
+10 
+ 
+“(a) Each renewal financing plan certified under section 4a shall include renewal area-251 
+specific financing limitations, including: 252 
+ “(1) The maximum aggregate principal amount of TIF bonds or obligations for 253 
+the renewal district;  254 
+ “(2) The final date by which bonds or obligations may be issued for the renewal 255 
+district; 256 
+ “(3) the termination date for the allocation of tax increment revenues to the 257 
+renewal district;  258 
+ “(4) Any secondary caps on revenue funds applicable to affiliated development 259 
+projects, grants, resident stabilization activities, or transit-supportive infrastructure; and 260 
+ “(5) Any reserve requirements, coverage requirements, or other fiscal safeguards 261 
+required by the Chief Financial Officer. 262 
+“(b) The Council shall approve the renewal district specific financing limitations by 263 
+resolution pursuant to section 5, and no bond or other obligation may be issued in excess of those 264 
+limits.  265 
+“Sec. 4d. Affiliated development projects.  266 
+“(a) An approved renewal financing plan may authorize the later inclusion of an affiliated 267 
+development project or expansion parcel if the project or parcel:  268 
+ “(1) is located within a proximity zone, corridor, station area, or plan area 269 
+identified in the renewal financing plan; 270 
+ “(2) advances one or more purposes of the renewal district; and 271 
+ “(3) is approved in accordance with the procedures established under this act  272
+
+11 
+ 
+“(b) An affiliated development project may receive assistance under an approved renewal 273 
+district financing plan even if it has not yet been added to the revenue-contributing boundaries of 274 
+the modernization district, if the Council resolution approving the renewal district financing plan 275 
+expressly authorizes such assistance and the Chief Financial Officer certifies that the assistance 276 
+is fiscally compatible with the renewal district financing plan. 277 
+“Sec. 4e. Advisory board. 278 
+“(a) There is established a Renewal District Advisory Board for each renewal district 279 
+approved under this act.  280 
+“(b) The Mayor shall appoint members of the Advisory Board, which shall include 281 
+residents of affected communities, representatives or relevant District agencies, and persons or 282 
+entities with expertise in housing, community development, transportation, small business, or 283 
+public finance.  284 
+“(c) The Advisory Board shall review the renewal district financing plan, monitor its 285 
+implementation, review annual reports required in section 4h, advise on material amendments 286 
+where necessary, and provide recommendations biannually for renewal district activities to the 287 
+Mayor or designee and the Council.  288 
+“(d) The Advisory Board shall be advisory only and shall not exercise independent 289 
+authority to approve or disapprove bonds, financing documents, or subsidies. 290 
+“Sec. 4f. Public participation. 291 
+“(a) Before final Council approval of a renewal district financing plan a public hearing 292 
+shall be required on the proposed renewal district delineation and on the proposed renewal 293 
+district financing plan.  294
+
+12 
+ 
+“(b) The hearing shall not occur less than 14 days before final Council approval and the 295 
+proposed renewal district financing plan shall be made publicly available no later than seven 296 
+days before the scheduled hearing.  297 
+“(c) The Council shall prepare a public participation summary describing the comments 298 
+received and any revisions made in response. 299 
+“(d) Any material amendment to an approved district financing plan shall require public 300 
+notice and at least one additional public hearing. Minor or technical amendments shall not 301 
+require a public hearing. 302 
+“Sec. 4g. Annual reporting and ex post assessment. 303 
+“(a) The Chief Financial Officer shall prepare and submit to the Council, for each 304 
+renewal district approved under this act, an annual report for each fiscal year during which tax 305 
+increment revenues are allocated or otherwise used to support the renewal district.  306 
+“(b) The annual report shall include, at a minimum, information concerning increment 307 
+generated, debt service coverage, use of proceeds, project status, affordability performance, 308 
+resident stabilization activities where applicable, transit or infrastructure improvements where 309 
+applicable, and any affiliated development projects or expansion parcels added or assisted during 310 
+the reporting period.  311 
+“(c) Not later than 3 years after substantial completion of the principal improvements 312 
+financed by a renewal district financing plan, or 10 years after the first issuance of bonds for the 313 
+renewal district, whichever comes first, the Chief Financial Officer shall prepare an ex post 314 
+assessment comparing the actual fiscal, housing, infrastructure, affordability, anti-displacement, 315 
+and revitalization outcomes of the renewal district to the projections and commitments contained 316 
+in the renewal district financing plan. 317
+
+13 
+ 
+“Sec. 4h. Rules. 318 
+“The Chief Financial Officer may issue rules, guidelines, or bulletins consistent with this 319 
+act concerning fiscal certification, district-specific financing limitations, reporting formats, and 320 
+reserve or allocation requirements.”. 321 
+Sec. 105. Section 5 amended.  322 
+Section 5 of the Tax Increment Financing Authorization Act of 1998, effective 323 
+September 11, 1998 (D.C. Law 12-143; D.C. Official Code § 2-1217.01 et seq.), is amended as 324 
+follows: 325 
+ (a) The first sentence is amended by striking the phrase “with the development sponsor” 326 
+and inserting the phrase “with the Mayor or designee agency” in its place.  327 
+(a) The first sentence is amended by striking the phrase “the project” and inserting the 328 
+phrase “the project or renewal district financing plan” in its place.  329 
+(b) The second sentence is amended by striking the phrase “a proposed resolution to 330 
+approve the project, the TIF area, the development agreement, and the amount to be financed” 331 
+and inserting the phrase “either: a proposed resolution to approve the project, the TIF area, the 332 
+development agreement, and the amount to be financed; or the renewal district financing plan 333 
+and the renewal district, together with the applicable implementation agreements and the amount 334 
+to be financed” in its place. 335 
+(c) The third sentence is amended by striking the phrase “The proposed resolution shall 336 
+define the TIF area for the eligible project” and inserting the phrase “The proposed resolution 337 
+shall define the TIF area for the eligible project, or the noncontiguous TIF area for the renewal 338 
+district,” in its place. 339
+
+14 
+ 
+(d) A new sentence is added at the end to read as follows: “For a district financing plan 340 
+approved pursuant to section 4a, the proposed resolution shall also specify the renewal district 341 
+specific financing limitations required by section 4c. 342 
+Sec. 106. Section 6 amended. 343 
+Section 6 of the Tax Increment Financing Authorization Act of 1998, effective 344 
+September 11, 1998 (D.C. Law 12-143; D.C. Official Code § 2-1217.01 et seq.), is amended as 345 
+follows: 346 
+(a) Subsection (a) is amended by striking the phrase “When a TIF area for a project is 347 
+established pursuant to sections 4 and 5” and inserting the phrase “When a TIF area for a project 348 
+is established pursuant to sections 4 and 5, or when a renewal district is established pursuant to 349 
+sections 4a and 5,” in its place. 350 
+(b) Subsection (b) is amended by striking the phrase “within each TIF area” and inserting 351 
+the phrase “within each TIF area or renewal district” in its place. 352 
+TITLE II. VACANT PROPERTY ACQUISITION AND AFFORDABLE DISPOSITION 353 
+PROGRAM.  354 
+Sec. 201. Short title.  355 
+This title may be cited as the “Vacant Property Acquisition and Affordable Disposition 356 
+Amendment Act of 2026”. 357 
+Sec. 202. Amendments. Title IV of the Abatement and Condemnation of Nuisance 358 
+Properties Omnibus Amendment Act of 2000, effective April 27, 2001 (D.C. Law 13-281; D.C. 359 
+Official Code § 42-3171.01 et seq.), is amended as follows:  360 
+(a) Section 401 is amended by adding new paragraphs to read as follows:  361
+
+15 
+ 
+ “(4) “Affordable housing nonprofit provider” means a nonprofit organization in 362 
+good standing that is organized primarily to develop, preserve, own, operate, or steward housing 363 
+units rented to households whose income does not exceed 80% of the area median income and is 364 
+approved by the Mayor pursuant to this title. 365 
+ “(5) “Blighted property” shall have the same meaning as "blighted vacant 366 
+building" as provided in section 5 of An Act To provide for the abatement of nuisances in the 367 
+District of Columbia by the Commissioners of said District, approved April 14, 1906 (34 Stat. 368 
+114; D.C. Official Code § 42-3131.01 et seq.). 369 
+ “(6) “Community land trust” shall mean a nonprofit organization that: 370 
+  (A) Acquires and holds land for the purpose of providing and maintaining 371 
+affordable housing for low- and moderate-income families in perpetuity; and 372 
+  (B) Employs land leases as a method to secure the affordability of 373 
+housing. 374 
+ “(7) “Program” means the District Vacant Property Acquisition and Affordable 375 
+Disposition Program established by this title. 376 
+ “(8) “Qualified affordability developer” means a private developer approved by 377 
+the Mayor that agrees to recorded affordability restrictions of not less than 15 years and satisfies 378 
+additional criteria established by rulemaking.  379 
+ “(9) “Qualified transferee” means a community land trust, affordable housing 380 
+nonprofit provider, or qualified affordability developer approved to receive property under this 381 
+title.  382 
+ “(10) “Department” means the Department of Housing and Community 383 
+Development. 384
+
+16 
+ 
+(b) A new section 411A is added to read as follows:  385 
+ “Sec. 411A. District Vacant Property Acquisition and Affordable Disposition Program.  386 
+“(a) There is established within the Department a District Vacant property Acquisition 387 
+and Affordable Disposition program, which may be administered through the Property 388 
+Acquisition and Disposition Division or any successor office designated by the Mayor. 389 
+“(b) The program shall: 390 
+ “(1) Create and maintain a dedicated inventory of vacant and blighted residential 391 
+properties suitable for rehabilitation, affordable homeownership, affordable rental housing, 392 
+shared-equity reuse, or lease-purchase homeownership;  393 
+ “(2) Acquire, hold, manage, clear title to, and dispose of those properties using 394 
+existing lawful acquisition channels, including negotiated acquisition, donations, transfers, tax 395 
+sale foreclosure pathways, eminent domain where otherwise authorized by law, and any other 396 
+lawful means of acquisition.  397 
+ “(3) Prioritize the productive reuse of distressed residential property for long-term 398 
+affordable housing and neighborhood stabilization;  399 
+ “(4) Facilitate the transfer of suitable properties to qualified transferees under 400 
+affordability and rehabilitation conditions.  401 
+(c) A new section 411B is added to read as follows:  402 
+“Sec. 411B. Inventory and priority disposition.  403 
+“(a) The Department shall create and maintain an inventory of vacant and blighted 404 
+residential properties held or controlled through the program. 405
+
+17 
+ 
+“(b) To the greatest extent practicable, and except where the Mayor determines another 406 
+disposition is necessary to protect the public interest, the Department shall offer suitable program 407 
+properties in the following order of priority:  408 
+ “(1) First, to community land trusts;  409 
+ “(2) Second, to affordable housing nonprofit providers; and  410 
+ “(3) Third, to qualified affordability developers. 411 
+“(c) The Department may dispose of program properties for long-term affordable 412 
+homeownership, long-term affordable rental housing, shared-equity homeownership, lease-413 
+purchase homeownership under a Department-approved program, and other housing uses 414 
+approved by the Mayor that further the purposes of this title. 415 
+“(d) A disposition under this title shall not be based solely on highest price. The 416 
+Department shall consider affordability, rehabilitation feasibility, organizational capacity, 417 
+community service use, speed to productive reuse, and long-term stewardship capacity in 418 
+determining the appropriate transferee. 419 
+(d) A new section 411C is added to read as follows: 420 
+“Sec. 411C. Conditional relief authority.  421 
+“(a) Subject to appropriations and any other applicable law, the Mayor may reduce, 422 
+compromise, defer, or forgive, in whole or in part, District-held taxes, fees, penalties, interest, 423 
+special assessments, costs, liens, or other charges specified in this section that would otherwise 424 
+make transfer or rehabilitation infeasible when a vacant or blighted property is transferred 425 
+through the program to a qualified transferee. 426 
+“(b) Relief authorized under this section may include: 427 
+ “(1) Tax-sale arrears; 428
+
+18 
+ 
+ “(2) Delinquent real property taxes, to the extent permitted by law; 429 
+ “(3) Penalties and interest associated with delinquent real property taxes; 430 
+ “(4) Unpaid vacant-building registration fees; 431 
+ “(5) Costs, fees, and liens assessed by the District in connection with nuisance 432 
+abatement, or related vacant property enforcement activity; and  433 
+ “(6) Other District-held charges determined by the Mayor by rule to be directly 434 
+related to the vacancy, blight, nuisance, or tax-delinquency status of the property. 435 
+“(c) Relief under this section shall be conditioned on: 436 
+ “(1) Transfer of the property to a qualified transferee; 437 
+ “(2) Execution and recordation of affordability restrictions required by this title; 438 
+ “(3) Completion of rehabilitation within the period established by section 411D; 439 
+ “(4) Compliance with any use, occupancy, or stewardship conditions imposed by 440 
+the Mayor; and  441 
+ “(5) Additional requirements that the Mayor shall establish  442 
+“(d) The Mayor may structure relief under this section as immediate, staged, or earned 443 
+relief, including immediate forgiveness of penalties and interest and conditional or partial 444 
+forgiveness of base tax liabilities upon completion of rehabilitation and recordation of 445 
+affordability restrictions.“(e) Relief under this section shall not extinguish or impair any 446 
+privately held mortgage, lien, security interest, utility obligation, judgement, or other non-447 
+District claim.  448 
+(e) A new section 411D is added to read as follows:  449 
+“Sec. 411D. Rehabilitation deadline, affordability restrictions, and recapture.  450
+
+19 
+ 
+“(a) A qualified transferee receiving property or relief under this title shall complete 451 
+rehabilitation of the property within 24 months after transfer, unless the Mayor grants an 452 
+extension for good cause shown.  453 
+“(b) Before or at final disposition, the qualified transferee shall execute and record 454 
+affordability restrictions in the form approved by the Mayor.  455 
+“(c) Affordability restrictions shall require, as applicable:  456 
+ “(1) Long-term affordability for community land trust projects;  457 
+ “(2) Affordability for not less than 15 years for nonprofit affordable housing 458 
+projects; or  459 
+ “(3) Affordability for not less than 15 years for qualified affordability developers. 460 
+ “(d) The Mayor may require principal-residence occupancy, shared-equity resale 461 
+restrictions, lease-purchase program participation, rental affordability restrictions, or other 462 
+conditions necessary to carry out the purposes of this title. 463 
+ “(e) If a qualified transferee fails to complete rehabilitation within the required period 464 
+and any approved extension, fails to record or maintain required affordability restrictions, 465 
+transfers the property in violation of this title, or otherwise fails to comply with material 466 
+conditions of relief or disposition, the Mayor shall recapture all or part of the value of any relief 467 
+provided under this title and may impose additional remedies authorized by agreement or by 468 
+rule. 469 
+(f) A new section 411E is added to read as follows: 470 
+“Within one year after the effective date of this act, and annually thereafter, the 471 
+Department shall submit a report to the Council on the implementation of the Program, including 472 
+the number of properties in Program inventory, the number of properties acquired and disposed 473
+
+20 
+ 
+of, the number of properties transferred to community land trusts, affordable housing nonprofit 474 
+providers, and qualified affordability developers, the amount and type of liabilities reduced, 475 
+compromised, deferred, or forgiven, and the number of properties rehabilitated and returned to 476 
+occupancy.” 477 
+TITLE III. LEASE-PURCHASE HOMEOWNERSHIP OPPORTUNITY PILOT. 478 
+Sec. 301. Short title. 479 
+This title may be cited as the “Lease-Purchase Homeownership Opportunity Pilot Act of 480 
+2026”. 481 
+Sec. 302. Definitions. 482 
+For the purposes of this title, the term: 483 
+(1) “Lease-purchase agreement” means a written agreement for the lease of residential 484 
+real property that grants a program participant a right or option to purchase the leased property, 485 
+or another approved ownership interest in the leased property, pursuant to the terms of this title.  486 
+(2) “Department” means the Department of Housing and Community Development. 487 
+(3) “Eligible household” means a low- or moderate-income household, as defined by 488 
+rules issued pursuant to this title, that is not yet prepared to complete a home purchase with 489 
+conventional mortgage financing but is reasonably likely to become mortgage-ready during the 490 
+applicable program term.  491 
+(4) “Eligible property” means a residential property approved by the Department for 492 
+participation in the Program, including a single-family dwelling, condominium unit, community 493 
+land trust home, or other residential units approved by rule.  494
+
+21 
+ 
+(5) “Escrow account” shall have the same meaning as provided in section 18 of the 495 
+District of Columbia real Estate Licensure Act of 1982, effective March 10, 1983 (D.C. Law 4-496 
+209; D.C. Official code 42–1704). 497 
+(6) “Program” means the Lease-Purchase Homeownership Opportunity Program 498 
+established by section 304 of this title.  499 
+(7) “Program administrator” means the Department or a nonprofit organization, 500 
+community land trust, affordable housing provider, or other entity approved by the Department 501 
+to administer or operate the Program.  502 
+(8) “Program Participant” means an eligible household admitted to the Program. 503 
+(9) “Affordable housing nonprofit provider” means a nonprofit organization in good 504 
+standing that is organized primarily to develop, preserve, own, operate, or steward housing units 505 
+rented to households whose income does not exceed 80% of the area median income and is 506 
+approved by the Mayor pursuant to this title. 507 
+Sec. 303. Lease-purchase Homeownership Opportunity Program established. 508 
+(a) There is established a Lease-Purchase Homeownership Opportunity Program to 509 
+provide a structured pathway to homeownership for eligible households through lease-purchase 510 
+agreements and other ownership-transition models approved by the Department.  511 
+(b) The Department shall administer the Program and may directly administer the 512 
+Program or contract with one or more program administrators.  513 
+(c) The Program shall be designed to supplement existing District homeownership 514 
+programs by assisting households that are not yet prepared to complete a conventional home 515 
+purchase but are reasonably likely to become mortgage-ready within a defined period of 516 
+occupancy, savings accumulation, and counseling.  517
+
+22 
+ 
+Sec. 304. Eligible households, eligible properties, and participating entities. 518 
+(a) The Department shall establish eligibility criteria for households participating in the 519 
+Program, including income standards, occupancy requirements, and mortgage-readiness criteria. 520 
+(b) The Department shall establish criteria for eligible properties and may prioritize 521 
+homes subject to long-term affordability restrictions, community land trust properties, properties 522 
+owned or developed by nonprofit affordable housing providers, homes acquired or rehabilitated 523 
+with District assistance, and other properties that further the purposes of this title. 524 
+(c) The Department may approve community land trusts, nonprofit affordable housing 525 
+providers, and other mission-driven housing entities as program administrators or participating 526 
+lessors. 527 
+Sec. 305. Financial assistance; sources and eligible uses of funds. 528 
+(a) Subject to authorization in an approved budget and financial plan, the Mayor shall 529 
+provide financial assistance for the Program from appropriated District funds, federal funds to 530 
+the extent permitted by law, and other public and private funds lawfully available for the 531 
+purposes of this title.  532 
+(b) Financial assistance under this title may be used for: 533 
+(1) Acquisition of eligible property, including single-family homes, condominium 534 
+units, community land trust homes, scattered-site residential properties, and other residential 535 
+units approved by the Department; 536 
+(2) Rehabilitation, repair, preservation, modernization, code-compliance work, 537 
+accessibility improvements, environmental remediation, and habitability repairs necessary to 538 
+prepare eligible property for occupancy or conveyance through the Program;  539
+
+23 
+ 
+(3) Predevelopment costs, due diligence costs, legal costs, title costs, appraisal 540 
+costs, environmental review costs, financing costs, closing costs, and other transaction costs 541 
+approved by the Department; 542 
+(4) Construction, reconstruction, or improvement of eligible property, where 543 
+approved by the Department as consistent with the purposes of this title; 544 
+(5) Carrying costs, operating costs, and maintenance during the lease-purchase 545 
+term, to the extent approved by the Department and limited to costs reasonably necessary to 546 
+preserve the property and maintain the property in decent, safe, sanitary, and habitable condition; 547 
+(3) Administrative costs of approved program administrators;  548 
+(4) Counseling, financial education, homebuyer counseling, case management, 549 
+and mortgage-readiness services, and credit repair activities connected to the lease-purchase 550 
+conversion of the eligible property under the Program;  551 
+ (5) credit repair activities, including credit counseling, budget and debt-552 
+management assistance, credit report review, dispute assistance, payment-plan assistance, 553 
+savings coaching, and other services designed to improve mortgage readiness; 554 
+ (6) Down payment assistance, closing cost assistance, escrow matching 555 
+contributions, and other direct homebuyer assistance tied to an eligible property participating in 556 
+the Program;; and  557 
+ (7) Other uses approved by rule that further the purposes of this title.  558 
+(c) Financial assistance may be awarded to:  559 
+ (1)_A program administrator approved pursuant to this title;  560 
+ (2) A community land trust;  561 
+ (3) An affordable housing nonprofit provider; 562
+
+24 
+ 
+ (4) A mission-driven housing entity approved by the Department; or 563 
+ (5) A for-profit housing developer, owner, or sponsor approved by the 564 
+Department. 565 
+(c) Services authorized under subsection (b)(4) and (5) of this section may be provided 566 
+directly by the Department or through nonprofit organizations, HUD-approved housing 567 
+counseling agencies, approved program administrators, or other entities approved by the 568 
+Department.  569 
+(d) The Department shall prioritize funds used for purposes described in subsection (b)(5) 570 
+of this section for program participants who have confirmed an intent to purchase an eligible 571 
+property but require additional credit or financial-readiness support to qualify for mortgage 572 
+financing. 573 
+(e) There shall be a dedicated fund for escrow matching contributions by the Department 574 
+for program participants; escrow matching contributions may be structured as grants, loans, 575 
+deferred loans, forgivable loans, direct homebuyer assistance, or other forms of financial 576 
+assistance permitted by District and federal law.  577 
+(f) Assistance under this title may be combined with assistance available under other 578 
+District homeownership programs, including the Home Purchase Assistance Program, to the 579 
+extent permitted by law and program rules.  580 
+Sec. 306. Required terms of lease-purchase agreements.  581 
+(a) A lease-purchase agreement under this title shall be in writing and shall be on a 582 
+standard form approved by the Department.  583 
+(b) A lease-purchase agreement shall include, at a minimum:  584 
+ (1) The initial lease term and any permitted renewal periods;  585
+
+25 
+ 
+ (2) The conditions under which the program participant may exercise the 586 
+purchase option; 587 
+ (3) The purchase price, or a clear formula for determining the purchase price; 588 
+ (4) The amount of the monthly payment and the portion of that payment that shall 589 
+be deposited into the escrow account; 590 
+ (5) A description of all fees that are charged under the lease-purchase agreement 591 
+separately, including any other charges such as taxes, late payment fees, default fees, processing 592 
+fees, reinstatement fees, or other charges required of the program participant; 593 
+ (6) The rights of the participant in the event of a default, including any cure 594 
+period or reinstatement right;  595 
+ (7) The treatment of escrowed funds if the participant does not exercise the 596 
+purchase option;  597 
+ (8) Any affordability, owner-occupancy, resale, or use restrictions applicable to 598 
+the property; and  599 
+ (9) Any other provisions required by rulemaking.  600 
+(c) The Department may establish by rulemaking a minimum escrow contribution or a 601 
+formula for escrow contributions.  602 
+Sec. 307. Escrow accounts. 603 
+ (a) A program participant’s escrowed funds shall be held in a segregated account 604 
+maintained by the program administrator, an approved escrow agent, or another entity approved 605 
+by the Department. 606 
+(b) The Department shall establish by rulemaking standards for deposits of participant 607 
+contributions, deposits of District matching contributions or other assistance, accounting and 608
+
+26 
+ 
+periodic statements to participants, permissible uses of escrowed funds, and disbursement of 609 
+escrowed funds at purchase conversion or nonpurchase. 610 
+(c) Escrowed funds shall be used primarily for down payment, closing costs, and other 611 
+approved home purchase expenses. 612 
+Sec. 308. Counseling and mortgage-readiness requirements. 613 
+(a) Before entering into a lease-purchase agreement under this title, an eligible household 614 
+shall complete homeownership counseling approved by the Department. 615 
+(b) During participation in the Program, a program participant shall receive ongoing 616 
+counseling or case management designed to support credit improvement, savings accumulation, 617 
+budgeting and debt management, mortgage readiness, and transition to ownership. 618 
+(c) Counseling under this section may be provided through entities approved by the 619 
+Department. 620 
+(d) The Department shall establish standards by rule for : 621 
+ (1) confirming the participant’s intent to purchase;  622 
+ (2) assessing the participants mortgage readiness; 623 
+ (3) approving savings and credit counselling and coaching providers; and  624 
+ (4) tracking participant progress towards purchase conversion.  625 
+Sec. 309. Consumer protections.  626 
+(a) A program participant shall receive clear written disclosures, in a form prescribed by 627 
+the Department, explaining the legal nature of the lease-purchase agreement, the participant’s 628 
+rights and obligations during the lease term, the conditions for exercising the purchase option, 629 
+the treatment of escrowed funds and fees, and the consequences of default or nonpurchase. 630 
+(b) A lease-purchase agreement under this title shall not: 631
+
+27 
+ 
+ (1) require a participant to waive rights or remedies provided by District or 632 
+federal law; 633 
+ (2) permit automatic forfeiture of escrowed funds except as authorized by rule and 634 
+clearly disclosed in advance; 635 
+ (3) impose unreasonable fees, penalties, or purchase-option terms; or 636 
+ (4) contain other terms prohibited by rule. 637 
+(c) Before terminating a participant’s rights under a lease-purchase agreement for 638 
+nonpayment or other material breach, the owner or program administrator shall provide written 639 
+notice and a reasonable opportunity to cure, in accordance with rules issued under this title. 640 
+Sec. 310. Conversion to ownership.  641 
+(a) Upon the satisfaction of the requirements of the lease-purchase agreement and this 642 
+title, a program participant may exercise the purchase option and purchase the eligible property.  643 
+ (b) The Department shall establish standards for applying escrowed funds to down 644 
+payment, closing costs, and other approved home purchases expenses.  645 
+(c) The Department may coordinate assistance under this title with the Home Purchase 646 
+Assistance Program and other District homeownership programs at the time of purchase 647 
+conversion. 648 
+Sec. 311. Treatment of escrow funds if purchase option is not exercised.  649 
+(a) If a program participant does not exercise the purchase option, escrowed funds 650 
+attributable to the participant’s payments shall be disbursed in accordance with the lease-651 
+purchase agreement and rules issued under this title.  652
+
+28 
+ 
+ (b) Rules issued under this section shall be designed to preserve, to the greatest extent 653 
+practicable, the participant’s accumulated savings for future housing stability, homeownership, 654 
+debt reduction, relocation, or rental stabilization purposes. 655 
+ Sec. 312. Sunset. 656 
+ This act shall expire on December 31, 2030.   657 
+TITLE IV. FIRST-TIME HOMEBUYER MORTGAGE INTEREST TAX CREDIT. 658 
+Sec. 401. Short title. 659 
+This title may be cited as the “First-Time Homebuyer Mortgage Interest Tax Credit 660 
+Amendment Act of 2026”. 661 
+Sec. 402. Amendments. Chapter 18 of Title 47 of the District of Columbia Official Code 662 
+is amended by adding a new section 47-1806.18 to read as follows:  663 
+“§ 47-1806.18. First-time homebuyer mortgage interest tax credit. 664 
+“(a) For taxable years beginning after December 31, 2027, a qualitied taxpayer shall be 665 
+allowed a credit against the tax imposed by this chapter for the taxable year in an amount equal 666 
+to 10% of the qualified mortgage interest paid by the taxpayer during the taxable year on a 667 
+qualified principal residence.  668 
+“(b) The credit allowed under this section shall: 669 
+ “(1) not exceed $2,000 in any taxable year;  670 
+ “(2) not be nonrefundable;  671 
+“(3) may not exceed the taxpayer’s tax liability for the taxable year; and 672 
+“(4) A taxpayer shall be eligible to claim the credit under this section for no more 673 
+than 5 taxable years with respect to the same qualified principal residence. 674 
+“(c) For the purpose of this section, the term:  675
+
+29 
+ 
+ “(1) “Area median income” means the area median income of the Washington 676 
+Metropolitan Statistical Area as set forth in the periodic calculation provided by the U.S. 677 
+Department of Housing and Urban Development. 678 
+ “(2) “First-time homebuyer” means a real property purchaser who had no 679 
+ownership interest in his or her principal residence at any time during the 3 year period ending 680 
+on the date of his or her application for assistance, but including an applicant who has divorced 681 
+or separated during the 3 year period where a formal settlement has been made under which the 682 
+applicant does not receive an ownership interest in a primary residence which had been jointly 683 
+owned, and who has no other current ownership interest in residential real property.   684 
+ “(3) “Qualified mortgage interest” means interest paid during the taxable year on 685 
+acquisition indebtedness secured by a qualified principal residence, as verified in the manner 686 
+prescribed by the Chief Financial Officer; provided, that qualified mortgage interest shall not 687 
+include prepaid interest, points, penalties, or any amount not properly allocable to the taxable 688 
+year. 689 
+ “(4) “Qualified principal residence” means a dwelling unit located in the District 690 
+of Columbia that: 691 
+  “(A) Is purchased by a first-time homebuyer for use as the taxpayer’s 692 
+principal place of residence; 693 
+  “(B) Is subject to a mortgage loan or deed of trust originated by an 694 
+institutional lender or other lender approved by the Chief Financial Officer by rule; and  695 
+  “(C) Is occupied by the taxpayer as the taxpayer’s principal residence for 696 
+the taxable year for which the credit is claimed.  697 
+ “(5) “Qualified taxpayer means a taxpayer who: 698
+
+30 
+ 
+  “(A) Is a first-time homebuyer; 699 
+  “(B) Has household income for the taxable year that does not exceed 700 
+150% of area median income; 701 
+  “(C) Owns and occupies the qualified principal residence; and  702 
+  “(D) Meets any additional documentation and eligibility requirements 703 
+established by rule.  704 
+“(d) A taxpayer may claim the credit under this section only for the taxable years in 705 
+which the taxpayer both owns and occupies the qualified principal residence as the taxpayer’s 706 
+principal residence.  707 
+“(e) The Chief Financial Officer shall prescribe the form and manner in which a taxpayer 708 
+shall claim the credit, including documentation of:  709 
+ “(1) First-time homebuyer status;  710 
+ “(2) Household income; 711 
+“(3) Principal residence occupancy;  712 
+ “(4) Original mortgage amount; and  713 
+ “(5) Qualified mortgage interest paid during the taxable year.  714 
+ “(f) If the Chief Financial Officer determines that a taxpayer improperly claimed the 715 
+credit under this section, the amount of the improperly claimed credit may be recaptured in the 716 
+manner prescribed by rule.  717 
+ “(g) The Chief Financial Officer may issue proposed rules to implement the provisions of 718 
+this title.” 719 
+TITLE V. RESIDENTIAL INFILL OPPORTUNITY PROGRAM. 720 
+SUBTITLE A. AMENDATORY LANGUAGE. 721
+
+31 
+ 
+Sec. 501. Short title.  722 
+This title may be cited as the “Residential Infill Opportunity Program Amendment Act Of 723 
+2026”. 724 
+Sec. 502. Amendments. Chapter 854 of An Act To establish a code of law for the District 725 
+of Columbia, approved March 3, 1901 (31 Stat. 1425, ch. 854; D.C. Official Code § 1-1320), is 726 
+amended by adding a new section to subchapter 55 to read as follows: 727 
+“Sec. 1617. Conforming residential lot subdivisions.  728 
+“(a) For the purposes of this section, the term: 729 
+ “(1) “Department” means the Department of Buildings. 730 
+ “(2) “Buildable record lot” means a lot of record that may be separately conveyed 731 
+and lawfully improved with a principal residential building or other permitted residential use 732 
+under applicable law.  733 
+ “(3) “Conforming residential lot subdivision” means the subdivision of one 734 
+residential lot into no more than two resulting lots where the parent lot and each resulting lot 735 
+comply with all applicable subdivision, zoning, access, and development standards in effect on 736 
+the date of approval, including minimum lot area, minimum lot width, yards, floor area ratio, lot 737 
+occupancy, parking, and related requirements.  738 
+ “(4) “Resulting lot” means a lot created through a conforming residential lot 739 
+subdivision approved under this chapter.  740 
+ “(5) “Eligible lot subdivision” means a conforming residential lot subdivision 741 
+approved or conditionally approved under this chapter.  742 
+“(b) The Mayor, through the Department, shall establish a consolidated administrative 743 
+fast-track process for the review and approval of conforming residential lot subdivisions. 744
+
+32 
+ 
+“(c) The Mayor shall establish by rule a process, including:  745 
+ “(1) A completeness determination;  746 
+ “(2) One written deficiency notice identifying objective defects or missing items;  747 
+ “(3) A final written approval, conditional approval, or denial;  748 
+ “(4) Standards for revised plat submissions; and  749 
+ “(5) Procedures to allow concurrent review, where practicable, with related 750 
+building permit submissions.  751 
+“(d) A conforming residential lot subdivision may be approved only if:  752 
+ “(1) Each residential lot is capable of independent title and recordation; 753 
+ “(2) Each resulting lot has lawful access as required by applicable law and zoning 754 
+commission regulation; 755 
+ “(3) The subdivision does not require a variance, special exception, planned unit 756 
+development approval, or zoning text amendment to become conforming; and 757 
+ “(4) The Department determines that the proposed subdivision satisfies all 758 
+objective requirements established by this title and other applicable law; this includes 759 
+confirmation that:  760 
+  “(A) Each resulting lot complies with the dimensional and access 761 
+requirements applicable to the lot;  762 
+  “(B) Each resulting lot may be recorded as a separate lot of record;  763 
+  “(C) Each resulting lot is separately buildable for a principal residential 764 
+building or other permitted residential use;  765 
+  “(D) The subdivision does not create a paper lot incapable of lawful 766 
+development; and  767
+
+33 
+ 
+  “(E) Any conditions of approval have been satisfied.  768 
+“(e) Nothing in this chapter shall be construed to waive, amend, or supersede the Zoning 769 
+Regulations or to authorize a nonconforming lot subdivision.” 770 
+SUBTITLE B. SMALL-SITE HOUSING SUPPORT PROGRAM. 771 
+Sec. 503. Small-Site Housing Support Program established. 772 
+There is established a Small-Site Housing Support Program to support qualifying 773 
+affordable housing projects arising from conforming residential lot subdivisions.  774 
+Sec. 504. Predevelopment grants. 775 
+The Mayor, through the Department of Housing and Community Development or another 776 
+designated agency, may award predevelopment grants to owner-occupants, nonprofit affordable 777 
+housing providers, community land trusts, and other affordable housing driven developers to 778 
+support surveying, legal work, title work, architectural feasibility, utility planning, permitting, 779 
+and related predevelopment costs associated with an eligible lot subdivision.  780 
+Sec. 505. Small infill loans.  781 
+The Mayor may provide acquisition, construction, bridge, or gap financing for qualifying 782 
+affordable housing projects arising from conforming lot subdivisions, including projects 783 
+undertaken by nonprofit affordable housing providers, community land trusts, and owner-784 
+occupants subject to affordability restrictions outlined in section 507.  785 
+Sec. 506. Fee waivers or reimbursements. 786 
+The Mayor may waive or reimburse reasonable subdivision, recordation tax, and related 787 
+administrative fees for eligible lot subdivisions that will be used for affordability-restricted, 788 
+owner-occupied, or community land trust housing. 789 
+Sec. 507. Affordability covenants and recapture. 790
+
+34 
+ 
+As a condition of receiving financial assistance under this title, a recipient shall execute 791 
+and record an affordability covenant requiring affordability, owner-occupancy, resale, or use 792 
+restrictions for a period determined by the Mayor. 793 
+Sec. 508. Eligible property inventory and recommendations. 794 
+Within 365 days after the effective date of this act, and annually thereafter, the 795 
+Department and the Office of Planning shall jointly prepare and submit to the Council a report 796 
+identifying properties reasonably likely to qualify for conforming lot subdivision under current 797 
+law, common barriers to subdivision, and recommended statutory and administrative changes 798 
+Sec. 509. Tenant protections for occupied residential property 799 
+(a) Tenant notice. Before filing an application for a conforming residential lot subdivision 800 
+for a property containing an occupied residential dwelling unit, the owner shall provide written 801 
+notice to each tenant and lawful occupant of the property stating:  802 
+ (1) That the owner intends to apply for a conforming residential lot subdivision;  803 
+ (2) That approval of a conforming residential lot subdivision does not, by itself, 804 
+waive or limit any tenant protections otherwise provided by District law;  805 
+ (3) Whether the owner intends to seek demolition, substantial rehabilitation, 806 
+conversion, sale, redevelopment, or other action that may affect continued occupancy of the 807 
+property; and  808 
+ (4) That tenants shall retain any rights and remedies provided under applicable 809 
+District law.  810 
+(b) Preservation of tenant protections. Nothing in this section shall be construed to waive, 811 
+limit, supersede, or impair any tenant protection, notice requirement, right of occupancy, right of 812
+
+35 
+ 
+purchase, relocation right, anti-displacement protection, or other right or remedy available under 813 
+District law.  814 
+(c) Certification of compliance. As part of any application involving occupied residential 815 
+property, the applicant shall certify, in a form prescribed by the Mayor, that:  816 
+ (1) The applicant has complied with the notice requirements of subsection (a) of 817 
+this section;  818 
+ (2) The proposed subdivision is not being pursued for the purpose of evading 819 
+tenant protections or facilitating unlawful displacement; and  820 
+ (3) The applicant shall comply with all applicable District laws governing tenants, 821 
+sales, demolition, discontinuance of housing use, conversion, relocation, and affordability 822 
+restrictions.  823 
+(d) Additional review for occupied property. For an application involving occupied 824 
+residential property, the Department may require additional information reasonably necessary to 825 
+determine whether the proposed subdivision is being used primarily to facilitate displacement, 826 
+speculative redevelopment, or circumvention of District tenant-protection laws.  827 
+(e) Denial or conditional approval. The Department of Buildings may deny, or may 828 
+condition approval of, an application for a conforming residential lot subdivision if it determines 829 
+that:  830 
+ (1) The application is being used to evade applicable tenant protections;  831 
+ (2) The proposed subdivision is part of a plan primarily intended to displace 832 
+current tenants in order to facilitate speculative redevelopment;  833 
+ (3) The applicant has failed to provide the notice required by this section; or  834 
+ (4) The applicant has failed to certify compliance with applicable District law.  835
+
+36 
+ 
+TITLE VI. Housing Acceleration Fund. 836 
+Sec. 601. Short title.  837 
+This title may be cited as the “Housing Acceleration Fund Act of 2026”. 838 
+Sec. 602. Definitions. 839 
+(1) “Acquisition-ready project” means a project for which the borrower has site control, a 840 
+purchase contract, an assignment right, or another time-sensitive acquisition opportunity and can 841 
+demonstrate a credible, path to development or preservation of mixed-income multifamily rental 842 
+housing. 843 
+(2) “Administering agency” means the means the agency, instrumentality, or independent 844 
+agency designated by the Mayor by rule or Mayor's order to administer the Fund pursuant to this 845 
+act. 846 
+(3) “Area median income” means the area median income of the Washington 847 
+Metropolitan Statistical Area as set forth in the periodic calculation provided by the U.S. 848 
+Department of Housing and Urban Development. 849 
+(4) “Fund” means the Housing Acceleration Fund established by section 3. 850 
+(5) “Mixed-income multifamily rental housing” means a multifamily housing 851 
+accommodation in which 40%-60% of the units are at low-income rents affordable to households 852 
+earning up to 80% of Area Median Income (AMI) and the other 40%-60% of units have rents 853 
+affordable to moderate and/or middle-income households earning up to 120% of AMI. 854 
+(6) “Project loan” means a loan, participation interest, or other extension of credit 855 
+provided from the Fund in a subordinate or mezzanine position to support the acquisition, 856 
+preservation, rehabilitation, adaptive reuse, or construction of mixed-income multifamily rental 857 
+housing. 858
+
+37 
+ 
+(7) “Qualified co-lender” means banks, including but not limited to retail banks, 859 
+commercial banks, cooperative banks and credit unions, and Community Development Financial 860 
+Institutions (CDFI) with extensive experience in underwriting, origination, and servicing of 861 
+multifamily residential construction loans. 862 
+(8) “Shovel-ready project” means a project that has advanced to a stage at which it can 863 
+proceed to financial closing and commencement of construction within a timeframe 864 
+demonstrated by secured funding commitments from equity sponsors and debt lenders, 865 
+substantial progress on zoning requirement satisfaction, design approval, permitting competition, 866 
+financing commitments, and other predevelopment project ready milestones; yet, due to changes 867 
+in construction or capital costs have stalled due to financial gaps that have made financial return 868 
+expectations are not commensurate with the risk of moving forward with the project. 869 
+(9) “Single-asset, sole purpose entity” means a borrower entity formed for the ownership, 870 
+acquisition, development, preservation, rehabilitation, or operation of a single eligible project. 871 
+Sec. 603. Housing Acceleration Fund established.  872 
+(a) There is established a non-lapsing special fund the Housing Acceleration Fund 873 
+(“Fund”), which shall be administered by the agency in accordance with this act.  874 
+(b) The Fund shall be used to provide revolving subordinate acquisition and construction 875 
+financing, and closely related credit support, for eligible projects under this act. 876 
+(c) The Fund shall consist of: 877 
+ (1) Amounts appropriated to the Fund; 878 
+(2) Repayments of principal, interest, fees, or other returns on project loans made 879 
+from the Fund; 880
+
+38 
+ 
+ (3) Proceeds from bonds, notes, or other obligations authorized for the purposes 881 
+of the Fund; 882 
+ (4) Gifts, grants, donations, or other contributions from public or private sources 883 
+accepted by the Mayor in accordance with law; and 884 
+ (5) Other amounts lawfully credited to the Fund. 885 
+(d) The money deposited into the Fund, but not expended in a fiscal year, shall not revert 886 
+to the unassigned fund balance of the General Fund at the end of a fiscal year, or at any other 887 
+time. 888 
+(e) Subject to authorization in an approved budget and financial plan, money in the Fund 889 
+shall be continually available without regard to fiscal year limitation. 890 
+Sec. 604. Administration of the Fund 891 
+(a) The administering agency shall administer the Fund and is authorized to: 892 
+ (1) Originate project loans directly; 893 
+ (2) Participate in project loans with one or more qualified co-lenders; 894 
+ (3) Allocate Fund capital to qualified co-lenders for the origination of project 895 
+loans subject to the requirements of this act and rules issued pursuant to this act; 896 
+ (4) Enter into interagency agreements, servicing agreements, participation 897 
+agreements, risk-sharing agreements, and other agreements necessary to implement the Fund; 898 
+and 899 
+ (5) Establish underwriting standards, term sheets, notices of funding availability, 900 
+or requests for applications consistent with this act. 901
+
+39 
+ 
+(b) The administering agency may charge reasonable fees in connection with the 902 
+origination, participation, servicing, monitoring, and administration of project loans, provided 903 
+that any fees collected shall be deposited into the Fund. 904 
+Sec. 605. Eligible uses of the Fund. 905 
+(a) Money in the Fund may be used for the following purposes: 906 
+ (1) Subordinate acquisition loans for acquisition-ready projects; 907 
+ (2) Bridge acquisition financing for time-sensitive purchase opportunities 908 
+involving existing or proposed mixed-income multifamily rental housing; 909 
+ (3) Subordinate construction financing for new construction, substantial 910 
+rehabilitation, or adaptive reuse of mixed-income multifamily rental housing; 911 
+ (4) Construction-period gap financing, including interest reserves or other credit 912 
+support necessary to close an eligible project loan; 913 
+ (5) Financing related to the preservation and recapitalization of occupied 914 
+multifamily rental housing, where the borrower demonstrates that acquisition financing or 915 
+construction-period subordinate financing is necessary to maintain or create mixed-income 916 
+occupancy; and 917 
+ (6) Other subordinate credit support determined by the administering agency by 918 
+rule to be necessary to accelerate eligible projects consistent with this act. 919 
+(b) The Fund shall not be used for unrestricted land banking, speculative site acquisition 920 
+without a credible housing execution plan, or permanent financing except as may be necessary 921 
+for a short transition period established by rule to facilitate repayment or conversion of a project 922 
+loan. 923 
+Sec. 606. Eligible borrowers and projects. 924
+
+40 
+ 
+(a) A borrower under this act shall be a single-asset, sole-purpose entity approved by the 925 
+administering agency. 926 
+(b) For-profit, limited-dividend, nonprofit, joint-venture, and mission-driven borrowers 927 
+shall be eligible, provided that the sponsor and principal participants are not in default under any 928 
+mortgage financing or other material financing obligations, and satisfy underwriting, credit, and 929 
+disclosure requirements established by the administering agency. 930 
+(c) To be eligible for a project loan, a project shall: 931 
+ (1) Be locating in the District of Columbia;  932 
+ (2) Be a mixed-income multifamily rental housing development or housing 933 
+accommodation, or a project that will be converted or adapted to multifamily rental housing; 934 
+ (3) Consist of 50 or more dwelling units, unless the administering agency 935 
+establishes by rule a lower threshold for acquisition or preservation projects that materially 936 
+advance the purposes of this act; 937 
+(4) Demonstrate through a project-specific "but for" analysis that, absent the 938 
+project loan, the project would not proceed in substantially the same timeframe or on 939 
+substantially the same terms; 940 
+ (5) Include a senior lender, expected senior lender, or another credible primary 941 
+financing source, together with a realistic plan to assemble the balance of the capital stack; 942 
+ (6) Comply with baseline local inclusionary, affordability, or tax-abatement 943 
+requirements applicable to the project; and 944 
+ (7) Meet any additional eligibility criteria established by rule. 945 
+Sec. 607. Underwriting and loan terms. 946
+
+41 
+ 
+(a) Project loans made under this act shall be in a subordinate or mezzanine position to 947 
+the senior construction loan or senior acquisition financing, as applicable. 948 
+(b) The administering agency shall establish underwriting standards by rule, including 949 
+standards governing maximum loan amounts, minimum borrower equity, maximum combined 950 
+loan-to-cost, debt service assumptions, collateral guarantees, recourse, reserves, appraisals, third-951 
+party reports, and closing conditions. 952 
+(c) Unless modified by rule for a particular class of projects, a project loan shall satisfy 953 
+the following requirements:  954 
+ (1) The combined value of senior debt and the project loan shall not exceed 80% 955 
+of the total development or acquisition cost, as applicable;  956 
+ (2) The borrower shall contribute not less than 20% equity during the construction 957 
+or acquisition period, except that the administering agency may establish alternative equity 958 
+requirements for preservation transactions supported by mission-driven sponsors;  959 
+ (3) A project loan in the construction acceleration lane shall be limited to the 960 
+construction period and shall not exceed 36 months, except that the Administering agency may 961 
+grant extensions for good cause shown; 962 
+ (4) A project loan in the acquisition acceleration lane shall have a term not to 963 
+exceed 24 months, except that the administering agency may grant a limited extension for good 964 
+cause shown where the borrower demonstrates substantial progress toward a takeout event;  965 
+ (5) Interest may accrue or be paid currently at a rate established by the 966 
+administering agency, which shall be below market and may vary based on project 967 
+characteristics, borrower strength, co-lender participation, and market conditions;  968
+
+42 
+ 
+ (6) The project loan shall be repaid at construction closing, conversion to 969 
+permanent financing, sale, refinancing, recapitalization, assignment, or another approved capital 970 
+event determined by the administering agency; and  971 
+ (7) The borrower shall provide completion guarantees, environmental 972 
+indemnities, and other credit support as the administering agency requires.  973 
+Sec. 608. Conditions before closing.  974 
+(a) Prior to the closing of a project loan, the administering agency shall require 975 
+documentation sufficient to demonstrate that the project is prepared to proceed on the timetable 976 
+proposed by the borrower. 977 
+(b) Required materials may include commitment letters or financing term sheets from 978 
+senior lenders and equity providers, a final project budget, evidence of site control, permits or 979 
+entitlement documentation as applicable, an appraisal, market study, insurance, title materials, 980 
+environmental review materials, and other third-party reports established by rule. 981 
+(c) For an acquisition-ready project, the administering agency shall require a housing 982 
+execution plan, a proposed timeline to preservation, rehabilitation, or construction, and 983 
+documentation of the anticipated takeout financing or other repayment source. 984 
+Sec. 609. Fund Priorities.  985 
+(a) In awarding project loans, the administering agency shall give priority to projects that: 986 
+ (1) Are likely to commence construction or close on acquisition quickly after 987 
+award; 988 
+ (2) Leverage significant private capital relative to the amount of public capital 989 
+committed; 990 
+ (3) Provide income-restricted units beyond 30%; 991
+
+43 
+ 
+ (4) Preserve existing mixed-income multifamily rental housing that is at risk of 992 
+conversion, substantial disinvestment, or financial distress; 993 
+ (5) Are located near major transit, employment centers, or high-opportunity areas; 994 
+ (6) Convert underutilized commercial, institutional, or vacant property to housing; 995 
+ (7) Add family-sized units or otherwise advance District housing production 996 
+goals; or 997 
+ (8) Demonstrate that the project loan will materially accelerate the start or 998 
+preservation of housing in the District. 999 
+(b) The administering agency may establish additional priorities by rule or by notice of 1000 
+funding availability, provided that such priorities are consistent with this act. 1001 
+Sec. 610. Revolving nature of the fund. 1002 
+(a) All principal, interest, fees, and other returns from project loans shall be deposited 1003 
+into the Fund. 1004 
+(b) The administering agency shall administer the Fund in a manner designed to preserve 1005 
+and recycle capital so that the same public dollars may support multiple projects over time. 1006 
+(c) The Mayor may seek additional capitalization for the Fund from local funds, bond 1007 
+proceeds, philanthropy, employer contributions, mission-related investments, federal sources 1008 
+lawfully available for the purposes of this act, and other public or private sources, subject to 1009 
+applicable law and budget authority. 1010 
+Sec. 611. Reporting.  1011 
+(a) No later than 120 days after the end of each fiscal year, the Mayor shall submit to the 1012 
+Council and publish on a publicly accessible website a report on the administration of the Fund. 1013 
+(b) The report shall include: 1014
+
+44 
+ 
+ (1) The number of applications received, approved, denied, withdrawn, and 1015 
+pending; 1016 
+ (2) The amount and type of each project loan awarded; 1017 
+ (3) The number of units in projects assisted, including market-rate units and 1018 
+income-restricted units; 1019 
+ (4) The ward location and status of each project assisted; 1020 
+ (5) The amount of private capital leveraged by each award, to the extent 1021 
+practicable; 1022 
+ (6) The amount of Fund capital repaid and revolved during the fiscal year; 1023 
+ (7) The amount of Fund capital outstanding at the end of the fiscal year; and 1024 
+ (8) Any recommendations for statutory or regulatory changes to improve the 1025 
+operation of the Fund. 1026 
+(c) The administering agency shall maintain project-level records sufficient to evaluate 1027 
+compliance with this act and applicable loan documents. 1028 
+TITLE VII. BUILDING PERMITTING ADVISORY COUNCIL.   1029 
+ Sec. 701. Short title. 1030 
+This title may be cited as the “Building Permitting Advisory Council Amendment Act of 2026”. 1031 
+ Sec. 702. Amendments.  1032 
+ The Department of Buildings Establishment Act of 2020, effective April 5, 2021 (D.C. 1033 
+Law 23-269; D.C. Official Code § 10-561.01 et seq.), is amended as follows: 1034 
+ (a) Title II is amended by adding a new section to read as follows: 1035 
+ “Sec. 203. Building Permitting Advisory Council.  1036
+
+45 
+ 
+ “(a) The Mayor shall establish a Building Permitting Advisory Council (“BPAC”) to 1037 
+make policy recommendations designed to continually improve the efficiency, transparency, 1038 
+predictability, and accountability of the District’s building permitting process. 1039 
+ “(b) The purpose of the BPAC shall be to: 1040 
+  “(1) Advise the Mayor, the Council, and the Director on policies and practices to 1041 
+improve the efficiency, transparency, predictability, and accountability of the building permitting 1042 
+process; 1043 
+  “(2) Review the performance of the Department’s permitting-related functions, 1044 
+including permit intake, plan review, interagency referral and coordination, permit issuance, 1045 
+inspection-related permitting delays, and related customer service processes; 1046 
+  “(3) Identify administrative, regulatory, technological, staffing, and legal barriers 1047 
+that contribute to unnecessary delay, duplication, inconsistency, or unpredictability in the 1048 
+permitting process; 1049 
+  “(4) Develop recommendations to streamline permitting and related development 1050 
+review processes across the Department and, where applicable, across agencies with review or 1051 
+approval responsibilities affecting permit issuance; and 1052 
+  “(5) Solicit feedback from affected stakeholders and the public regarding the 1053 
+operation of the permitting process. 1054 
+ “(c) The BPAC shall:  1055 
+  “(1) Review data and information made available by the Department concerning 1056 
+permitting timelines, application volume, review times, permit issuance outcomes, resubmission 1057 
+rates, common sources of delay, and other permitting performance indicators identified by the 1058 
+Department or the Board; 1059
+
+46 
+ 
+  “(2) Evaluate the effectiveness of electronic plan submission, electronic plan 1060 
+review, permit tracking, and related records systems used in connection with permitting; 1061 
+  “(3) Review recurring issues involving interagency coordination that materially 1062 
+affect the timeliness or predictability of permit review or issuance;  1063 
+  “(4) Make recommendations regarding process improvements, staffing needs, 1064 
+service standards, guidance documents, rulemaking, legislation, and agency coordination; and  1065 
+  “(5) Submit an annual report and recommendations in accordance with subsection 1066 
+(h) of this section. 1067 
+ “(d)(1) The BPAC shall consist of 13 members.  1068 
+  “(2) The Mayor shall appoint the following members, or their designees: 1069 
+   “(A) The Director of the Department of Buildings; 1070 
+   “(B) The Chief Building Official; 1071 
+   “(C) One representative from the Office of Planning; 1072 
+   “(D) One representative from the Department of Energy and Environment; 1073 
+and 1074 
+   “(E) One representative from the Office of the City Administrator. 1075 
+  “(3) The Mayor shall appoint 7 public members with relevant experience, 1076 
+including: 1077 
+   “(A) One architect licensed in the District; 1078 
+   “(B) One professional engineer licensed in the District; 1079 
+   “(C) One representative of the residential development or homebuilding 1080 
+industry; 1081
+
+47 
+ 
+   “(D) One representative of an affordable housing developer or affordable 1082 
+housing nonprofit provider; and 1083 
+   “(E) One representative of a community-based organization, tenant 1084 
+advocacy organization, or neighborhood association with experience navigating the permitting 1085 
+process. 1086 
+   “(F) Two representatives of local building trade unions.  1087 
+  “(4) The Mayor shall appoint 1 public member with relevant expertise in 1088 
+construction, housing, planning, land use, design, permitting, or community development. 1089 
+  “(5) Public members may be reappointed. 1090 
+  “(6) A vacancy in the membership of the BPAC shall be filled in the same manner 1091 
+as the original appointment. 1092 
+ “(f)(1) The BPAC shall meet at least quarterly. 1093 
+  “(2) The Director, or the Director’s designee, shall convene the initial meeting of 1094 
+the BPAC not later than 90 days after the applicability date of the act that established the BPAC. 1095 
+  “(3) A majority of the members serving shall constitute a quorum. 1096 
+  “(4) The Chairperson of the BPAC shall be the Director of the Department of 1097 
+Buildings.   1098 
+ “(g) (1) On or before January 1, 2028, and annually thereafter, the BPAC shall submit to 1099 
+the Mayor, Council, and Department a report that: 1100 
+   “(A) Assesses the performance of the District’s building permitting 1101 
+process during the prior fiscal year; 1102 
+   “(B) Identifies major causes of delay, inconsistency, or inefficiency in the 1103 
+permitting process; 1104
+
+48 
+ 
+   “(C) Summarizes stakeholder feedback received by the BPAC; 1105 
+   “(D) Recommends administrative, interagency, regulatory, or legislative 1106 
+actions to improve permitting performance and transparent communication with permit 1107 
+applicants; and 1108 
+   “(E) Identifies any data collection or transparency improvements needed 1109 
+to better evaluate the permitting process. 1110 
+  “(2) The report required by this subsection shall be made publicly available by the 1111 
+Department online. 1112 
+ “(h) Nothing in this section shall be construed to authorize the BPAC to intervene in, 1113 
+adjudicate, or direct the outcome of any individual permit application, contested case, 1114 
+enforcement matter, zoning determination, or licensing action.  1115 
+TITLE VIII. STANDARD PROVISIONS. 1116 
+Sec. 801. Rulemaking. 1117 
+The Mayor, pursuant to Title I of the District of Columbia Administrative Procedure Act, 1118 
+approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 et seq.), may issue rules 1119 
+to implement the provisions of this act 1120 
+Sec. 802. Fiscal Impact Statement. 1121 
+The Council adopts the fiscal impact statement of the Budget Director as the fiscal impact 1122 
+statement required by section 4a of the General Legislative Procedures Act of 1975, approved 1123 
+October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a) 1124 
+Sec. 804. Effective Date. 1125 
+This act shall take effect after approval by the Mayor (or in the event of veto by the 1126 
+Mayor, action by the Council to override the veto) and a 30-day period of congressional review 1127
+
+49 
+ 
+746 as provided in section 602(c)(2) of the District of Columbia Home Rule Act, approved 1128 
+December 747 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(2)) 1129

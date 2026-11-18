@@ -1,0 +1,182 @@
+Statement of Introduction   
+Wealth Proceeds Tax Amendment Act of 2026  
+ 
+July 8, 2026  
+ 
+In April 2026, the D.C. Council was handed a budget by the Mayor that was balanced on 
+the backs of our most vulnerable residents. Although the Council identified one-time 
+funding to address many of the funding gaps for essential human services, policymakers 
+were forced to decide what some would have to go without: housing, healthcare, food 
+assistance, childcare, violence prevention, child and family services. Yet, the budget asked 
+nothing of our wealthiest residents.  
+For more than a decade, this Council has buried conversations about revenue and long-
+term financial stability. Year after year, the Mayor cuts and sweeps the money for things 
+she doesn’t support, and the Council is forced to find the money to keep critical programs 
+afloat for one more year. Without a more holistic approach to the budget and revenues, the 
+next Mayor and the next Council will be back in the same place next year.  
+In 1996, the District of Columbia Tax Revision Commission was created by the D.C. Council 
+and mandated to comprehensively review the District’s tax code every ten years and provide 
+legislators with a policy recommendations report.1  The first report was researched, drafted, 
+and published in 1998.2 The practice was repeated again in 2013 when the Commission was 
+revived to deliver a package of updated tax recommendations to Council, which they 
+produced the following year.3 
+However, in 2024, when policymakers commissioned the tax body again to prepare a new 
+report, politics torpedoed the release of recommendations at the last minute.4 Instead, the 
+Commission published a short five-page letter with a brief “revenue neutral” list of 
+proposals.5  
+ 
+1 D.C. Code §§ 47–461 et seq. (1996). 
+2 D.C. Tax Revision Commission Report (1998), https://cfo.dc.gov/page/dc-tax-revision-commission-1998.  
+3 D.C. Tax Revision Commission Report (2014), 
+https://cfo.dc.gov/sites/default/files/dc/sites/ocfo/publication/attachments/DC%20Tax%20Revision%20050114.pdf.  
+4 Alex Koma, D.C.’s Influential Tax Revision Commission is Melting Down, Undermining Confidence in Its Work, 
+WASHINGTON CITY PAPER (March 25, 2024), 
+ https://washingtoncitypaper.com/article/686068/d-c-s-influential-tax-revision-commission-is-melting-down-undermining-
+confidence-in-its-work/. 
+5 Chairman’s Mark Letter (January 5, 2024), https://cdn.prod.website-
+files.com/63bc270f792ad26d64988e32/65a0073781885c05b3c65bf2_Chairman%27s%20Mark%20letter.pdf.
+
+In response to the Tax Revision Commission’s failure to produce a report in time for the 
+Fiscal Year 2025 budget, I introduced legislation, with support from councilmembers 
+Charles Allen, Janeese Lewis-George, and Zachary Parker, to establish a permanent Tax 
+and Revenue Commission that would be charged with providing recommendations focused 
+on more equity, broadening the tax base, encouraging business growth, assessing the impact 
+of fines and fees, and increasing transparency in the tax code.6 The bill still sits in committee 
+awaiting a hearing.7 
+Every year that we consider the city’s budget without the benefit of recommendations from 
+the Commission is a year that we could be doing more to make the tax code more code farer 
+for District residents. Instead, we do our best to make piecemeal tweaks, without the benefit 
+of the comprehensive look we need to make reliable and sound tax policy.  
+This past budget cycle, I proposed a Wealth Proceeds Tax to amend the District’s tax code: 
+a 3 percent surcharge on passive income—such as capital gains, dividends, interest, 
+annuities, and other investments that require no labor—on the wealthiest residents. The 
+change would apply to individuals making over $400K, and married couples making over 
+$500K.8 The surcharge is a local version of the federal Net Investment Income Tax9—
+straightforward and easy to administer (and enacted by other states).10 The tax is estimated 
+to increase the General Fund by $200 million in Fiscal Year 2027 and estimated to raise 
+hundreds of millions in subsequent years.11 
+Too much wealth at the top and too little at the bottom is not good policy, especially when 
+we acknowledge that we tax earned income on middle class and working people’s labor 
+significantly more than unearned income. The bottom line is this: we are facing a fiscal cliff, 
+and we cannot ask the people who need the most to give even more and ask those with the 
+most to give nothing more. The Wealth Proceeds Tax is one of many proposals that can 
+establish a fairer and more resilient tax code, and one worthy of consideration. 
+ 
+6 B25-0850 - Tax and Revenue Commission Establishment Amendment Act of 2024, 
+https://lims.dccouncil.gov/Legislation/B25-0850; see also, Press Release: New Tax Commission Would Replace Existing 
+(June 18, 2024) https://brianneknadeau.com/new-tax-commission-would-replace-existing/. 
+7 B26-0014 - Tax and Revenue Commission Establishment Amendment Act of 2025,  
+https://lims.dccouncil.gov/Legislation/B26-0014.  
+8 Remarks, Office of Ward 1 Councilmember Brianne K. Nadeau, FY27 Budget Wrap (June 25, 2026),  
+https://brianneknadeau.com/fy27-budget-wrap/.  
+9 United States Internal Revenue Service, Questions and Answers on the Net Investment Income Tax, 
+https://www.irs.gov/newsroom/questions-and-answers-on-the-net-investment-income-tax. 
+10 Sarah Austin and Carl Davis, The Wealth Proceeds Tax: A Simple Way for States to Tax the Wealthy, Institute on 
+Taxation and Economic Policy (October 30, 2025), https://itep.org/wealth-proceeds-tax-net-investment-income-tax/. 
+11 See Id. Appendix A, Table A.1. Revenue Potential of State-Level Wealth Proceeds Taxes (WPT) in 2026 at Various 
+Rates; see additional revenue estimates: Office of Ward 1 Councilmember Brianne K. Nadeau, Wealth Proceeds Tax 
+Explainer (last accessed July 8, 2026), https://brianneknadeau.com/wealth-proceeds-tax/#explainer.
+
+1 
+ 
+             
+          _____________________________ 
+          Councilmember Brianne K. Nadeau 
+ 
+ 
+A BILL 
+ 
+_________________________ 
+ 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA 
+ 
+_________________________ 
+ 
+ 
+To amend Chapter 18 of Title 47 of the District of Columbia Official Code to establish and 1 
+implement a surcharge on proceeds or profits generated by wealth holdings of high-2 
+income households. 3 
+ 4 
+ BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 5 
+act may be cited as the “Wealth Proceeds Tax Amendment Act of 2026”. 6 
+ Sec. 2. Chapter 18 of Title 47 (D.C. Official Code §§ 47-1801 et seq.) of the District of 7 
+Columbia Official Code is amended as follows: 8 
+ “(a) The table of contents is amended by inserting a new line to read as follows: 9 
+  “§ 47-1806.03a. Wealth Proceeds Tax.”. 10 
+ “(b) A new Section 47-1806.03a is added to read as follows: 11 
+ “§ 47-1806.03a. Wealth Proceeds Tax.”. 12 
+ “(a) For the purposes of this section, the following definitions shall apply: 13 
+  “(1) “District modified adjusted gross income” means federal modified adjusted 14 
+gross income, subject to the adjustments set forth in § 47-1803.02(a)(1)(B)(ii). 15 
+  “(2) The term “federal modified adjusted gross income” shall have the same 16 
+meaning as set forth in section 1411(d) of the Internal Revenue Code, subject to the following 17 
+adjustments: 18
+
+2 
+ 
+   “(A) Interest on U.S. obligations that District is prohibited from taxing 19 
+under federal law shall be excluded; and 20 
+   “(B) Interest on obligations issued by state and local governments other 21 
+than the District shall be included. 22 
+  “(3) “Threshold amount” means:  23 
+   “(A) in the case of married individuals or registered domestic partners 24 
+filing separately on a combined return, $500,000 divided evenly among the taxpayers; 25 
+   “(B) in the case of married individuals, registered domestic partners, or a 26 
+qualifying surviving spouse filing a joint return, $500,000;  27 
+   “(C) in the case of married individuals or registered domestic partners 28 
+filing a separate return, $250,000; and 29 
+   “(D) in the case of all other taxpayers filing a return, $400,000, except that 30 
+in the case of a fiduciary making a return on behalf of an estate or trust pursuant to § 47-1809.03, 31 
+$16,000. 32 
+  “(4) The term “wealth proceeds” shall have the same meaning as “net investment 33 
+income” that is set forth in section 1411(c) of the Internal Revenue Code, subject to the 34 
+following adjustments: 35 
+   “(A) Interest on U.S. obligations that District is prohibited from taxing 36 
+under federal law shall be excluded; 37 
+   “(B) Interest on obligations issued by state and local governments other 38 
+than the District shall be included; and 39 
+   “(C) Income of an incomplete gift non-grantor trust, less any deductions of 40 
+the trust, to the extent such wealth proceeds and deductions of such trust would be taken into 41
+
+3 
+ 
+account in computing the taxpayer’s federal taxable income if such trust in its entirety were 42 
+treated as a grantor trust for federal tax purposes shall be included for a taxpayer who transferred 43 
+property to an incomplete gift non-grantor trust. 44 
+  “(5) The term “incomplete gift non-grantor trust” means a resident trust that meets 45 
+the following conditions: 46 
+   “(A) The trust does not qualify as a grantor trust under sections 671 47 
+through 679 of the Internal Revenue Code, and 48 
+   “(B) The grantor's transfer of assets to the trust is treated as an incomplete 49 
+gift under section 2511 of the Internal Revenue Code, and the regulations thereunder.  50 
+ “(b) In the case of an individual, estate, or trust there is hereby imposed (in addition to 51 
+any other tax imposed) for each taxable year beginning after December 31, 2025, a tax equal to 3 52 
+percent of the lesser of: 53 
+  “(1) Wealth proceeds for such taxable year, or 54 
+  “(2) Federal modified adjusted gross income for such taxable year, less the 55 
+threshold amount. 56 
+ “(c) For an individual who is not a resident of the District for the entire taxable year, the 57 
+tax under this subsection must be calculated as if the individual is a resident of the District for 58 
+the entire year, and that amount must be multiplied by a fraction in which: 59 
+  “(1) The numerator is wealth proceeds allocable under § 47–1806.01 to the 60 
+District, and 61 
+  “(2) The denominator is the total amount of wealth proceeds for the taxable year. 62 
+ “(d) For an estate or trust, the tax under this section must be calculated by multiplying the 63 
+wealth proceeds tax liability by a fraction, the numerator of which is the amount of the estate or 64
+
+4 
+ 
+trust’s wealth proceeds allocated to the state pursuant to the provisions of sections § 47-1809.03, 65 
+and the denominator of which is the taxpayer’s total wealth proceeds. 66 
+ “(e) All references to the Internal Revenue Code in this section shall refer to the code in 67 
+effect as of January 1, 2026.”. 68 
+ Sec. 3. Fiscal impact statement. 69 
+ The Council adopts the fiscal impact statement in the committee report as the fiscal 70 
+impact statement required by section 4a of the General Legislative Procedures Act of 1975, 71 
+approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a). 72 
+ Sec. 4. Effective date. 73 
+ This act shall take effect after approval by the Mayor (or in the event of veto by the 74 
+Mayor, action by the Council to override the veto), a 30-day period of congressional review as 75 
+provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 76 
+24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of 77 
+Columbia Register. 78

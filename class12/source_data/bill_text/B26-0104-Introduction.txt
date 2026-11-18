@@ -1,0 +1,536 @@
+January 31, 2025  
+Nyasha Smith, Secretary  
+Council of the District of Columbia  
+1350 Pennsylvania Avenue NW 
+Washington, DC 20004 
+ 
+Dear Secretary Smith,  
+ 
+Today, I am introducing the Cumulative Impacts Analysis Amendment Act of 2025. Please find 
+enclosed a signed copy of the legislation, which is co-introduced by Councilmember Kenyan 
+McDuffie. 
+ 
+For decades, the District has concentrated facilities that produce air pollution, hazardous waste, 
+water pollution, stormwater runoff, and urban heat island effects in low income and 
+predominantly Black neighborhoods. During that time, the District has placed the burden of 
+fighting these injustices on the residents in Ivy City, Brentwood, Mayfair, Bellevue, and 
+countless other communities in Wards 4, 5, 7, and 8. Instead of empowering and lifting up the 
+needs of these resilient neighborhoods, we have exposed them to an outrageous accumulation of 
+environmental hazards through our land use, planning, and permitting processes.  
+ 
+The Cumulative Impacts Analysis Amendment Act of 2025—which is modeled on a New Jersey 
+statute and accompanying rulemaking—has four major components. The bill: 
+1. Establishes a “cumulative impact statement” process that must be completed to obtain 
+District permits and other relief for environmentally harmful actions in overburdened 
+communities;   
+2. Establishes a “modified cumulative impact statement” to assess District agency plans that 
+impact the siting of significant sources of environmental harm in overburdened 
+communities; 
+3. Establishes forms of accountability to ensure that these processes are enforceable and 
+result in meaningful progress for overburdened communities; and 
+4. Establishes an environmental justice division at DOEE. 
+The Cumulative Impacts Analysis Amendment Act would require an assessment of the 
+cumulative impacts created by major actions and actions at applicable facilities in overburdened
+
+2 
+communities, require transparency and community engagement regarding those impacts, and 
+result in the denial of the proposed action if a disproportionate impact on an overburdened 
+community is identified. Actions that substantially reduce disproportionate impacts, are required 
+by changes in environmental regulations aimed at improving stressors, or that provide direct 
+benefits to overburdened communities (such as access to affordable housing, food, health care, 
+parks, trails, or public education) are exempt from this process.  
+ 
+The legislation would also require the preparation of a modified cumulative impact statement 
+whenever a District agency proposes a plan or policy that that would subject an overburdened 
+community to significant sources of pollution. If the modified cumulative impact statement 
+identified a disproportionate impact on an overburdened community, an agency would be barred 
+from spending funds to implement the proposed policy or plan unless it obtained affirmative 
+approval from the D.C. Council. Road designs that are consistent with the District’s climate 
+commitments are exempt from this process.  
+ 
+Mindful of the fact that accountability is key to the success of any process, the Cumulative 
+Impacts Analysis Amendment Act would authorize the Mayor to fine an applicant or to revoke 
+an action taken on behalf of an applicant for failure to comply with mitigating measures or 
+conditions of operation identified in an environmental impact statement or cumulative impact 
+statement. The legislation would also empower the People’s Counsel to initiate a civil action on 
+behalf of any individual or individuals for legal wrongs suffered in the preparation or disposition 
+of an environmental impact statement or cumulative impact statement.  
+ 
+Finally, the Cumulative Impacts Analysis Amendment Act would establish an Energy and 
+Environmental Justice Division in the Department of Energy and Environment. This division 
+would be charge with identifying and reducing environmental, energy, climate, and health 
+burdens and cumulative impacts in overburdened communities; leading, coordinating, and 
+tracking the incorporation of energy justice and environmental justice into the DOEE’s 
+processes, priorities, and allocation of resources; empowering communities to exercise their 
+rights under the District’s environmental laws and regulations; and ensuring that the District 
+continues to make investments in energy equity and access.  
+ 
+I look forward to working with my colleagues on the Council and the Executive to advance 
+environmental justice in the District. Please contact my Deputy Chief of Staff, Conor Shaw, at 
+cshaw@dccouncil.gov if you have any questions about this legislation. 
+ 
+Sincerely,  
+ 
+ 
+ 
+Zachary Parker  
+Ward 5 Councilmember 
+Chair, Committee on Youth Affairs
+
+1 
+ 
+ 1 
+_____________________________    _____________________________ 2 
+Councilmember Kenyan R. McDuffie     Councilmember Zachary Parker 3 
+  4 
+ 5 
+A BILL 6 
+ 7 
+_________________________ 8 
+ 9 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA 10 
+ 11 
+_________________________ 12 
+ 13 
+ 14 
+To amend the District of Columbia Environmental Policy Act of 1989 to reform the requirements 15 
+of an Environmental Impact Statement, to require a Cumulative Impacts Statement for 16 
+any major action in an overburdened community or any action at an applicable facility in 17 
+an overburdened community, to require a modified Cumulative Impacts Statement for 18 
+any plan or policy that impacts the siting or operation of applicable facilities in the 19 
+District, or any concept analysis or design of an interstate, freeway, expressway, or 20 
+arterial road inconsistent with the District’s climate commitments, to require the Mayor 21 
+to disapprove any cumulative impacts action with disproportionate impact unless 22 
+mitigating measures are taken or a reasonable alternative is substituted, to authorize the 23 
+Mayor to fine an applicant or revoke an action taken on behalf of an applicant for failure 24 
+to comply with mitigating measures or conditions of operation, and to require the Mayor 25 
+to maintain a file of all Environmental Impact Statements, Cumulative Impacts 26 
+Statements, and supplemental Environmental Impact Statements for public review, to 27 
+enhance accountability mechanisms under the Environmental Policy Act, to authorize the 28 
+Mayor to impose a fee on an applicant for the cost of reviewing a cumulative impacts 29 
+screening form or preparing a Cumulative Impacts Statement; and to create the Energy 30 
+and Environmental Justice Division at DOEE. 31 
+BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 32 
+act may be cited as the “Cumulative Impacts Analysis Amendment Act of 2025”. 33 
+Sec. 2. The District of Columbia Environmental Policy Act of 1989, effective October 34 
+18, 1989 (D.C. Law 14-28; D.C. Official Code § 8–109.01 et seq.) is amended as follows: 35 
+(a) Section 2 (D.C. Official Code § 8–109.01) is amended to read as follows: 36
+
+2 
+ 
+(1) Strike the phrase “environmental impact” and insert the phrase “environmental 37 
+impact and cumulative impacts” in its place; and 38 
+(2)  Strike the phrase “environmental effects” and insert the phrase 39 
+“environmental effects or cumulative impacts” in its place. 40 
+(b) Section 3 (D.C. Official Code § 8–109.02) is repealed. 41 
+(c) A new section 3a is added to read as follows: 42 
+“Sec. 3a. Definitions. 43 
+“For the purposes of this chapter, the term: 44 
+“(1) “Action” means: 45 
+“(A) A new project or activity directly undertaken by the Mayor or a 46 
+board, commission, or authority of the District government; or 47 
+“(B) A project or activity that involves the issuance, or renewal, of a lease, 48 
+permit, license, certificate, registration, other entitlement, or permission to act by an agency of 49 
+the District government. 50 
+“(2) “Adverse cumulative stressors” means that the combined stressor total of the 51 
+overburdened community is higher than the overburdened community’s geographic point of 52 
+comparison or would be made higher than an overburdened community’s geographic point of 53 
+comparison as a result of the action’s contribution. 54 
+“(3) “Adverse stressor” means a stressor in the overburdened community that is 55 
+higher than an overburdened community’s geographic point of comparison or would be made 56 
+higher than an overburdened community’s geographic point of comparison as a result of the 57 
+action’s contribution. 58 
+“(4) “Applicable facility” means any:  59
+
+3 
+ 
+“(A) Major source of air pollution as defined in chapter 2 of title 20 of the 60 
+District of Columbia Municipal Regulations; 61 
+“(B) Generator (including a very small quantity generator), transporter, or 62 
+storage, treatment, transfer or disposal facility as those terms are defined in 40 C.F.R. 260.10; 63 
+“(C) Sludge processing facility, or incinerator;  64 
+“(D) Sewage treatment plant with a capacity of more than 50 million 65 
+gallons per day; 66 
+“(E) Transfer station, recycling facility, or other solid waste facility; 67 
+“(F) Scrap metal facility; 68 
+“(G) Asphalt or concrete plant; 69 
+“(H) Medical waste facility, or incinerator; 70 
+“(I) A surface lie-down or parking lot containing more than 20,000 square 71 
+feet of impervious surface; 72 
+“(J) A depot, maintenance, or storage facility with capacity to store 10 or 73 
+more trucks, buses, or other heavy machinery that produce particulate matter through tire wear or 74 
+the operation of internal combustion engines; 75 
+“(5) “Climate commitments” means the greenhouse gas emission reduction 76 
+targets established in section 109d of District Department of the Environment Establishment Act 77 
+of 2005, effective February 15, 2006 (D.C. Law 16-51; D.C. Official Code § 8–151.09d) and 78 
+policies issued consistent with that law, including the targets established in Clean Energy DC 79 
+and the District of Columbia Climate and Energy Action Plan. 80 
+“(6) “Combined stressor total” means the sum of adverse stressors in an 81 
+overburdened community; 82
+
+4 
+ 
+“(7) “Cumulative impacts action” means any major action located in whole, or in 83 
+part, in an overburdened community, or any action at an applicable facility located in whole, or 84 
+in part, in an overburdened community, but does not include an action that DOEE determines: 85 
+(A) Will substantially reduce the disproportionate impacts on the 86 
+overburdened community without extending the lifetime of the facility or significantly increasing 87 
+the capacity and operations of the facility;  88 
+(B) Is required for a facility to comply with changes to federal and District 89 
+environmental laws and regulations that reduce stressors; or  90 
+(C) Provides substantial direct benefits to the overburdened community 91 
+where it is located in the form of access to affordable housing, food, health care, parks, trails, or 92 
+public education. 93 
+“(8) “Cumulative impacts plan” means: 94 
+“(A) A plan or policy that impacts the siting or operation of applicable 95 
+facilities in the District, including the Comprehensive Plan and the Districtwide Production 96 
+Distribution and Repair Report; or 97 
+“(B) A concept analysis or design of an interstate, freeway, expressway, or 98 
+arterial road that is inconsistent with the District’s climate commitments. For the purposes of this 99 
+act, a concept or design of an interstate, freeway, expressway, or arterial road shall be presumed 100 
+to be consistent with the District’s climate commitments if it: 101 
+“(i) Incorporates a road diet that reduces by at least 33% the 102 
+number of available vehicle lanes; 103 
+“(ii) Introduces restricted lanes that are designated for use by buses 104 
+or streetcars at least 84 hours a week without expanding the width of the road; 105
+
+5 
+ 
+“(iii) Establishes an off-street recreational trail that is designed for 106 
+users aged 8-80 years old without expanding the width of the road; or 107 
+“(iv) Replaces an interstate, freeway, or expressway with a 108 
+recreational facility, residential or mixed use development, or surface road that is designed to 109 
+carry 40 percent fewer vehicles per day. 110 
+“(9) “Disproportionate impact” means the action cannot avoid either:  111 
+“(A) Creating adverse cumulative stressors in an overburdened community 112 
+as a result of the action’s contribution; or  113 
+“(B) Contributing to an adverse stressor in an overburdened community 114 
+that is already subject to adverse cumulative stressors. 115 
+“(10) “DOEE” means the Department of Energy and Environment. 116 
+“(11) “Environment” means the physical conditions that will be affected by a 117 
+proposed action, including but not limited to, the land, air, water, minerals, flora and fauna. 118 
+“(12) “Functional equivalent” means the full and adequate description and 119 
+analysis of the environmental impact of a proposed action by an agency, board, commission, or 120 
+authority of the District government that examines or imposes environmental controls under 121 
+procedures that provide for notice, opportunity for public comment, and the creation of a 122 
+reviewable record. 123 
+“(13) “Geographic point of comparison” means the comparison area and value 124 
+used to determine whether an overburdened community is subject to one or more adverse 125 
+stressors and is determined by selecting the lower value of the District or ward’s 50th percentile, 126 
+calculated excluding the values of other overburdened communities. For the purposes of this 127 
+definition, “ward” shall refer to the ward in which the overburdened community is located. 128
+
+6 
+ 
+“(14) “Hazardous substance” means any solid, liquid, gaseous, or semisolid form 129 
+or combination that, because of its nature, concentration, physical, chemical, or infectious 130 
+characteristic, as established by the Mayor, may: 131 
+“(A) Cause or significantly contribute to an increase in mortality or an 132 
+increase in a serious, irreversible or incapacitating reversible illness; or 133 
+“(B) Pose a substantial hazard to human health or the environment if 134 
+improperly treated, stored, transported, disposed of, or otherwise managed, including substances 135 
+that are toxic, carcinogenic, flammable, irritants, strong sensitizers, or that generate pressure 136 
+through decomposition, heat, or other means and containers and receptacles previously used in 137 
+the transportation, storage, use, or application of hazardous substances. 138 
+“(15) “Lead agency” means the District agency designated by the Mayor to have 139 
+primary responsibility for the preparation of an Environmental Impact Statement (“EIS”), or a 140 
+Cumulative Impacts Statement (“CIS”). 141 
+“(16) “Major action” means any action that costs over $1,000,000 and that may 142 
+have a significant impact on the environment, except that, subject to the exemptions in section 7, 143 
+the Mayor, pursuant to rules issued in accordance with section 10, shall classify any action that 144 
+costs less than $1,000,000 as a major action, if the action imminently and substantially affects 145 
+the public health, safety, or welfare. The cost level of $1,000,000 shall be based on 1989 dollars 146 
+adjusted annually according to the Consumer Price Index. 147 
+“(17)(A) “Overburdened community” means any census block group in the top 148 
+quartile of the 2022 Environmental Justice Index published by the Centers for Disease Control 149 
+and any census block group in the second quartile of the 2022 Environmental Justice Index that 150 
+is adjacent to a census block group in the top quartile of the 2022 Environmental Justice Index.  151
+
+7 
+ 
+(B) Five years after the effective date of the Environmental Justice Amendment 152 
+Act of 2023 (introduced on November 6, 2023) and every 5 years thereafter, DOEE may issue 153 
+regulations adjusting the definition of an overburdened community, providing that DOEE 154 
+considers the social vulnerability of residents, including racial or ethnic minority status and 155 
+socioeconomic status; environmental burdens, including air pollution, potentially hazardous and 156 
+toxic sites, built environment, transportation infrastructure, water pollution, and urban heat island 157 
+effect; and health vulnerability, including the incidence of pre-existing chronic diseases, food 158 
+access, and health care access.   159 
+(C) DOEE shall publish and maintain a map on its website identifying 160 
+overburdened communities in the District.    161 
+“(18) “Stressor” includes: 162 
+“(A) Sources of environmental pollution, including concentrated areas of 163 
+air pollution, mobile sources of air pollution, contaminated sites, transfer stations or other solid 164 
+waste facilities, recycling facilities, scrap yards; 165 
+“(B) Point-sources of water pollution including water pollution from 166 
+facilities or combined sewer overflows;, also  167 
+“(C) Concentrated areas of heat from urban heat island effect; 168 
+“(D) Conditions that cause significant public health impacts, including 169 
+accidental injuries or death, asthma, cancer, elevated blood lead levels, cardiovascular disease, 170 
+dementia, pregnancy loss, maternal mortality and developmental disabilities in the overburdened 171 
+community; or 172 
+“(E) Any other stressors as defined by DOEE.”. 173 
+(d) Section 4 (D.C. Official Code § 8–109.03) is amended as follows: 174
+
+8 
+ 
+(1) Subsection 3(a) is amended to add a new paragraph 2A to read as follows: 175 
+“(2A) The relationship of the proposed major action to the District’s climate 176 
+commitments;”. 177 
+(2) Subsection 3(b) is amended by striking the phrase “registered voters” and 178 
+inserting the phrase “qualified electors in local elections” in its place. 179 
+(3) Subsection 3(c) is amended as follows: 180 
+(A) Strike the phrase “grant or issuance” wherever it appears and insert the 181 
+phrase “grant, issuance, or renewal” in its place. 182 
+(B) Strike the phrase “certificate” wherever it appears and insert the 183 
+phrase “certificate, registration” in its place. 184 
+(C) Paragraph (3)(B) is amended by striking the phrase “this paragraph” 185 
+and inserting the phrase “paragraph or section 13” in its place. 186 
+(e) New sections 4a and 4b are added to read as follows: 187 
+“Sec. 4a. Cumulative Impacts Statement requirements. 188 
+“(a) Whenever the Mayor or a board, commission, authority, or person proposes or 189 
+approves a cumulative impacts action, the Mayor, board, commission, authority, or person shall 190 
+prepare or cause to be prepared, and transmit, in accordance with this section, a detailed CIS at 191 
+least 60 days prior to implementation of the proposed cumulative impacts action. The CIS shall 192 
+be written in a concise manner and shall contain: 193 
+“(1) A detailed description of the neighborhood setting of the facility, which shall 194 
+include: 195 
+“(A) The location of any existing applicable facility;  196
+
+9 
+ 
+“(B) The location of community assets, including transit facilities; 197 
+hospitals; senior, low-income, and public housing; nursing homes; playgrounds; parks; trails; and 198 
+schools; 199 
+“(C) Key demographic and economic information from the United States 200 
+Census, the American Community Survey, or similar sources;  201 
+“(D) Current zoning and future land use as established in the 202 
+Comprehensive Plan for the National Capital and any applicable Small Area Plan; 203 
+“(E) The prevalence of land zoned for production, distribution, and repair 204 
+in the census block where the facility is (or will be) located as well as adjacent census blocks; 205 
+and 206 
+“(F) Existing urban heat island effects and flooding hazards. 207 
+“(2) A description of the facility's current and proposed operations, including: 208 
+“(A) A site plan of the facility or equivalent map if no site plan exists; 209 
+“(B) An explanation of the purpose of the cumulative impacts action 210 
+sought, including how the action serves the needs of the individuals in the overburdened 211 
+community;  212 
+“(C) An assessment of the relationship of the cumulative impacts action to 213 
+the District’s climate commitments; and 214 
+“(D) Identification of all stressors that are anticipated as a result of the 215 
+operation and construction of the facility, as well as processes and investments designed to 216 
+control or mitigate those stressors; 217
+
+10 
+ 
+“(3) A list of all leases, permits, licenses, certificates, registrations, other 218 
+entitlements, or permissions to act, by an agency of the District or federal government, required 219 
+for the facility (including those previously obtained); and 220 
+“(4) An assessment of the anticipated impacts, both positive and negative, of the 221 
+construction and operation of the facility on each identified stressor in the overburdened 222 
+community. The assessment shall assume the facility operates at the maximum usage or output 223 
+allowable under District and federal law and the terms of the action sought. 224 
+“(b) If a cumulative impacts action also requires an EIS per section 4, the CIS required by 225 
+this section may be prepared and transmitted as a supplemental EIS per section 6, provided the 226 
+supplemental EIS meets the requirements of this section. 227 
+“(c) The Mayor, board, commission, or authority shall transmit a copy of any CIS 228 
+prepared pursuant to subsection (a) of this section, or any supplemental EIS prepared in lieu of a 229 
+CIS pursuant to subsection (b) of this section, to the Council, any District agency that has 230 
+responsibility for implementing the cumulative impacts action or special expertise with respect to 231 
+any stressors involved, and any affected Advisory Neighborhood Commission. A copy of the 232 
+CIS, or supplemental EIS prepared in lieu of a CIS, shall be made available for review by the 233 
+public in the main office of the agency primarily responsible for implementing or permitting the 234 
+proposed cumulative impacts action. The Mayor, board, commission, or authority shall provide a 235 
+reasonable period consistent with the District of Columbia Administrative Procedure Act, 236 
+approved October 21, 1968 (82 Stat. 1203; D.C. Official Code § 2–501 et seq.), for comment on 237 
+any CIS prepared pursuant to subsection (a) of this section, or any supplemental EIS prepared in 238 
+lieu of a CIS pursuant to subsection (b) of this section. The Mayor, board, commission, or 239 
+authority shall conduct a public hearing pursuant to the rules issued in accordance with section 240
+
+11 
+ 
+10(c) for any CIS or supplemental EIS prepared in conjunction with any major action. If 25 241 
+qualified electors in local elections in an affected single member district request a public hearing 242 
+on a CIS, or a supplemental EIS prepared in lieu of a CIS, for any other action, or if there is 243 
+significant public interest, the Mayor, board, commission, or authority shall conduct a public 244 
+hearing pursuant to the rules issued in accordance with section 10(c). 245 
+“(d)(1) Upon receipt of an application for a proposed major action, or a proposed action 246 
+at an applicable facility, the Mayor, board, agency, commission, or authority of the District 247 
+government shall determine within 30 days, excluding Saturdays, Sundays, and legal holidays, 248 
+whether the action is a cumulative impacts action and a CIS is required per subsection (a). 249 
+“(2) The agency shall notify the applicant, in writing, if a determination has been 250 
+made that the action is a cumulative impacts action and a CIS is required. Notice of the 251 
+determination and the findings that support the determination shall be kept on file by the Mayor. 252 
+“(3) The Mayor, board, commission, or authority may require an applicant to 253 
+prepare a CIS, or a supplemental EIS in lieu of a CIS. A nongovernmental applicant shall be 254 
+charged a fee to cover the cost of agency review of the CIS, or supplemental EIS prepared in lieu 255 
+of a CIS. No lease, permit, license, certificate, registration, or other entitlement shall be issued, 256 
+unless the applicant required to prepare a CIS has completed the CIS, or a supplemental EIS in 257 
+lieu of the CIS, in compliance with this act and paid any fee charged pursuant to this paragraph 258 
+or section 13. 259 
+“(4) The applicant shall assist the Mayor, or the board, commission, or authority 260 
+at any stage of the review of the proposed cumulative impacts action by timely submitting all 261 
+relevant information concerning impact, costs, benefits, and alternatives. The Mayor, board, 262
+
+12 
+ 
+commission, or authority shall deny a proposed action, if the applicant fails to submit relevant 263 
+information as specified in rules promulgated pursuant to section 10. 264 
+“(e) No funds appropriated to a District agency shall be expended to implement a 265 
+cumulative impacts action that has a disproportionate impact identified in a CIS unless the 266 
+Mayor submits the cumulative impacts action to the Council for its approval and the Council 267 
+approves the action (in accordance with criteria established by act of the Council). 268 
+“Sec. 4b. Modified Cumulative Impacts Statement requirements. 269 
+“(a) Whenever the Mayor or a board, commission, authority, or person proposes or 270 
+approves a cumulative impacts plan, the Mayor, board, commission, authority, or person shall 271 
+prepare or cause to be prepared, and transmit, in accordance with this section, a modified CIS at 272 
+least 60 days prior to implementation of the proposed cumulative impacts plan. The modified 273 
+CIS shall be written in a concise manner and shall contain: 274 
+“(1) The neighborhood and demographic context for the plan or policy, including 275 
+description of the impact it is expected to have on applicable facilities in overburdened 276 
+communities;  277 
+“(2) An assessment of the anticipated impacts, both positive and negative, of the 278 
+adoption of the cumulative impacts plan on each identified stressor in overburdened 279 
+communities; and 280 
+“(3) Identification of any disproportionate impact and a description of efforts to 281 
+mitigate each disproportionate impact, including any reasonable alternatives to the proposed 282 
+cumulative impacts plan that were considered but rejected. 283 
+“(b) The Mayor, board, commission, or authority shall transmit a copy of any modified 284 
+CIS, to the Council, the Attorney General for the District of Columbia, and any affected 285
+
+13 
+ 
+Advisory Neighborhood Commission. A copy of the modified CIS shall be made available for 286 
+review by the public in the main office of the agency primarily responsible for drafting or 287 
+implementing the proposed cumulative impacts plan.  288 
+“(c) No funds appropriated to a District agency shall be expended to implement a 289 
+cumulative impacts plan that has a disproportionate impact identified in a modified CIS unless 290 
+the Mayor submits the cumulative impacts plan to the Council for its approval and the Council 291 
+approves the plan (in accordance with criteria established by act of the Council).”. 292 
+(f) Section 5 (D.C. Official Code § 8–109.04) is amended as follows: 293 
+(1) Designate the existing text as subsection (a). 294 
+(2) New subsections (b) and (c) are added to read as follows: 295 
+“(b) If the CIS, or the supplemental EIS prepared in lieu of a CIS, identifies a 296 
+disproportionate impact, the Mayor, board, commission, or authority of the District government 297 
+shall disapprove the action, unless the applicant proposes mitigating measures or substitutes a 298 
+reasonable alternative to avoid the disproportionate impact. 299 
+“(c) If the CIS, or the supplemental EIS prepared in lieu of a CIS, identifies no 300 
+disproportionate impact, it shall specify the mitigating measures or conditions of operation 301 
+required to support that finding.”. 302 
+(g) A new section 5a is added to read as follows: 303 
+“Sec. 5a. Enforcement and fines. 304 
+“The Mayor may fine an applicant or revoke an action taken on behalf of an applicant for 305 
+failure to comply with mitigating measures or conditions of operation identified in an EIS, a CIS 306 
+or supplemental EIS.”. 307 
+(h) Section 8 (D.C. Official Code § 8–109.07) is amended to read as follows: 308
+
+14 
+ 
+“Sec. 8. Lead agencies; files. 309 
+“(a) The Mayor shall designate a lead agency to prepare an EIS, CIS, or supplemental 310 
+EIS when the preparation of the EIS or CIS requires the input of more than 1 agency. The lead 311 
+agency shall, if necessary, oversee the preparation of a single, omnibus EIS, ensure reasoned 312 
+consideration of and distinction among any inconsistent conclusions, and promote coordination 313 
+with public and private organizations and individuals with a special expertise or recognized 314 
+interest. 315 
+“(b) The Mayor shall maintain a file of all EISs, CISs, and supplemental EISs for public 316 
+review. The file shall be published, regularly updated, maintained, and available for public 317 
+inspection on a District government website.”. 318 
+(i) Section 9 (D.C. Official Code § 8–109.08) is amended to read as follows: 319 
+“Sec. 9. Judicial review. 320 
+“(a) Where an EIS or a CIS is prepared in connection with the issuance or, approval, or 321 
+renewal of a lease, permit, license, certificate, registration, or any other entitlement or permission 322 
+to act by a District government agency that is subject to administrative or judicial review under 323 
+applicable laws or regulations, the administrative or judicial review shall be governed by the 324 
+applicable laws and regulations. 325 
+“(b) Notwithstanding subsection (a) The People’s Counsel may bring a civil action on 326 
+behalf of any individual or individuals suffering a legal wrong, or adversely affected or 327 
+aggrieved by an order or decision of the Mayor or an agency regarding an action subject to an 328 
+EIS, CIS, supplemental CIS, or modified CIS, and such civil action shall be subject to review by 329 
+the District of Columbia Court of Appeals under section 11 of the District of Columbia 330
+
+15 
+ 
+Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1203; D.C. Official Code § 331 
+2–510).”. 332 
+(j) Section 10 (D.C. Official Code § 8–109.09) is amended by adding a new subsection 333 
+(c) to read as follows: 334 
+“(c) Within 180 days of the effective date of the Environmental Justice Amendment Act 335 
+of 2023 (introduced on November 6, 2023), the Mayor shall, pursuant to the District of Columbia 336 
+Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1203; D.C. Official Code § 337 
+2–501 et seq.), issue proposed rules to implement the provisions of this act and to assist District 338 
+agencies in the review of a cumulative impacts screening form and in the preparation of a CIS. 339 
+The proposed rules shall be submitted to the Council for a 45-day period of review, excluding 340 
+Saturdays, Sundays, legal holidays, and days of Council recess. If the Council does not approve 341 
+or disapprove the proposed rules, in whole or in part, by resolution within this 45-day review 342 
+period, the proposed rules shall be deemed approved.”. 343 
+(k) Section 13 (D.C. Official Code§ 8–109.12) is amended to read as follows: 344 
+“Sec. 13. Fees. 345 
+“Whenever the Mayor reviews an environmental impact or cumulative impacts screening 346 
+form or prepares, or causes to be prepared, an EIS, a CIS, or supplemental EIS under this 347 
+subchapter, the Mayor may impose a fee on the applicant to compensate the Mayor for the costs 348 
+of reviewing the environmental impact or cumulative impacts screening form or preparing the 349 
+EIS, CIS, or supplemental EIS.” 350 
+Sec. 3. The District Department of the Environment Establishment Act of 2005, effective 351 
+February 15, 2006 (D.C. Law 16-51; D.C. Official Code § 8–151.01 et seq.), is amended as 352 
+follows: 353
+
+16 
+ 
+(a) Section 103(b)(1)(C) (D.C. Official Code § 8–151.03(b)(1)(C)) is amended as 354 
+follows: 355 
+(1) Strike the phrase “section 3” and insert the phrase “section 3a” in its place; 356 
+and 357 
+(2) Strike the phrase “Environmental Impact Statement” and insert the phrase 358 
+“Environmental Impact Statement or Cumulative Impacts Statement” in its place. 359 
+(b) Section 106 (D.C. Official Code § 8–151.06) is amended as follows: 360 
+(1) Paragraph (6) is amended by striking the phrase “; and” and inserting a 361 
+semicolon in its place. 362 
+(2) Paragraph (7)(D)(ii) is amended by striking the period and inserting the phrase 363 
+“; and” in its place. 364 
+(3) A new paragraph (8) is added to read as follows: 365 
+“(8) An Energy and Environmental Justice Division to lead DOEE’s efforts to do 366 
+the following: 367 
+(A) Identify and reduce the environmental, energy, climate, and health 368 
+burdens and cumulative impacts imposed on District residents in overburdened communities; 369 
+(B) Lead, coordinate, and track incorporation of energy justice and 370 
+environmental justice into the agency’s processes, priorities, and allocation of resources; 371 
+(C) Ensure that communities are empowered to exercise their rights to 372 
+participate in and enforce requirements established under the District’s environmental laws and 373 
+regulations, particularly those burdened with significant sources of pollution, facing 374 
+disproportionate cumulative impacts, experiencing chronic energy insecurity, or deprived of 375 
+distributed and clean energy resources; and 376
+
+17 
+ 
+(D) Ensure that the District’s grid and clean energy investments materially 377 
+uplift energy insecure households, maximize the equitable deployment of distributed energy 378 
+resources (including rooftop and community solar, storage, weatherization, and energy efficiency 379 
+upgrades), minimize land use and wildlife impacts, and protect the public’s access to reliable, 380 
+resilient, and affordable energy. 381 
+Sec. 4. Section 2(5) of the Solid Waste Facility Permit Act of 1995, effective February 382 
+27, 1996 (D.C. Law 11-94; D.C. Official Code § 8–1051 et seq.), is amended by striking the 383 
+phrase “section 3” and inserting the phrase “section 3a” in its place. 384 
+Sec. 5. Applicability. 385 
+(a) This act shall apply upon the date of inclusion of its fiscal effect in an approved 386 
+budget and financial plan. 387 
+(b) The Chief Financial Officer shall certify the date of the inclusion of the fiscal effect in 388 
+an approved budget and financial plan, and provide notice to the Budget Director of the Council 389 
+of the certification. 390 
+(c)(1) The Budget Director shall cause the notice of the certification to be published in 391 
+the District of Columbia Register. 392 
+(2) The date of publication of the notice of the certification shall not affect the 393 
+applicability of this act. 394 
+Sec. 6. Fiscal impact statement. 395 
+The Council adopts the fiscal impact statement in the committee report as the fiscal 396 
+impact statement required by section 4a of the General Legislative Procedures Act of 1975, 397 
+approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a). 398 
+Sec. 7. Effective date. 399
+
+18 
+ 
+This act shall take effect following approval by the Mayor (or in the event of veto by the 400 
+Mayor, action by the Council to override the veto), a 30-day period of congressional review as 401 
+provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 402 
+24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of 403 
+Columbia Register. 404

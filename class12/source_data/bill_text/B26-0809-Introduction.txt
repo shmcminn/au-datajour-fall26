@@ -1,0 +1,188 @@
+COUNCIL OF THE DISTRICT OF COLUMBIA 
+   The John A. Wilson Building 
+   1350 Pennsylvania Avenue, NW 
+   Washington, D.C. 20004 
+ 
+ 
+ 
+Statement of Introduction 
+Health Benefit Exchange Authority Technical Amendment Act of 2026 
+September 21, 2026 
+ 
+Today, I am pleased to introduce the Health Benefit Exchange Authority Technical 
+Amendments Act of 2026. This legislation would make several technical and clarifying 
+amendments to the Health Benefit Exchange Authority’s (HBX) authorizing legislation.  
+The Health Benefit Exchange Authority was first established in 2012 via the Health Benefit 
+Exchange Authority Establishment Act of 2011 (the Act). The Act established HBX as an 
+independent authority of the District government and provides for the agency’s Executive Director 
+and staff to be overseen by an Executive Board that includes seven voting members appointed by 
+the Mayor and approved by the Council. 
+            Since HBX’s inception in 2012, the Council has, on several occasions, amended the Act to 
+clarify the statutory language and adopt other changes. For example, in 2015, the Council approved 
+legislation to clarify the statutory language for HBX’s independent procurement authority.1 The 
+legislation I am introducing today would similarly make clarifying and technical amendments. 
+First, the legislation would clarify that HBX’s purposes and authorities include effectuating 
+anything in the Affordable Care Act and applicable District law. Second, the legislation amends 
+Executive Board membership to include one board member with specific expertise in information 
+technology. Third, the legislation clarifies HBX’s independent personnel status by de-linking the 
+agency’s compensation scale from the District’s to enhance their competitiveness in hiring, 
+especially in areas of IT and technology. Fourth, the legislation refines the Act’s code of conduct 
+to remove a conflicting provision with the District’s Comprehensive Code of Conduct. The 
+legislation also makes other technical amendments. 
+            I look forward to working with my Council colleagues to move forward this legislation, 
+which would enhance the operations of the Health Benefit Exchange Authority and its Executive 
+Board, which provides critical access to health insurance for District residents. 
+ 
+ 1 https://code.dccouncil.gov/us/dc/council/laws/21-13 
+Christina Henderson Committee Member 
+Councilmember, At-Large Facilities 
+Chairperson, Committee on Health Human Services 
+ Transportation and the Environment
+
+______________________________ 1 
+Councilmember Christina Henderson 2 
+ 3 
+ 4 
+ 5 
+ 6 
+A BILL 7 
+ 8 
+_________________ 9 
+ 10 
+ 11 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA 12 
+ 13 
+_________________ 14 
+ 15 
+ 16 
+To amend the Health Benefit Exchange Authority Establishment Act of 2011 to clarify the 17 
+Health Benefit Exchange Authority’s independent personnel authority, clarify expertise 18 
+for executive board membership, make ethics and conflicts of interest requirements 19 
+consistent with applicable District-wide law, and make other technical and clarifying 20 
+edits. 21 
+ 22 
+ BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 23 
+act may be cited as the “Health Benefit Exchange Authority Technical Amendment Act of 24 
+2026”. 25 
+ Sec. 2. The Health Benefit Exchange Authority Establishment Act of 2011, effective 26 
+March 2, 2012 (D.C. Law 19-94; D.C. Official Code § 31-3171.01 et seq.), is amended as 27 
+follows: 28 
+(a) Section 2(13) (D.C. Official Code § 31-3171.01(13)) is amended to read as follows: 29 
+  “(13) “Qualified individual” means an individual, including a minor, who meets 30 
+the criteria as defined in section 1312(f)(1) of the Federal Act (42 U.S.C. § 18032).”. 31 
+ (b) Section 3(b) (D.C. Official Code § 31-3171.02(b)) is amended as follows: 32 
+  (1) Paragraph (6) is amended by striking the phrase “; and” and inserting a 33 
+semicolon in its place. 34
+
+(2) Paragraph (7) is amended by striking the period and inserting the phrase “; 35 
+and” in its place. 36 
+  (3) A new paragraph (8) is added to read as follows: 37 
+  “(8) Effectuate this act, the Federal Act as it applies in the District, and applicable 38 
+District law.”.  39 
+ (c) Section 5(a) (D.C. Official Code § 31-3171.04(a)) is amended as follows: 40 
+  (1) A new paragraph (1B) is added to read as follow: 41 
+“(1B) Establish and operate additional programs to effectuate section 3;”. 42 
+(2) Paragraph (3) is amended by striking the phrase “, with effective dates on 43 
+January 1, 2024;” and inserting a semicolon in its place. 44 
+(3) Paragraph (6) is amended by striking the word “publically” and inserting the 45 
+word “publicly” in its place. 46 
+(4) Paragraph (7) is amended by striking the phrase “guidelines developed by the 47 
+Secretary under section 1311(c)” and inserting the phrase “section 1311(c) in its place. 48 
+(5) Paragraph (10) is amended by striking the word “publically” and inserting the 49 
+word “publicly” in its place. 50 
+(6) Paragraph (16)(A) is amended to read as follows: 51 
+ “(A) The name and taxpayer identification number of each individual who 52 
+is issued a certification under paragraph (15) of this subsection;”. 53 
+  (7) A new paragraph (19A) is added to read as follows: 54 
+  “(19A) Issue grants to effectuate the purposes outlined in section 3;”. 55 
+  (8) Paragraph (22)(D)(iv) is amended by striking the phrase “; and” and inserting 56 
+a semicolon in its place. 57
+
+(9) Paragraph (23) is amended by striking the period and inserting the phrase “; 58 
+and” in its place. 59 
+  (10) A new paragraph (24) is added to read as follows: 60 
+  “(24) Perform other functions to effectuate the purposes outlined in section 3 in 61 
+its place.”. 62 
+ (d) Section 6 (D.C. Official Code § 31-3171.05) is amended as follows: 63 
+  (1) Subsection (c) is amended as follows: 64 
+   (A) The lead-in language of paragraph (1) is amended as follows:  65 
+(i) Strike the word “Each” and insert the phrase “Except as 66 
+provided in paragraph (4) of this subsection, each” in its place. 67 
+(ii) Strike the phrase “and acknowledged expertise” and insert the 68 
+word “expertise” in its place. 69 
+   (B) A new paragraph (4) is added to read as follows: 70 
+  “(4) One voting member of the executive board shall have demonstrated expertise 71 
+in information technology, including artificial intelligence, cybersecurity, and system 72 
+architecture, and shall not be subject to the other qualification requirements identified in 73 
+paragraph (1) of this subsection.”. 74 
+  (2) Subsection (e) is amended by striking the phrase “annual basis” and inserting 75 
+the phrase “annual basis or in accordance with the executive board’s bylaws” in its place. 76 
+ (e) Section 7 (D.C. Official Code § 31-3171.06) is amended as follows: 77 
+  (1) Subsection (a) is amended by striking the phrase “the functions authorized by 78 
+the Federal Act and” and inserting the phrase “the functions authorized by the Federal Act, this 79 
+act, and applicable District law and” in its place. 80
+
+(2) Subsection (b) is amended by striking the phrase “Act and” and inserting the 81 
+phrase “Act, this act, and applicable District law and” in its place. 82 
+  (3) Subsection (d) is amended as follows: 83 
+   (A) Paragraph (1) is amended as follows: 84 
+(i) The lead-in language is amended by striking the phrase 85 
+“understanding with eligible entities, including the” and inserting the phrase “understanding or 86 
+agreement with eligible entities, including the” in its place. 87 
+    (ii) A new subparagraph (C-1) is added to read as follows: 88 
+   “(C-1) Any federal or state governmental bodies, including District 89 
+government agencies;”. 90 
+    (iii) Subparagraph (E) is amended by striking the phrase “plans or 91 
+in facilitating enrollment in those plans” and inserting the phrase “plans, in facilitating 92 
+enrollment in those plans, or in other activities authorized under this act or applicable District 93 
+law” in its place. 94 
+    (B) Paragraph (2) is amended to read as follows: 95 
+  “(2) The executive board shall ensure that any entity under a contract with the 96 
+Authority complies with the provisions of this act and the provisions imposed by the Federal Act, 97 
+when performing services on behalf of the Authority.”. 98 
+ (f) Section 9 (D.C. Official Code § 31-3171.08) is amended as follows: 99 
+  (1) Subsection (b) is amended to read as follows: 100 
+ “(b) The executive board shall determine the appropriate compensation for the executive 101 
+director.”. 102 
+  (2) Subsection (d)(3) is repealed. 103
+
+(g) Section 10 (D.C. Official Code § 31-3171.09) is amended as follows: 104 
+  (1) Subsection (a) is amended as follows: 105 
+   (A) Paragraph (5)(H) is amended by striking the phrase “, as defined in 106 
+section 4(ii) of Chapter 1 of the Affordable Exchanges Guidance, dated March 1, 2013, by” and 107 
+inserting the phrase “as defined by” in its place. 108 
+   (B) The lead-in language of paragraph (6) is amended by striking the 109 
+phrase “and rules promulgated pursuant to this chapter or the Federal Act,” and inserting a 110 
+comma in its place. 111 
+   (C) Paragraph (10) is amended by striking the phrase “defined in federal 112 
+regulations promulgated pursuant to section 1302(a) of the Federal Act, as defined by the District 113 
+without” and inserting the phrase “described in section 1302(a) of the Federal Act, and as 114 
+defined by the District, without” in its place. 115 
+  (2) Subsection (c) is amended by striking the word “publically” both times it 116 
+appears and inserting the word “publicly” in its place. 117 
+  (3) Subsection (e)(3) is amended by striking the phrase “prescribed by the 118 
+Secretary pursuant to section 1302(b)(1)(J) of the Federal Act, and such other dental benefits as 119 
+the Authority or the Secretary may specify by regulation” and inserting the phrase “described in 120 
+section 1302(b)(1)(J) of the Federal Act, and such other dental benefits as the Authority or 121 
+Secretary may specify” in its place. 122 
+  (4) Subsection (h) is amended by striking the phrase “as defined in federal 123 
+regulations promulgated pursuant to” and inserting the phrase “as defined in” in its place. 124 
+ (h) Section 11 (D.C. Official Code § 31-3171.10) is amended as follows: 125 
+  (1) Subsection (a) is redesignated as subsection (b) and amended as follows: 126
+
+(A) Paragraph (1) is amended by striking the phrase “affiliated with, or 127 
+otherwise a representative of, a health carrier or other insurer” and inserting the phrase 128 
+“financially affiliated with, or otherwise a representative of, a health carrier or other insurer, 129 
+third-party administrator” in its place. 130 
+(B) Paragraph (2) is amended by striking the phrase “be a member” and inserting the phrase “be 131 
+a senior leadership member” in its place. 132 
+(3) The existing subsections (c) is repealed. 133 
+ Sec. 3. Fiscal impact statement.  134 
+ The Council adopts the fiscal impact statement of the Chief Financial Officer as the fiscal 135 
+impact statement required by section 4a of the General Legislative Procedures Act of 1975, 136 
+approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a). 137 
+ Sec. 4. Effective date.  138 
+ This act shall take effect following approval by the Mayor (or in the event of veto by the 139 
+Mayor, action by the Council to override the veto), and a 30-day period of congressional review 140 
+as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 141 
+24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).  142

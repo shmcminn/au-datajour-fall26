@@ -1,0 +1,523 @@
+COUNCIL OF THE DISTRICT OF COLUMBIA 
+The John A. Wilson Building 
+1350 Pennsylvania Avenue, NW 
+Washington, D.C. 20004 
+ 
+ 
+   
+ 
+ 
+ 
+Statement of Introduction 
+Medical Debt Mitigation Amendment Act of 2025 
+October 20, 2025 
+ 
+ Today, I am pleased to introduce the Medical Debt Mitigation Amendment Act of 2025, 
+along with Councilmembers Charles Allen, Anita Bonds, Janeese Lewis George, Brianne 
+Nadeau, Zachary Parker, Brooke Pinto, and Robert White. This legislation would prevent and 
+mitigate the burden of unpaid medical bills on District families, while increasing transparency in 
+medical billing and ensuring fair debt collection. 
+ 
+ Tzedek DC’s June 2025 report More than a Band-Aid-Systemic Changes to Protect DC 
+Residents from Medical Debt,1 finds that nearly 90,000 District residents (20% of all residents) 
+have unpaid medical bills. Research shows medical debt can have significant negative impacts 
+on a household, including bankruptcy, job loss, eviction, food insecurity, and poor physical and 
+mental health outcomes.2 
+ 
+ Although medical debt is often treated similar to other types of consumer debt, like credit 
+card debt, research from the Consumer Financial Protection Bureau has found that “medical debt 
+on a credit report is less predictive of future defaults or serious delinquencies than the presence of 
+non-medical collections tradeline.”3 This is because the majority of medical debt comes from an 
+acute illness or medical procedure, not reflective of a person’s voluntary spending habits. 
+ 
+ In 2024, the District government, through a Department of Health Care Finance grant, 
+cancelled $42 million of medical debt for over 62,000 residents. The program funded the purchase 
+of debt portfolios at discounted rates directly from hospital systems via the nonprofit Undue 
+Medical Debt. However, this program was retroactive and did not address the causes of medical 
+debt, so many of the residents whose debt was forgiven could have since accrued more medical 
+debt. Research has since shown that the retroactive, one-time forgiveness of medical debt is not 
+ 1 Tzedek DC, “Press Release: Tzedek DC Releases Groundbreaking Report on DC’s Medical Debt Crisis, Urges 
+Action as Medicaid Protections Face Threats” (June 10, 2025), https://www.tzedekdc.org/news-1/2025/6/9/tzedek-
+dc-releases-groundbreaking-report-on-dcs-medical-debt-crisis-urges-action-as-medicaid-protections-face-threats. 2 Id.; Rakshit, S., Rae, M., Claxton, G., Amin, K., Cox, C., The Burden of Medical Debt in the United States, 
+Peterson Center on Healthcare and Kaiser Family Foundation (Feb. 14. 2024), 
+https://www.healthsystemtracker.org/brief/the-burden-of-medical-debt-in-the-united-states/. 3 12 CFR Part 1022 Final Rule: Prohibition on Creditors and Consumer Reporting Agencies Concerning Medical 
+Information (Regulation V), Consumer Financial Protection Bureau (Jan. 7, 2025), 
+https://www.consumerfinance.gov/rules-policy/final-rules/prohibition-on-creditors-and-consumer-reporting-
+agencies-concerning-medical-information-regulation-v/. 
+Christina Henderson Committee Member 
+Councilmember, At-Large Human Services 
+Chairperson, Committee on Health Facilities 
+ Transportation and the Environment
+
+COUNCIL OF THE DISTRICT OF COLUMBIA 
+The John A. Wilson Building 
+1350 Pennsylvania Avenue, NW 
+Washington, D.C. 20004 
+ 
+ 
+   
+ 
+effective for preventing future medical debt or improving physical or mental health outcomes.4 It 
+is therefore imperative that the District take a more upstream approach to preventing and mitigating 
+medical debt. This bill is particularly timely given current and upcoming local and federal changes 
+to public health insurance programs, which will limit eligibility and benefits and likely lead to 
+more District residents being uninsured or underinsured.  
+ 
+ Specifically, this legislation would: 
+• Strengthen large health care facilities’ financial assistance policies (FAPs), which 
+provide free and reduced care to low-income patients, by establishing uniform income 
+eligibility criteria and required documentation to prove income, requiring transparent 
+publication and communication of financial assistance policies to patients, and requiring 
+facilities to provide good faith estimates about the cost of health care services to patients 
+before treatment, except in emergency circumstances; 
+• Create protections to mitigate the burden of medical debt by requiring facilities to offer 
+payment plans to low-income patients with unpaid medical bills, prohibiting the reporting 
+of medical debt to credit reporting agencies, regulating the promotion of medical lending 
+products, and capping out of pocket charges at a percentage of insurance rates; 
+• Update medical debt collection practices by prohibiting wage garnishments and home 
+liens for medical debt, prohibiting lawsuits against patients eligible for free and discounted 
+care under the financial assistance policy, prohibiting collections actions during insurance 
+appeals, and updating the District’s hospital lien law and debt collectors’ ability to revive 
+a medical debt judgment; and 
+• Establish legal enforcement and oversight by granting enforcement power to DC Health 
+and the Office of the Attorney General for violations of this Act. 
+ 
+ I look forward to working with my Council colleagues to move this legislation forward 
+and support District residents and their families who incur high health care costs and debt while 
+receiving medical care. 
+ 4 Kluender, R., Mahoney, N., Wong, F., Yin, W., The Effects of Medical Debt Relief: Evidence from Two 
+Randomized Experiments, National Bureau of Economic Research (Nov. 2024), 
+https://www.nber.org/papers/w32315.
+
+1 
+______________________________                           _____________________________ 1 
+Councilmember Charles Allen     Councilmember Christina Henderson 2 
+ 3 
+ 4 
+______________________________                           _____________________________ 5 
+Councilmember Zachary Parker       Councilmember Anita Bonds 6 
+ 7 
+   8 
+  ______________________________                           _____________________________ 9 
+Councilmember Brianne K. Nadeau     Councilmember Robert C. White, Jr. 10 
+ 11 
+ 12 
+______________________________                           _____________________________ 13 
+Councilmember Brooke Pinto             Councilmember Janeese Lewis George 14 
+ 15 
+ 16 
+ 17 
+ 18 
+   19 
+A BILL   20 
+   21 
+__________________ 22 
+   23 
+ 24 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA   25 
+ 26 
+__________________ 27 
+ 28 
+ 29 
+To amend the Health Services Planning Program Re-establishment Act of 1996 to require the 30 
+Department of Health to collect certain data, to require medical creditors to offer 31 
+payment plans to eligible patients, to prohibit the reporting of medical debt to a credit 32 
+reporting agency, to prohibit a large health care facility or employee from assisting a 33 
+patient with or promoting medical lending products, to prohibit a large health care 34 
+facility or employee from requiring a credit card authorization before providing 35 
+necessary health services, to prohibit wage garnishments and property liens to collect on 36 
+a medical debt, and to grant enforcement powers to the Office of the Attorney General; 37 
+to amend Chapter 2 of Title 40 of the District of Columbia Official Code to limit liens 38 
+for emergency health services provided by a large health care facility to the lesser of the 39 
+amount the patient owes after insurance claims or 33% of the total amount awarded to 40 
+the patient; and to amend Chapter 1 of Title 15 of the District of Columbia Official Code 41 
+to prevent the revival of judgments against a debtor for medical debt.  42 
+ 43 
+BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 44 
+act may be cited as the “Medical Debt Mitigation Amendment Act of 2025”.   45
+
+2 
+Sec. 2. The Health Services Planning Program Re-establishment Act of 1996, effective 46 
+April 9, 1997 (D.C. Law 11-191; D.C. Official Code § 44-401 et seq.), is amended as follows: 47 
+(a) Section 2 (D.C. Official Code § 44-401) is amended as follows: 48 
+ (1) A new paragraph (3C) is added to read as follows: 49 
+ “(3C) “Consumer reporting agency” shall have the same meaning as provided in 50 
+section 603(f) of the Fair Credit Reporting Act, approved October 26, 1970 (84 Stat. 1128; 15 51 
+U.S.C. §1681a(f)).”. 52 
+  (2) New paragraphs (9C) and (9D) are added to read as follows: 53 
+ “(9C) “External review” means a review of an adverse benefit determination as 54 
+defined in section 101(1) of the Health Benefits Plan Members Bill of Rights Act of 1998, 55 
+effective April 27, 1999 (D.C. Law 19-229; D.C. Official Code § 44-301.01(1)).  56 
+ “(9D) “Financial assistance policy” means a written policy created by a large 57 
+health care facility, which shall include:  58 
+  “(A) Eligibility criteria for financial assistance for health services, 59 
+including free or discounted care;  60 
+  “(B) The basis for calculating amounts charged to patients;    61 
+   “(C) The method and application process for patients to apply for financial 62 
+assistance;  63 
+  “(D) The information and documentation the large health care facility 64 
+requires an individual to provide as part of the application; 65 
+  “(E) The steps that the provider will take to determine whether a patient is 66 
+eligible for financial assistance, including the maximum amount of days for the facility to 67 
+provide a determination; 68
+
+3 
+  “(F) The process for a patient to dispute an adverse financial assistance 69 
+decision; 70 
+  “(G) The billing and collections policy, including the actions a large health 71 
+care facility may take in the event of non-payment; and 72 
+ “(H) The large health care facility’s methods to ensure patients have 73 
+access to and understanding of the financial assistance policy.”. 74 
+ (3) A new paragraph (13A) is added to read as follows: 75 
+ “(13A) “Large health care facility” means a private general hospital, psychiatric 76 
+hospital, specialty hospital, outpatient clinic or facility operating under the license of a hospital 77 
+or of which a majority of its ownership is by a hospital, or freestanding emergency department.”. 78 
+ (4) New paragraphs (14B), (14C), and (14D) are added to read as follows: 79 
+  “(14B) “Medical debt collector” means an entity that regularly collects or 80 
+attempts to collect, directly or indirectly, medical debts originally owed or due, or asserted to be 81 
+owed or due, to a large health care facility, including large health care facilities to whom a 82 
+patient owes money for health care services, a collection agency or debt buyer who has 83 
+purchased the medical debt that a patient owed a large health care facility, or any other entity 84 
+considered a debt collector as defined by D.C. Official Code § 28–3814(b)(5).   85 
+  “(14C) “Medical debt” means a debt arising from the receipt of health care 86 
+services, products, or devices. 87 
+  “(14D) “Medical lending products” means medical credit cards or third-party 88 
+medical installment loans issued specifically for the payment of health services, products, or 89 
+devices provided to a person.”. 90 
+ (5) A new paragraph (16A) is added to read as follows: 91
+
+4 
+ “(16A) “Patient” means a person who received health care services, and shall include a 92 
+parent or legal guardian if the patient is a minor, legal guardian if the patient is an adult under 93 
+guardianship, or legally appointed healthcare agent for the patient. 94 
+ (b) New sections 6a, 6b, 6c, 6d, and 6e are added to read as follows: 95 
+ “Sec. 6a. Financial assistance policy requirements and eligibility. 96 
+ “(a) A large health care facility shall establish a financial assistance policy to provide 97 
+financial assistance to eligible patients, regardless of residency, health insurance coverage status, 98 
+citizenship or immigration status, assets, or prospective assets.  99 
+ “(b) A large health care facility shall make its financial assistance policy, including a 100 
+user-friendly summary, publicly available, and: 101 
+  “(1) Provide written notification to patients in their preferred language during the 102 
+intake and registration process, and during discharge; 103 
+  “(2) Clearly communicate through notices posted in high traffic areas of the large 104 
+health care facility, and on bills and statements sent to patients, that financial assistance is 105 
+available to eligible patients and instructions to apply for assistance; and 106 
+  “(3) Include in its financial assistance application materials a notice to patients 107 
+that, upon submission of a completed financial assistance application, the patient does not need 108 
+to pay the medical bill until the large health care facility has rendered a decision on the 109 
+application.  110 
+ “(c) A large health care facility shall screen patients for eligibility for financial assistance 111 
+according to the following process:  112 
+ “(1) Determine whether the patient has health insurance and:  113
+
+5 
+   “(A) If the patient is uninsured, inform the patient of a good faith estimate 114 
+of the cost of the health services before the provision of health services, except in emergency or 115 
+life threatening situations; or  116 
+   “(B) If the patient is insured, inform the patient of a good faith estimate of 117 
+the cost-sharing responsibilities under the patient’s health insurance plan or the cost of the 118 
+service if not covered by the insurance plan before the provision of health services, except in 119 
+emergency or life threatening situations; 120 
+  “(2) Offer to screen the patient for eligibility for financial assistance; and 121 
+  “(3) If the patient submits an application for financial assistance, determine the 122 
+patient’s eligibility for the financial assistance plan within 14 days after the patient applies for 123 
+financial assistance and suspend any billing or collections actions while the patient’s eligibility is 124 
+being determined. 125 
+ “(d) A patient’s refusal to be screened for financial assistance shall not be grounds for not 126 
+providing health services or denying financial assistance in the future if the patient later decides 127 
+to apply. 128 
+ “(e) The following patients shall qualify for financial assistance under a large health care 129 
+facility’s financial assistance policy:  130 
+  “(1) Patients with household income of 200% or less of the federal poverty level 131 
+shall receive free care;  132 
+  “(2) Patients with household income of 201-400% of the federal poverty level 133 
+shall be charged no more than 25% of a recalculated amount of the costs billed to the patient for 134 
+a specific health service using the Medicare reimbursement rate applied on the date of service;   135
+
+6 
+  “(3) In addition to other financial assistance provided under this act, no patient 136 
+with household income at or below 400% of federal poverty level shall be required to pay more 137 
+than $2,300 in cumulative medical bills to a single large health care facility per calendar year, 138 
+adjusted for inflation annually by the Department of Health (“Department”) through rulemaking.  139 
+ “(f) Nothing in this section shall be construed to limit the ability of a large health care 140 
+facility to establish patient eligibility for financial assistance at income levels higher than those 141 
+specified herein or to provide greater financial assistance for eligible patients than those required 142 
+by this section.  143 
+ “(g)(1) The following criteria shall be used to determine a patient’s income eligibility for 144 
+financial assistance by a large health care facility: 145 
+   “(A) Most recent available tax return; provided that, the facility may not 146 
+use information regarding medical expense deductibles in the tax return to reduce financial 147 
+assistance otherwise available; 148 
+   “(B) Recent pay stubs from all adults in the patient’s household; 149 
+   “(C) Documentation showing the patient is enrolled in a public benefits 150 
+program established by the District or federal government; or 151 
+   “(D) Other documentation of household income which the Mayor has 152 
+identified through rulemaking. 153 
+  “(2) Additional documentation other than proof of income shall not be required.  154 
+  “(3) A large health care facility may grant financial assistance notwithstanding a 155 
+patient’s failure to provide one of the required forms of documentation described in paragraph 156 
+(1) of this subsection.   157
+
+7 
+  “(4) A large health care facility shall inform any patient who is deemed eligible 158 
+for financial assistance that the large health care facility has reduced or eliminated their medical 159 
+bill, specify if any amount is currently outstanding, and explain how to apply for additional 160 
+financial assistance for any remaining balance. 161 
+  “(5) If a large health care facility uses credit reports or scores or similar screening 162 
+tools when determining eligibility for financial assistance, the large health care facility shall: 163 
+   “(A) Use these tools only to make a positive eligibility determination and 164 
+still permit patients to submit applications for financial assistance without use of those tools; and  165 
+   “(B) Obtain patient consent for a credit report or score check through a 166 
+signed individual standalone document granting permission for such a check. Any such 167 
+permission shall be effective for no more than 30 days. 168 
+ “(h) Beginning one year after the effective date of this section, and annually thereafter, 169 
+each large health care facility shall report to the Department: 170 
+  “(1) The number of patients who received financial assistance in the past 12 171 
+months, disaggregated by free or discounted care, residency, race, ethnicity, age, and primary-172 
+language-spoken; 173 
+  “(2) The total amount of financial assistance provided by the large health care 174 
+facility, broken down by free and discounted care; 175 
+  “(3) The total number and dollar amount of outstanding medical bills owed by 176 
+patients to the large health care facility, including a list of the specific medical bill amounts per 177 
+patient, and the percentage of these patients that have been screened for financial assistance 178 
+eligibility; 179
+
+8 
+  “(4) A description of how the large health care facility is publicizing its financial 180 
+assistance policy and communicating to patients about eligibility; and  181 
+  “(5) Any other information regarding medical debt required by the Department 182 
+through rulemaking. 183 
+ “(i) No later than 6 months after the effective date of this section, the Department shall 184 
+promulgate rules that include:  185 
+  “(1) The process for a large health care facility to screen a patient for financial 186 
+assistance eligibility;  187 
+  “(2) The process for a large health care facility to document that a patient has 188 
+made an informed decision to decline financial assistance screening;  189 
+  “(3) The process for a large health care facility to:  190 
+   “(A) Initiate a screening after a patient receives health services; and 191 
+   “(B) Request information from the patient needed for the screening 192 
+process; 193 
+  “(4) The requirements for notifying the patient of the results of a financial 194 
+assistance screening, including an explanation of the basis for a denial of financial assistance and 195 
+the process for appealing a denial if necessary;  196 
+  “(5) Guidelines for patient appeals regarding eligibility for financial assistance; 197 
+  “(6) Steps a large health care facility shall take before sending medical debt to 198 
+collections; and 199 
+  “(7) The process for patients to submit a complaint relating to noncompliance 200 
+with this section to the Department by phone, mail, or online, which the Department shall review 201 
+within 30 days after receiving a complaint. 202
+
+9 
+ “(j) The Department shall periodically review large health care facilities’ compliance 203 
+with this section. If the Department finds that a large health care facility is not in compliance 204 
+with this section, the Department shall notify the large health care facility and the facility shall 205 
+have 90 days to file a corrective action plan; provided, that a large health care facility may 206 
+request up to 120 days to submit a corrective action plan.  207 
+ “(k) If a large health care facility’s noncompliance with this section is determined by the 208 
+Department to be knowing or willful or there is a repeated pattern of noncompliance, the 209 
+Department of Health may fine the facility up to $10,000 per week of noncompliance, adjusted 210 
+annually for inflation by the Department through rulemaking. If the large health care facility fails 211 
+to take corrective action or fails to file a corrective action plan pursuant to subsection (j) of this 212 
+section, the Department of Health may fine the large health care facility up to $10,000 dollars per 213 
+week of noncompliance, adjusted annually for inflation by the Department through rulemaking, 214 
+until the large health care facility takes corrective action. The Department of Health shall 215 
+consider the size of the large health care facility and the seriousness of the violation in setting the 216 
+fine amount. 217 
+ “(l) The Department shall make the information reported pursuant to subsection (h) of 218 
+this section and any corrective action plans for which fines were imposed on a large health care 219 
+facility pursuant to subsection (j) of this section available to the public. 220 
+ “(m) The Department shall share information obtained pursuant to subsections (h), (j), 221 
+and (k) of this section with the Office of the Attorney General, upon request, within 30 days of 222 
+the request. 223 
+ “Sec. 6b. Medical debt payment plans. 224
+
+10 
+ “(a) For a patient with a household income at or below 400% of the federal poverty level, 225 
+a large health care facility shall: 226 
+  “(1)(A) Offer a payment plan of at least 36 months, with monthly installment 227 
+payments not to exceed 3% of the patient’s monthly household income. After a patient has made 228 
+36 payments, the remaining total amount, including amounts owed for services, fees, and facility 229 
+uses, owed to the large health care facility shall be forgiven or voided. The unpaid amount 230 
+remaining after 36 payments may be counted towards a large health care facility’s 231 
+uncompensated care requirement. 232 
+   “(B) Any medical debt sold by a large health care facility to another 233 
+medical debt collector shall keep the terms of the payment plan entered into by the patient and 234 
+large health care facility. 235 
+   “(C) The patient’s initial payment on the payment plan is not due until at 236 
+least 90 days after being discharged or treated by the large health care facility. 237 
+   “(D) Upon written request by the patient, the medical debt collector may 238 
+provide a payment plan of less than 36 months and/or a payment plan with a higher monthly cost 239 
+than required by this section; and  240 
+  “(2) Impose no additional interest or late fees to a patient’s debt, unless that 241 
+patient has refused financial assistance or has violated the terms of their payment plan. 242 
+ “(b) A large health care facility shall provide in writing to each eligible patient who 243 
+incurs expenses related to health care services information about the availability of a payment 244 
+plan for the debt. This information shall be discussed and disclosed to the patient prior to the 245 
+patient being discharged. Patients shall receive an itemized hospital bill for provided services, 246 
+and a written document explaining the existence of a payment plan option, eligibility for a 247
+
+11 
+payment plan, and how to request a payment plan with the large health care facility. The patient 248 
+shall have 30 days after being discharged to decide whether to enter a payment plan. 249 
+ “(c) Any large health care facility that enters a payment plan with a patient for expenses 250 
+related to health care services shall provide the consumer with a written copy, via mail or email, 251 
+of the payment plan within 7 calendar days of the agreement being made. 252 
+ “(d) The written payment plan shall include, at a minimum: 253 
+  “(1) The total amount of the debt owed, including principal, fees, and any other 254 
+charges; 255 
+  “(2) The schedule of installment payments, including the date by which the 256 
+account will be paid in full if payments set by the schedule in the payment plan are made without 257 
+interruption; and 258 
+  “(3) Disclosure regarding whether late or missed payments will incur penalties to 259 
+the debt. 260 
+ “(e) A medical debt collector may accelerate a payment plan or declare it in default or no 261 
+longer operative due to nonpayment only after: 262 
+  “(1) The patient fails to make scheduled payments on the payment plan for at least 263 
+3 consecutive months; 264 
+  “(2) The medical debt collector has made at least 3 reasonable attempts to contact 265 
+the patient by telephone or other method preferred by the patient; 266 
+  “(3) The medical debt collector has provided the patient written notice that the 267 
+payment plan may become inoperative and that the patient may renegotiate the payment plan; 268 
+and 269
+
+12 
+  “(4) The medical debt collector has made a good faith effort to renegotiate the 270 
+terms of the payment plan, if requested by the patient.  271 
+ “(f) For purposes of this section, the notice and telephone call to the patient may be made 272 
+to the last known telephone number and address of the patient. 273 
+ “(g) The medical debt collector shall not commence a civil action against the patient for 274 
+nonpayment until at least 90 days after the payment plan is declared to be no longer operative.  275 
+ “Sec. 6c. Protections to mitigate impact of medical debt. 276 
+ “(a) A medical debt collector shall not report to a consumer reporting agency the amount 277 
+or existence of any medical debt that a patient owes.  278 
+  “(1) A violation of this subsection shall be considered an unlawful debt collection 279 
+practice under D.C. Official Code § 28-3814.  280 
+ “(b) A large health care facility shall include a provision in any contract entered into with 281 
+a debt collector, as defined in D.C. Code § 28-3814(a)(5), for the purchase or collection of 282 
+medical debt that prohibits the reporting of any portion of such medical debt to a consumer 283 
+reporting agency. 284 
+ “(c) Subsections (a) and (b) of this section shall be construed to limit a consumer 285 
+reporting agency from reporting known debts.  286 
+ “(d) A large health care facility or an employee or agent of a large health care facility 287 
+shall not: 288 
+  “(1) Complete, or assist a patient in completing, any portion of an application for 289 
+a medical lending product; 290 
+  “(2) Promote a medical lending product with deferred interest;  291 
+  “(3) Charge a medical lending product for a medical procedure not yet conducted; 292
+
+13 
+  “(4) Offer a patient a medical lending product or charge another form of credit 293 
+when the patient’s insurance, including Medicaid, will cover the services, unless the amount is 294 
+for a copay, deductible, or co-insurance;  295 
+  “(5) Offer a medical lending product or charge another form of credit for an 296 
+eligible patient until the large health care facility has offered or conducted a financial assistance 297 
+eligibility screening pursuant to section 4(c) of this Act; or 298 
+  “(6) Require credit card pre-authorization or require the patient to have a credit 299 
+card on file prior to administering emergency health services. 300 
+ “Sec. 6d. Medical debt collection protections. 301 
+ “(a) Beginning one year after the effective date of this section, a medical debt collector 302 
+shall not engage in debt collection until 180 days after the date the patient receives the first 303 
+posted medical bill. The posting of the first medical bill shall not be deemed debt collection for 304 
+purposes of this section. 305 
+ “(b) Beginning one year after the effective date of this legislation, a medical debt 306 
+collector shall provide at least 90 days’ notice to the patient before commencing debt collection 307 
+and shall include with the notice a statement that explains the availability of free or discounted 308 
+care for qualified individuals and how to apply for financial assistance. 309 
+ “(c) A medical debt collector may not file a lawsuit or engage in medical debt collection 310 
+against a patient who is eligible for free or discounted care under the large health care facility’s 311 
+financial assistance policy, unless that patient has refused financial assistance or has defaulted on 312 
+their payment plan.  313 
+ “(e) For patients who do not qualify for financial assistance, a medical debt collector 314 
+shall not charge interest on medical debt to exceed 3% annually. 315
+
+14 
+ “(f)(1) A large health care facility shall consider a patient’s application for financial 316 
+assistance for up to one year from the date of the first posted medical bill; provided, that, if a 317 
+patient is the subject of a collection activity by the facility or another medical debt collector, and 318 
+submits an application for financial assistance, the large health care facility shall consider the 319 
+application at any time. When an application for financial assistance is submitted, the medical 320 
+debt collector shall cease collection activity and wait for notification from the large health care 321 
+facility regarding the status of the debt, including new payment plan terms or debt cancellation. 322 
+  “(2) DC Health shall determine through rulemaking reasonable limitations on the 323 
+submission of multiple financial assistance applications used to avoid debt collection. 324 
+ “(g) If a medical debt collector collects on a medical debt or initiates collection activities 325 
+and it is later determined that the patient was not screened for financial assistance eligibility 326 
+pursuant to section 6a(c) and is determined to qualify for financial assistance, the medical debt 327 
+collector shall: 328 
+  “(1) if the court has entered a judgment on the medical debt: 329 
+   “(A) Request the court to vacate the judgment in any collection lawsuit 330 
+over the medical debt and attempt to enter into a payment plan with the patient; 331 
+   “(B) Request the court reduce the amount of the judgment, including any 332 
+fees and costs related to the collection lawsuit, to the total amount the patient owes pursuant to 333 
+the financial assistance policy that the patient qualifies for, attempt to enter into a payment plan 334 
+with the patient, and suspend all execution on the judgment while the patient is compliant with 335 
+the terms of the payment plan; 336 
+   “(C) File a partial satisfaction of judgment such that the remaining unpaid 337 
+balance of the judgment, including any fees and costs related to the collection lawsuit, is equal to 338
+
+15 
+the total amount the patient owes under the financial assistance policy that the patient qualifies 339 
+for, attempt to enter into a payment plan with the patient, and suspend all execution on the 340 
+judgment while the patient is compliant with the terms of the payment plan; or 341 
+   “(D) File a satisfaction of judgment and refund any excess amount to the 342 
+patient if the patient has paid any part of the medical debt in excess of the amount that the patient 343 
+owes after being screened for financial assistance eligibility. 344 
+  “(2) For the purposes of paragraphs (1)(B) and  (1)(C) of this subsection, the large 345 
+health care facility shall indemnify the medical debt collector with whom they have contracted 346 
+for any fees and costs awarded as part of the judgment in connection with the medical debt. 347 
+  “(3) A medical debt collector that knows or should have known about an internal 348 
+review, external review, or other appeal of a health insurance decision that is pending or was 349 
+pending within the previous 90 days that forms the basis of the medical debt shall not: 350 
+   “(A) Communicate with the patient regarding the unpaid charges for 351 
+health services for the purpose of seeking to collect the charges;   352 
+   “(B) Initiate a lawsuit or arbitration proceeding against the patient relating 353 
+to the medical debt or unpaid charges for health services; or 354 
+   “(C) Refer, sell, or send the medical debt to another medical debt 355 
+collector. 356 
+“(h) For the purposes of this section, a review or appeal of a health insurance decision 357 
+includes: 358 
+  “(1) An appeal or grievance filed with an insurer for a review of a decision to 359 
+deny, reduce, limit, terminate, or delay covered health services; 360
+
+16 
+  “(2) An independent medical review by the large health care facility providing 361 
+medical services; 362 
+  “(3) An appeal regarding Medicare coverage consistent with federal law and 363 
+regulations; or 364 
+  “(4) An appeal or request for an external review. 365 
+ “(i) A medical debt collector shall not: 366 
+“(1) Enforce a property lien against a patient’s primary residence, or 367 
+  “(2) Garnish the wages of a patient with an annual household income less than 368 
+400% of the federal poverty level. 369 
+ “(j) A violation of this section shall be considered an unlawful debt collection practice 370 
+under D.C. Official Code § 28-3814.  371 
+ Sec. 3. Section 1 of An Act To establish a lien for moneys due hospitals for services 372 
+rendered in cases caused by negligence or fault of others and providing for the recording and 373 
+enforcing of such liens, approved June 30, 1939 (53 Stat. 990; D.C. Official Code § 40-201)), is 374 
+amended as follows: 375 
+ (a) Designate the existing text as subsection (a). 376 
+ (b) New subsections (b) and (c) are added to read as follows: 377 
+“(b) A lien established for a medical service to a patient who has health insurance and is 378 
+injured by reason of an accident shall be limited to the amount of the individual’s responsibility 379 
+under the insurance policy if the insurance claim is paid or to the amount of the insurance 380 
+policy’s negotiated rate for services if the claim is not paid. 381
+
+17 
+“(c) The total amount of all liens under this act shall not exceed 33% of the amount of a 382 
+verdict, judgment, award, settlement, report, decision, or compromise secured by or on behalf of 383 
+the injured person on his or her claim or right of action.”. 384 
+ Sec. 4. D.C. Official Code § 15-103 is amended as follows: 385 
+ (a) Designate the existing text as subsection (a).  386 
+ (b) A new subsection (b) is added to read as follows:  387 
+“(b) A court shall not grant an order of revival issued upon a judgment or decree the basis 388 
+of which is a medical debt as defined in section 2(14C) of the Health Services Planning Program 389 
+Re-establishment Act of 1996, as introduced on October __, 2025 (Bill 26-__).”. 390 
+Sec. 5. Fiscal impact statement. 391 
+The Council adopts the fiscal impact statement in the committee report as the fiscal 392 
+impact statement required by section 602(c)(3) of the District of Columbia Home Rule Act, 393 
+approved December 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(3)). 394 
+Sec. 6. Effective date. 395 
+This act shall take effect following approval by the Mayor (or in the event of veto by the 396 
+Mayor, action by the Council to override the veto) and a 30-day period of congressional 397 
+review as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved  398 
+December 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)). 399

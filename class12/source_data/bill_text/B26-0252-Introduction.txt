@@ -1,0 +1,134 @@
+___________________________________1 
+ Councilmember Kenyan R. McDuffie  2 
+ 3 
+ 4 
+A BILL  5 
+  6 
+_______________  7 
+  8 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA  9 
+  10 
+________________________  11 
+ 12 
+ 13 
+To amend Title 47 of the DC Official Code to provide extended assessment notice and first level 14 
+appeal dates for large-valued real properties so that their final valuations may take into 15 
+account the prior year’s income and expense information, to revise which real properties 16 
+are required to file income and expense information with the Office of Tax and Revenue, 17 
+to require that large-valued real property owners file income and expense information 18 
+electronically when directed by the Office of Tax and Revenue, to allow the Office of 19 
+Tax and Revenue to send electronic appeal responses to the property owner, and to 20 
+provide technical and conforming clarifications. 21 
+BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 22 
+act may be cited as the “Real Property Assessment and Appeals Schedule Revision Act of 2025”. 23 
+ 24 
+Sec. 2.  Title 47 of the District of Columbia Official Code is amended as follows: 25 
+(a) Section 47-821(d) is amended by adding new paragraphs (3), (4) and (5) to read as 26 
+follows: 27 
+“(3) The Chief Financial Officer shall publish on his or her website a list of real 28 
+properties required to submit information as provided under paragraph (1) of this subsection.  In 29 
+addition to requirement in paragraph (5) of this subsection, the list shall identify each real 30 
+property by square, suffix and lot numbers, or by parcel and lot numbers. The list shall be 31 
+published on or before February 15 before the information must be submitted.”.    32 
+  “(4) The information required under this subsection shall be filed with the Chief 33 
+Financial Officer on or before the March 15 immediately prior to the tax year.”. 34
+
+2 
+ 
+  “(5) The information required under this subsection shall be filed electronically.  35 
+The list under this subsection shall direct the means and manner in which the information shall 36 
+be filed.”. 37 
+(b) Section 47-824(b) is amended as follows: 38 
+            (1) Paragraph (1) is amended by striking the phase “March 1.” and inserting the 39 
+phrase “March 1; provided, that beginning with Tax Year 2027 the owner of real property 40 
+appearing on the latest list under § 47-821(d)(3) shall be notified of a proposed change in the 41 
+assessed value of the owner’s real property on or before June 1.” in its place. 42 
+            (2) Paragraph (4) is amended as follows: 43 
+(A) Strike the phrase “§ 47-825.01a(f-1)(1)” and insert the phrase “§ 47- 44 
+825.01a(d)(1) and (2)” in its place.   45 
+   (B) Strike the phrase “April 1.” and insert the phrase “April 1. This 46 
+paragraph shall not apply to real property appearing on the latest list under § 47-821(d)(3)).” in 47 
+its place. 48 
+ (c) Section 47-825.01a is amended as follows: 49 
+  (1) Subsection (d) is amended as follows:  50 
+   (A) Paragraph (1) is amended by striking the phrase “at issue.” and 51 
+inserting the phrase “at issue; provided, that an owner of real property appearing on the latest list 52 
+under § 47-821(d)(3) may petition to OTR on or before July 1.” in its place. 53 
+  (B) Paragraph (2) is amended by striking the phrase “April 1” and 54 
+inserting the phrase “April 1 (or July 1 in the case of real property appearing on the latest list 55 
+under § 47-821(d)(3))” in its place. 56 
+   (C) Paragraph (5) is amended by striking the word “paragraph” and 57 
+inserting the word “subsection” in its place. 58
+
+3 
+ 
+            (2) Subsection (e) is amended as follows 59 
+(A) Paragraph (1)(A) is amended as follows: 60 
+(i) Strike the phrase “45 days” and insert the phrase  61 
+“45 days (or by October 15 of the tax year in the case of real property appearing on the latest list 62 
+under § 47-821(d)(3), whichever is sooner)” in its place. 63 
+    (ii) Strike the phrase “August 1” and insert the phrase “August 1 64 
+(or September 15 in the case of real property appearing on the latest list under § 47-821(d)(3))” 65 
+in its place. 66 
+    (iii) Strike the phrase “September 30 preceding the tax year” and 67 
+insert the phrase “September 30 preceding the tax year (or October 15 of the tax year in the case 68 
+of real property appearing on the latest list under § 47-821(d)(3))” in its place. 69 
+   (B) Paragraph (2) is amended as follows: 70 
+    (i) Subparagraph (B) is amended to read as follows: 71 
+   “(B)(i) All information in support of the petition shall be submitted by the 72 
+owner at the time the appeal is filed, and as supplemented under paragraph (1)(A) of this 73 
+subsection; provided, that the owner shall have the right to rebut any new evidence submitted by 74 
+OTR in response to the appeal (and any supplement thereto) that was not previously raised 75 
+during the administrative review.    76 
+    “(ii) Notwithstanding sub-subparagraph (i) of this subparagraph, 77 
+the Commission may request additional information that the Commission considers necessary.  78 
+The Commission may keep the record open for 15 days to receive such information.”. 79 
+    (ii) Subparagraph (C) is amended as follows: 80 
+     (I) Sub-subparagraph (i) is amended by striking “is 81 
+scheduled.” and inserting the phrase “is scheduled; provided, that the original filing and 82
+
+4 
+ 
+supplement thereto need not be provided by the Commission to OTR where same has already 83 
+been fully provided by the owner to OTR as required under paragraph (1)(A) of this subsection”. 84 
+     (II) Sub-subparagraph (ii)(II) is amended to read as 85 
+follows: 86 
+     “(II) OTR shall provide, via electronic mail, copies of any 87 
+response and supplement filed with the Commission at least 7 days before the scheduled hearing. 88 
+If the owner does not receive the response within such time, the owner shall notify OTR in the 89 
+manner that OTR shall prescribe and then OTR shall provide such response via electronic mail 90 
+within one day of such notification by the owner.  If the owner does not receive electronic mail, 91 
+OTR shall make any response filed with the Commission available to the owner for inspection 92 
+and copying at least 7 days before the scheduled hearing.  Any charges for copying by OTR shall 93 
+be at cost.”.  94 
+   (C) Paragraph (6) is amended as follows: 95 
+    (i) Subparagraph (B) is amended to read as follows: 96 
+    “(B) Within 15 days after the date on which the Commission transmits its 97 
+decision, the owner or OTR, by written notice to the Chairperson with copy including any 98 
+attachments to the other party, may request the rehearing. If a rehearing is granted, the other 99 
+party shall have 10 days after the date of the notice granting the rehearing in which to prepare 100 
+and file with the rehearing panel a response to the hearing.”. 101 
+    (ii) Subparagraph (C) is amended by striking the phrase “the 102 
+underlying appeal.” and inserting the phrase “the underlying appeal; provided that; if the 103 
+Chairperson or Vice-Chairperson position is unfilled and no acting or interim has been 104 
+appointed, the 3-person panel shall then include a Commissioner or hearing examiner who was 105 
+not a member of the panel that heard the underlying appeal” 106
+
+5 
+ 
+   (D) Paragraph (7)(A) is amended to read as follows: 107 
+   “(A) By February 1 of each tax year (or February 15 of each tax year in 108 
+the case of real property appearing on the latest list under § 47-821(d)(3)), all pending real 109 
+property appeals cases filed in the prior calendar year shall be decided by the Commission.”. 110 
+ Sec. 3. Applicability. 111 
+ Section 2 shall apply to tax years beginning after September 30, 2026. 112 
+Sec. 4.  Fiscal impact statement.  113 
+The Council adopts the fiscal impact statement in the committee report as the fiscal 114 
+impact statement required by section 4a of the General Legislative Procedures Act of 1975, 115 
+approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a). 116 
+Sec. 5.  Effective date.  117 
+This act shall take effect following approval by the Mayor (or in the event of veto by the 118 
+Mayor, action by the Council to override the veto), a 30-day period of congressional review as 119 
+provided in 602(c)(1) of the District of Columbia Home Rule Act, approved December 24, 1973 120 
+(87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of Columbia 121 
+Register. 122

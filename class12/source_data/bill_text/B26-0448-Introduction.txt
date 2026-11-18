@@ -1,0 +1,1048 @@
+Government of the District of Columbia 
+UNIFORM LAW COMMISSION          
+   
+ 
+October 30, 2025 
+ 
+The Honorable Phil Mendelson 
+Chairman 
+Council of the District of Columbia 
+The John A. Wilson Building, 
+1350 Pennsylvania Avenue, NW        
+Washington, DC 20004 
+ 
+RE: Request for introduction of the Uniform Mortgage Modification Act. 
+ 
+Dear Chairman Mendelson: 
+ 
+ Pursuant to Rule 401(b)(1) of the Rules of Organization and Procedure for the 
+Council, this is to request, on behalf of the District of Columbia Uniform Law 
+Commission, that you introduce the proposed “Uniform Mortgage Modification Act of 
+2025.”  
+ 
+ The uniform act would facilitate modifications to mortgages that allow the parties 
+to continue their relationship with their current mortgagor, without resorting to 
+foreclosure. The Act protects businesses with commercial mortgages and families with 
+residential mortgages alike by establishing several types of “safe harbor” modifications 
+that can be made to a mortgage.  The Act does not disrupt existing law for modifications 
+outside of the safe harbors. Modifications that would materially prejudice a junior 
+lienholder are outside of the safe harbors and accordingly are not governed by the Act.  
+By eliminating many legal uncertainties, the act saves borrowers time and money. 
+Although the uniform act was finalized recently, at the end of 2024, it has already been 
+enacted by two states (Utah and Nevada) and has been introduced in West Virginia. 
+ 
+ A proposed “Uniform Mortgage Modification Act of 2025” is being filed with this 
+letter.  In addition, the following documents have been filed:  (1) a summary of the 
+uniform act; (2) a statement as to why the uniform act should be adopted; and (3) the 
+official version of the uniform act with comments. 
+ 
+ Brian Flowers or I would be pleased to answer any questions and to provide any 
+additional information requested.
+
+2 
+ 
+Sincerely, 
+        
+     
+     
+    
+ 
+ 
+        James C. McKay, Jr. 
+        Chair 
+        D.C. Uniform Law Commission 
+ 
+cc:  Uniform Law Commissioners
+
+~ ~&~ tofthe 
+4 District of Columbia Uniform Law Commission 
+5 
+6 
+7 
+8 
+9 ABaL 
+10 
+11 
+12 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA 
+13 
+14 To enact the Uniform Mortgage Modification Act, to create safe harbors for specific, common 
+15 modification, clearly providing that the mortgage continues to secure the obligation as 
+16 modified, the modification does not affect the priority of the mortgage, the mortgage retains 
+17 its priority regardless of whether a modification agreement is recorded, and the modification 
+I 8 is not a novation, and for other purposes. 
+19 
+20 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 
+21 act may be cited as the "Uniform Mortgage Modification Act of 2025." 
+22 Sec. 2. Definitions. 
+23 In this act: 
+24 (I) "Electronic" means relating to technology having electrical, digital, magnetic, 
+25 wireless, optical, electromagnetic, or similar capabilities. 
+26 (2) "Financial covenant" means an undertaking to demonstrate an obligor's 
+27 creditworthiness or the adequacy of security provided by an obligor. 
+28 (3) "Modification" includes change, amendment, revision, correction, addition, 
+29 supplementation, elimination, waiver, and restatement. 
+30 (4) "Mortgage": 
+31 (A) Means an agreement that creates a consensual interest in real property 
+32 to secure payment or performance of an obligation, regardless of: 
+33 (i) How the agreement is denominated, including a mortgage, deed
+
+2 
+of trust, trust deed, security deed, indenture, and deed to secure debt; and  1 
+   (ii) Whether the agreement also creates a security interest in 2 
+personal property; and 3 
+   (B) Does not include an agreement that creates a consensual interest to 4 
+secure a liability owed by a unit owner to a condominium association, owners’ association, or 5 
+cooperative housing association for association dues, fees, or assessments.  6 
+  (5) “Mortgage modification” means modification of:  7 
+   (A) A mortgage; 8 
+(B) An agreement that creates an obligation, including a promissory note, 9 
+loan agreement, or credit agreement; or  10 
+(C) An agreement that creates other security or credit enhancement for an 11 
+obligation, including an assignment of leases or rents or a guaranty. 12 
+  (6) “Obligation” means a debt, duty, or other liability, secured by a mortgage. 13 
+  (7) “Obligor” means a person that: 14 
+   (A) Owes payment or performance of an obligation; 15 
+   (B) Sgns a mortgage; or 16 
+   (C) Is otherwise accountable, or whose property serves as collateral, for 17 
+payment or performance of an obligation. 18 
+  (8) “Person” means an individual, estate, business or nonprofit entity, government 19 
+or governmental subdivision, agency, or instrumentality, or other legal entity. 20 
+  (9) “Recognized index” means an index to which changes in the interest rate may 21 
+be linked that is: 22 
+(A) Readily available to, and verifiable by, the obligor; and   23
+
+3 
+(B) Beyond the control of the person to whom the obligation is owed. 1 
+  (10) “Record”, used as a noun, means information: 2 
+   (A) Inscribed on a tangible medium; or 3 
+   (B) Stored in an electronic or other medium and retrievable in perceivable 4 
+form. 5 
+  (11) “Sign” means, with present intent to authenticate or adopt a record: 6 
+   (A) Execute or adopt a tangible symbol; or 7 
+   (B) Attach to or logically associate with the record an electronic symbol, 8 
+sound, or process. 9 
+ Sec. 3. Scope.  10 
+ (a) Except as provided in subsection (c), this act applies to a mortgage modification. 11 
+(b) This act does not affect: 12 
+  (1) Law governing the required content of a mortgage;  13 
+  (2) A statute of limitations or other law governing the expiration or termination of 14 
+a right to enforce an obligation or a mortgage; 15 
+  (3) A recording statute; 16 
+  (4) A statute governing the priority of a tax lien or other governmental lien;  17 
+  (5) A statute of frauds or [cite to state’s Uniform Electronic Transactions Act or 18 
+similar statute]; or 19 
+  (6) Except as provided in Sec. 4(b)(8), law governing the priority of a future 20 
+advance.  21 
+ (c) This act does not apply to any of the following modifications: 22 
+  (1) A release of, or addition to, property encumbered by a mortgage; 23
+
+4 
+  (2) A release of, addition of, or other change in an obligor; or 1 
+  (3) An assignment or other transfer of a mortgage or an obligation. 2 
+ Sec. 4. Effect of mortgage modification. 3 
+ (a) For a mortgage modification described in subsection (b):  4 
+  (1) The mortgage continues to secure the obligation as modified; 5 
+(2) The priority of the mortgage is not affected by the modification;  6 
+  (3) The mortgage retains its priority regardless of whether a record of the 7 
+mortgage modification is recorded in the public land records; and 8 
+  (4) the modification is not a novation. 9 
+ (b) Subsection (a) applies to one or more of the following mortgage modifications:  10 
+  (1) An extension of the maturity date of an obligation;  11 
+  (2) A decrease in the interest rate of an obligation; 12 
+  (3) If the change does not result in an increase in the interest rate of an obligation 13 
+as calculated on the date the modification becomes effective: 14 
+   (A) A change to a different index that is a recognized index if the previous 15 
+index to which changes in the interest rate were linked is no longer available; 16 
+   (B) A change in the differential between the index and the interest rate; 17 
+   (C) A change from a floating or adjustable rate to a fixed rate; or 18 
+   (D) A change from a fixed rate to a floating or adjustable rate based on a 19 
+recognized index; 20 
+  (4) A capitalization of unpaid interest or other unpaid monetary obligation; 21 
+  (5) A forgiveness, forbearance, or other reduction of principal, accrued interest, or 22 
+other monetary obligation;  23
+
+5 
+  (6) A modification of a requirement for maintaining an escrow or reserve account 1 
+for payment of an obligation, including taxes and insurance premiums;  2 
+  (7) A modification of a requirement for acquiring or maintaining insurance;  3 
+  (8) A modification of an existing condition to advance funds; 4 
+  (9) A modification of a financial covenant; and 5 
+  (10) A modification of the payment amount or schedule resulting from another 6 
+modification described in this subsection. 7 
+ (c) The effect of a mortgage modification not described in subsection (b) is governed by 8 
+other law.  9 
+ Sec. 5. Uniformity of application and construction. 10 
+ In applying and construing this uniform act, a court shall consider the promotion of 11 
+uniformity of the law among jurisdictions that enact it. 12 
+ Sec. 6. Relation to Electronic Signatures in Global and National Commerce Act  13 
+ This [act] modifies, limits, or supersedes the Electronic Signatures in Global and National 14 
+Commerce Act, 15 U.S.C. §7001 et seq., as amended, but does not modify, limit, or supersede 15 15 
+U.S.C. §7001(c), or authorize electronic delivery of any of the notices described in 15 U.S.C. § 16 
+7003(b). 17 
+ 18 
+ Sec. 7. Transitional provision. 19 
+ This act applies to a mortgage modification made on or after the effective date of this act 20 
+regardless of when the mortgage or the obligation was created. 21 
+Sec. 8.  Fiscal impact statement. 22 
+ The Council adopts the attached fiscal impact statement as the fiscal impact statement 23 
+required by section 602(c)(3) of the District of Columbia Home Rule Act, approved December 24
+
+6 
+24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(3)). 1 
+  Sec. 9. Effective date 2 
+ This act shall take effect following approval by the Mayor (or in the event of veto by the 3 
+Mayor, action by the Council to override the veto), a 30-day period of Congressional review as 4 
+provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 5 
+24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of 6 
+Columbia Register. 7
+
+The ULC is a nonprofit formed in 1892 to create nonpartisan state legislation. Over 350 volunteer commissioners—lawyers, 
+judges, law professors, legislative staff, and others—work together to draft laws ranging from the Uniform Commercial Code to 
+acts on property, trusts and estates, family law, criminal law and other areas where uniformity of state law is desirable. 
+NATIONAL CONFERENCE OF COMMISSIONERS ON UNIFORM STATE LAWS 
+Uniform Law Commission 
+111 N. Wabash Ave. 
+Suite 1010 
+Chicago, IL 60602 
+(312) 450-6600 tel 
+www.uniformlaws.org 
+UNIFORM MORTGAGE MODIFICATION ACT 
+Summary 
+The Uniform Mortgage Modification Act modernizes the law surrounding modifications of 
+mortgages. Mortgage modifications are not uncommon: residential or commercial borrowers may 
+avoid foreclosure by modifying their loans, construction loans may be converted to permanent 
+loans, or credit facilities may be updated periodically to reflect changing market conditions or to 
+substitute portions of debt. 
+Existing state law creates questions about the effect of a modification on the priority of the 
+mortgage. Priority dictates the order in which creditors are paid in case of a foreclosure. Lenders 
+want their mortgage priority to stay the same in case of a modification, so they can still recover as 
+much as possible if the mortgage is foreclosed. 
+At best, this uncertainty leads to delays and higher transaction costs, which are ultimately passed 
+on to the borrower. At worst, this uncertainty may discourage lenders from considering a 
+reasonable request for a modification. Alternatively, a lender may request consent to the 
+modification from a junior lender (one with lower priority), but the junior lender can demand a 
+ransom payment from the borrower in exchange for its consent.  
+Even if a state has its own law addressing mortgage modifications and their priority, many local 
+borrowers depend on financing from out of state, where the law is different. Out -of-state lenders, 
+being unfamiliar with the local law, may refuse to rely on i t and proceed as if the state had no 
+statute at all. 
+For these reasons, there is a need for a widely enacted uniform law to govern mortgage 
+modifications.  
+The act creates safe harbors for specific, common modifications. For a modification within a safe 
+harbor, the act clearly provides that: (1) the mortgage continues to secure the obligation as 
+modified, (2) the modification does not affect the priority of the mortgage, (3) the mortgage retains 
+its priority regardless of whether a modification agreement is recorded, and (4) the modification is 
+not a novation. (Novation is a technical legal doctrine that may result in the loss of priority of the 
+entire loan.) 
+The following common modifications are safe harbor modifications under the act: (1) extending 
+the maturity date; (2) decreasing the interest rate; (3) modifying the method of calculating interest 
+rates in certain ways; (4) capitalizing unpaid interest or another unpaid obligation; (5) forgiveness, 
+forbearance, or other reduction of principal, accrued interest, or other monetary obligation; (6) 
+modifying escrow or reserve requirements; (7) modifying insurance requirements; (8) modifying 
+existing conditions to advance funds; (9) modifying a financial covenant; or (10) modifying the 
+payment amount or schedule as a result of one of the other safe harbor modifications.
+
+2 
+These safe harbors generally would not be considered materially prejudicial to a junior creditor. 
+They are also generally consistent with the common law, which is the law in the absence of a 
+statute. The advantage of a uniform law on this subject is that a statute provides certainty, reduces 
+the need for litigation, and reduces transaction costs.  
+A uniform law is also useful for interstate and multistate transactions. A lender in one state will 
+not have to become familiar with the mortgage modification laws of other states and can rely with 
+confidence on the same uniform law in another state. A bor rower in one state can rely with 
+confidence on the same uniform law of a lender in another state. 
+The act defers to other state law for modifications outside of the safe harbors, such as increases in 
+the principal or the interest rate. 
+Other modifications are explicitly excluded from the act, such as additions to or releases of 
+collateral, transfers of a loan, and changes in the borrower or guarantor. The act also defers to other 
+state law governing the priority of tax or other governmental liens, future advances (except as 
+specifically provided in the act), the statute of frauds, and recording acts. 
+Although the act does not require the recording of the mortgage modification to preserve priority, 
+nothing prohibits a party from recording the document, and the act defers to other state laws that 
+may require recording for a purpose other than priority, such as the statute of limitations or a state 
+law that governs the required content of a mortgage.  
+The Uniform Mortgage Modification a ct is a game changer. It benefits borrowers and lenders, 
+large and small, commercial and residential. It facilitates loan modifications to avoid foreclosure. 
+The act makes the law more certain and protects the priority of mortgage modifications within the 
+safe harbors. It adopts an appropriate balance between the right of the parties to a mortgage to 
+modify their loan and the right of parties who have junior priorit y to avoid material prejudice to 
+their position.  
+For further information about the Uniform Mortgage Modification Act, please contact Jane 
+Sternecky, ULC Legislative Counsel, at (312) 450-6622 or jsternecky@uniformlaws.org.
+
+The ULC is a nonprofit formed in 1892 to create nonpartisan state legislation. Over 350 volunteer commissioners—lawyers, 
+judges, law professors, legislative staff, and others—work together to draft laws ranging from the Uniform Commercial Code to 
+acts on property, trusts and estates, family law, criminal law and other areas where uniformity of state law is desirable. 
+NATIONAL CONFERENCE OF COMMISSIONERS ON UNIFORM STATE LAWS 
+Uniform Law Commission 
+111 N. Wabash Ave. 
+Suite 1010 
+Chicago, IL 60602 
+(312) 450-6600 tel 
+(312) 450-6601 fax 
+www.uniformlaws.org 
+WHY YOUR STATE SHOULD ADOPT THE  
+UNIFORM MORTGAGE MODIFICATION ACT 
+ 
+The Uniform Mortgage Modification Act, first approved by the Uniform Law Commission in 2024, clarifies 
+and simplifies the law governing common modifications of residential and commercial mortgages.  
+ 
+• The Act provides alternatives to foreclosure. The Act facilitates modifications to mortgages that 
+allow the parties to  continue their relationship without resorting to foreclosure. The Act protects 
+businesses with commercial mortgages and families with residential mortgages alike by 
+establishing several types of “safe harbor” modifications that can be made to a mortgage.  
+ 
+• The Act establishes that mortgage priority is not affected by safe harbor modifications. Borrowers 
+and lenders can agree to modify a mortgage, but a lender will lose priority under common law if a 
+modification has a material adverse effect on a junior lienholder.  However, the common law does 
+not clearly establish whether m any mortgage modification s affect  the priority of the mortgage 
+against junior lienholders. To address this, the Act clearly states that the priority of the mortgage is 
+not affected by safe harbor mortgage modifications. In addition, for safe harbor modifications, 
+recording a modification agreement is not necessary to maintain the priority of the mortgage. 
+ 
+• The Act saves borrowers’ time and money. Existing uncertainties in the law surrounding mortgage 
+modifications delay the process and cause unnecessary expenses that are passed on to borrowers . 
+Similarly, the legal uncertainty may cause a lender to deny a reasonable request for modification , 
+or the lender may request consent to the modification from a junior lienholder, who can demand a 
+ransom payment from the borrower  for its consent. By clarifying the law, the Act creates 
+opportunities for straightforward modifications when appropriate and reduces costs.  
+ 
+• The Act does not disrupt existing law for modifications outside of the safe harbors. Modifications 
+that would materially prejudice a junior lienholder are outside of the safe harbor s and accordingly 
+are not governed by the Act. Additionally, the Act  defers to  other law , such as a  statute of 
+limitations, that may make recording of a modification agreement necessary or desirable for other 
+purposes.  
+ 
+• The Act facilitates financing across state lines. Many local borrowers receive financing from out 
+of state where the law is different. Conversely, local lenders lend money across state lines to 
+borrowers in states where the law is different. Widespread enactment of the Act will add 
+predictability and certainty to these transactions and will save time and reduce costs. 
+ 
+For further information about the Uniform Mortgage Modification Act, please contact ULC Legislative 
+Counsel Jane Sternecky at (312) 450-6622 or jsternecky@uniformlaws.org.
+
+Uniform Mortgage Modification Act 
+drafted by the 
+NATIONAL CONFERENCE OF COMMISSIONERS 
+ON UNIFORM STATE LAWS 
+and by it 
+APPROVED AND RECOMMENDED FOR ENACTMENT 
+IN ALL THE STATES 
+WITH PREFATORY NOTE AND COMMENTS 
+Copyright © 2024 
+National Conference of Commissioners 
+on Uniform State Laws 
+October 11, 2024
+
+Uniform Mortgage Modification Act 
+The committee appointed by and representing the National Conference of Commissioners on 
+Uniform State Laws in preparing this act consists of the following individuals: 
+John P. Burton     New Mexico, Chair 
+Jacqueline T. Lenmark    Montana, Vice Chair 
+Carl H. Lisman     Vermont, Vice Chair 
+Ellen F. Dyke      Virginia 
+Patricia Brumfield Fry    Missouri 
+Patrick A. Guida     Rhode Island 
+Lyle W. Hillyard     Utah 
+David S. Jensen     Idaho 
+Robert L. McCurley     Alabama 
+John T. McGarvey     Kentucky 
+Greg Nibert      New Mexico 
+Raymond P. Pepe     Pennsylvania 
+Dean Plocher      Missouri 
+J. Cliff McKinney II    Arkansas, Division Chair 
+Timothy J. Berg    Arizona, President 
+Other Participants 
+Julie P. Forrester Rogers   Texas, Reporter 
+Charles L. Menges     Virginia, American Bar Association Advisor 
+Steve Gottheim     District of Columbia, Advisor 
+John Valdivielso    Virginia, Advisor 
+Ira J. Waldman     California, Advisor 
+Dale Whitman      Arizona, Advisor 
+Louise M. Nadeau     Connecticut, Style Liaison 
+Tim Schnabel      Illinois, Executive Director 
+Copies of this act may be obtained from: 
+Uniform Law Commission 
+111 N. Wabash Ave., Suite 1010 
+Chicago, Illinois 60602 
+(312) 450-6600 
+www.uniformlaws.org
+
+Uniform Mortgage Modification Act 
+Table of Contents 
+Prefatory Note ................................................................................................................................. 1 
+Section 1. Title ................................................................................................................................ 5 
+Section 2. Definitions...................................................................................................................... 5 
+Section 3. Scope.............................................................................................................................. 8 
+Section 4. Effect of Mortgage Modification ................................................................................. 11 
+Section 5. Uniformity of Application and Construction ............................................................... 17 
+Section 6. Relation to Electronic Signatures in Global and National Commerce Act.................. 17 
+Section 7. Transitional Provision .................................................................................................. 18 
+[Section 8. Severability]................................................................................................................ 18 
+Section 9. Effective Date .............................................................................................................. 19
+
+1 
+Uniform Mortgage Modification Act 
+Prefatory Note 
+I. Purpose of the Act 
+The Uniform Mortgage Modification Act clarifies and simplifies the law governing 
+mortgage modifications. It saves borrowers time and money by reducing legal uncertainties and 
+transaction costs. Specifically, the act creates safe harbors for common modifications, while 
+leaving others to existing law. 
+A mortgage is an agreement that creates an interest in real property to secure a debt or 
+other obligation. Some states use agreements with different names such as deed of trust, trust 
+deed, or indenture. Whatever its name, the agreement is called a mortgage in this act. 
+This prefatory note explains why this act is needed and how it works.  
+II. Why the Act Is Needed 
+A. Why Mortgages Are Modified 
+Mortgage modifications are not uncommon. There are many reasons that parties to a 
+mortgage may wish to modify the mortgage or the obligations it secures. Residential or 
+commercial borrowers may avoid a default or foreclosure with a modification that reduces 
+payments, extends the loan, or capitalizes unpaid interest. The parties may convert a construction 
+loan into permanent financing. Some credit facilities are updated periodically to reflect changing 
+market conditions or to substitute portions of debt. Some borrowers may wish to increase the 
+amount of their loans. 
+The parties often find that questions about the effect of a modification on the priority of 
+the mortgage cause delay or prevent them from completing the modification. At best, this 
+uncertainty about priority leads to increased transaction costs, which are ultimately passed on to 
+the borrower. At worst, this uncertainty may discourage lenders from even considering a request 
+to modify a mortgage loan. 
+B. Why Priority Is Important 
+The priority of a mortgage determines which mortgage loan gets paid first if the borrower 
+stops paying and goes into bankruptcy or is foreclosed upon. Obviously, maintaining a first lien 
+priority is better for lenders, but it also benefits borrowers because a lender is less likely to agree 
+to a modification if the lender’s priority is at risk.   
+C. Problems Existing Without a Statute 
+Without a statute, the law is not clear whether a modification of a mortgage loan affects 
+the priority of the mortgage. Litigation over priority may be required even for common
+
+2 
+modifications. See, e.g., Fraction v. Jacklily, LLC (In re Fraction), 622 B.R. 643, 648 (Bankr. 
+E.D. Pa. 2020), aff’d, 2021 WL 4037508 (E.D. Pa. 2021) (involving modifications to extend 
+maturity date of loan, reduce interest rate, and capitalize unpaid interest and escrow payments). 
+Generally, courts focus on whether a modification has a material adverse effect on junior 
+lienholders, ruling that priority may be lost, in whole or in part, if junior lienholders are 
+materially prejudiced by the modification. Results may differ among various courts. Compare 
+Fraction, supra, at 650-652 (finding no loss of priority due to extension of maturity and other 
+modifications) with Citizens & Southern National Bank of South Carolina v. Smith, 284 S.E.2d 
+770 (S.C. 1981) (holding that extension of maturity of mortgage caused loss of priority as against 
+junior lienholder). 
+To avoid the risk of losing priority, a senior lienholder may request a junior lienholder’s 
+consent to a modification. But the junior lienholder may refuse consent even when it has no 
+legitimate reason to refuse. Or the junior lienholder may demand a ransom payment for its 
+consent.   
+In addition, without a statute, if a modification is found to constitute a novation of an 
+obligation (i.e. found to be so substantial as to create a “new” obligation), the result of the 
+modification may be that the mortgage no longer secures the original obligation, but only the 
+“new” obligation. See, e.g., In re Fair Finance Co., 834 F.3d 651 (2016). The result is that the 
+entire loan loses its priority.  
+ Further, confusion exists as to whether a mortgage modification agreement must be 
+recorded in order to maintain mortgage priority. See, e.g., Fraction v. Jacklily, LLC (In re 
+Fraction), 622 B.R. 643, 651 n.11 (Bankr. E.D. Pa. 2020), aff’d, 2021 WL 4037508 (E.D. Pa. 
+2021). For residential borrowers, obtaining the acknowledgment required for recording a 
+modification agreement presents a barrier to completing the loan modification.  
+Finally, even if a state has its own statute designed to address mortgage modifications 
+and their priority, the locals depend to a greater or lesser extent on out-of-state lenders for 
+financing. Out-of-state lenders, being unfamiliar with a local statute, may refuse to rely on it and 
+proceed as if the state had no statute at all. 
+For these reasons, there is a need for a widely enacted uniform law to govern mortgage 
+modifications. 
+III. How the Act Works to Fix These Problems 
+A. Safe Harbors 
+This act creates safe harbors for specific common mortgage modifications. For a 
+modification within a safe harbor, Section 4(a) clearly establishes as a matter of law that: 
+1. The mortgage continues to secure the obligation as modified, 
+2. The modification does not affect the priority of the mortgage,
+
+3 
+3. The mortgage retains its priority regardless of whether a modification agreement is 
+recorded, and 
+4. The modification is not a novation.  
+The effect of Section 4(a) is to eliminate or lower the transaction costs of common 
+modifications, saving time and money. These transaction costs on many loans may include, but 
+are not limited to, recording fees, title insurance endorsements, and legal opinions. Section 4(a) 
+will benefit borrowers and lenders, large and small, commercial and residential. 
+The following common modifications, called safe harbors, are listed in Section 4(b) of 
+the act: 
+1. Extension of the maturity date of the obligation,  
+2. A decrease in the interest rate,   
+3. Certain changes in the method of calculating interest, 
+4. Capitalization of interest or other unpaid obligations,  
+5. Forgiveness, forbearance, or reduction of a secured debt or other obligation,  
+6. Modification of escrow or reserve account requirements,   
+7. Modification of insurance requirements, 
+8. Modification of an existing condition to an advance of funds, 
+9. Modification of a financial covenant, and 
+10. Modification of the payment amount or schedule resulting from another safe harbor 
+modification. 
+Material prejudice or a similar standard is the common law basis for determining whether 
+a modification causes a loss of priority. The safe harbor modifications in the act generally would 
+not be considered materially prejudicial to a junior lienholder. So, Section 4(b) is generally 
+consistent with the common law of material prejudice. And the act, like common law, protects 
+the rights of junior lienholders.   
+The advantage of a uniform law on this subject is that a statute provides certainty, 
+reduces the need for litigation, and reduces transaction costs. A uniform law is also useful for 
+interstate transactions and multistate transactions. A lender in one state will not have to become 
+familiar with the mortgage modification laws of other states and can rely with confidence on the 
+same uniform law in another state. A borrower operating in several states will need to become 
+familiar with only one mortgage modification law. 
+B. Modifications Outside the Safe Harbors 
+Modifications that fall outside the safe harbors or are excluded from the act are governed 
+by other law. These modifications may or may not prejudice a junior lienholder and so, under 
+other law, may or may not cause a loss of priority.  
+An example of a modification that falls outside of the safe harbor is a new advance of 
+funds not contemplated by the original loan. This increase in the principal of the loan is not in 
+the safe harbor because it would materially prejudice a junior lienholder. Cases hold that the
+
+4 
+senior lienholder loses priority to the extent of the increase. See, e.g., Burney v. McLaughlin, 63 
+S.W.3d 223, 233-34 (Mo. Ct. App. 2001); Lennar Partners, 57 Cal.Rptr.2d 435, 440-42 (Cal. Ct. 
+App. 1996). Another example is an increase in the interest rate of a loan because such an 
+increase can materially prejudice a junior lienholder. See Burney, supra, at 233; Shultis v. 
+Woodstock Land Dev. Assocs. 594 N.Y.S.2d 890, 893 (N.Y. App. Div. 1993).  
+Other modifications that fall outside of the safe harbor list may not prejudice a junior 
+lienholder and thus under other law would not cause a loss of priority. 
+C. Exclusions from Operation and Effect of Act 
+Some modifications are excluded by Section 3(c) from the operation of this act. These 
+modifications are governed by other law: 
+1. A release of, or addition to, the collateral,   
+2. Changes in the borrower or guarantor, and 
+3. Transfers of a loan. 
+Changes to the collateral or changes to the borrower or a guarantor are excluded because 
+they may prejudice a junior lienholder depending upon the circumstances. Loan transfers are 
+excluded because they are governed by the Uniform Commercial Code. 
+Section 3(b) makes it clear that the act does not affect certain existing law. The act does 
+not affect: 
+1. Law governing the required content of a mortgage,  
+2. A statute of limitations or other law governing the expiration or termination of the right 
+to enforce an obligation, 
+3. A recording statute,  
+4. A statute governing the priority of a tax or other governmental lien, 
+5. A statute of frauds or the Uniform Electronic Transactions Act or similar statute, or 
+6. Law governing the priority of a future advance, except as provided in the act. 
+For modifications within the safe harbor, recording a mortgage modification is not 
+required to maintain the priority of the mortgage. However, recording may be necessary or 
+desirable for other reasons. For example, when the maturity of an obligation is extended, some 
+states have statutes that make recordation necessary in order to extend the right to enforce the 
+obligation. The act does not affect these statutes. 
+IV. Summary 
+The act is a game-changer that will benefit borrowers and lenders, large and small, 
+commercial and residential. It makes the law more certain and protects the priority of a mortgage 
+for modifications within the safe harbors. It adopts an appropriate balance between the right of 
+the parties to a senior mortgage to modify loans and the right of junior lienholders to avoid 
+material prejudice to their lien position. With greater clarity, borrowers and lenders should be 
+able to avoid undesirable transaction costs and the threat of litigation over priority issues for 
+common modifications. The act will also facilitate loan modifications to avoid foreclosure.
+
+5 
+Uniform Mortgage Modification Act   
+Section 1. Title 
+This [act] may be cited as the Uniform Mortgage Modification Act. 
+Section 2. Definitions 
+In this [act]: 
+(1) “Electronic” means relating to technology having electrical, digital, magnetic, 
+wireless, optical, electromagnetic, or similar capabilities. 
+(2) “Financial covenant” means an undertaking to demonstrate an obligor’s 
+creditworthiness or the adequacy of security provided by an obligor. 
+  (3) “Modification” includes change, amendment, revision, correction, addition, 
+supplementation, elimination, waiver, and restatement.  
+  (4) “Mortgage”: 
+(A) means an agreement that creates a consensual interest in real property 
+to secure payment or performance of an obligation, regardless of: 
+(i) how the agreement is denominated, including a mortgage, deed 
+of trust, trust deed, security deed, indenture, and deed to secure debt; and 
+(ii) whether the agreement also creates a security interest in 
+personal property; and 
+(B) does not include an agreement that creates a consensual interest to 
+secure a liability owed by a unit owner to a condominium association, owners’ association, or 
+cooperative housing association for association dues, fees, or assessments. 
+  (5) “Mortgage modification” means modification of: 
+   (A) a mortgage;
+
+6 
+(B) an agreement that creates an obligation, including a promissory note, 
+loan agreement, or credit agreement; or 
+(C) an agreement that creates other security or credit enhancement for an 
+obligation, including an assignment of leases or rents or a guaranty. 
+  (6) “Obligation” means a debt, duty, or other liability, secured by a mortgage. 
+  (7) “Obligor” means a person that: 
+   (A) owes payment or performance of an obligation; 
+   (B) signs a mortgage; or 
+   (C) is otherwise accountable, or whose property serves as collateral, for 
+payment or performance of an obligation. 
+  (8) “Person” means an individual, estate, business or nonprofit entity, government 
+or governmental subdivision, agency, or instrumentality, or other legal entity. 
+  (9) “Recognized index” means an index to which changes in the interest rate may 
+be linked that is: 
+(A) readily available to, and verifiable by, the obligor; and   
+(B) beyond the control of the person to whom the obligation is owed. 
+  (10) “Record”, used as a noun, means information: 
+   (A) inscribed on a tangible medium; or 
+   (B) stored in an electronic or other medium and retrievable in perceivable 
+form. 
+  (11) “Sign” means, with present intent to authenticate or adopt a record: 
+   (A) execute or adopt a tangible symbol; or 
+   (B) attach to or logically associate with the record an electronic symbol,
+
+7 
+sound, or process. 
+Comment 
+1. Electronic. The definition of “electronic” is the standard Uniform Law Commission 
+definition. 
+2. Financial Covenant. Examples of financial covenants include requirements for a 
+borrower, guarantor, or other obligor to maintain a certain level of income or net worth, for 
+maintenance of a certain loan-to-value ratio or debt-service ratio, for furnishing financial records, 
+for production of tax returns, and for maintenance of deposit accounts with the lender. 
+3. Modification. The term “modification” is broad and encompasses a change, 
+amendment, revision, correction, addition, supplementation, elimination, waiver, or restatement. 
+A modification may be made by any enforceable means of agreement or communication, 
+although a waiver may sometimes occur by act or omission. 
+4. Mortgage. A “mortgage” is any agreement that creates a consensual interest in real 
+property to secure payment or performance of an obligation. Depending upon local usage and 
+custom, an agreement that creates a consensual interest in real property to secure payment or 
+performance of an obligation may be denominated a mortgage, deed of trust, trust deed, security 
+deed, indenture, deed to secure debt, or the like. An installment land contract, sometimes called a 
+contract for deed, is included within the definition of a mortgage if under state law it creates a 
+consensual interest in real property to secure payment or performance of an obligation. A 
+mortgage may also create a security interest in fixtures and personal property in addition to the 
+real property that it encumbers, and in such a case, it is still a mortgage. A security interest in 
+personal property created in a mortgage is, of course, governed by the Uniform Commercial 
+Code, including its rules for perfection and priority. 
+The definition of mortgage excludes an agreement that creates a consensual interest to 
+secure an obligation owed by a unit owner to a condominium association, owners’ association, or 
+cooperative housing association for association dues, fees, or assessments because the act is not 
+intended to apply to the modification of a declaration of covenants, conditions, and restrictions or 
+other agreement that creates an obligation owed by a unit owner to the association for association 
+dues, fees, or assessments. A unit owner includes a homeowner, condominium owner, or 
+cooperative unit owner or lessee who is a member of the association (or a shareholder in the case 
+of a cooperative). The reason for the exclusion is that the modification of such an agreement 
+does not raise the same types of issues raised by modifications of other consensual liens. 
+The definition of mortgage is based on definitions in recent real property acts such as the 
+Uniform Home Foreclosure Procedures Act, the Model Negotiated Alternative to Foreclosure 
+Act, and the Uniform Nonjudicial Foreclosure Act; however, the definition is tailored 
+specifically for this act. Real property acts have not used a consistent definition for the term 
+mortgage because the various acts need different definitions. 
+5. Mortgage modification. A “mortgage modification” is a modification of the terms of
+
+8 
+the mortgage itself, of an agreement that creates an obligation secured by the mortgage, or of an 
+agreement that creates other security or credit enhancement. The term includes the modification 
+of a promissory note, loan agreement, credit agreement, guaranty, assignment of leases or rents, 
+and the like. 
+A change that occurs upon condition under the existing terms of a mortgage or other 
+record is not a mortgage modification because it is not a modification of the agreement. Such a 
+change is dictated by the terms of the agreement and does not change the agreement. For 
+example, a promissory note may provide for an increase in the interest rate upon a default by the 
+borrower (a so-called “default interest rate”). Similarly, the promissory note may provide for an 
+adjustment of the interest rate at specified time intervals or when changes occur in an index rate. 
+As another example, a mortgage may provide for the creation of an escrow account upon the 
+occurrence of certain conditions. These changes are not mortgage modifications but are existing 
+terms of the agreement between the parties. 
+6. Obligation. An obligation as defined in the act is one that is secured by a mortgage. 
+The term includes a non-recourse debt, whether the debt is non-recourse due to the application of 
+anti-deficiency judgment legislation, agreement of the parties, or for other reasons.  
+7. Obligor. This definition is based on the definition of the term in the Uniform Home 
+Foreclosure Procedures Act. Subsection (a) covers the borrower or debtor; subsection (b) covers 
+a mortgagor who is not the borrower or debtor; and subsection (c) covers a guarantor, including a 
+guarantor whose obligation arises upon a condition, and a party who has encumbered other 
+property to secure an obligation.   
+8. Person. The definition of “person” is the standard Uniform Law Commission 
+definition. 
+9. Recognized index. This definition is based on Office of the Comptroller of the 
+Currency regulations of the index for an adjustable-rate mortgage loan at 12 C.F.R. § 34.22. 
+10. Record. The definition of “record”, used as a noun, is the standard Uniform Law 
+Commission definition. 
+11. Sign. The definition of “sign” is the standard Uniform Law Commission definition. 
+Section 3. Scope 
+(a) Except as provided in subsection (c), this [act] applies to a mortgage modification. 
+(b) This [act] does not affect: 
+  (1) law governing the required content of a mortgage; 
+  (2) a statute of limitations or other law governing the expiration or termination of
+
+9 
+a right to enforce an obligation or a mortgage;   
+  (3) a recording statute;   
+  (4) a statute governing the priority of a tax lien or other governmental lien; 
+  (5) a statute of frauds or [cite to state’s Uniform Electronic Transactions Act or 
+similar statute]; or 
+  (6) except as provided in Section 4(b)(8), law governing the priority of a future 
+advance. 
+(c) This [act] does not apply to any of the following modifications: 
+  (1) a release of, or addition to, property encumbered by a mortgage; 
+  (2) a release of, addition of, or other change in an obligor; or 
+  (3) an assignment or other transfer of a mortgage or an obligation. 
+Comment 
+1. Scope. Except as provided in subsections (b) or (c), the act applies to a mortgage 
+modification, defined as the modification of the terms of a mortgage, of an agreement that 
+creates an obligation secured by the mortgage, or of an agreement that creates other security or 
+credit enhancement. An agreement that creates an obligation secured by a mortgage may include 
+a promissory note, loan agreement, or a credit agreement. An agreement that creates security or 
+other credit enhancement may include an assignment of leases or rents, a guaranty, security 
+agreement, pledge agreement, or deposit account control agreement. 
+2. Exclusions. The act does not change or override certain laws, and subsection (b) lists 
+those laws. Subsection (c) lists modifications to which the act does not apply. Exclusions and 
+other provisions herein that refer to “law” or “laws” refer to statutes, regulations, and the 
+common law. 
+3. Laws governing contents of a mortgage. The act does not affect any law that requires 
+a mortgage to include certain terms, such as a law that requires that a mortgage state the 
+maximum principal of a loan. If the parties modify one of the required terms, a modification 
+agreement may need to be recorded to satisfy the requirements of the law. 
+4. Statutes of limitations. The act does not override statutes of limitations, statutes of 
+repose, marketable title acts, or other laws that govern the expiration or termination of the right 
+to enforce an obligation or a mortgage and that may depend upon the maturity date of a loan as 
+stated in a recorded mortgage. For example, some states have statutes that make recordation a
+
+10 
+necessity in order to extend the right to enforce an obligation or a mortgage based on the 
+maturity date of the obligation as stated in the recorded mortgage or extension agreement. See, 
+e.g., Ariz. Stat. 33-714(A); Tex. Civ. Prac. & Rem. Code § 16.036. 
+5. Recording statutes. The act does not affect recording statutes. Recording statutes vary 
+but are generally classified as race, notice, or race-notice acts. Recording statutes determine the 
+priority of a subsequent purchaser’s interest and may reverse the common law priority rule of 
+first-in-time, first-in-right. Recording statutes generally do not require recording of a record that 
+creates an interest in real property but rather make recording necessary in order to protect against 
+loss of priority. Thus, a mortgagee will want to record a mortgage to preserve its priority. A 
+modification agreement generally does not create a new interest in real property but modifies a 
+mortgage or obligation. Thus, a mortgage modification agreement does not need to be recorded 
+except if necessary to extend the statute of limitations as discussed in Comment 4 above, when 
+the modification changes a required mortgage term as discussed in Comment 3 above, or if 
+otherwise required by a statute such as the Ohio statute referenced below. Section 4(a)(3) 
+provides that, for safe harbor modifications, failure to record a modification agreement will not 
+cause a loss of priority.  
+In Ohio a mortgage modification does not take effect until it is delivered to the recorder. 
+Ohio Rev. Code Ann. § 5301.231. Ohio legislators should consider whether to amend that statute 
+or to add it as an exclusion from the scope of the act in this section and omit section 4(a)(3). 
+6. Statutes governing priority of governmental liens. The act does not affect any 
+statute that dictates the priority of a tax lien or other governmental lien.   
+7. Statutes of frauds and Uniform Electronic Transactions Act. The act does not 
+affect the statute of frauds or the state’s Uniform Electronic Transactions Act or similar statute 
+governing electronic transactions. 
+8. Laws governing the priority of a future advance. The act does not override existing 
+law governing future advances except that a modification of an existing condition to an advance 
+of funds is within the safe harbor as provided in Section 4(b)(8). Most states have legislation 
+addressing the priority of future advances and abrogating completely or partly the distinction 
+between obligatory and optional advances. See, e.g., Mich. Comp. Laws § 565.902; Wash. Rev. 
+Code § 61.12.190. Some states retain the common law distinction between optional and 
+obligatory advances. The act does not affect existing law in this area except to the extent that a 
+modification (including waiver) of an existing condition to an advance of funds does not cause a 
+loss of priority for the advance under Section 4(b)(8). 
+9. Release of or addition to collateral. The act does not apply to a modification of a 
+mortgage that releases or adds to the mortgaged property. Other modifications completed in the 
+same transaction as a release or addition of mortgaged property may be covered by the act and 
+fall within the safe harbors. Other law governs the effect of a modification that releases or adds 
+to the mortgaged property.   
+10. Release, addition, or change in obligor. The act does not apply to a release of,
+
+11 
+addition of, or other change in the identity of a borrower, mortgagor, guarantor, or other obligor. 
+Other modifications completed in the same transaction as a release, addition, or change in an 
+obligor may be covered by the act and fall within the safe harbors. Other law governs a 
+modification that changes the identity of the borrower, mortgagor, guarantor, or other obligor.  
+11. Assignment of a mortgage or an obligation. The act does not apply to the 
+assignment or other transfer of a mortgage loan or other obligation secured by a mortgage. This 
+section makes clear that these transfers are not covered by the act. Other modifications 
+completed at the same time as an assignment of a mortgage or obligation may be covered by the 
+act and fall within the safe harbors. Other law governs assignment or other transfer of a mortgage 
+loan or other obligation secured by a mortgage. 
+Section 4. Effect of Mortgage Modification 
+(a) For a mortgage modification described in subsection (b):   
+  (1) the mortgage continues to secure the obligation as modified; 
+(2) the priority of the mortgage is not affected by the modification; 
+  (3) the mortgage retains its priority regardless of whether a record of the mortgage 
+modification is recorded in the [public land records]; and 
+  (4) the modification is not a novation. 
+(b) Subsection (a) applies to one or more of the following mortgage modifications: 
+  (1) an extension of the maturity date of an obligation; 
+  (2) a decrease in the interest rate of an obligation; 
+  (3) if the change does not result in an increase in the interest rate of an obligation 
+as calculated on the date the modification becomes effective: 
+   (A) a change to a different index that is a recognized index if the previous 
+index to which changes in the interest rate were linked is no longer available; 
+   (B) a change in the differential between the index and the interest rate; 
+   (C) a change from a floating or adjustable rate to a fixed rate; or 
+   (D) a change from a fixed rate to a floating or adjustable rate based on a 
+recognized index;
+
+12 
+  (4) a capitalization of unpaid interest or other unpaid monetary obligation; 
+  (5) a forgiveness, forbearance, or other reduction of principal, accrued interest, or 
+other monetary obligation; 
+  (6) a modification of a requirement for maintaining an escrow or reserve account 
+for payment of an obligation, including taxes and insurance premiums; 
+  (7) a modification of a requirement for acquiring or maintaining insurance; 
+  (8) a modification of an existing condition to advance funds; 
+  (9) a modification of a financial covenant; and 
+  (10) a modification of the payment amount or schedule resulting from another 
+modification described in this subsection. 
+(c) The effect of a mortgage modification not described in subsection (b) is governed by 
+other law. 
+Comment 
+1. Applicability. Section 4 applies to a modification of the terms of a mortgage, of an 
+agreement that creates an obligation, or of an agreement that creates other security or credit 
+enhancement, including modification of a promissory note, loan agreement, credit agreement, 
+assignment of leases or rents, or guaranty. The provisions of subsection (a) apply to 
+modifications that are within the list in subsection (b) of safe harbor modifications. Other law 
+governs modifications that are not within the list. 
+2. Security. Most mortgages state explicitly that the mortgage continues to secure 
+obligations as modified. For modifications within the safe harbor, the mortgage continues to 
+secure obligations as modified even without such a provision, and modifications within the safe 
+harbor are not a novation. 
+3. Priority. The act creates a safe harbor for modifications that will not cause the loss of 
+priority of a mortgage. Under common law and the Restatement, if an obligation secured by a 
+mortgage is modified, the mortgage “retains priority as against junior interests in the real estate, 
+except to the extent that the modification is materially prejudicial to the holders of such interests 
+. . . .” Restatement (Third) of Property—Mortgages § 7.3(b). The act creates certainty by 
+providing that certain modifications of obligations do not cause a loss of priority.  
+Commercial loans typically prohibit secondary financing without the first lender’s
+
+13 
+consent and contain a due-on-encumbrance clause. If the holder of a senior mortgage agrees to a 
+junior mortgage, the parties will generally enter into an intercreditor agreement defining their 
+respective rights and obligations with respect to the collateral and the loans, and the act does not 
+affect an intercreditor agreement that dictates priority as between the parties thereto. However, 
+priority issues that arise with respect to judgment liens and mechanics’ liens or in the absence of 
+an intercreditor agreement are governed by the act for modifications within the safe harbor. 
+For residential lenders, the Garn-St. Germain Act, 12 U.S.C. 1701j-3, prohibits the 
+exercise of a due-on-encumbrance clause in a residential mortgage. Thus, residential borrowers 
+may and often do obtain secondary financing such as a home equity loan. The act prevents loss 
+of priority for modifications of a residential mortgage that fall within the safe harbor. 
+4. Recording. For modifications within the safe harbor, recording a record of a mortgage 
+modification is not required to maintain the priority of the mortgage. Although recording of a 
+modification agreement is not necessary to maintain the priority of the mortgage, recording may 
+be necessary or desirable for other reasons. The act does not affect a state’s recording statute or 
+any law governing the required content of a mortgage. Section 3(b)(1), (3). For example, a lender 
+may choose to record a modification agreement to give notice to third parties. If the maturity 
+date of a loan is extended, a lender may want to record a modification agreement to give public 
+notice of the extension of the statute of limitations for enforcement of the mortgage. Some states 
+have statutes that make recordation a necessity in order to extend the right to enforce an 
+obligation or a mortgage based on the maturity date of the obligation as stated in the recorded 
+mortgage or extension agreement. See, e.g., Ariz. Stat. 33-714(A); Tex. Civ. Prac. & Rem. Code 
+§ 16.036.  
+In Ohio a mortgage modification does not take effect until it is delivered to the recorder. 
+Ohio Rev. Code Ann. § 5301.231. Ohio legislators should consider whether to amend that statute 
+or to add it as an exclusion from the scope of the act and omit 4(a)(3). 
+5. No novation. A novation, in the context of a mortgage loan, means a replacement of 
+the existing obligation with a new obligation. Courts may find that a modification of a loan is so 
+substantial that it is treated as a new loan. If a modification is so substantial as to constitute a 
+novation of the loan, some cases have held that the mortgage no longer secures the modified 
+loan. See, e.g., In re Fair Finance Co., 834 F.3d 651 (2016). Subsection (a)(4) specifies that 
+modifications that fall within the safe harbor do not constitute a novation. Thus, if a modification 
+is within the safe harbor, the modified loan does not replace the original loan with a new loan, 
+and the mortgage continues to secure the obligation. 
+6. Safe harbor modifications. Subsection (b) lists modifications that fall within the safe 
+harbor. The listed modifications are common modifications that generally would not be 
+materially prejudicial to a junior interest holder under common law. Some of the listed 
+modifications, such as decreasing the interest rate or forgiving unpaid interest, would always be 
+of benefit to a junior interest holder. Other modifications in the list would usually be beneficial 
+to a junior interest holder or would not be materially prejudicial. So, to a great extent, Subsection 
+(b) is consistent with existing law with respect to priority. These safe harbor modifications are:
+
+14 
+  a. Extension of maturity date. Most courts hold that a junior lienholder is not 
+materially prejudiced by the extension of the maturity date of a loan. See, e.g., Lennar Northeast 
+Partners v. Buice, 57 Cal. Rptr. 2d 435, 440 (Cal. Ct. App. 1996); Shultis v. Woodstock Land 
+Dev. Assocs., 594 N.Y.S.2d 890, 893 (N.Y. App. Div. 1993); Guleserian v. Fields, 218 N.E.2d 
+397, 401-02 (Mass. 1966) (“The holder of the junior encumbrance is regarded as necessarily 
+taking the risk of a postponement (frequently an advantage to a second mortgagee) of the date of 
+payment of the whole or part of the senior mortgage debt.”). The Restatement position is that an 
+extension of the maturity of a senior mortgage loan is generally beneficial to junior lienholders 
+because it makes foreclosure of the senior lien less likely. See Restatement (Third) of Property— 
+Mortgages § 7.3 cmt. c & illus. 7, 8. Occasionally, courts hold otherwise, see, e.g., Citizens & 
+Southern National Bank of South Carolina v. Smith, 284 S.E.2d 770 (S.C. 1981), thus illustrating 
+the importance of uniform legislation in the area. An extension of the maturity of a loan is a very 
+common modification, and clarity that it does not cause a loss of priority will save time and 
+expense, facilitate loan modification to avoid foreclosure, and avoid litigation. 
+  b. Decrease in interest rate. A decrease in the interest rate does not prejudice a 
+junior interest holder. Instead, a decrease in the interest rate benefits the junior interest holder by 
+decreasing the amount of the obligation and by making it more likely that the borrower can pay. 
+  c. Modification of method of calculating interest. When an interest rate index 
+becomes unavailable, the parties must designate a different index for calculating interest, 
+together with a change in the spread between the interest rate and the index. In addition, parties 
+may change from a fixed to a floating or adjustable rate or vice versa. Such a modification may 
+result in an increase or decrease in the amount of interest owed, and the parties may not know at 
+the time of the modification whether it will ultimately result in an increase or decrease in the 
+total amount of interest to be paid. Subsection (b)(3) creates a safe harbor for those changes that 
+do not result in an increase in the interest rate as calculated at the time of the modification. 
+Whether a change is within the safe harbor is determined based on the interest rate index on the 
+date of the modification.  
+  d. Capitalization of unpaid interest or another unpaid obligation. 
+Capitalization of unpaid interest increases the principal of a loan; however, unpaid obligations 
+are already owed and secured by a mortgage. Thus, it does not prejudice a junior lienholder in 
+the same way that a new advance would. See Fraction v. Jacklily, LLC (In re Fraction), 622 B.R. 
+642 (Bankr. E.D. Pa. 2020), aff’d, 2021 WL 4037508 (E.D. Pa. 2021). Capitalization of unpaid 
+interest is a modification that commonly occurs when a borrower is in default and the lender has 
+agreed to the modification as an alternative to foreclosure. Avoiding foreclosure by a senior 
+mortgage holder benefits a junior lienholder. In addition, when unpaid amounts are capitalized, 
+the loan is no longer in default; thus, default interest and late charges will stop accruing, which 
+also benefits a junior lienholder. 
+  e. Forgiveness, forbearance, or reduction of obligation. Forgiving or otherwise 
+reducing a monetary obligation benefits a junior interest holder. 
+  f. Insurance and escrow requirements. Changes in the requirements for 
+maintaining insurance and changes in requirements for maintaining an escrow or reserve account
+
+15 
+should not prejudice a junior lienholder and may be a benefit if the modification better protects 
+the collateral and insures the payment of insurance premiums, taxes, or other obligations. 
+  g. Modification of an existing condition to advance funds. If a loan already 
+provides for an advance, the waiver or modification of a condition to that advance should not 
+materially prejudice a junior lienholder in most circumstances. In a construction loan, the 
+advance of funds allows the borrower to continue construction and to pay contractors and 
+subcontractors, which should be of benefit to a junior lienholder. 
+  h. Modification of a financial covenant. A financial covenant is an undertaking 
+to demonstrate the creditworthiness of a borrower, guarantor, or other obligor or the adequacy of 
+security provided by the borrower, guarantor, or other obligor. Financial covenants are 
+commonly modified in commercial loans and should not generally cause material prejudice to a 
+junior lienholder. Examples of financial covenants include requirements for a borrower to 
+maintain a certain level of income or net worth, for maintenance of a certain loan-to-value ratio 
+or debt service ratio, for furnishing financial records, for production of tax returns, and for 
+maintenance of deposit accounts with the lender. 
+  i. Modification of payment amount or schedule. Some of the safe harbor 
+modifications may result in changes in the payment amount or schedule. For example, a decrease 
+in the interest rate may result in lower payments, and an extension of the maturity date of a loan 
+will result in a changed payment schedule. These modifications are also within the safe harbor. 
+7. Modifications not within the safe harbor. Modifications that are not within the safe 
+harbor are governed by other law. Under common law, a mortgage as modified retains its 
+priority except to the extent that a modification materially prejudices junior interest holders. See 
+Fraction v. Jacklily, LLC (In re Fraction), 622 B.R. 642, 649 (Bankr. E.D. Pa. 2020), aff’d, 2021 
+WL 4037508 (E.D. Pa. 2021). Under the Restatement, a “mortgage as modified retains priority 
+as against junior interests in the real estate, except to the extent that the modification is 
+materially prejudicial to the holders of such interests . . . .” Restatement (Third) of Property— 
+Mortgages § 7.3(b). The safe harbor modifications in this act are those that generally would not 
+prejudice a junior interest holder. Other modifications may or may not materially prejudice a 
+junior interest holder and thus may or may not cause a loss of priority. Note that a modification 
+may result in a split priority with the senior mortgage losing priority only to the extent the that 
+the modification prejudices the junior interest holder. See, e.g., Burney v. McLaughlin, 63 
+S.W.3d 223, 233-34 (Mo. Ct. App. 2001); Shultis v. Woodstock Land Dev. Assocs., 594 
+N.Y.S.2d 890, 893 (N.Y. App. Div. 1993).   
+8. Examples. The following examples illustrate the operation of this section. 
+  a. Example 1: A lender makes a loan evidenced by a promissory note in the 
+principal amount of $100,000 secured by a mortgage. The interest rate on the loan is 7% per 
+annum. A creditor obtains a judgment lien against the mortgaged property. The borrower and 
+lender subsequently agree to extend the term of the loan for an additional five years, to reduce 
+the interest rate to 6% per annum, and to require flood insurance. The modifications result in a 
+change in the borrower’s payments. Because the modifications are all within the safe harbor list,
+
+16 
+the lender retains its priority as against the judgment lien creditor. Recordation of a modification 
+agreement is not necessary to retain priority, but the lender may choose to require recordation in 
+order to give notice to third parties of the new maturity date. 
+  b. Example 2: A lender makes a loan evidenced by a promissory note in the 
+principal amount of $100,000 secured by a mortgage. The loan does not provide for additional 
+advances. A creditor obtains a judgment lien against the mortgaged property. The borrower and 
+lender subsequently agree to modify the loan to increase the principal amount of the loan to 
+$150,000, and the lender advances the additional $50,000. Because this modification is not 
+within the safe harbor list and materially prejudices a junior interest holder, the lender may lose 
+priority to the extent that the judgment lien creditor is prejudiced. Most courts would hold that 
+the priority is split, with the lender retaining priority as to the original loan terms and losing 
+priority only as to the new advance. See, e.g., Shultis v. Woodstock Land Dev. Assocs., 594 
+N.Y.S.2d 890, 893 (N.Y. App. Div. 1993) (split priority for increase in interest rate). 
+  c. Example 3: A lender makes a loan evidenced by a promissory note in the 
+principal amount of $100,000 secured by a mortgage on the borrower’s home. The borrower 
+subsequently obtains a home equity loan in the amount of $20,000. The borrower later goes into 
+default on the first mortgage loan and negotiates with the loan servicer to modify the loan. 
+Modifications include an extension of the maturity date of the loan by three years, a reduction in 
+the interest rate on the loan for two years, the capitalization of unpaid interest, and the addition 
+of an escrow requirement for taxes and insurance. The first lien lender retains its priority as 
+against the home equity loan because the modifications are all within the safe harbor. 
+Recordation of a modification agreement is not necessary to retain priority. 
+  d. Example 4: A lender makes a construction loan in the principal amount of 
+$100,000 secured by a mortgage. The loan agreement lists conditions which must be satisfied 
+before each advance of funds. The lender agrees to waive one of the conditions to an advance so 
+that construction may continue. The lender retains its priority as against any mechanic’s liens 
+because the waiver of the condition is within the safe harbor list. Recordation of a modification 
+agreement is not necessary to retain priority. 
+  e. Example 5: A lender makes a construction loan in the principal amount of 
+$100,000 secured by a mortgage with a floating interest rate based on an index. Because of a 
+dispute with a subcontractor, the subcontractor has filed a mechanic’s lien, which is subordinate 
+to the lender’s construction loan. After construction is complete, the parties negotiate to extend 
+the maturity of the loan by five years, to fix the interest rate at a rate that is 1% lower than the 
+floating rate on the date of the closing of the modification, and to add financial covenants. The 
+promissory note is restated with only the listed modifications. The lender retains its priority as 
+against the mechanic’s liens because the modifications are all within the safe harbor list. 
+Recordation of a modification agreement is not necessary to retain priority. If the lender elects to 
+record the modification agreement to reflect the change in the loan from a construction loan to a 
+permanent loan, the recordation does not affect the lender’s retention of its priority. 
+  f. Example 6: A lender makes a loan evidenced by a promissory note in the 
+principal amount of $100,000 secured by a mortgage. The interest rate on the loan is fixed at 7%
+
+17 
+per annum. A creditor obtains a judgment lien against the mortgaged property. The borrower and 
+lender subsequently agree to change the interest rate to 1% above SOFR. On the date that the 
+modification becomes effective, the interest rate calculated as 1% above SOFR is less than 7%. 
+Because the modification of the interest rate is within the safe harbor list, the lender retains its 
+priority as against the judgment lien creditor.   
+g. Example 7: A lender makes a loan evidenced by a promissory note in the 
+principal amount of $100,000 secured by a mortgage. A creditor subsequently obtains a 
+judgment lien against the mortgaged property. The borrower is in financial distress, and the 
+borrower and lender negotiate numerous modifications to the loan. Some of the modifications are 
+within the safe harbor list and others are not. If a court determines that the modifications not 
+within the safe harbor are not materially prejudicial to the judgment lien creditor, the lender 
+retains its priority under common law. 
+h. Example 8: A lender makes a loan evidenced by a promissory note in the 
+principal amount of $100,000 secured by a mortgage. A creditor subsequently obtains a 
+judgment lien against the mortgaged property. The loan is assigned to a new lender, and in 
+connection with the assignment, the interest rate of the loan is reduced and the maturity of the 
+loan is extended. Because the interest rate reduction and extension of maturity are within the safe 
+harbor, the lender retains its priority under the act. Because an assignment of a mortgage loan 
+does not affect its priority, the lender retains its priority under common law. 
+i. Example 9: A lender makes a loan evidenced by a promissory note in the 
+principal amount of $100,000 secured by a mortgage on the borrower’s home. The borrower 
+subsequently obtains a home equity loan in the amount of $20,000. The borrower later goes into 
+default on the first mortgage loan and negotiates with the loan servicer to modify the loan. The 
+lender splits the loan into two parts with one part bearing an increased interest rate and the other 
+part bearing no interest. These changes result in lower payments, and the total amount of interest 
+that the borrower is paying on both parts of the loan is less than the amount of interest before the 
+modification. This modification is a reduction in the interest rate on the loan, and the lender 
+retains its priority under the act. 
+Section 5. Uniformity of Application and Construction 
+In applying and construing this uniform act, a court shall consider the promotion of 
+uniformity of the law among jurisdictions that enact it. 
+Section 6. Relation to Electronic Signatures in Global and National Commerce Act   
+This [act] modifies, limits, or supersedes the Electronic Signatures in Global and National 
+Commerce Act, 15 U.S.C. Section 7001 et seq.[, as amended], but does not modify, limit, or 
+supersede 15 U.S.C. Section 7001(c), or authorize electronic delivery of any of the notices
+
+18 
+described in 15 U.S.C. Section 7003(b). 
+Legislative Note: It is the intent of this act to incorporate future amendments to the cited federal 
+law. A state in which the constitution or other law does not permit incorporation of future 
+amendments when a federal statute is incorporated into state law should omit the phrase “, as 
+amended”. A state in which, in the absence of a legislative declaration, future amendments are 
+incorporated into state law also should omit the phrase. 
+Comment 
+The federal Electronic Signatures in Global and National Commerce Act, popularly 
+known as “E-Sign”, was adopted in 2000 to facilitate the use of electronic records and signatures 
+in commercial transactions. Subject to exceptions not relevant here, E-Sign mandates the 
+acceptance of electronic contracts and electronic signatures in interstate or foreign commerce. It 
+largely tracks the Uniform Electronic Transactions Act, adopted by the ULC in 1999, but 
+includes consumer consent provisions and prohibits state law from giving greater legal effect to 
+any specific technology or technical specification.  Under Section 102 of E-Sign, state legislation 
+attempting to regulate electronic records and signatures can opt out of federal preemption, 
+allowing some modification to the federal law, so long as the State treats the records or 
+signatures consistent with E-Sign.  In order to take advantage of the exception to preemption, the 
+state law must take specific reference to E-Sign as provided in Section 6.  See 15 U.S.C. Section 
+7002(a)(2)(B). 
+Section 7. Transitional Provision 
+This [act] applies to a mortgage modification made on or after [the effective date of this 
+[act]] regardless of when the mortgage or the obligation was created. 
+Comment 
+1. Prospective application. The act applies prospectively to mortgage modifications that 
+occur on or after the effective date of the act. It does not apply retroactively to modifications that 
+occurred before the effective date of the act. The act can apply to a modification made to the 
+terms of a mortgage created before the effective date of the act or to an agreement that creates, 
+secures, or provides credit enhancement for an obligation that was created before the effective 
+date of the act as long as the modification occurs after the effective date of the act.   
+2. Example: At the time that the act becomes effective, A has a first mortgage, and B has 
+a second mortgage on a borrower’s property. After the effective date of the act, A and the 
+borrower modify the first mortgage loan to extend its maturity. The act applies, and A does not 
+lose priority.  
+[Section 8. Severability 
+If a provision of this [act] or its application to a person or circumstance is held invalid,
+
+19 
+the invalidity does not affect another provision or application that can be given effect without the 
+invalid provision.] 
+Legislative Note: Include this section only if the state lacks a general severability statute or a 
+decision by the highest court of the state stating a general rule of severability. 
+Section 9. Effective Date 
+This [act] takes effect . . .

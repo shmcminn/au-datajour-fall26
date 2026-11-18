@@ -1,0 +1,193 @@
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+May 6, 2025 
+ 
+Nyasha Howard 
+Secretary to the Council 
+Council of the District of Columbia 
+1350 Pennsylvania Avenue, NW 
+Washington, D.C. 20004 
+ 
+Secretary Howard: 
+ 
+Today, along with Councilmembers Lewis George, McDuffie, Nadeau, Parker, and Robert White, I am 
+introducing the “Automatic Enrollment for Utility Affordability Programs Act of 2025.” Please find 
+enclosed a signed copy of the legislation. 
+ 
+Rising utility costs have a severe impact on District residents. From 2000 to 2019, the average District 
+resident’s electricity bill increased by over 75%—from approximately $55 to $98.1 Now, for one-
+quarter of low-income households in the DC Metropolitan Area, energy expenses account for nearly 
+16% of their income.2 This is more than four times higher than the median energy burden for other 
+customers.3 Higher utility rates can exacerbate existing financial burdens for residents, many of 
+whom are already struggling to keep pace with rising costs in the District.  
+ 
+Households that are unable to keep up with energy bills eventually experience service 
+disconnections, losing access to essential services like power and water. In 2024 alone, Pepco 
+reported to the D.C. Public Service Commission that it issued disconnection notices to almost 40,000 
+low-income residential customers.4 Increased costs of living generally, especially for communities of 
+ 
+1 Ariel Drehoble et al., An Examination of District Residents’ Experiences with Utility Burdens and Affordability 
+Programs, at 5, AMERICAN COUNCIL FOR AN ENERGY EFFICIENT ECONOMY, https://doee.dc.gov/sites/default/files/
+dc/sites/ddoe/service_content/attachments/Report_An%20Examination%20of%20District%20Residents%E2%80%
+99%20Experiences%20with%20Utility%20Burdens%20and%20Affordability%20Programs.pdf.  
+2 Roxana Ayala & Amanda Dewey, Data Update: City Energy Burdens, at 3–4, AMERICAN COUNCIL FOR AN ENERGY 
+EFFICIENT ECONOMY, https://www.aceee.org/policy-brief/2024/09/data-update-city-energy-burdens  
+3 Id. at 4.  
+4 Pepco, Information on Disconnections for Non-Payment (updated January 21, 2025), 
+https://edocket.dcpsc.org/apis/api/Filing/download?attachId=217324&guidFileName=da131ed2-3c90-465d-9dde-
+083ac4dfaecc.pdf.
+
+2 
+ 
+color, has caused District residents to struggle to afford basic necessities—resulting in worse health 
+and financial outcomes.5  
+ 
+The Department of Energy and Environment (“DOEE”) administers several utility affordability 
+programs that help District residents with their utility bills, including the Low Income Home Energy 
+Assistance Program, the Utility Discount Programs, the Weatherization Assistance Program, and the 
+Clean Rivers Impervious Area Charge Residential Relief Program. Generally, enrollment in each of 
+these programs requires residents to submit an individual application and demonstrate that they 
+meet certain income restrictions. DOEE, to its credit, often refers residents enrolled in one of its utility 
+affordability programs to its other programs, helping residents take full advantage of all the benefits 
+offered by the agency. But, despite rising utility costs, the reality is that we aren’t reaching enough 
+people with the solutions we already have available because the process to enroll is too cumbersome 
+or they may simply be unaware of the assistance they could receive. This bill would change that.  
+ 
+To ensure that all households receive the utility assistance available to them, this bill would require 
+that DOEE launch a system through which it can automatically enroll qualifying households in its 
+utility affordability programs. Specifically, the bill requires that the Department of Human Services 
+(“DHS”) and the Department of Health Care Finance (“DHCF”) provide DOEE with enrollment data for 
+any income-qualified programs administered by those agencies, including SNAP, TANF, and Medicaid. 
+DOEE would use this information to enroll households in its own utility affordability programs. To 
+protect individual privacy, the bill requires that households affirmatively consent to have their 
+information shared by DHS or DHCF with DOEE for the purposes of automatic enrollment, and any 
+information shared would be limited to that purpose, absent explicit consent from the household. 
+The bill also requires that households that have been automatically enrolled receive notice of their 
+enrollment, the date they can expect to receive the benefit, and the amount they will receive. 
+Providing a transparent and efficient enrollment process will allow residents to maximize savings and 
+reduce energy burdens. 
+ 
+Low-income households experience the highest energy burdens in the District and will benefit the 
+most from this automatic enrollment system. By creating a system that, when completely 
+implemented, automatically enrolls low-income households in income-based assistance programs, 
+the District government can ease the burdens caused by rising utility bill costs and streamline the 
+process for getting help.  
+ 
+ 
+Sincerely, 
+ 
+ 
+ 
+Councilmember Charles Allen, Ward 6 
+Chairperson, Committee on Transportation & the Environment 
+ 
+5 Stephen Woolf et al., Uneven Opportunities: How Conditions for Wellness Vary across the Metropolitan 
+Washington Region, VIRGINIA COMMONWEALTH UNIVERSITY CENTER ON SOCIETY AND HEALTH, (October 26, 2018), 
+https://mwcog.org/documents/2020/10/26/uneven-opportunities-how-conditions-for-wellness-vary-across-the-
+metropolitan-washington-region-health-health-data
+
+1 
+_____________________________       ______________________________ 1 
+Councilmember Janeese Lewis George                                            Councilmember Charles Allen    2 
+        3 
+ 4 
+_____________________________  ______________________________ 5 
+Councilmember Kenyan R. McDuffie                 Councilmember Brianne K. Nadeau                                       6 
+ 7 
+ 8 
+_____________________________  _____________________________ 9 
+Councilmember Zachary Parker     Councilmember Robert C. White, Jr. 10 
+ 11 
+ 12 
+ 13 
+A BILL 14 
+  15 
+________  16 
+  17 
+ 18 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA  19 
+ 20 
+_________________________  21 
+  22 
+  23 
+To require that the Department of Energy and Environment create a system through which it 24 
+automatically enrolls District residents into income-qualified utility affordability 25 
+programs.  26 
+  27 
+ BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 28 
+act may be cited as the “Automatic Enrollment for Utility Affordability Programs Act of 2025”.  29 
+ (a) Notwithstanding any other provision of law, upon request by the Department of Energy 30 
+and Environment (“DOEE”) for the purposes described in subsections (b) and (c), the following 31 
+agencies shall provide, or cause to be provided, the information listed below to DOEE, including 32 
+personal identifying information: 33 
+  (1) For the Department of Human Services (“DHS”), enrollment data from 34 
+households participating in any program administered by DHS, the eligibility of which is based on 35 
+household income, including the District’s Temporary Assistance for Needy Families (“TANF”) 36
+
+2 
+Program, Supplemental Nutrition Assistance Program (“SNAP”), or the Special Supplemental 37 
+Nutrition Program for Women, Infants and Children (“WIC”); and 38 
+  (2) For the Department of Health Care Finance (“DHCF”), enrollment data for 39 
+households participating in any program administered by DHCF, the eligibility of which is based 40 
+on household income, including Medicaid.  41 
+ (b)(1) DOEE, in consultation with the Public Service Commission and the Office of 42 
+People’s Counsel, shall launch a system for automatically enrolling eligible households in DOEE’s 43 
+income-qualified utility affordability programs within one year of the effective date of this act.  44 
+  (2) If funds are not available to automatically enroll all eligible households, DOEE 45 
+may prioritize automatic enrollment for households in the following order of need:   46 
+   (A) Low-income households experiencing severe energy burden; 47 
+   (B)  Low-income households experiencing high energy burden; and 48 
+   (C) Low-income households.  49 
+  (3) DOEE may prioritize which of its utility affordability programs into which it 50 
+automatically enrolls households.  51 
+ (c)(1) DOEE shall use the information obtained as described in subsection (a) to 52 
+automatically enroll eligible household using the system launched pursuant to subsection (b)(1). 53 
+  (2) The system developed pursuant to subsection (b)(1) shall: 54 
+   (A) Require affirmative consent from a member of the household prior to 55 
+automatically enrolling that household, in a manner  to be determined by the Mayor;  56 
+   (B) Allow households to decline, opt out, or withdraw from automatic 57 
+enrollment at any time;  58
+
+3 
+   (C) Include a data-sharing protocol that ensures that individuals’ personal 59 
+identifying information, including the individual’s name, account number, service address, phone 60 
+number, shall not be shared for purposes other than automatic enrollment in utility affordability 61 
+programs without the individual’s affirmative consent; and  62 
+   (D) No later than 60 days after enrolling an eligible household pursuant to 63 
+subsection (c)(1), inform the household: 64 
+    (i) That the household has been automatically enrolled in utility 65 
+affordability programs; 66 
+    (ii) The anticipated date by which the household will begin receiving 67 
+benefits through the utility affordability program in which the household was enrolled; and   68 
+    (iii) What the anticipated monthly benefits will be through the utility 69 
+affordability program.  70 
+  (4) If the development of a new, or updates to an existing, case management system 71 
+or information technology management system are needed to implement the requirements of this 72 
+subsection, DOEE shall endeavor to develop or update that system in a way that allows for other 73 
+District agencies to: 74 
+   (A) Input information related to household income obtained from sources 75 
+other than those listed in subsection (a) of this section; and  76 
+   (B) Automatically enroll households into income-qualified programs 77 
+administered by District agencies other than those specified in subsection (b)(1) of this section.  78 
+ Sec. 3. Fiscal impact statement.  79
+
+4 
+ The Council adopts the fiscal impact statement in the committee report as the fiscal impact 80 
+statement required by section 4a of the General Legislative Procedures Act of 1975, approved 81 
+October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).  82 
+ Sec. 4. Effective date.  83 
+ This act shall take effect after approval by the Mayor (or in the event of veto by the Mayor, 84 
+action by the Council to override the veto), a 30-day period of congressional review as provided 85 
+in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 86 
+Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of Columbia 87 
+Register.  88

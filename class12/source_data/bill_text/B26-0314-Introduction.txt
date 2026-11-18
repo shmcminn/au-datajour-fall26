@@ -1,0 +1,869 @@
+Statement of Introduction 
+Local News Funding Act of 2025 
+July 3, 2025 
+Today, alongside Councilmember Nadeau, I am introducing the Local News Funding Act of 
+2025, legislation that addresses the challenges facing local journalism in the District. 
+This bill represents a re-introduction of legislation from the previous Council period with no 
+changes. The Washington Post's paid average daily circulation has declined to 97,000 readers, 
+down from 250,000 five years ago. This Sunday marked the end of the Post's dedicated Metro 
+section for local readers, as the paper merged its Metro, Sports, and Style sections. This 
+reduction reflects the broader challenges facing local journalism. 
+The Local News Funding Act creates a system where residents decide which news outlets 
+receive public grants through "news coupons." Each registered voter receives five news coupons 
+through a secure online system that can be allocated to any news outlet registered with a new 
+Community Journalism Board. Each coupon represents a fraction of the total grant funding 
+available. If more residents allocate coupons to a particular outlet, that outlet receives a larger 
+share of the funding. 
+To participate, news outlets must register with the Board and meet basic requirements: reporting 
+news as their primary activity, making local news available for free to District residents, clearly 
+distinguishing news from advertising, and disclosing their ownership structure. Grant recipients 
+could include local sections of newspapers, community-focused outlets, radio stations, 
+podcasters, independent journalists, and digital platforms. 
+The bill allocates 0.1% of the District's general fund budget, approximately $11.6 million based 
+on FY25 figures, for this program. The legislation also establishes a Community Journalism 
+Board to administer the program and provide development grants for technical support and 
+training. 
+Local journalism plays an important role in keeping communities informed about local 
+government, schools, and issues that affect residents' daily lives. This legislation allows residents 
+to support the local news sources they find valuable while helping sustain local journalism.  
+I look forward to working with my colleagues on this approach to supporting local news in the 
+District.
+
+1  
+1 
+2     ___________________________________ 
+3     Councilmember Brianne K. Nadeau 
+4 
+5 
+6 
+7 
+8 A BILL 
+9 
+10 
+11  
+12 
+13 
+14 IN THE COUNCIL OF THE DISTRICT OF COLUMBIA 
+15 
+16  
+17 
+18 To authorize and provide for the issuance of grants to local news outlets through the creation of a 
+19 system of coupons that may be allocated by registered voters to the news outlets of their 
+20 choice, to establish registration and eligibility requirements for news outlets to participate 
+21 in the grant program, to require each news outlet to hold grant funds in a separate account 
+22 pending their expenditure, to create a statutory lien on the separate account in favor of the 
+23 District to secure the news outlet’s obligation to comply with this act, to establish the 
+24 Community Journalism Board as an independent executive branch agency to administer 
+25 the provisions of this act, to authorize (subject to appropriations) the dedication of 0.1% of 
+26 the District’s General Fund budget to fund the news coupon grant program, and to further 
+27 authorize the Board to issue journalism development grants to support training and 
+28 technical assistance to news outlets and individuals; and to make conforming changes. 
+29 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 
+ 
+30 act may be cited as the “Local News Funding Act of 2025”. 
+ 
+31 TITLE I. NEWS OUTLET GRANT PROGRAM. 
+ 
+32 Sec. 101. Definitions. 
+ 
+33 For purposes of this title, the term: 
+ 
+34 (1) “Board” means the Community Journalism Board established by section 114 
+35 of this title. 
+36 (2) “District employee” means: 
+ 
+   
+Councilmember Janeese Lewis George
+
+2  
+37 (A) Any individual paid by the District government, or an instrumentality 
+ 
+38 of the District, from appropriated funds for his or her services or holding office in the District, 
+ 
+39 other than employees of the District of Columbia courts; or 
+ 
+40 (B) A member of a board or commission who was nominated for a 
+ 
+41 position pursuant to section 2(e) or (f) of the Confirmation Act of 1978, effective March 3, 1979 
+ 
+42 (D.C. Law 2-142; D.C. Official Code § 1-523.01(e), (f)) or who was appointed by the Council. 
+ 
+43 (3) “Donation” means a private gift of money or property to a news outlet and 
+44 excludes the allocation or redemption of a news coupon. 
+45 (4) “Entity” means a person within the meaning of section 2 of the General 
+46 Legislative Procedures Act of 1975, effective September 23, 1975 (D.C. Law 1-17; D.C. Official 
+47 Code § 1-301.45), other than an individual. 
+ 
+48  (5) “Governing person” means, with respect to an entity: 
+49  (A) A person who acts as the chief executive officer of the entity; 
+50  (B) A person who is an officer or member of the entity’s governing board; 
+51 or  
+52  (C) Any other person that may directly or indirectly exercise control of the 
+ 
+53 entity pursuant to its organizational documents, a contract, an arrangement, or an understanding 
+54 or relationship; provided, that the term shall not include a person with less than 10 percent of the 
+55 entity’s voting power. 
+56 (6) “Humanities council” means HumanitiesDC, or any successor humanities 
+57 council for the District that is designated as such in accordance with section 7 of the National 
+58 Foundation on the Arts and Humanities Act of 1965, approved September 29, 1965 (79 Stat. 850; 
+59 20 U.S. Code § 956).
+
+3  
+60 (7) “Local news” means original reporting on events, occurrences, and people for 
+ 
+61 the purpose of informing an audience about matters of interest to or significance for communities 
+ 
+62 within the District; provided, that the term shall not include reporting on professional sports or 
+ 
+63 marketing of a business owned by or affiliated with the publisher. 
+ 
+64 (8) “News coupon” means an instrument representing a unit fraction (where the 
+ 
+65 fraction’s denominator equals the total number of news coupons being redeemed at one time) of 
+ 
+66 the aggregate value of all redemption grants made at such time pursuant to section 111 of this 
+67 title. 
+68 (9) “News outlet” means a person residing or incorporated in the District that 
+69 publishes local news. 
+70 (10) “Owner” means a person who, with respect to an entity: 
+71 (A) Legally or beneficially owns at least 10 percent of the entity; or 
+72 (B) Has a right to receive at least 10 percent of the entity’s net income. 
+ 
+73 (11) “Patron” means the person in whose name a news coupon is issued. 
+ 
+74 (12) “Program account” means a separate deposit account that is subject to the 
+ 
+75 jurisdiction of the District and that is owned exclusively by a news outlet for the purpose of 
+ 
+76 holding program funds until their expenditure. 
+ 
+77 (13) “Program funds” means money deposited into a program account as a 
+ 
+78 redemption grant, together with all interest and investment proceeds attributable to such money. 
+ 
+79 (14) “Quarter” means a period of three calendar months ending on the last day of 
+ 
+80 March, June, September, or December. 
+ 
+81 (15) “Record date” means, with respect to any quarter, the 15th day of the last 
+ 
+82 calendar month in the quarter.
+
+4  
+83 (16) “Redemption date” means, with respect to any quarter, the last business day 
+ 
+84 of the quarter. 
+ 
+85 (17) “Redemption grant” means a grant from the District to a news outlet to 
+ 
+86 redeem a news coupon pursuant to section 111 of this title. 
+ 
+87 (18) “Registered voter” means a person who is registered to vote in local elections 
+ 
+88 pursuant to section 7 of the District of Columbia Election Code of 1955, approved August 12, 
+ 
+89 1955 (69 Stat. 699; D.C. Official Code § 1.1001.07). 
+90 (19) “Television” means video programming as defined in section 103 of the 
+91 Cable Television Communications Act of 1981, effective October 9, 2002 (D.C. Law 14-193; 
+92 D.C. Official Code § 34-1251.03); provided, that the term shall exclude video programming: 
+93 (A) On a noncommercial channel or station; or 
+94 (B) That is produced for distribution solely via the internet. 
+95 Sec. 102. Establishment of Local News Grant Program; eligibility criteria. 
+ 
+96 (a) There is established a Local News Grant Program, to be administered by the Board, to 
+ 
+97 grant money to news outlets that report and publish local news. The recipient and amount of each 
+ 
+98 grant shall be determined through a system of “news coupons” that allow registered voters to 
+ 
+99 allocate grants to the registered news outlets of their choice, as more particularly described in 
+ 
+100 this title. 
+ 
+101 (b) To be eligible to receive redemption grants and funding under this title, a news outlet 
+ 
+102 shall: 
+ 
+103 (1) Register with the Board as provided in section 103; 
+ 
+104 (2) Agree to meet requirements relating to news reporting and disclosure, as set 
+ 
+105 forth in section 104, and the use of program funds, as set forth in section 105;
+
+5  
+106 (3) Meet the participation requirement set forth in section 106; and 
+ 
+107 (4) Not be otherwise disqualified by the Board. 
+ 
+108 Sec. 103. Registration. 
+ 
+109 (a) A news outlet shall register with the Board before any news coupons may be allocated 
+ 
+110 to it. A news outlet shall maintain its registration as a condition of receiving funding through 
+ 
+111 redemption grants pursuant to this title. 
+ 
+112 (b) To register or renew its registration, a news outlet shall submit to the Board an 
+113 application setting forth the following information: 
+114 (1) Its legal name and principal office in the District; 
+115 (2) A statement indicating whether the news outlet is a for-profit entity, a non- 
+116 profit entity, or a sole proprietorship; 
+117 (3) Its owners, if applicable; provided, that if a news outlet has more than three 
+118 owners, the news outlet shall submit an organizational chart depicting the complete corporate 
+ 
+119 ownership structure of the entities; 
+ 
+120 (4) Its governing persons, unless the news outlet is an individual; 
+ 
+121 (5) The medium or media in which the news outlet publishes local news; 
+ 
+122 (6) A brief statement indicating whether the news outlet has adopted written 
+ 
+123 standards regarding editorial independence, correcting errors in reporting, and labeling 
+ 
+124 commentary and, if so, whether such standards are publicly available; and 
+ 
+125 (7) Other information and agreements that the Board may require of registrants. 
+ 
+126 (c) In addition, a news outlet registering for the first time shall: 
+ 
+127 (1) Indicate the name of the bank or other depository institution that is expected to 
+ 
+128 hold the program account required by section 112;
+
+6  
+129 (2) Acknowledge that: 
+ 
+130 (A) The news outlet shall hold redemption grants as program funds in the 
+ 
+131 program account until their expenditure, that the District shall hold a security interest in the 
+ 
+132 program account, and that the District may seize control of the program account as provided in 
+ 
+133 section 112 and a deposit account control agreement; and 
+ 
+134 (B) Redemption grants may result in taxable income to the news outlet; 
+ 
+135 and 
+136 (d) The form of application shall be determined by the Board. 
+137 (e) Registration shall be complete when the Board issues a notice to the news outlet that 
+138 its application meets all applicable requirements; provided, that no application or registration fee 
+139 shall be charged by the Board. 
+140 (f)(1) A news outlet shall renew its registration each year in accordance with procedures 
+141 that may be adopted by the Board. An application for renewal shall include up-to-date 
+ 
+142 information required under subsection (b) of this section and a statement of transactions 
+ 
+143 involving the program account. 
+ 
+144 (2) The Board may provisionally renew the registration of a news outlet that has 
+ 
+145 applied for renewal before the end of its registration period; provided, that if the renewal 
+ 
+146 application discloses violations of this title, the Board may order correction of the violations or 
+ 
+147 an appropriate sanction pursuant to section 113. 
+ 
+148 Sec. 104. News reporting. 
+ 
+149 (a) A registered news outlet shall: 
+ 
+150 (1) Engage in reporting on news events as its primary activity; 
+ 
+151 (2) Make its local news content accessible to District residents for free;
+
+7  
+152 (3) Clearly distinguish advertising (including sponsored content) from local news 
+ 
+153 content, if the news outlet receives revenue from advertising; and 
+ 
+154 (4) Notify the Board within 7 days of any change to the list of owners or 
+ 
+155 governing persons of the news outlet. 
+ 
+156 (b) A news outlet may make its local news content accessible to District residents for free 
+ 
+157 by: 
+ 
+158 (1) Charging no fee for publications containing local news paid for with program 
+159 funds, or 
+160 (2) Publishing local news on the internet without a paywall or granting District 
+161 residents no-cost credentials to access local news that is otherwise behind a paywall; provided, 
+162 that a news outlet may charge District residents to access content other than local news paid for 
+163 with program funds. 
+164 (c) Subject to the requirements of this title, an eligible news outlet may: 
+ 
+165 (1) Report local news in a publication that also contains other content; 
+ 
+166 (2) Request a patron to allocate a news coupon and explain how to allocate a news 
+ 
+167 coupon to a news outlet; 
+ 
+168 (3) Solicit or accept a subscription or fee for the news outlet’s publications; 
+ 
+169 (4) Solicit or accept a donation, and give a gift in recognition of a donation; and 
+ 
+170 (5) Participate in any other lawful transaction that does not involve news coupons. 
+ 
+171 Sec. 105. Program funds. 
+ 
+172 (a) A news outlet receiving program funds shall: 
+ 
+173 (1) Use program funds to pay, or reimburse the news outlet for, the reasonable 
+ 
+174 costs of reporting and publishing local news in any medium except television;
+
+8  
+175 (2) Establish and maintain a program account and shall deposit and keep all 
+ 
+176 program funds in the program account until their expenditure; 
+ 
+177 (3) Not commingle program funds with money or property from any other source; 
+ 
+178 (4) Maintain accurate records accounting for the receipt and expenditure of all 
+ 
+179 program funds, together with any interest earned or investment proceeds, in sufficient detail to 
+ 
+180 demonstrate compliance with this section and any rules issued by the Board to implement this 
+ 
+181 section; and 
+182 (5) Notify the Board within 2 business days if the program account is closed, a 
+183 new program account is established, or the name of the depository institution holding the 
+184 program account is changed. 
+185 (b) Prior to the payment of any redemption grant, and at all times during which any 
+186 program funds remain in a program account, there shall be in effect a deposit account control 
+187 agreement described in section 112. 
+ 
+188 Sec. 106. Participation requirement. 
+ 
+189 (a) A registered news outlet meets the participation requirement for any quarter if the 
+ 
+190 news outlet is the valid recipient of at least 250 news coupons in the quarter. 
+ 
+191 (b) The Board shall notify a news outlet when it meets the participation requirement for a 
+ 
+192 quarter or when, having met the participation requirement in the immediately preceding quarter, 
+ 
+193 it has not yet met the participation requirement for a quarter. 
+ 
+194 Sec. 107. Secure online system. 
+ 
+195 (a) The Board shall establish and maintain a secure online system to effectuate and record 
+ 
+196 the issuance, allocation, and redemption of news coupons. 
+ 
+197 (b) The secure online system shall associate with each news coupon:
+
+9  
+198  (1) The unique identification number of the news coupon; 
+199  (2) The patron of the news coupon or an identification number assigned to the 
+200 patron;  
+201  (3) The calendar year for which the news coupon is issued; and 
+202  (4) The recipient of the news coupon in each quarter. 
+203  (c) The Board shall make available to users of the secure online system information 
+ 
+204 regarding each registered news outlet, including: 
+ 
+205 
+  
+(1) A summary statement, not exceeding 250 words, written about and by the 
+206 news outlet;  
+207  (2) The medium or media in which the news outlet publishes local news; 
+208  (3) A statement indicating whether the news outlet is a for-profit entity, a 
+ 
+209 nonprofit entity, or a sole proprietorship; 
+ 
+210 (4) A list of the owners and governing persons of the news outlet, to the extent 
+ 
+211 applicable; and 
+ 
+212 (5) A summary of financial activity for the news outlet’s program account in the 
+ 
+213 previous two years, if applicable. 
+ 
+214 (d) The Board shall provide effective access to the secure online system to patrons and 
+ 
+215 news outlets, regardless of disability or native language. 
+216 (e) A copy of data maintained in the secure online system shall be subject to public 
+217 disclosure as provided in District law. 
+218 Sec. 108. Issuance of news coupons.
+
+10  
+219 (a) By the first business day of each calendar year, the Board shall issue 5 news coupons 
+ 
+220 in the name of each person who was a registered voter as of the preceding December 1st, except 
+ 
+221 as provided in subsection (d) of this section. 
+ 
+222 (b) The Board shall promptly issue 5 news coupons in the name of each person who 
+ 
+223 becomes a newly registered voter in the District. 
+ 
+224 (c) The Board shall cancel any news coupons that have been issued in the name of any 
+ 
+225 person who ceases to be a registered voter in the District; provided, that a news coupon shall not 
+226 be canceled if it has been redeemed or irrevocably allocated. 
+227 (d)(1) The Board shall issue news coupons in the name of a registered voter whose 
+228 mailed ballot was returned as undeliverable in the most recent general election only upon receipt 
+229 of a certificate described in this subsection. 
+230 (2) The certificate shall contain the person’s oath or solemn affirmation that: 
+231 (A) The person resides in the District and no other place; and 
+ 
+232 (B) The person’s current mailing address appears correctly in the District’s 
+ 
+233 voter registration records, or the person has provided a corrected mailing address for inclusion in 
+ 
+234 the voter registration records. 
+ 
+235 (3) The certificate may be executed and delivered electronically through the 
+ 
+236 secure online system or by any other method accepted by the Board. 
+ 
+237 (4) Upon the person’s delivery of the certificate, the Board shall in subsequent 
+ 
+238 years issue news coupons in the name of the person pursuant to subsection (a) of this section, 
+ 
+239 unless the person’s mailed ballot is returned as undeliverable in a subsequent general election. 
+ 
+240 (e) Upon issuance, a news voucher shall not be negotiated or otherwise transferred to any 
+ 
+241 person, except as provided in section 109.
+
+11  
+242 Sec. 109. Allocation of news coupons. 
+ 
+243 (a) A news coupon may be allocated as provided in this section; provided, that an 
+ 
+244 allocation inconsistent with this section shall be deemed void. 
+ 
+245 (b) A news coupon may be allocated only by its patron and only to a registered news 
+ 
+246 outlet. A news coupon shall not be allocated by a proxy, attorney-in-fact, or agent acting for the 
+ 
+247 patron, except as provided in subsection (c)(2) of this section. 
+ 
+248 (c)(1) A news coupon shall be allocated through the secure online system. 
+249 (2) The Board shall permit a patron to provide instructions to the Board, in 
+250 writing or in person, regarding the allocation of news coupons that have been issued in the 
+251 patron’s name. The Board shall promptly give effect to such instructions to the fullest extent 
+252 practicable. 
+253 (d) A patron may allocate to the same news outlet any whole number of news coupons 
+254 that have been issued in the patron’s name. A patron may elect to continue an allocation into 
+ 
+255 subsequent quarters or to revoke an allocation at the end of a quarter. 
+ 
+256 (e) The allocation of a news coupon shall be irrevocable with respect to a quarter that has 
+ 
+257 begun, but a news coupon may be reallocated with respect to any upcoming quarter in the 
+ 
+258 calendar year for which the news coupon is issued. 
+ 
+259 Sec. 110. Prohibited use of news coupons. 
+ 
+260 (a) No person shall: 
+ 
+261 (1) Buy, sell, or barter a news coupon or a license to allocate a news coupon, or 
+ 
+262 offer to do so; or 
+ 
+263 (2) Give or receive cash or anything of value in connection with the allocation of 
+ 
+264 a news coupon.
+
+12  
+265 (b) A District employee may allocate a news coupon; provided, that a District employee 
+ 
+266 shall not: 
+ 
+267 (1) Use his or her official authority or influence for the purpose of promoting or 
+ 
+268 discouraging the allocation of news coupons to a particular news outlet; 
+ 
+269 (2) Direct, or knowingly permit another person to direct, a subordinate to allocate 
+ 
+270 or not allocate news coupons to a particular news outlet; or 
+ 
+271 (3) Be an owner or governing person of a registered news outlet, or be a registered 
+272 news outlet in a personal capacity. 
+273 Sec. 111. Redemption of news coupons. 
+274 (a) As provided in this section, the Board shall on a quarterly basis redeem all news 
+275 coupons that were allocated by the record date to any eligible news outlet. 
+276 (b) By 2 business days after the record date, the Board shall publish and send to each 
+277 registered news outlet a redemption notice that sets forth, for the quarter: 
+ 
+278  (1) The number of news coupons that were allocated to all registered news 
+279 outlets;  
+280  (2) The number of news coupons that were allocated to each eligible news outlet; 
+281  (3) The number of news coupons that were allocated to news outlets that were 
+ 
+282 disqualified or not eligible; 
+283 (4) The recipient and amount in dollars of each redemption grant, and the value of 
+284 the news coupons that were redeemed, calculated in accordance with subsection (c); and 
+285 (5) The redemption date. 
+286 (c)(1) On the redemption date, the Board shall cause to be delivered to each eligible news 
+287 outlet a redemption grant in an amount calculated as (A) one-quarter of the annual appropriation
+
+13  
+288 for redemption grants in the fiscal year of the quarter, multiplied by (B) the number of news 
+ 
+289 coupons that were allocated by the record date to the news outlet, divided by (C) the number of 
+ 
+290 news coupons that were allocated by the record date to all eligible news outlets. 
+ 
+291 (2) For the purposes of the calculation set forth in this subsection: 
+ 
+292 (A) News coupons shall be disregarded if they were allocated to a news 
+ 
+293 outlet that is disqualified or ineligible, including for failure to meet the participation requirement 
+ 
+294 for the quarter; and 
+295 (B) The calculation shall be based on the figures appearing in the 
+296 redemption notice. The Board may issue a revised redemption notice to correct an error or if a 
+297 protest motion is granted in accordance with subsection (d). If a revised redemption notice is 
+298 issued, all earlier redemption notices for the quarter shall be revoked. 
+299 (d)(1) The redemption notice may be protested by any eligible news outlet that is 
+300 aggrieved by reason other than disqualification. Any protest shall be initiated within 3 business 
+ 
+301 days of publication of the redemption notice by filing a motion with the Board. The motion shall 
+ 
+302 set forth the basis for the protest and the additional amount that is claimed by the news outlet. 
+ 
+303 The Board shall cause a copy of the motion to be delivered to each eligible news outlet. 
+ 
+304 (2) Within 48 hours of the filing of the motion, any eligible news outlet may file a 
+ 
+305 response to the motion. 
+ 
+306 (3) The Board may hold a hearing on any or all issues necessary to decide a 
+ 
+307 motion. 
+ 
+308 (4) The Board shall decide the motion no later than 2 calendar days before the last 
+ 
+309 business day of the quarter. The Board may summarily deny the motion at any time after its
+
+14  
+310 filing, but the Board shall explain the reasons for a summary denial no later than 15 days after 
+ 
+311 the date of redemption. 
+ 
+312 (5) The Board may grant the motion no earlier than 48 hours after its filing or 24 
+ 
+313 hours after the filing of the latest timely response filed pursuant to paragraph (2), whichever is 
+ 
+314 less. 
+ 
+315 (6) For purposes of a motion filed under this subsection, information recorded in 
+ 
+316 the secure online system shall be presumed true and accurate, unless the Board finds otherwise 
+317 by clear and convincing evidence. 
+318 (e) Redemption grants shall be exempt from the requirements of the Grant Administration 
+319 Act of 2013, effective December 24, 2013 (Subtitle I-J of D.C. Law 20-61; D.C. Official Code 
+320 § 1-328.11 et seq.). 
+321 Sec. 112. Security interest in program account. 
+322 (a) Before the receipt of its first redemption grant, a news outlet shall execute a deposit 
+ 
+323 account control agreement with the depository institution in favor of the District, through the 
+ 
+324 Board, as secured party. The agreement shall create a security interest in the program account to 
+ 
+325 secure the news outlet’s obligation to comply with this title. 
+ 
+326 (b) The agreement shall permit the District, through the Board, to take control of the 
+ 
+327 program account while an event of default has occurred and is continuing, subject to reasonable 
+ 
+328 cure periods set forth in the agreement. 
+ 
+329 (c) The agreement shall manifest the news outlet’s consent to the filing of a financing 
+ 
+330 statement, and any modifications or continuation statements, to give notice of the District’s 
+ 
+331 security interest in the program account.
+
+15  
+332 (d) The District’s security interest in the program account shall be perfected upon 
+ 
+333 execution of the deposit account control agreement and shall have priority over all other liens of 
+ 
+334 any type whatsoever, except liens that may attach from time to time for federal, state, or District 
+ 
+335 taxes due. 
+ 
+336 (e) The Board shall file or cause to be filed a financing statement, and any modifications 
+ 
+337 or continuation statements, in accordance with the Uniform Commercial Code—Secured 
+ 
+338 Transactions, effective October 26, 2000 (D.C. Law 13-201; D.C. Official Code § 28:9-101 et 
+339 seq.), but no failure to file or defect in such statement shall affect the perfection or priority of the 
+340 District’s security interest in the program account. 
+341 (f) In the event that the District, through the Board, takes control of a program account, 
+342 amounts available in the program account shall be used to take any action necessary to comply 
+343 with this title or a Board order. 
+344 (g)(1) If a news outlet is disqualified, fails to renew its registration, or otherwise 
+ 
+345 terminates its participation in the public funding system established by this title, the Board shall 
+ 
+346 immediately exercise control of the program account pursuant to the deposit account control 
+ 
+347 agreement. 
+ 
+348 (2) During a period of such control, the Board shall permit expenditures from the 
+ 
+349 program account only for reasonable costs that were incurred in furtherance of the purposes of 
+ 
+350 this title prior to the Board’s assumption of control. 
+ 
+351 (3) If the duration of the control period exceeds 30 days, the Board or its designee 
+ 
+352 may in its discretion pay the balance of the program account to the General Fund of the District. 
+ 
+353 (h) When the Board has determined that all actions necessary to comply with this title or 
+ 
+354 its orders have occurred, the District shall:
+
+16  
+355 (1) Relinquish control of the program account, subject to the District’s right to 
+ 
+356 retake control in accordance with the deposit account control agreement; or 
+ 
+357 (2) If the news outlet has been disqualified from all future participation in the 
+ 
+358 program, the program account shall be closed. 
+ 
+359 (i) All parties to the deposit account control agreement shall accept jurisdiction in the 
+ 
+360 District of Columbia. District law shall govern the interpretation and enforcement of the 
+ 
+361 agreement. 
+362 (j) The District shall not be liable to any person for the debts or obligations of any 
+363 program account or news outlet. 
+364 Sec. 113. Community Journalism Board. 
+365 (a) There is established a Community Journalism Board as an independent body of the 
+366 executive branch to administer the provisions of this title. 
+367 (b) The Board shall have 7 members serving without compensation and appointed as 
+ 
+368 follows:  
+369  (1) One member shall be appointed by the Board of Elections; 
+370  (2) One member shall be appointed by the Board of Library Trustees; 
+371  (3) One member shall be appointed by the Commission on Arts and Humanities; 
+372  (4) One member, who shall have at least 5 years of professional experience as a 
+ 
+373 news reporter or editor, shall be nominated by the Mayor; 
+374 (5) One member, who shall have significant legal experience relating to the First 
+375 Amendment, shall be appointed by the Attorney General; 
+376 (6) One member shall be appointed by the State Board of Education; and 
+377 (7) One member shall be appointed by the humanities council.
+
+17  
+378 (c)(1) Each member of the Board shall be appointed to a 6-year term, except that the 
+ 
+379 initial term of the members appointed pursuant to subsection (b)(4), (5), (6), and (7) of this 
+ 
+380 section shall be 3 years. 
+ 
+381 (2) A member may continue to serve for up to 90 days beyond the expiration of 
+ 
+382 the member’s term, if no successor has been confirmed. 
+ 
+383 (d) A minimum of four members shall be necessary to establish a quorum. The Board 
+ 
+384 may adopt rules to govern its meetings; provided, that such rules shall not conflict with any 
+385 provision of this title or the Open Meetings Act, effective March 31, 2011 (D.C. Law 18-350; 
+386 D.C. Official Code § 2-571 et seq.). 
+387 (e) The Board shall select from its members a president and such other officers as it may 
+388 determine are necessary. The Board shall designate a secretary, who may be a member or an 
+389 employee of the Board. 
+390 (f) No member of the Board shall act in a personal capacity as a registered news outlet, be 
+ 
+391 an owner, governing person, or employee of a registered news outlet, or otherwise benefit 
+ 
+392 financially from any transaction or arrangement with a registered news outlet. 
+ 
+393 (g) No member of the Board shall act in a manner that displays improper favoritism 
+ 
+394 toward a news outlet or that compromises, or appears to compromise, the editorial independence 
+ 
+395 of a news outlet. 
+ 
+396 (h)(1) A member may be removed for good cause by a two-thirds vote of the Board’s 
+ 
+397 members. 
+ 
+398 (2) Members may be removed by their respective appointing authorities. 
+ 
+399 (3) A vacancy on the Board shall be filled by the appointing authority for the 
+ 
+400 remainder of the unexpired term.
+
+18  
+401 (i) The Board and its designees shall have the power: 
+ 
+402 (1) To require any news outlet that is registered or has applied to be registered to 
+ 
+403 submit, within a reasonable time, written reports or answers to questions as the Board may 
+ 
+404 consider necessary; 
+ 
+405 (2) To investigate alleged violations of this title in response to complaints or on 
+ 
+406 the Board’s initiative, and to convene evidentiary hearings and administer oaths and 
+ 
+407 affirmations; 
+408 (3) To compel by subpoena the deposition of witnesses or the production of 
+409 records if necessary to investigate an alleged violation of this title; 
+410 (4) To issue written findings and conclusions supporting a determination by the 
+411 Board of a violation of this title and, upon such a determination, to issue remedial orders, impose 
+412 fines, and disqualify for an appropriate period of time a news outlet or person from participating 
+413 in any way in the public funding system established by this title; provided, that a disqualification 
+ 
+414 order shall be issued only upon a two-thirds vote of the Board; 
+ 
+415 (5) To ensure compliance with this title and the Board’s orders by exercising 
+ 
+416 control of a program account pursuant to a deposit account control agreement; and 
+ 
+417 (6) In case of a failure or refusal to obey a subpoena or order issued by the Board, 
+ 
+418 to petition the Superior Court to punish such refusal as contempt. 
+ 
+419 (j) The Board may enter into contracts, hire employees, and delegate authority to 
+ 
+420 employees as may be necessary to carry out the purposes of this title, subject to appropriations 
+ 
+421 made for the Board’s operations. The District shall furnish to the Board such records, 
+ 
+422 information, services, facilities, and equipment as the Board may require to perform its 
+ 
+423 functions.
+
+19  
+424 (k) The Board may issue rules to carry out the provisions of this title, subject to the 
+ 
+425 provisions of An Act to prescribe administrative procedures for the District of Columbia 
+ 
+426 government, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 et seq.). 
+ 
+427 Sec. 114. Journalism development grants. 
+ 
+428 (a) The Board may award journalism development grants to organizations or individuals 
+ 
+429 providing training or technical assistance to news outlets. 
+ 
+430 (b) The Board may award one or more journalism development grants to the humanities 
+431 council, notwithstanding any provision of section 1094 of the Grant Administration Act of 2013, 
+432 effective December 24, 2013 (Subtitle I-J of D.C. Law 20-61; D.C. Official Code § 1-328.13). 
+433 Sec. 115. Authorization of appropriations; program implementation. 
+434 (a) Local funds and any other legally available sources are authorized to be appropriated 
+435 for redemption grants, journalism development funds, administrative expenses of the Board, and 
+436 any other expense of this title. 
+ 
+437 (b) After the inclusion of the fiscal effect of this title in an approved budget and financial 
+ 
+438 plan, the amount annually appropriated for redemption grants shall: 
+ 
+439 (1) Equal 0.1% (one-tenth of one percent) of General Fund appropriations for 
+ 
+440 operating expenditures in the District’s approved budget and financial plan for the immediately 
+ 
+441 preceding fiscal year, as of October 1 of such fiscal year; and 
+ 
+442 (2) Be clearly set forth in any budget that is proposed or adopted pursuant to 
+ 
+443 sections 442 and 446(a) of the Home Rule Act, approved December 24, 1973 (87 Stat. 798, 801; 
+ 
+444 D.C. Official Code §§ 1-204.42, .46(a)), excluding supplemental budgets that do not alter the 
+ 
+445 amount appropriated for redemption grants in the fiscal year.
+
+20  
+446 (c) Notwithstanding any other provision of this title, and only during the first fiscal year 
+ 
+447 of the Local News Grant Program: 
+ 
+448 (1) The costs of launching the program and developing the secure online system 
+ 
+449 shall be charged against the amount described in subsection (b)(1); and 
+ 
+450 (2) The Board may select any quarter in the fiscal year to launch the issuance of 
+ 
+451 news coupons and payment of redemption grants. 
+ 
+452 TITLE II. CONFORMING AMENDMENTS; APPLICABILITY; FISCAL 
+453 IMPACT; EFFECTIVE DATE. 
+454 Sec. 201. Section 2(e) of the Confirmation Act of 1978, effective March 3, 1979 (D.C. 
+455 Law 2-142; D.C. Official Code § 1-523.01(e)), is amended as follows: 
+456 (a) The penultimate paragraph is amended by striking the phrase “; and” and 
+457 inserting a semicolon in its place; 
+458 (b) The last paragraph is amended by striking the period at the end of the 
+ 
+459 paragraph and inserting the phrase “; and” in its place; and 
+ 
+460 (c) A new, sequentially numbered paragraph is added to read as follows: 
+ 
+461 “(XX) Members of the Community Journalism Board who are nominated by the 
+ 
+462 Mayor pursuant to section 113 of the Local News Funding Act of 2025 (Introduced version of 
+ 
+463 B26- ).”. 
+ 
+464 Sec. 202. Section 206(a) the District of Columbia Administrative Procedure Act, 
+ 
+465 effective March 29, 1977 (D.C. Law § 1-96; D.C. Official Code § 2-536(a)), is amended by 
+ 
+466 inserting a new paragraph (8B) to read as follows:
+
+21  
+467 “(8B) A copy, updated and published on a quarterly basis in a comma-separated 
+ 
+468 value format, of data described in section 107(b) of the Local News Funding Act of 2025 
+ 
+469 (Introduced version of B26- ).”. 
+ 
+470 Sec. 203. Section 5 of the Consumer Protection Procedures Act, effective July 22, 1976 
+ 
+471 (D.C. Law 1-76; D.C. Official Code § 28-3904), is amended as follows: 
+ 
+472 (a) Subsection (ll) is amended by striking the period at the end of the subsection 
+ 
+473 and inserting the phrase “; and” in its place. 
+474 (b) A new subsection (mm) is added to read as follows: 
+475 “(mm) Violate sections 109(b) or 110(a) of the Local News Funding Act of 2025 
+476 (Introduced version of B26- ), or make a false or misleading statement to induce the 
+477 allocation of a news coupon to a news outlet.”. 
+478 Sec. 204. Applicability. 
+479 (a) This act shall apply upon the date of inclusion of its fiscal effect in an approved 
+ 
+480 budget and financial plan. 
+ 
+481 (b) The Chief Financial Officer shall certify the date of inclusion of the fiscal effect in an 
+ 
+482 approved budget and financial plan, and provide notice to the Budget Director of the Council of 
+ 
+483 the certification. 
+ 
+484 (c)(1) The Budget Director shall cause the notice of the certification to be published in 
+ 
+485 the District of Columbia Register. 
+ 
+486 (2) The date of publication of the notice of the certification shall not affect the 
+ 
+487 applicability of this act. 
+ 
+488 Sec. 205. Fiscal impact statement.
+
+22  
+489 The Council adopts the fiscal impact statement in the committee report as the fiscal 
+ 
+490 impact statement required by section 4a of the General Legislative Procedures Act of 1975, 
+ 
+491 approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a). 
+ 
+492 Sec. 206. Effective date. 
+ 
+493 This act shall take effect following approval by the Mayor (or, in the event of veto by the 
+ 
+494 Mayor, action by the Council to override the veto), a 30-day period of congressional review as 
+ 
+495 provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 
+496 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).

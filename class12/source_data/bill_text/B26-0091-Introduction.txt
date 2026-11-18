@@ -1,0 +1,160 @@
+COUNCIL OF THE DISTRICT OF COLUMBIA
+The John A. Wilson Building 
+1350 Pennsylvania Avenue, nw 
+Washington, D.C. 20004 
+1 
+Statement of Introduction 
+Behavioral Health Voucher Transparency Amendment Act of 2025 
+January 29, 2025 
+Today, along with Councilmember Charles Allen, Councilmember Janeese Lewis George, 
+Councilmember Robert C. White, Jr., Councilmember Brooke Pinto, Councilmember Matthew 
+Frumin, and Councilmember Zachary Parker, I am introducing the Behavioral Health Voucher 
+Transparency Amendment Act of 2025. This bill seeks to streamline and improve the processing 
+of housing vouchers by creating a secure online portal and providing a standardized checklist for 
+applicants. By addressing delays, enhancing transparency, and offering user training, this bill 
+aims to improve housing stability and mental health outcomes for District residents in need. 
+These improvements build on successful strategies from other states like North Carolina, 
+ensuring that every step in the process is clear and accessible.  
+The bill responds to critical gaps in the voucher process at DBH. Clients and caseworkers 
+currently experience challenges navigating the necessary steps for processing vouchers and 
+accessing real-time status updates on document submissions. This lack of visibility often leads to 
+misunderstandings, document loss, and delays in securing stable housing. This bill will ensure 
+that each step in the process is clearly tracked, contributing to more efficient service delivery and 
+more housing stability for behavioral health clients. Specifically, this bill would: 
+• Create a portal that allows clients, caseworkers, and property managers to access real-
+time data on document submissions, which directly mirrors the real-time data tracking in 
+North Carolina.1
+• Mandate automated reminders for upcoming deadlines and pending tasks, ensuring 
+timely action from all parties involved.2
+• Create a standardized checklist outlining required documents, submission deadlines, and 
+responsibilities to simplify the application process.
+The Behavioral Health Voucher Transparency Amendment Act of 2025 builds on proven 
+strategies to improve efficiency, reduce delays, and prevent document loss. By standardizing 
+requirements and providing real-time tracking, this bill aims to create a more transparent and 
+1 NCDHHS, Child Behavioral Health Dashboard, https://www.ncdhhs.gov/divisions/child-and-
+family-well-being/whole-child-health-section/child-behavioral-health/child-behavioral-health-
+dashboard 
+2 Commonwealth of Massachusetts, Behavioral Health Dashboard, 
+https://www.chiamass.gov/behavioral-health-in-massachusetts/ 
+Christina Henderson Committee Member 
+Councilmember, At-Large Human Services 
+Chairperson, Committee on Health Facilities 
+Transportation and the Environment
+
+COUNCIL OF THE DISTRICT OF COLUMBIA
+The John A. Wilson Building 
+1350 Pennsylvania Avenue, nw 
+Washington, D.C. 20004 
+2 
+user-friendly process, ultimately promoting housing stability and better outcomes for District 
+residents. 
+I look forward to working with my colleagues and DBH to bring these essential improvements to 
+the district’s behavioral health services.
+
+___________________________ ______________________________ 1 
+Councilmember Charles Allen  Councilmember Christina Henderson 2 
+3 
+4 
+5 
+___________________________ ______________________________ 6 
+Councilmember Janeese Lewis George Councilmember Brooke Pinto 7 
+8 
+9 
+10 
+______________________________ ______________________________ 11 
+Councilmember Robert C. White, Jr. Councilmember Matthew Frumin 12 
+13 
+14 
+15 
+______________________________ 16 
+Councilmember Zachary Parker 17 
+18 
+19 
+20 
+A BILL 21 
+22 
+_______________ 23 
+24 
+25 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA 26 
+27 
+_______________________ 28 
+29 
+To amend the Department of Behavioral Health Establishment Act of 2013 to require the 30 
+Department of Behavioral Health to develop and publish a standardized checklist and 31 
+develop a secure online portal for tracking behavioral health housing voucher 32 
+applications, and to conduct training. 33 
+34 
+BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 35 
+act may be cited as the “Behavioral Health Housing Voucher Transparency Amendment Act of 36 
+2025”. 37 
+Sec. 2. The Department of Behavioral Health Establishment Act of 2013, effective 38 
+December 24, 2013 (D.C. Law 20-61; D.C. Official Code § 7-1141.01 et seq.), is amended by 39 
+adding a new Part C to read as follows: 40
+
+“PART C. 41 
+“Sec. 5120d. Housing voucher standardized checklist requirement. 42 
+“(a) The Department shall develop and publish a standardized checklist for the 43 
+application process for housing vouchers administered by the Department. 44 
+“(b) The checklist shall include: 45 
+“(1) A list of all required documents, such as identification and consent forms, 46 
+that an applicant must submit to the Department; 47 
+“(2) Submission deadlines for each document; 48 
+“(3) Identification of responsible parties for each step or document submission, 49 
+including caseworkers, applicants, or property managers; and 50 
+(4) Where signatures are required to verify the submission of required documents.51 
+“(c) The Department shall publish the checklist on its website and send it via email to all 52 
+caseworkers, property managers, and housing voucher recipients currently in its system. The 53 
+Department shall also provide the checklist to all individuals who start the housing voucher 54 
+application process. 55 
+“Sec. 5120e. Secure online portal. 56 
+“(a) The Department shall establish and maintain a secure online portal for applicants, 57 
+caseworkers, and property managers to track in real time the status of a housing voucher 58 
+application; provided, that property managers’ access to the online portal shall be limited to 59 
+viewing the applicant’s name, caseworker’s name, and any documentation required to be 60 
+completed by the property manager. 61 
+“(b) The portal shall include: 62
+
+“(1) Secure login access for applicants via unique passcodes that they can share 63 
+with their caseworker; 64 
+“(2) The status of the applicant’s voucher application, including a list of 65 
+completed and pending tasks; 66 
+“(3) Automated reminders for impending deadlines or pending actions that are 67 
+sent to the applicant via email or text message; and 68 
+“(4) A feedback section to allow users to report issues or provide suggestions for 69 
+improvement. 70 
+“(c) The online portal shall comply with all relevant legal and privacy laws and 71 
+regulations to protect client information. 72 
+“Sec. 5120f. Implementation and training. 73 
+“The Department shall conduct or create a training video for all users to support the 74 
+adoption of the portal and ensure the checklist and portal are fully integrated into existing case 75 
+management systems used by the Department within 180 days of the portal’s launch, such that: 76 
+“(1) Caseworkers can access and update the checklist and portal directly through 77 
+the case management system; and 78 
+“(2) Updates made in the portal are synchronized in real-time with the case 79 
+management system to ensure data consistency and accuracy. 80 
+“Sec. 5120g. Monitoring and evaluation. 81 
+“(a) The Department shall establish a monitoring system to assess the checklist and portal 82 
+in managing voucher-related documentation, including tracking: 83 
+“(1) The average processing time for voucher applications; 84 
+“(2) The approval rate of voucher applications; and 85
+
+“(3) Any identified barriers to completing applications or securing 86 
+approvals. 87 
+“(b) The Department shall gather feedback from users to evaluate and improve the 88 
+checklist and portal processes. 89 
+“(c) The Department shall publish, on a quarterly basis, a report on its website that 90 
+includes: 91 
+“(1) The average processing time for voucher applications; 92 
+“(2) The approval rate of voucher applications; and 93 
+“(3) A summary of user feedback and steps taken to address identified 94 
+challenges.". 95 
+Sec. 3. Fiscal impact statement.  96 
+The Council adopts the fiscal impact statement in the committee report statement 97 
+required by section 602(c)(3) of the District of Columbia Home Rule Act, approved 1 December 98 
+24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(3)). 99 
+Sec. 4. Effective date. 100 
+This act shall take effect following approval by the Mayor (or in the event of veto by the 101 
+Mayor, action by the Council to override the veto) and a 30-day period of congressional review 102 
+as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 103 
+24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1). 104

@@ -1,0 +1,296 @@
+COUNCIL OF THE DISTRICT OF COLUMBIA  
+OFFICE OF COUNCILMEMBER BROOKE PINTO  
+THE JOHN A. WILSON BUILDING  
+1350 PENNSYLVANIA AVENUE, N.W., SUITE 106  
+WASHINGTON, D.C. 20004  
+ 
+December 1, 2025 
+  
+Nyasha Howard, Secretary  
+Council of the District of Columbia  
+1350 Pennsylvania Avenue, NW  
+Washington, DC 20004  
+  
+Dear Secretary Howard,  
+ 
+Today, I, along with Councilmembers Matt Frumin, Charles Allen, Robert White, and Anita 
+Bonds, am introducing the Leading Education Access for Reentry and Necessary Success 
+(LEARNS) Amendment Act of 2025. This legislation would make several critical changes to 
+operations at the Department of Corrections (DOC) to enhance both the provision of special 
+education services for residents and the agency's grievance processes.  
+ 
+Prior to school year 2021-2022, DC Public Schools (DCPS) provided special education services 
+for students at the DC Jail who were eligible for special education services under the Individuals 
+with Disabilities Education Act (IDEA) and District law but relinquished that role at the end of the 
+2020-21 school year. For school years 2021-22 and 2022-23, special education services at DOC 
+were provided by Maya Angelou Public Charter Schools pursuant to an emergency charter 
+authorization that was set to expire on August 4, 2023.  
+In preparation for school year 2022-23, the Executive worked to identify the best-fit agency to 
+administer education services to residents in DOC custody. The Executive ultimately determined 
+that DOC was that agency; however, rather than hiring teachers and other staff to provide those 
+services directly, DOC was directed to enter into a contract with a private educational institution 
+for those services. In order to ensure the continuation of appropriate special education services at 
+DOC in school year 2023-24, the Council passed emergency and temporary legislation in April 
+2024 to designate DOC as the District agency responsible for providing a Free Appropriate Public 
+Education (FAPE) to eligible individuals in DOC’s custody, with the understanding that DOC 
+would contract with Maya Angelou Public Charter Schools to provide the services. Since then, 
+several additional pieces of emergency and temporary legislation have been passed by the Council, 
+with the most recent temporary legislation expiring on April 11, 2026.1 
+Although responsibility to provide special education services at the DC Jail formally shifted to 
+DOC under the emergency legislation, the Council must enact permanent legislation to effectuate 
+those changes. Currently, the District is mandated under federal law to evaluate students enrolled 
+ 
+1 B26-0211 - Special Education for Young Adults in the Custody of the Department of Corrections Temporary 
+Amendment Act of 2025
+
+2 
+ 
+at a public school, including public charters, for special education services when those students 
+are referred by a parent or guardian, teacher, or school staff member; there is no such requirement, 
+however, for students in the custody of DOC. Because of this, although a student who enters DOC 
+custody having been previously determined eligible for special education services will continue to 
+receive those services while residing at the DC Jail, there is no route for student-age residents who 
+were not assessed before their incarceration to be evaluated and, if determined eligible, access 
+appropriate education services. This policy means that, during their incarceration, some students 
+will be effectively denied access to appropriate special education services because they have no 
+avenue to seek evaluation, an evaluation they would be legally entitled to if they were attending a 
+DCPS or public charter school.  
+Given the critically important role education, including attaining a high school diploma or 
+equivalency, can play in a resident’s successful reentry, we must do all we can to provide residents 
+at the DC Jail with the opportunity to be evaluated and receive special education services if found 
+eligible. This bill’s requirements are tailored to ensure that the selected contractor is appropriately 
+qualified to provide eligible students with a free, appropriate education, including providing 
+evidence of their experience providing these services and managing such a program in the District, 
+and competency in serving not only the education needs of incarcerated students, but their social 
+and emotional needs, as well. The language in this permanent bill will provide needed guidance to 
+DOC and the Office of Contracting and Procurement as they continue this contract for future 
+school years, ensuring the selected contractor is the best fit for students in DOC custody. This bill 
+would ensure that all students, regardless of whether they were evaluated before their 
+incarceration, are eligible to be evaluated for special education services.  
+Specifically, this legislation would: 
+1. Mandate that DOC evaluate students for special education services who were not evaluated 
+before entering into DOC custody, and provide education services for current 
+Individualized Education Program (IEP) holders in their custody; 
+2. Explicitly delineate the responsibilities and qualifications of entities seeking the contract 
+to deliver special education services to students at the DC Jail; and 
+3. Require that DOC enhance its current grievance processes by establishing and maintaining 
+a publicly accessible and searchable online tracking system for resident service requests 
+and complaints. This system would allow residents in DOC custody to: 
+• Track service requests and complaints submitted to the Department; 
+• Access information, including contact information, for DOC leadership, the 
+Corrections Information Council, and the Council committee with oversight of 
+DOC; and 
+• Access a list of the residents’ rights of each individual residing in the correctional 
+facility. 
+The legislation would also prescribe how requests are to be tracked in the system, including 
+tracking information on the nature of the request, date of submission, and request status. Through 
+this tracking system, residents, their families, and members of the public will be able to 
+individually track the status and resolution of service requests submitted by residents, their family, 
+and their legal representatives. Critically, this new system will provide comprehensive data on the
+
+3 
+ 
+range of grievances, complaints, and service issues raised by residents, and the details, including 
+the time length, for each grievance’s resolution.  
+A similar version of this bill was introduced in Council Period 25 and had a hearing in January 
+2024. Should you have any questions about this legislation, please contact my Senior Policy 
+Advisor, Anaiah Mitchell, at amitchell@dccouncil.gov.      
+ 
+Thank you,  
+ 
+Brooke Pinto
+
+1 
+_____________________________                  _______________________ 2 
+Councilmember Matthew Frumin      Councilmember Brooke Pinto 3 
+ 4 
+ 5 
+________________________              _________________________ 6 
+Councilmember Robert White               Councilmember Charles Allen 7 
+ 8 
+ 9 
+________________________  10 
+Councilmember Anita Bonds  11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+A BILL 18 
+ 19 
+________ 20 
+ 21 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA 22 
+ 23 
+________________ 24 
+ 25 
+ 26 
+To amend An Act To create a Department of Corrections in the District of Columbia to designate 27 
+the Department of Corrections (“DOC”) as the District agency to provide a free 28 
+appropriate public education under the Individuals with Disabilities Education Act and 29 
+District law to certain individuals in DOC custody and detained in its secure facilities; to 30 
+expand eligibility for special education assessments for individuals in DOC custody; to 31 
+require that the Department of Corrections establish an online portal and tracking system 32 
+for grievances and short-term and long-term service requests; to amend the National 33 
+Capital Revitalization and Self-Government Improvement Act of 1997 to clarify that 34 
+individuals sentenced under the District’s truth-in-sentencing system or under the D.C. 35 
+Code shall not be designated or transferred to a federal Bureau of Prisons facility until 36 
+after their eligibility for special education services under the Individuals with Disabilities 37 
+Education Act has ended, if applicable; and to repeal sections 3001.16 and 3001.17 of 38 
+Chapter 30 of Subtitle A of Title 5 of the District of Columbia Municipal Regulations. 39 
+ 40 
+ BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 41 
+act may be cited as the “Leading Education Access for Reentry and Necessary Success 42 
+(“LEARNS”) Amendment Act of 2025”. 43
+
+2 
+ Sec 2. An Act To create a Department of Corrections in the District of Columbia, approved 44 
+June 27, 1946 (60 Stat. 320; D.C. Official Code § 24-211.01 et seq.), is amended as follows: 45 
+ (a) Section 2 (D.C. Official Code § 24-211.02) is amended as follows: 46 
+(1) Subsection (a) is amended by striking the period and inserting the phrase “, 47 
+including individuals sentenced pursuant to section 11201(a) and (b) of the National Capital 48 
+Revitalization and Self-Government Improvement Act of 1977, approved August 5, 1997 (111 49 
+Stat. 734; D.C. Official Code § 24-101(a) and (b)), who are eligible for special education 50 
+services under the IDEA, until their eligibility for special education services ends.” in its place. 51 
+  (2) Subsection (B) is amended as follows: 52 
+(A) Paragraph (9) is amended by striking the phrase “; and” and inserting a 53 
+semicolon in its place. 54 
+(B) The first paragraph (10) is amended by striking the period and inserting a 55 
+semicolon in its place.  56 
+(C) The second paragraph (10) is redesignated as paragraph (11). 57 
+(D)  Paragraph (11) is amended by striking the period and inserting the 58 
+phrase “; and” in its place.  59 
+   (E) A new paragraph (12) is added to read as follows: 60 
+  “(12) During each school year: 61 
+“(A) Provide a free appropriate public education under the IDEA and 62 
+District law, to individuals with disabilities who are in its custody and detained in its secure 63 
+facilities from the age of 18 through the end of the individual’s eligibility for special education and 64 
+related services under the IDEA and District law; and 65
+
+3 
+“(B)  Following a request for evaluation by the individual, the local 66 
+education agency, or the Office of the State Superintendent for Education, shall evaluate 67 
+individuals in its custody and detained in its secure facilities, who are age 18 through the end of 68 
+the individual’s eligibility for special education and related services under the IDEA and District 69 
+law, and who were not previously assessed for special education services, to determine if the 70 
+individual is a child with a disability.”. 71 
+(b) New sections 11a, 11b, and 11c are added to read as follows: 72 
+“Sec. 11a. Education services. 73 
+“(a) The Department of Corrections, as the agency responsible for ensuring a free 74 
+appropriate public education, shall make a free appropriate public education available to all 75 
+students with a disability from age 18 through the end of the individual’s eligibility for special 76 
+education and related services under the IDEA and District law who are in the custody of the 77 
+Department of Corrections, including students who, in the last educational placement prior to 78 
+their incarceration in an adult correctional facility, were not identified as being a child with a 79 
+disability in accordance with Chapter 30 of Subtitle A of Title 5 of the District of Columbia 80 
+Municipal Regulations (5-A DCMR § 3001 et seq.) (“Chapter 30”), or who did not have an 81 
+individualized education program in accordance with Chapter 30. 82 
+“(b) The Department of Corrections, in consultation with the Office of the State 83 
+Superintendent of Education and the Office for Students in the Care of D.C. within the Office of 84 
+the Deputy Mayor for Education, shall contract for delivery of education services necessary to 85 
+provide free appropriate public education to students eligible under this section. The contracted 86 
+education provider shall, at a minimum:  87
+
+4 
+“(1) Have experience and expertise in providing education in the District of 88 
+Columbia; 89 
+“(2) Manage and run a high school diploma program within the Department of 90 
+Corrections that offers credit-bearing courses and post-secondary planning and preparation;  91 
+“(3) Provide in-person instruction to every eligible student, including those in 92 
+segregated or restricted housing and on medical units;  93 
+“(4) Understand the unique social, emotional, and learning needs of incarcerated 94 
+students; and  95 
+“(5) Be able to implement every student’s individualized education program. 96 
+ “Sec. 11b. Grievances. 97 
+ (a) Beginning January 1, 2027, the Department of Corrections (“Department”) shall 98 
+establish and maintain an online portal on the agency website that is accessible to and searchable by 99 
+individuals in the Department’s custody and the public, and through which individuals in the 100 
+Department’s custody and the public may:   101 
+(1) Access information, including contact information for the Director, Deputy 102 
+Director, Education for Programs and Case Management, Deputy Director for Operations, and other 103 
+agency leadership responsible for receipt, tracking, and resolution of grievances, as well as the 104 
+Corrections Information Council and Council Committee with oversight of the Department; 105 
+(2) Access information regarding the number of formal grievances, informal 106 
+grievances, and requests to staff made by residents related to Council proceedings and resources 107 
+and access to the ANC Commissioner; 108 
+(3) Access a list of the rights of each individual residing in the correctional facility; 109 
+and   110
+
+5 
+(4) Access the tracking system described in subsection (b) of this section and 111 
+information on how residents may submit a service request or complaint and track the service 112 
+request or complaint in the tracking system. 113 
+“(b)(1) By July 1, 2027, the Department shall establish a tracking system for grievances, 114 
+short-term and long-term service requests, and complaints submitted by an individual in Department 115 
+custody, their legal representative, or designee, through which the individual or families may track 116 
+the status of requests, including viewing real-time updates posted by the agency to the tracking 117 
+system. 118 
+“(2)(A) The Department of Corrections shall assign each request or complaint 119 
+submitted to the tracking system a unique ticket number. 120 
+  “(B) Each ticket shall be searchable through the tracking system described in 121 
+paragraph (1) of this subsection by ticket number, date of submission, status, and the nature of the 122 
+service request or complaint. 123 
+“(C) The tracking system shall provide for each submission:   124 
+“(i) The nature of the service request or complaint;  125 
+“(ii) The date of submission;  126 
+“(iii) The current status of the service request or complaint   127 
+“(iv) Whether or not the complaint or request is open or closed; and 128 
+“(v) Information on how the individual or their family member may 129 
+contact the Department of Corrections to receive additional information on the status or resolution 130 
+of the service request or complaint.   131
+
+6 
+   “(D) The Department may prescribe the format in which submissions to the 132 
+tracking system are to be made, provided that the Department shall at least accept submissions made 133 
+by residents in writing and via oral communication. 134 
+ “(c) Within 30 days after the launch of the tracking system pursuant to subsection (b)(1) of 135 
+this section, the Department shall input into the tracking system all service requests and complaints 136 
+received by the Department in the preceding 6 months that are open.”. 137 
+“Sec. 11c. Definitions. 138 
+ For the purposes of this act, the term: 139 
+  “(1) “Free appropriate public education” shall have the same meaning as provided 140 
+in section 101(3) of the Placement of Students with Disabilities in Nonpublic Schools 141 
+Amendment Act of 2006, effective March 14, 2007 (D.C. Law 16-269; D.C. Official Code § 38-142 
+2561.01(3)). 143 
+“(2) “IDEA” shall have the same meaning as provided in section 101(4) of the 144 
+Placement of Students with Disabilities in Nonpublic Schools Amendment Act of 2006, effective 145 
+March 14, 2007 (D.C. Law 16-269; D.C. Official Code § 38-2561.01(4)). 146 
+“(3) “Individualized education program” means a written plan that specifies the 147 
+special education programs and services to be provided to meet the unique educational needs of a 148 
+child with a disability, as required under section 614(d) of the IDEA. 149 
+“(4) “Local education agency” means an institution at the local level with 150 
+responsibility to operate a publicly funded school and provide educational services in the District 151 
+of Columbia and has the responsibilities to provide FAPE under the IDEA.”. 152
+
+7 
+Sec. 3. Section 11202 of the National Capital Revitalization and Self-Government 153 
+Improvement Act of 1997, approved August 5, 1997 (111 Stat. 734; D.C. Official Code § 24-154 
+101), is amended as follows:  155 
+(a) Subsection (a) is amended by” striking the phrase “operated or contracted for by the 156 
+Bureau of Prisons” and inserting the phrase “operated or contracted for by the Bureau of Prisons, 157 
+after such person’s eligibility for special education services under the IDEA, as that term is 158 
+defined in section 101(4) of the Placement of Students with Disabilities in Nonpublic Schools 159 
+Amendment Act of 2006, effective March 14, 2007 (D.C. Law 16-269; D.C. Official Code § 38-160 
+2561.01(4)), ends, if applicable” in its place. 161 
+(b) Subsection (b) is amended by striking the phrase “the custody, care, subsistence, 162 
+education, treatment, and training of such persons” and inserting the phrase “after such person’s 163 
+eligibility for special education services under the IDEA, as that term is defined in section 101(4) 164 
+of the Placement of Students with Disabilities in Nonpublic Schools Amendment Act of 2006, 165 
+effective March 14, 2007 (D.C. Law 16-269; D.C. Official Code § 38-2561.01(4)), ends, if 166 
+applicable” in its place. 167 
+ Sec. 4. Chapter 30 of Subtitle A of Title 5 of the District of Columbia Municipal 168 
+Regulations (5-A DCMR § 3001 et seq.), is amended as follows: 169 
+  (1) Section 3001.16 is repealed. 170 
+  (2) Section 3001.17 is repealed. 171 
+ Sec. 5. Fiscal impact statement.  172 
+ The Council adopts the fiscal impact statement in the committee report as the fiscal impact 173 
+statement required by section 4a of the General Legislative Procedures Act of 1975, approved 174 
+October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a) 175
+
+8 
+ Sec. 6. Effective date. 176 
+ This act shall take effect following approval by the Mayor (or in the event of veto by the 177 
+Mayor, action by the Council to override the veto) and a 60-day period of congressional review 178 
+as provided in section 602(c)(2) of the District of Columbia Home Rule Act, approved December 179 
+24, 1973 (87 Stat. 813; D.C. Official Code§ 1-206.02(c)(2)).  180

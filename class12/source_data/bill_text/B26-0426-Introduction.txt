@@ -1,0 +1,394 @@
+MURIEL BOWSER 
+MAYOR 
+ 
+October 8, 2025 
+ 
+The Honorable Phil Mendelson 
+Chairman 
+Council of the District of Columbia 
+John A. Wilson Building 
+1350 Pennsylvania Avenue, NW, Suite 504 
+Washington, DC 20004 
+Dear Chairman Mendelson: 
+Enclosed for consideration by the Council of the District of Columbia is the “Holding Company System 
+Amendment Act of 2025” (“Bill”). The purpose of the Bill is to amend the Holding Company System Act 
+of 1993 to update the group capital calculation for the purpose of insurance holding company system 
+group solvency supervision, add a liquidity stress test for macroprudential surveillance and provide the 
+Commissioner with additional authority over third parties in the event an insurer is in hazardous financial 
+condition or placed in receivership. 
+These amendments will enhance the Department of Insurance, Securities and Banking’s (DISB) ability to 
+oversee and regulate insurance companies in the District and ensure that insurers remain solvent and able 
+to fulfill their consumer protection obligations. The Bill is also crucial to DISB retaining its accreditation 
+status as the District’s insurance regulator. 
+ 
+I urge the Council to take prompt and favorable action on the Bill. 
+Sincerely, 
+ 
+Muriel Bowser 
+Enclosure
+
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+A BILL 
+Chairman Phil Mendelson 
+at the request of the Mayor 
+IN THE COUNCIL OF THE DISTRJCT OF COLUMBIA 
+13 To amend the Holding Company System Act of 1993 to update the group capital calculation for 
+14 the purpose of insurance holding company system group solvency supervision and add a 
+15 liquidity stress test for macroprudential surveillance. 
+16 
+17 BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 
+18 act may be cited as the "Holding Company System Amendment Act of 2025". 
+19 Sec. 2. The Holding Company System Act of 1993, effective October 21, 1993 (D.C. 
+20 Law 10-44; D.C. Official Code§ 31-701 et seq.), is amended as follows: 
+21 (a) Section 2 (D.C. Official Code§ 31-701) is amended as follows: 
+22 (1) A new paragraph (3A-i) is added to read as follows: 
+23 "(3A-i) "Group Capital Calculation Instructions" means the group capital 
+24 calculation instructions as adopted by the NAIC and as amended by the NAIC from time to 
+25 time.". 
+26 (2) New paragraphs (SA-i) and (SA-ii) are added to read as follows: 
+27 "(5A-i) "Lead state" means the one state that takes the lead with respect to 
+28 conducting group-wide supervision within the U.S . solvency system. 
+29 "(SA-ii) "Lead State Commissioner" means the commissioner of the lead state for 
+30 an insurance group.". 
+31 (3) A new paragraph (SC-i) is added to read as follows: 
+1
+
+2 
+ 
+  “(5C-i) “NAIC Liquidity Stress Test Framework” means a separate NAIC 32 
+publication that includes a history of the NAIC’s development of regulatory liquidity stress 33 
+testing, the Liquidity Stress Test instructions and reporting templates for a specific data year, and 34 
+the Scope Criteria applicable for a specific data year as adopted by the NAIC and as amended by 35 
+the NAIC from time to time.”. 36 
+  (4) A new paragraph (6A) is added to read as follows: 37 
+  “(6A) “Scope Criteria” means the designated exposure bases along with minimum 38 
+magnitudes thereof for the specified data year as detailed in the NAIC Liquidity Stress Test 39 
+Framework, used to establish a preliminary list of insurers considered scoped into the NAIC 40 
+Liquidity Stress Test Framework for that data year.”. 41 
+(5) A new paragraph (8A) is added to read as follows: 42 
+“(8A) “Task Force” means the NAIC Financial Stability Task Force or its 43 
+successor.”. 44 
+ (b) Section 6 (D.C. Official Code § 31-705) is amended as follows: 45 
+  (1) Subsection (d) is amended as follows: 46 
+ (A) The existing test is redesignated as paragraph (1).   47 
+   (B) A new paragraph (2) is added to read as follows:    48 
+   “(2) Notwithstanding paragraph (1) of this subsections, for purposes of the 49 
+Group Capital Calculation or the Liquidity Stress Test Framework, sales, purchases, exchanges, 50 
+loans or extensions of credit, investments, or guarantees involving one-half of 1% or less of an 51 
+insurer’s admitted assets as of the 31st day of December shall be material.”. 52 
+  (2) New subsections (k-2) and (k-3) are added to read as follows: 53 
+  “(k-2)(1) Except as provided below, the ultimate controlling person of every 54
+
+3 
+ 
+insurer subject to registration shall concurrently file with the registration an annual group capital 55 
+calculation as directed by the lead state commissioner. The report shall be completed in 56 
+accordance with the NAIC Group Capital Calculation Instructions, which may permit the lead 57 
+state commissioner to allow a controlling person that is not the ultimate controlling person to file 58 
+the group capital calculation. The report shall be filed with the lead state commissioner of the 59 
+insurance holding company system as determined by the Commissioner in accordance with the 60 
+procedures within the Financial Analysis Handbook adopted by the NAIC. The following 61 
+insurance holding company systems are exempt from filing the group capital calculation 62 
+pursuant to this section: 63 
+    “(A) An insurance holding company system that has only one 64 
+insurer within its holding company structure that only writes business, is only licensed in its 65 
+domestic state, and assumes no business from any other insurer; 66 
+    “(B) An insurance holding company system required to perform a 67 
+group capital calculation by the United States Federal Reserve Board; provided, that if the 68 
+Federal Reserve Board refuses or is unable to share the calculation with the lead state 69 
+commissioner after a request from the lead state commissioner, the insurance holding company 70 
+system is not exempt from the group capital calculation filing; 71 
+    “(3) An insurance holding company whose non-U.S. group-wide 72 
+supervisor is located within a Reciprocal Jurisdiction, as defined in section 2(f-1)(11)(B) of the 73 
+Law on Credit for Reinsurance Act of 1993, effective October 15, 1993 (D.C. Law 10-36; D.C. 74 
+Official Code § 31-501(f-1)(11)(B)), that recognizes the U.S. state regulatory approach to group 75 
+supervision and group capital; and 76 
+    “(D) An insurance holding company system: 77
+
+4 
+ 
+     “(i) That provides information to the lead state that meets 78 
+the requirements for accreditation under the NAIC financial standards and accreditation program, 79 
+either directly or indirectly through the group-wide supervisor, who has determined such 80 
+information is satisfactory to allow the lead state to comply with the NAIC group supervision 81 
+approach, as detailed in the NAIC Financial Analysis Handbook, and 82 
+     “(ii) Whose non-U.S. group-wide supervisor that is not in a 83 
+Reciprocal Jurisdiction recognizes and accepts, as specified by the Commissioner in regulation, 84 
+the group capital calculation as the world-wide group capital assessment for U.S. insurance 85 
+groups who operate in that jurisdiction. 86 
+   “(2) Notwithstanding the provisions of subsections (k-2)(1)(C) and (D) of 87 
+this section, the District, where serving as a lead state commissioner, shall require the group 88 
+capital calculation for U.S. operations of any non-U.S. based insurance holding company system 89 
+where, after any necessary consultation with other supervisors or officials, it is deemed 90 
+appropriate by the lead state commissioner for prudential oversight and solvency monitoring 91 
+purposes or for ensuring the competitiveness of the insurance marketplace. 92 
+   “(3) Notwithstanding the exemptions from filing the group capital 93 
+calculation stated in subsection (k-2)(1)(A) through (D) of this section, if the lead state 94 
+commissioner exempts the ultimate controlling person from filing the annual group capital 95 
+calculation or accepts a limited group capital filing or report in accordance with criteria as 96 
+specified by the Commissioner in regulation, the ultimate controlling person shall be exempt 97 
+from filing the annual group capital calculation. 98 
+   “(4) If the lead state commissioner determines that an insurance holding 99 
+company system no longer meets one or more of the requirements for an exemption from filing 100
+
+5 
+ 
+the group capital calculation under this section, the insurance holding company system shall file 101 
+the group capital calculation at the next annual filing date unless given an extension by the lead 102 
+state commissioner based on reasonable grounds shown. 103 
+  “(k-3)(1) The ultimate controlling person of every insurer subject to registration 104 
+under and also scoped into the NAIC Liquidity Stress Test Framework shall file the results of a 105 
+specific year’s Liquidity Stress Test with the lead state insurance commissioner of the insurance 106 
+holding company system, as determined by the procedures within the Financial Analysis 107 
+Handbook adopted by the NAIC. 108 
+   “(2) Any change to the NAIC Liquidity Stress Test Framework or to the 109 
+data year for which the Scope Criteria are to be measured shall be effective on January 1 of the 110 
+year following the calendar year when such changes are adopted. Insurers meeting at least one 111 
+threshold of the Scope Criteria are considered included into the NAIC Liquidity Stress Test 112 
+Framework for the specified data year unless the lead state insurance commissioner, in 113 
+consultation with the Task Force or its successor, determines the insurer should not be scoped 114 
+into the Framework for that data year. Insurers that do not trigger at least one threshold of the 115 
+Scope Criteria are considered scoped out of the NAIC Liquidity Stress Test Framework for the 116 
+specified data year, unless the lead state insurance commissioner, in consultation with the Task 117 
+Force or its successor, determines the insurer should be scoped into the NAIC Liquidity Stress 118 
+Test Framework for that data year. 119 
+   “(3) The lead state insurance commissioner, in consultation with the Task 120 
+Force or its successor, shall evaluate concerns of having insurers scoped in and out of the NAIC 121 
+Liquidity Stress Test Framework on a frequent basis as part of the determination for an insurer. 122 
+   “(4) The performance of, and filing of the results from, a specific year’s 123
+
+6 
+ 
+Liquidity Stress Test shall comply with the NAIC Liquidity Stress Test Framework’s instructions 124 
+and reporting templates for that year and any lead state insurance commissioner determinations, 125 
+in conjunction with the Task Force or its successor, provided within the NAIC Liquidity Stress 126 
+Test Framework.”.           127 
+ (c) Section 7(a) (D.C. Official Code § 31-706(a)) is amended as follows: 128 
+  (1) Paragraph (1) is amended as follows: 129 
+(A) The existing text is redesignated as subparagraph (A). 130 
+(B) The existing subparagraphs (A), (B), (C), (D), and (E) are redesignated 131 
+as subsubparagraphs (i), (ii), (iii), (iv), and (iv). 132 
+  (2) A new paragraph (1A) is added to read as follows:    133 
+  “(1A)(A)(i) If an insurer subject to this act is deemed by the Commissioner to be 134 
+in a hazardous financial condition as provided in section 2 of the Standards to Identify Insurance 135 
+Companies Deemed to Be in Hazardous Financial Condition Act of 1993, effective October 21, 136 
+1993 (D.C. Law 10-43; D.C. Official Code § 31-2101), or a condition that would be grounds for 137 
+supervision, conservation, or a delinquency proceeding, the Commissioner may require the 138 
+insurer to secure and maintain either a deposit, held by the Commissioner, or a bond, as 139 
+determined by the insurer at the insurer’s discretion, for the duration of the contractual 140 
+obligations or agreements held by the insurer or the duration of the existence of the condition for 141 
+which the Commissioner required the deposit or the bond. 142 
+“(ii) In determining whether to exercise the Commissioner’s 143 
+authority under subsubparagraph (i) to require a insurer to secure and maintain a deposit or bond, 144 
+the Commissioner may consider whether concerns exist with respect to the affiliated person’s 145
+
+7 
+ 
+ability to fulfill the contractual obligations or agreements of the insurer if the insurer were to be 146 
+put into liquidation. 147 
+“(iii) If the insurer is deemed to be in a hazardous financial 148 
+condition or a condition that would be grounds for supervision, conservation, or a delinquency 149 
+proceeding, and a deposit or bond is necessary, the Commissioner has discretion to determine the 150 
+amount of the deposit or bond, not to exceed the value of the contractual obligations or 151 
+agreements of the insurer in any one year, and whether such deposit or bond should be required 152 
+for a single contract, multiple contracts, or a contract only with a specific person(s);”  153 
+   “(B) All records and data of the insurer held by an affiliate are and remain 154 
+the property of the insurer, are subject to control of the insurer, shall be identifiable, and shall be 155 
+segregated or readily capable of segregation at no additional cost to the insurer from all other 156 
+persons’ records and data. This includes all records and data that are otherwise the property of 157 
+the insurer, in whatever form maintained, including, but not limited to, claims and claim files, 158 
+policyholder lists, application files, litigation files, premium records, rate books, underwriting 159 
+manuals, personnel records, financial records or similar records within the possession, custody or 160 
+control of the affiliate. At the request of the insurer, the affiliate shall provide that the receiver 161 
+can obtain a complete set of all records of any type that pertain to the insurer’s business, obtain 162 
+access to the operating systems on which the data is maintained, obtain the software that runs 163 
+those systems either through assumption of licensing agreements or otherwise, and restrict the 164 
+use of the data by the affiliate if it is not operating the insurer’s business. The affiliate shall 165 
+provide a waiver of any landlord lien or other encumbrance to give the insurer access to all 166 
+records and data in the event of the affiliate’s default under a lease or other agreement; and,”. 167 
+   “(C) Premiums or other funds belonging to the insurer that are collected 168
+
+8 
+ 
+by or held by an affiliate are the exclusive property of the insurer and shall be subject to the 169 
+control of the insurer; any right of offset in the event an insurer is placed into receivership shall 170 
+be subject to Chapter 13 of Title 31.”.        171 
+(4) New paragraphs (7) and (8) are added to read as follows:    172 
+  “(7) Any affiliate that is party to an agreement or contract with a domestic insurer 173 
+that is subject to paragraph (2)(D) of this subsection shall be subject to the jurisdiction of any 174 
+supervision, seizure, conservatorship, or receivership proceedings against the insurer and to the 175 
+authority of any supervisor, conservator, rehabilitator or liquidator for the insurer appointed 176 
+pursuant to section 13 of the Holding Company System Act of 1993, effective October 21, 1993 177 
+(D.C. Official Law 10-44; D.C. Official Code § 31-711), for the purpose of interpreting, 178 
+enforcing and overseeing the affiliate’s obligations under the agreement or contract to perform 179 
+services for the insurer that are:         180 
+   “(A) An integral part of the insurer’s operations, including management, 181 
+administrative, accounting, data processing, marketing, underwriting, claims handling, 182 
+investment, or any other similar functions; or  183 
+ “(B) Essential to the insurer’s ability to fulfill its obligations under 184 
+insurance policies.”.           185 
+  “(8) The Commissioner may require that an agreement or contract for the 186 
+provision of services described in paragraphs (7)(A) and (7)(B) of this subsection specify that the 187 
+affiliate consents to the jurisdiction as set forth in paragraph (7).”. 188 
+ (d) Section 9 (D.C. Official Code § 31-708) is amended as follows: 189 
+  (1) Subsection (a) is amended as follows: 190
+
+9 
+ 
+  (A) By striking the phrase “shall be confidential” and inserting the phrase 191 
+“are recognized by the District of Columbia as being proprietary and to contain trade secrets, and 192 
+shall be confidential” in its place. 193 
+   (B) New paragraphs (4) and (5) are added to read as follows: 194 
+  “(4) For purposes of the information reported and provided to the Department of 195 
+Insurance, Securities, and Banking pursuant to section 6(k-2) of the Holding Company System 196 
+Act of 1993, effective October 21, 1993) (D.C. Law 10-44; D.C. Official Code § 31-705(k-2)), 197 
+the Commissioner shall maintain the confidentiality of the group capital calculation and group 198 
+capital ratio produced within the calculation and any group capital information received from an 199 
+insurance holding company supervised by the Federal Reserve Board or any U.S. group-wide 200 
+supervisor. 201 
+  “(5) For purposes of the information reported and provided to the Department of 202 
+Insurance, Securities, and Banking pursuant to section 6(k-3) (D.C. Official Code § 31-705(k-203 
+3)), the Commissioner shall maintain the confidentiality of the liquidity stress test results and 204 
+supporting disclosures and any liquidity stress test information received from an insurance 205 
+holding company supervised by the Federal Reserve Board and non-U.S. group wide 206 
+supervisors.”.   207 
+  (2) Subsection (c) is amended as follows: 208 
+(A) Paragraph (1) is amended to read as follows: 209 
+   “(1) May share documents, materials or other information, including the 210 
+confidential and privileged documents, materials, or information described at subsection (a) of 211 
+this section, and which shall include proprietary and trade secret documents and materials, with 212 
+other state, federal, and international regulatory agencies, with the NAIC, with any third-party 213
+
+10 
+ 
+consultants designated by the Commissioner, and with state, federal, and international law 214 
+enforcement authorities, including members of any supervisory college described in section 8a 215 
+(D.C. Official Code § 31-707.01); provided, that the recipient agrees in writing to maintain the 216 
+confidentiality and privileged status of the document, material, or other information, and verifies 217 
+in writing the legal authority to maintain confidentiality.”. 218 
+   (B) Paragraph (1A) is amended by striking the phrase “section 6” and 219 
+inserting the phrase “section 6(k-1)” in its place. 220 
+   (C) Paragraph (2) is amended by striking the phrase “information, from 221 
+the National Association of Insurance Commissioners” and inserting the phrase “information, 222 
+including proprietary and trade secret information, from the National Association of Insurance 223 
+Commissioners (“NAIC”)” in its place. 224 
+   (C) Paragraph (3) is amended to read as follows:  225 
+“(3) Shall enter into written agreements with the NAIC and any third-party 226 
+consultant designated by the Commissioner governing the sharing and use of information 227 
+provided pursuant to this subchapter and consistent with this subsection that shall:   228 
+   “(A) Specify procedures and protocols regarding the confidentiality and 229 
+security of information shared with the NAIC or a third-party consultant designated by the 230 
+Commissioner pursuant to this chapter, including procedures and protocols for sharing by the 231 
+NAIC with other state, federal or international regulators. The agreement shall provide that the 232 
+recipient agrees in writing to maintain the confidentiality and privileged status of the documents, 233 
+materials or other information and has verified in writing the legal authority to maintain such 234 
+confidentiality; 235 
+   “(B) Specify that ownership of information shared with the NAIC or a 236
+
+11 
+ 
+third-party consultant pursuant to this act remains with the Commissioner and the NAIC’s or a 237 
+third-party consultant’s, as designated by the Commissioner, use of the information is subject to 238 
+the direction of the Commissioner; 239 
+ “(C) Excluding documents, material or information reported pursuant to 240 
+section 6(k-3) (D.C. Official Code § 31-705(k-3)), prohibit the NAIC or third-party consultant 241 
+designated by the Commissioner from storing information shared pursuant to this chapter in a 242 
+permanent database after the underlying analysis is completed; 243 
+   “(D) Require prompt notice to be given to an insurer that the insurer’s 244 
+confidential information in the possession of the NAIC or a third-party consultant designated by 245 
+the Commissioner pursuant to this chapter is subject to a request or subpoena to the NAIC or a 246 
+third-party consultant designated by the Commissioner for disclosure or production; 247 
+   “(E) Require the NAIC or a third-party consultant designated by the 248 
+Commissioner to consent to intervention by an insurer in any judicial or administrative action in 249 
+which the NAIC or a third-party consultant designated by the Commissioner may be required to 250 
+disclose confidential information about the insurer shared with the NAIC or a third-party 251 
+consultant designated by the Commissioner and its affiliates and subsidiaries pursuant to this 252 
+chapter; and 253 
+   “(F) For reporting of documents, material, or information pursuant to 254 
+section 6(k-3), in the case of an agreement involving a third-party consultant, provide for 255 
+notification of the identity of the consultant to the applicable insurers.”. 256 
+  (3) Subsection (d-1) is amended by striking the word “NAIC” and inserting the 257 
+phrase “NAIC, or a third-party consultant designated by the Commissioner” in its place. 258 
+  (4) A new subsection (d-2) is added to read as follows: 259
+
+12 
+ 
+  “(d-2) Except as otherwise required under this act, no insurer, broker, or other 260 
+person engaged in any manner in the insurance business may make, publish, disseminate, 261 
+circulate or place before the public, or cause directly or indirectly to be made, published, 262 
+disseminated, circulated or placed before the public in a newspaper, magazine or other 263 
+publication, or in the form of a notice, circular, pamphlet, letter or poster, or over any radio or 264 
+television station or any electronic means of communication available to the public, or in any 265 
+other way as an advertisement, announcement, or statement containing a representation or 266 
+statement, with regard to the group capital calculation, group capital ratio, the liquidity stress test 267 
+results, or supporting disclosures for the liquidity stress test of any insurer or any insurer group, 268 
+or of any component derived in the calculation; provided that if any materially false statement 269 
+with respect to the group capital calculation, resulting group capital ratio, a false or misleading 270 
+comparison of any amount to an insurer’s or insurance group’s group capital calculation or 271 
+resulting group capital ratio, liquidity stress test result, supporting disclosures for the liquidity 272 
+stress test, or a false or misleading comparison of any amount to an insurer’s or insurance 273 
+group’s liquidity stress test result or supporting disclosures is published in any written 274 
+publication and the insurer is able to demonstrate to the Commissioner with substantial proof the 275 
+falsity of such statement or its false or misleading nature as the case may be, then the insurer 276 
+may publish announcements in a written publication if the sole purpose of the announcement is 277 
+to rebut the materially false or misleading statement.”. 278 
+ Sec. 3. Fiscal impact statement. 279 
+ The Council adopts the fiscal impact statement in the committee report as the fiscal 280 
+impact statement required by section 4a of the General Legislative Procedures Act of 1975, 281 
+approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a). 282
+
+13 
+ 
+ Sec. 4. Effective date. 283 
+ This act shall take effect following approval by the Mayor (or in the event of veto by the 284 
+Mayor, action by the Council to override the veto), a 30-day period of congressional review as 285 
+provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 286 
+24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of 287 
+Columbia Register. 288
+
+1350 Pennsylvania Avenue, N.W., Suite 409, Washington, D.C. 20004   Phone (202) 262-6402   Email: adele.el-khouri@dc.gov 
+ 
+GOVERNMENT OF THE DISTRICT OF COLUMBIA 
+Office of the Attorney General 
+ 
+ 
+ 
+ 
+ 
+Legal Counsel Division 
+    
+ 
+MEMORANDUM 
+ 
+TO:  Tomás Talamante 
+  Director 
+  Office of Policy and Legislative Affairs 
+         
+FROM: Adele El-Khouri 
+Deputy Attorney General 
+Legal Counsel Division 
+ 
+DATE: February 20, 2025 
+ 
+RE: Legal Sufficiency Review of Draft Legislation, the “Holding Company System 
+Amendment Act of 2025” 
+ ( AE-24-48)   
+ 
+This is to Certify that this Office has reviewed the above-referenced draft 
+legislation and found it to be legally sufficient. If you have any questions, please do not hesitate to 
+call me at (202) 262-6402. 
+ 
+ 
+ 
+_________________________________ 
+Adele El-Khouri

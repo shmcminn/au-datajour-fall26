@@ -1,0 +1,931 @@
+Statement of Introduction 
+Housing Production Omnibus Amendment Act of 2026 
+February 17, 2026 
+ 
+Today, we are jointly introducing the Housing Production Omnibus Amendment Act of 2026, 
+along with co-introducers Janeese Lewis George and Charles Allen. This legislation represents a 
+bold, comprehensive overhaul of how the District of Columbia funds housing, accelerates 
+production, and safeguards affordability. 
+The District's Housing Production Trust Fund was established in 2001 as one of the first state or 
+local funds of its kind and has supported thousands of affordable homes in the last 25 years. 
+However, rising construction costs, market volatility, and outdated policies have slowed 
+development and threatened our ability to address the District's housing needs. One-off fixes are 
+not enough, and our current laws are not meeting the moment.  
+We propose a modernized D.C. housing ecosystem that unlocks new resources and provides the 
+flexibility needed to respond to today’s challenges. 
+The Housing Production Omnibus Amendment Act of 2026 creates a new Housing 
+Opportunity Fund, replacing the existing Housing Production Trust Fund and a constellation of 
+related programs with a unified master fund. The Housing Opportunity Fund is organized into 
+five sub-accounts dedicated to specific policy purposes: 
+ Housing Production Account to attract and leverage investment to build new housing; 
+ Affordable Housing Subsidy Account to finance and support operations of deeply 
+affordable units and Permanent Supportive Housing; 
+ Preservation Account to preserve and expand the existing stock of affordable housing; 
+ Tenant Purchase Support Account to help tenants purchase and preserve their 
+buildings under the Tenant Opportunity to Purchase Act; and 
+ District Acquisition Account to enable strategic use of public land for housing 
+development.
+
+In addition to establishing the Housing Opportunity Fund, this omnibus package introduces new 
+tools to accelerate housing production. It permits District retirement funds to invest in local 
+housing development; gives District government more power to acquire land for housing in high-
+need areas; lets the District purchase and lease land to developers or tenant groups to keep 
+housing affordable; provides fast, flexible financing to jumpstart projects on public land with a 
+revolving loan fund; and strengthens the District’s ability to buy properties under the District 
+Opportunity to Purchase Act or assign purchase rights to affordable housing developers. This 
+legislation was developed through partnership with housing advocates, for-profit and non-profit 
+developers, tenant organizations, and a range of experts in housing finance. 
+Far too many residents struggle with excessive housing costs and the inability to find housing 
+appropriate for their needs. This legislation is a bold, comprehensive response to D.C.’s housing 
+shortage—one that ensures we can continue building homes and protecting affordability for 
+decades to come. 
+ 
+ 
+Signed, 
+ 
+ 
+ 
+Brianne K. Nadeau Robert C. White, Jr. 
+Councilmember, Ward 1 
+ 
+Councilmember, At-Large
+ 
+ 
+ 
+★  ★  ★
+
+1 
+ 
+ 
+A BILL 
+_________________________ 
+ 
+IN THE COUNCIL OF THE DISTRICT OF COLUMBIA 
+_________________________ 
+ 
+ 
+To establish the Housing Opportunity Fund ("Fund") for the production, preservation, and 1 
+rehabilitation of affordable housing in the District of Columbia and to establish dedicated 2 
+revenue sources for the Fund, to establish sub-accounts of the Housing Opportunity Fund 3 
+for specific purposes, to set parameters for the initial apportionment of monies between 4 
+sub-accounts, to authorize reallocation of funds between sub-accounts and define 5 
+restricted reprogrammings, to require an annual audit of the Fund and regular audit of the 6 
+application and selection process, to direct the Chief Financial Officer to commission a 7 
+report on developer and bond fees, to establish limits and terms on the use of the Fund for 8 
+stabilization awards, to authorize the issuance of bonds for the purposes of the Fund, to 9 
+establish procedures for the application, scoring, and selection of projects for Fund 10 
+awards, to establish minimum affordability periods for rental and ownership units 11 
+supported by the Fund, to require a relocation and anti-displacement strategy for relevant 12 
+projects, to establish the Housing Opportunity Fund Board to monitor and advise on the 13 
+operations of the Fund and to review proposed fund awards that deviate from scoring 14 
+methodology, and to define the purpose and allowable uses of the Housing Production 15 
+Account, Affordable Housing Subsidy Account, Preservation Account, Tenant Purchase 16 
+Support Account, and District Acquisition Account; to amend the District of Columbia 17 
+Retirement Reform Act of 1979 to authorize the District of Columbia Retirement Board 18 
+to establish goals and procedures for investment in real property in the District of 19 
+Columbia with an emphasis on multifamily real estate and affordable housing; to amend 20 
+§ 16-1311 to include housing development in high-need areas as an authorized municipal 21 
+use for condemnation proceedings; to establish the Land Purchase Partnership Program 22 
+for the production or preservation of affordable housing and support of tenant purchases; 23 
+to amend the District of Columbia Housing Finance Agency Act to authorize the Housing 24 
+Finance Agency to establish a revolving construction loan fund; to amend the Rental 25 
+Housing Conversion and Sale Act of 1980 to apply the District's Opportunity to Purchase 26 
+for housing accommodations otherwise exempt from the Tenant Opportunity to Purchase 27 
+Act within the first 15 years after construction; and to amend § 47-1005.03 to clarify 28 
+Nonprofit Workforce Housing Properties eligibility. 29 
+ 
+_____________________________ 
+Councilmember Robert C. White, Jr. 
+_____________________________ 
+Councilmember Brianne K. Nadeau 
+_____________________________ 
+Councilmember Charles Allen 
+_____________________________ 
+Councilmember Janeese Lewis George
+
+2 
+TABLE OF CONTENTS 
+ 
+TITLE I. HOUSING OPPORTUNITY FUND. ............................................................................. 3 
+SUBTITLE A. HOUSING OPPORTUNITY FUND. .................................................................... 3 
+Sec. 101. Short title. ........................................................................................................................ 3 
+Sec. 102. Definitions. ...................................................................................................................... 3 
+Sec. 103. Housing Opportunity Fund established. .......................................................................... 5 
+Sec. 104. Fund organization............................................................................................................ 7 
+Sec. 105. Apportionment of deposits and appropriations. .............................................................. 7 
+Sec. 106. Reallocations and reprogrammings. ................................................................................ 8 
+Sec. 107. Regular audits; report on reasonable fees. .................................................................... 10 
+Sec. 108. Use of Fund for stabilization. ........................................................................................ 11 
+SUBTITLE B. GENERAL PROVISIONS. .................................................................................. 12 
+Sec. 111. Bond issuance authorized. ............................................................................................. 12 
+Sec. 112. Project application and selection. .................................................................................. 12 
+Sec. 113. Maintaining affordability. ............................................................................................. 13 
+Sec. 114. Anti-displacement strategy............................................................................................ 15 
+Sec. 115. Housing Opportunity Fund Board. ................................................................................ 15 
+Sec. 116. Fund transparency and reporting. .................................................................................. 17 
+SUBTITLE C. SUB-ACCOUNTS. .............................................................................................. 19 
+Sec. 121. Housing Production Account. ....................................................................................... 19 
+Sec. 122. Affordable Housing Subsidy Account. ......................................................................... 21 
+Sec. 123. Preservation Account. ................................................................................................... 21 
+Sec. 124. Tenant Purchase Support Account. ............................................................................... 23 
+Sec. 125. District Acquisition Account......................................................................................... 24 
+SUBTITLE D. MISCELLANEOUS PROVISIONS. ................................................................... 25 
+Sec. 131. Conforming Amendments. ............................................................................................ 25 
+Sec. 132. Transfers; continuation.................................................................................................. 27 
+TITLE II. HOUSING PRODUCTION. ........................................................................................ 28 
+Sec. 201. Retirement fund real property investment..................................................................... 28 
+Sec. 202. Condemnation authority for housing development. ...................................................... 28 
+Sec. 203. Land Purchase Partnership Program. ............................................................................ 29 
+Sec. 204. Revolving public construction loan fund for affordable housing. ................................ 30 
+Sec. 205. District opportunity to purchase certain properties. ...................................................... 32 
+Sec. 206. Nonprofit Workforce Housing Properties eligibility clarification. ............................... 33
+
+3 
+TITLE III. STANDARD PROVISIONS. ..................................................................................... 34 
+Sec. 301. Rulemaking. .................................................................................................................. 34 
+Sec. 302. Applicability. ................................................................................................................. 34 
+Sec. 303. Fiscal impact statement. ................................................................................................ 34 
+Sec. 304 Effective date. ................................................................................................................ 35 
+ 
+ BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this 30 
+act may be cited as the “Housing Production Omnibus Amendment Act of 2026”. 31 
+ TITLE I. HOUSING OPPORTUNITY FUND. 32 
+ SUBTITLE A. HOUSING OPPORTUNITY FUND. 33 
+ Sec. 101. Short title.  34 
+ This title may be cited as the “Housing Opportunity Fund Act of 2026”. 35 
+ Sec. 102. Definitions. 36 
+ For the purposes of this act, the term: 37 
+  (1) "Affordable housing" means a housing unit with an income- or rent-restricted 38 
+covenant, including: 39 
+   (A) Housing for individuals who have previously been incarcerated for or 40 
+convicted of a felony under state or federal law; 41 
+   (B) Permanent Supportive Housing. 42 
+  (2) "Area median income" means the area median income, as adjusted for 43 
+household size, of the Washington Metropolitan Statistical Area as set forth in the periodic 44 
+calculation provided by the U.S. Department of Housing and Urban Development. 45 
+  (3) “Child development facility” means a facility where a child development 46 
+program is provided for infants and children, away from home, for less than 24 hours a day for 47 
+each infant or child, and which is to be located on a proposed housing or commercial project 48
+
+4 
+under a linked development agreement. The term “child development facility” shall include a 49 
+child development center, child development home, or infant care center, but does not include a 50 
+public or private elementary school engaged in legally required education and related functions. 51 
+  (4) "Housing Opportunity Fund" or "Fund" means the Housing Opportunity Fund 52 
+as established in section 103, and all sub-accounts as established in section 104 and defined in 53 
+Subtitle C. 54 
+  (5) "Stabilization" means funds awarded for the following purposes:  55 
+   (A) Risk coverage to lenders for loans to stabilize affordable housing 56 
+properties in distress; or 57 
+   (B) Bridge funding for properties with a demonstrated unforeseen debt 58 
+load; and 59 
+   (C) Does not extend the period of affordability, increase the number of 60 
+affordable units, or would not otherwise be considered an award for the purposes of affordable 61 
+housing preservation as set forth in section 123. 62 
+  (6) "Tier 1" means: 63 
+   (A) Affordable housing targeted to a household with income equal to or 64 
+less than 30% of the area median income; or 65 
+   (B) Permanent Supportive Housing. 66 
+  (7) "Tier 2" means affordable housing targeted to a household with income equal 67 
+to, or less than, 50% of the area median income and greater than 30% of the area median income. 68 
+  (8) "Tier 3" means affordable housing targeted to a household with income equal 69 
+to, or less than, 80% of the area median income and greater than 50% of the area median income.  70
+
+5 
+ Sec. 103. Housing Opportunity Fund established. 71 
+ (a) There is established the Housing Opportunity Fund as a permanent, interest-bearing, 72 
+revolving fund, separate from other accounts in the General Fund and consisting of identifiable, 73 
+renewable, and segregated capital. The Fund shall be administered by the Chief Financial Officer 74 
+and made available for use by the Mayor and Housing Authority in accordance with this title. 75 
+ (b) Except as provided in this title, the Fund shall be used exclusively for the support, 76 
+provision, preservation, and rehabilitation of Tier 1, Tier 2, and Tier 3 affordable housing. 77 
+ (c) The money deposited into the Fund, but not expended in a fiscal year, shall not revert 78 
+to the unassigned fund balance of the General Fund of the District of Columbia at the end of a 79 
+fiscal year, or at any other time. 80 
+ (d) Subject to authorization in an approved budget and financial plan, any funds 81 
+appropriated in the Fund shall be continually available without regard to fiscal year limitation. 82 
+ (e) There shall be deposited in the Fund, pursuant to section 105: 83 
+  (1) Appropriated amounts; 84 
+  (2) Repayments of principal and interest on loans provided from the Fund; 85 
+  (3) Proceeds from bonds issued pursuant to section 111; 86 
+  (4) Interest earned from the deposit or investment of monies from the Fund; 87 
+  (5) All revenues, receipts, and fees of whatever source derived from the operation 88 
+of the Fund; 89 
+  (7) Amounts deposited pursuant to § 47-919; 90 
+  (8) Amounts deposited pursuant to Section 322 of the District of Columbia Real 91 
+Estate Deed Recordation Tax Act, approved March 2, 1962 (76 Stat. 17; D.C. Official Code § 92 
+42-1122); 93
+
+6 
+  (9) Fee option contributions made by commercial developers under a commercial 94 
+linked development; 95 
+  (10) Community development program contributions made pursuant to The 96 
+District of Columbia Regional Interstate Banking Act of 1985, effective November 23, 1985 97 
+(D.C. Law 6-63; D.C. Official Code § 26-701 et seq.); 98 
+  (11) Grants, fees, donations, or gifts from public and private sources; 99 
+  (12) Proceeds realized from the liquidation of security interests held by the 100 
+District under terms of assistance provided from the Fund; 101 
+  (13)(A) Repayments of loans, including principal and interest, provided under 102 
+section 8 of the Homestead Housing Preservation Act of 1986, effective August 9, 1986 (D.C. 103 
+Law 6-135; D.C. Official Code § 42-2107);  104 
+   (B) Proceeds realized from the liquidation of any security interests held by 105 
+the District under the terms of assistance provided from the fund through the Homestead 106 
+Housing Preservation Program established in Chapter 21 of this title; 107 
+  (15) All fines collected pursuant to section 104 of the Inclusionary Zoning 108 
+Implementation Amendment Act of 2006, effective March 14, 2007 (D.C. Law 16-275; D.C 109 
+Official Code § 6-1041.04); and  110 
+  (16) All fees collected pursuant to Section 204 of the Conversion of Rental 111 
+Housing to Condominium or Cooperative Status Act of 1980, effective September 10, 1980 112 
+(D.C. Law 3-86; D.C. Official Code § 42-3402.04) and Section 910 of the Rental Housing Act of 113 
+1985, effective April 16, 2020 (D.C. Law 23-72; D.C. Official Code § 42-3509.10).  114
+
+7 
+ Sec. 104. Fund organization. 115 
+ (a) There are established within the Housing Opportunity Fund the following sub-116 
+accounts, consisting of identifiable, renewable, and segregated capital and administered pursuant 117 
+to Subtitle C: 118 
+  (1) Housing Production Account; 119 
+  (2) Affordable Housing Subsidy Account; 120 
+  (3) Preservation Account; 121 
+  (4) Tenant Purchase Support Account; and 122 
+  (5) District Acquisition Account. 123 
+ (b) No less than 5% of the monies deposited into any sub-account of the Housing 124 
+Opportunity Fund in a fiscal year, or an equivalent amount appropriated from the General Fund 125 
+or other sources, shall be used to pay reasonable costs of compliance monitoring and 126 
+enforcement related to funding awards. 127 
+ Sec. 105. Apportionment of deposits and appropriations. 128 
+ (a) There is authorized to be appropriated at least $150 million annually, from all sources, 129 
+to be deposited into and expended from the Housing Opportunity Fund (“Fund”), adjusted every 130 
+5 fiscal years by the national Building Cost Index published by the Engineering News-Record. 131 
+ (b) The Mayor shall submit to the Council, as part of the annual budget, a requested 132 
+appropriation of local funds for the Housing Opportunity Fund, along with a proposed 133 
+apportionment plan to distribute among the sub-accounts of the Fund any dedicated revenues 134 
+received, pursuant to section 103(e), above amounts in the Council's approved budget for that 135 
+fiscal year. 136
+
+8 
+  (1) In formulating the Mayor's proposed annual budget for submission to the 137 
+Council, direct appropriations to the Housing Opportunity Fund shall be budgeted such that:  138 
+   (A) The Housing Production Account and Affordable Housing Subsidy 139 
+Account combined shall comprise no less than 60% of the total amount appropriated to the 140 
+Housing Opportunity Fund in each fiscal year; 141 
+   (B) No sub-account enumerated in section 115 receives less than 5% of 142 
+the total amount appropriated to the Housing Opportunity Fund for each fiscal year. 143 
+ (c) Nothing in this section shall be interpreted as to constrain the Mayor’s ability to 144 
+reallocate or reprogram moneys between sub-accounts pursuant to section 118. 145 
+ Sec. 106. Reallocations and reprogrammings. 146 
+ (a) Except as provided in this section, at the request of the Mayor at any time in a fiscal 147 
+year, the Chief Financial Officer ("CFO") shall reallocate funds between sub-accounts of the 148 
+Housing Opportunity Fund, provided that the CFO determines that the funds are available for 149 
+reallocation. Subchapter IV of Chapter 3 of Title 47 of the District of Columbia Official Code 150 
+shall not apply to such reallocations. 151 
+ (b) For the purposes of this section, “restricted reprogramming” means a reprogramming 152 
+request that includes: 153 
+  (1) Funds transferred from the Tenant Purchase Support Account to another sub-154 
+account in the Housing Opportunity Fund; 155 
+  (2) Funds transferred from the Affordable Housing Subsidy Account to another 156 
+sub-account in the Housing Opportunity Fund; or 157 
+  (3) Funds transferred from any sub-account of the Housing Trust Account to 158 
+another budget category. 159
+
+9 
+ (c)(1) Notwithstanding § 47-361(14), § 47-363(a) shall apply to a restricted 160 
+reprogramming, regardless of dollar value. 161 
+  (2) Notwithstanding § 47-363(b)-(d), upon receipt of a restricted reprogramming 162 
+request, the Chairman of the Council shall cause a notice of the request to be published in the 163 
+District of Columbia Register, together with a statement that the request shall be deemed 164 
+disapproved 10 days from the date of publication in the District of Columbia Register, unless a 165 
+proposed approval resolution is filed before that time by a Councilmember, and that if a 166 
+proposed approval resolution is filed, the request shall be deemed disapproved 30 days 167 
+(excluding weekends, holidays, and days of Council recess) from the date of the receipt of the 168 
+reprogramming request, unless before the end of the 30-day review period the Council adopts a 169 
+resolution of disapproval or approval. 170 
+  (3) The publication of a notice of a reprogramming request shall satisfy the public 171 
+notice requirements of this section and the rules of the Council and no further notice shall be 172 
+necessary for the Council to adopt a resolution affecting the request. 173 
+  (4) The Council shall consider the reprogramming request according to its rules. 174 
+No reprogramming request may be submitted to the Chairman of the Council under this 175 
+subsection during such time as the Council is on recess, according to its rules, nor shall any time 176 
+period provided in this subsection or in the Council’s rules with respect to the request continue to 177 
+run during such time as the Council is on recess. 178 
+  (5)(A) If no proposed approval resolution of a reprogramming request is filed 179 
+with the Secretary to the Council ("Secretary") within 10 days of the publication of the request 180 
+from the Mayor in the District of Columbia Register, the request shall be deemed disapproved. 181
+
+10 
+   (B) If a proposed approval resolution is filed with the Secretary to the 182 
+Council within 10 days of publication of the reprogramming request from the Mayor in the 183 
+District of Columbia Register, the Council may approve or disapprove the reprogramming 184 
+request by resolution within 30 days (excluding weekends, holidays, and days of Council recess) 185 
+of the receipt of the request from the Mayor. If the Council neither affirmatively approves or 186 
+disapproves the request within 30 days (excluding weekends, holidays, and days of Council 187 
+recess) of the receipt of the request, the request shall be deemed disapproved. 188 
+  (7) At any time before final action by the Council on a restricted reprogramming 189 
+request, including deemed disapproval, the Mayor may withdraw the request. 190 
+ Sec. 107. Regular audits; report on reasonable fees. 191 
+ (a) The Chief Financial Officer ("CFO") shall commission an annual audit report of the 192 
+Housing Opportunity Fund by a Certified Public Accountant or firm of public accountants 193 
+independent of the Department in accordance with generally acceptable government auditing 194 
+standards covering financial and compliance audits which sets forth the amount of deposits in the 195 
+Fund, the aggregate amount of all loans or grants issued by the Fund, and the number and 196 
+amount of Fund loans in default. 197 
+ (b) The Office of the District of Columbia Auditor shall audit the application, scoring, 198 
+and award processes of the Fund every 5 years. 199 
+ (c) Within 365 days of the applicability date of this subsection, and by request of the 200 
+Housing Opportunity Fund Board at any time thereafter, the CFO shall commission a report on 201 
+reasonable fees, including developer fees, bond fees, and consultant fees, that are associated with 202 
+financing of the production and preservation of affordable housing by the District and 203 
+instrumentalities of the District. 204
+
+11 
+ Sec. 108. Use of Fund for stabilization. 205 
+ (a) The Mayor may utilize up to 40% of the total approved budget of the Housing 206 
+Opportunity Fund in a fiscal year to issue awards for stabilization of properties in periods of 207 
+severe market distress, subject to the requirements of this section and provided that funds from 208 
+the Tenant Purchase Support Account shall not be used for such purposes. 209 
+(b)(1) If the planned fund usage for stabilization constitutes more than 10% of the total 210 
+approved budget of the Housing Opportunity Fund within that fiscal year, the Mayor shall, prior 211 
+to a solicitation for stabilization funds, submit to Council a resolution authorizing such use for a 212 
+30-day period of review, excluding Saturdays, Sundays, legal holidays, and days of Council 213 
+recess. A resolution that has not been approved or disapproved, in whole or in part, by resolution, 214 
+within this 30-day review period, the proposed rules shall be deemed approved. 215 
+  (2) The resolution required under this subsection shall include an analysis of the 216 
+affordable housing market and projections for how the award of stabilization funds will serve to 217 
+stabilize the market. 218 
+(c) Within 60 days after a stabilization funding award is issued, property-specific analysis 219 
+shall be transmitted to the Council including: 220 
+  (1) Financial data on the performance of the property; 221 
+  (2) A third-party analysis of how the property will achieve stabilization after 222 
+receiving a stabilization award; and 223 
+  (3) A copy of the latest Department of Buildings inspections of the building. 224 
+ (d) The Mayor may award stabilization funds as a grant, or waive repayment of funds 225 
+awarded as a loan, provided that the Mayor and recipient or property owner enter into a written 226 
+agreement providing the District a reasonable equity stake in the property. 227
+
+12 
+ SUBTITLE B. GENERAL PROVISIONS. 228 
+ Sec. 111. Bond issuance authorized. 229 
+ (a) Pursuant to section 490 of the Home Rule Act, the Mayor is authorized to issue bonds 230 
+to assist in financing, refinancing, or reimbursing costs of undertakings by the District to 231 
+accomplish the purposes of the Housing Opportunity Fund.  232 
+ (b) The bonds, which may be issued from time to time, in one or more series, shall be 233 
+tax-exempt or taxable as the Mayor shall determine. 234 
+ (c) The Mayor is authorized to pay from the proceeds of the bonds the costs and expenses 235 
+of issuing and delivering the bonds. Remaining proceeds of the bonds shall be deposited into the 236 
+Housing Opportunity Fund pursuant to sections 104 and 105. 237 
+ Sec. 112. Project application and selection. 238 
+ The provisions of this section shall apply to all sub-accounts of the Housing Opportunity 239 
+Fund and any stabilization funds made available pursuant to section 108. 240 
+  (1)(A) The Mayor shall publish a Request for Proposals ("RFP") to advertise 241 
+funds made available pursuant to this act. The RFP may include other relevant housing funds 242 
+made available by the District. The RFP shall include scoring and selection criteria specific to 243 
+each sub-account of the Fund. 244 
+   (B) An applicant may apply for an award of funding from one or more 245 
+sub-accounts of the Fund, or in the form of an application to a consolidated RFP.  246 
+   (C) Eligibility for one sub-account shall not invalidate eligibility for any 247 
+other sub-account. An award of funding may be made to one project or applicant from multiple 248 
+funds, either simultaneously or sequentially. 249
+
+13 
+   (D) Applications shall be accepted and scored on a quarterly basis, except 250 
+as provided in section 124. 251 
+  (2) In the fiscal year before a fiscal year in which dedicated tax revenues will be 252 
+collected, proposals may be solicited and recipients ranked in funding priority order for the 253 
+expenditure of those tax revenues that will be dedicated to the Housing Opportunity Fund in the 254 
+next fiscal year; provided, that the dedicated tax revenues are not otherwise committed or 255 
+appropriated for other purposes and are certified in the approved financial plan for the next fiscal 256 
+year. 257 
+   (3) The Mayor may issue an award that deviates from published scoring 258 
+methodology and selection criteria, provided, that:  259 
+   (A) The project's initial score falls within 10% of either a point threshold 260 
+established in an RFP or the next lowest-scoring comparable project issued an award in that 261 
+fiscal year, whichever is higher; 262 
+   (B) The decision to issue the award is based on factors not otherwise 263 
+captured by the scoring methodology; and 264 
+   (C) The award is reviewed and approved by a majority of members 265 
+appointed to the Housing Production Opportunity Fund Board as established in section 115. 266 
+ Sec. 113. Maintaining affordability. 267 
+ (a) An affordable housing rental unit constructed pursuant to this act shall remain 268 
+affordable for a period of no less than 40 years. 269 
+ (b)(1) A for-sale unit constructed pursuant to this act shall remain affordable for no less 270 
+than 180 months, in accordance with section 2218 of Title 14 of the District of Columbia 271
+
+14 
+Municipal Regulations (14 DCMR § 2218). If a for-sale unit is sold before the affordability 272 
+period expires, the new affordability term shall begin on the date of the sale. 273 
+  (2) After the affordability period expires, there shall be no resale restrictions 274 
+unless otherwise agreed in an additional covenant. If no additional covenant exists after the 275 
+affordability period expires, the purchaser shall repay all preexisting equity to the Housing 276 
+Opportunity Fund pursuant to Subtitle A provided, that: 277 
+   (A) Title to the property transferred from the purchaser to another party by 278 
+a means other than inheritance; or 279 
+   (B) Refinancing of indebtedness secured by the property results in any 280 
+withdrawals of cash or equity value from the property by the purchaser/borrower. 281 
+  (3) If the future sales price is not sufficient to pay off all deeds of trust, the 282 
+customary seller’s closing costs, and the preexisting equity, the amount due to the Housing 283 
+Opportunity Fund for the repayment of the preexisting equity shall be the amount available from 284 
+the sale of the property after payment of all deeds of trust and customary seller’s closing costs. 285 
+  (4) Repayment of the preexisting equity shall not be required upon the refinancing 286 
+of indebtedness resulting in withdrawal of cash or equity value if the new loan, all other 287 
+indebtedness, and the preexisting equity result in an amount that is less than 80% of the 288 
+appraised value of the property. 289 
+ (c) For the purposes of this section, the term:  290 
+  (1) “Future sales price” means the greater of any contract sales price or a value 291 
+equal to 90% of the fair market appraised value determined within 6 months of the date of resale 292 
+by a licensed appraiser of an affordable for-sale unit. 293
+
+15 
+  (2) “Preexisting equity” means the discounted price determined as the difference 294 
+between an initial contract sales price and the fair market appraised value at the time of the initial 295 
+sale or the amount of public subsidy provided pursuant to this chapter that was invested in the 296 
+creation of the affordable housing unit. 297 
+ Sec. 114. Anti-displacement strategy. 298 
+ (a) For proposed projects that that result in the temporary or permanent displacement of 299 
+current occupants, including commercial tenants, an applicant must submit a Relocation and 300 
+Anti-Displacement Strategy along with an application for funding. Instances where a Relocation 301 
+and Anti-Displacement Strategy is required include the following:  302 
+  (1) Tenants will be required to move to facilitate the building’s rehabilitation, 303 
+even if they are moved to other units within the same building or complex;  304 
+  (2) Demolition of existing dwelling or commercial units or buildings that are 305 
+occupied at the time of acquisition or at the time the applicant executes a legal instrument that 306 
+demonstrates site control; or  307 
+  (3) Tenants will be displaced because the proposed rents are not affordable to 308 
+those households. 309 
+ Sec. 115. Housing Opportunity Fund Board. 310 
+ (a) There is established a Housing Opportunity Fund Board ("Board"). The Board shall:  311 
+  (1) Advise the Mayor and Council on: 312 
+   (A) The development, financing, and operation of the Housing 313 
+Opportunity Fund; 314 
+   (B) Compliance monitoring and enforcement of Housing Opportunity 315 
+Fund projects; and  316
+
+16 
+   (C) Other matters related to the production and preservation of affordable 317 
+housing; 318 
+  (2) Review the uses of the Housing Opportunity Fund and all sub-accounts for 319 
+their conformity with this Title. The Board shall have access to records necessary to perform this 320 
+review; 321 
+  (3) Review and approve or disapprove of proposed fund awards that deviate from 322 
+scoring methodology, pursuant to section 112; and 323 
+  (4) Attend and, via the chairperson of the Board, provide testimony at one or more 324 
+Council oversight hearings per year, if invited by the chairperson of the Council committee with 325 
+jurisdiction over the Housing Opportunity Fund or the chair of the Council. 326 
+ (b) The Board shall be composed of 9 members, selected as follows: 327 
+  (1) One member shall be a representative of the financial services industry. 328 
+  (2) One member shall be a representative of the nonprofit housing production 329 
+community. 330 
+  (3) One member shall be a representative of the for-profit housing production 331 
+industry. 332 
+  (4) One member shall be a representative of an organization that advocates for the 333 
+production, preservation, and rehabilitation of affordable housing for lower-income households. 334 
+  (5) One member shall be a representative of a low-income tenant association. 335 
+  (6) One member shall be a representative of an organization that advocates for 336 
+people with disabilities. 337 
+  (7) The remaining 3 members shall have significant knowledge of an area related 338 
+to financing, production, preservation, or rehabilitation of affordable housing. 339
+
+17 
+ (c) The members of the Board shall be appointed by the Mayor with the advice and 340 
+consent of the Council. Members of the Housing Production Trust Fund Board appointed and 341 
+confirmed pursuant to section 3a of the Housing Production Trust Fund Act of 1988, effective 342 
+March 16, 1989 (D.C. Law 7-202; D.C. Official Code § 24-2802.01) shall have their terms 343 
+transitioned to corresponding seats on the Housing Opportunity Fund Board. 344 
+ (d) The terms of the members of the Board shall be 4 years. 345 
+ (e) No member of the Board may serve more than 2 consecutive terms. 346 
+ (f) The Board shall select a chairperson from among its members. 347 
+ Sec. 116. Fund transparency and reporting. 348 
+ (a) The Mayor shall create and maintain, on at least a quarterly basis, a publicly available 349 
+Housing Opportunity Fund database which shall include, at minimum: 350 
+  (1) Applications and underwriting and prioritization scores of each application, 351 
+for both submitted and selected applications; 352 
+  (2) For selected applications: 353 
+   (A) Names of all corporate entities and related principals with a proposed 354 
+ownership interest in the project's ownership entity; 355 
+   (B) The status of the project in the selection, funding, construction, and 356 
+operating pipeline; 357 
+   (C) Fund sub-accounts utilized and amount of funding awarded; 358 
+   (D) Percentage contribution of the Fund amount compared to the project's 359 
+total funding sources; 360 
+   (E) Loan or grant agreements with the name of the recipient, amount, loan 361 
+interest rate, and terms;  362
+
+18 
+   (F) The number, affordability tier, and bedroom size of housing units 363 
+created or preserved; 364 
+   (G) The period of time units shall remain affordable; 365 
+   (H) Status of the award recipient's compliance with the loan agreement; 366 
+and 367 
+   (I) For any award that deviates from published scoring methodology and 368 
+selection criteria, justification for the deviation and confirmation of the Housing Opportunity 369 
+Fund Board's approval, pursuant to section 112. 370 
+ (b) The Mayor and Housing Authority shall submit to the Chief Financial Officer 371 
+("CFO") and Council quarterly reports on activities and expenditures related to the Fund, which 372 
+shall be consistent with the District's internal accounting reporting systems and the Annual 373 
+Comprehensive Financial Report, and shall include a list of the loan repayments due and paid 374 
+during the reporting period and identify all fund recipients who are not in compliance with loan 375 
+agreement terms; 376 
+ (c)(1) Each recipient of funds from the Housing Opportunity Fund shall provide certified 377 
+final development cost reports to the CFO. Such cost data shall include: 378 
+   (A) Total development cost per unit for each project; 379 
+   (B) Descriptive statistics such as average and median per-unit or per-380 
+bedroom costs; and 381 
+   (C) Other information that the CFO deems necessary to improve cost 382 
+controls and enhance understanding of development costs. 383
+
+19 
+  (2) The CFO shall provide information received pursuant to this subsection upon 384 
+request of the Council, the Mayor, the District of Columbia Housing Authority, the Housing 385 
+Opportunity Fund Board, or the District of Columbia Auditor. 386 
+ (d) The Mayor shall monitor for compliance written agreements entered into pursuant to 387 
+this title. 388 
+ SUBTITLE C. SUB-ACCOUNTS. 389 
+ Sec. 121. Housing Production Account. 390 
+ (a) The Housing Production Account ("Production Account") is established as a sub-391 
+account of the Housing Opportunity Fund, which shall be administered by the Mayor for the 392 
+purpose of assisting in the provision of affordable housing through new construction or adaptive 393 
+re-use of vacant or previously non-residential structures. The Production Account shall prioritize 394 
+affordable units that do not require ongoing operating subsidy to maintain affordability. 395 
+Allowable uses of the Production Account include: 396 
+  (1) Pre-development loans; 397 
+  (2) Bridge loans and gap financing; 398 
+  (3) Financing for site acquisition, construction loan guarantees, collateral, or 399 
+operating capital; 400 
+  (4) Debt service for bonds issued pursuant to section 111; and 401 
+  (5) Other loans and grants for housing production determined by the Mayor to be 402 
+consistent with the purposes of this section. 403 
+ (b) Up to 50% of funds obligated to new projects for a future expenditure from the 404 
+Production Account during a fiscal year may be used to support the production of rental housing 405
+
+20 
+units not subject to an income or rent-restricted affordability covenant, provided that, for such 406 
+units: 407 
+  (1) The initial rent shall be set at a rate that does not exceed the Small Area Fair 408 
+Market Rents established annually for the District of Columbia by the federal Department of 409 
+Housing and Urban Development, or Reasonable Rents established by the District of Columbia 410 
+Housing Authority, whichever is lower. 411 
+  (2) Future increases in rent shall be governed by Title II of the Rental Housing 412 
+Act of 1985, effective July 17, 1985 (D.C. Law 6-10; D.C. Official Code § 42-3502.01 et seq.); 413 
+and 414 
+  (3) The Mayor and Housing Authority have approved a plan, as submitted by the 415 
+applicant, to market units to holders of tenant-based housing vouchers. 416 
+ (c) As a condition of receiving funds from the Production Account, the Mayor shall 417 
+require that the recipient agree to enter into future affordability covenants, contingent on funding 418 
+awarded from the Affordable Housing Subsidy Account as established in section 122, or from 419 
+other sources. 420 
+ (d) The Mayor shall establish application criteria and scoring procedures for the 421 
+Production Fund with greater weight given to applications that: 422 
+  (1) Support the appropriate geographic distribution of new housing production; 423 
+  (2) Provide for the direct District acquisition of land using a purchase and 424 
+leaseback agreement;  425 
+  (3) Increase the supply of housing units with three or more bedrooms;  426 
+  (4) Incorporate child development facilities; or 427
+
+21 
+  (5) Encourage or facilitate the entry of well-qualified firms and investors to the 428 
+District's housing market. 429 
+ Sec. 122. Affordable Housing Subsidy Account. 430 
+ (a) The Affordable Housing Subsidy Account ("Subsidy Account") is established as a 431 
+sub-account of the Housing Opportunity Fund, which shall be used exclusively to support the 432 
+creation and operations of Tier 1 and Tier 2 affordable units. Allowable uses of the Subsidy 433 
+Account include: 434 
+  (1) Shallow operating subsidy for units produced with support from the Housing 435 
+Production Fund to make such units available for very low income and extremely low income 436 
+households; 437 
+  (2) Funding the conversion of housing units without affordability covenants, 438 
+including the awarding of funds to the owner of a housing accommodation in order to establish 439 
+an affordability covenant on one or more existing rental units; 440 
+  (3) The Rent Supplement program as established by section 26a of the District of 441 
+Columbia Housing Authority Act of 1999, effective May 9, 2000 (D.C. Law 13-105; D.C. 442 
+Official Code § 6-226 et seq.); 443 
+  (4) Supportive services for tenants provided above minimum requirements; and 444 
+  (5) Construction loans and gap financing for projects in which Tier 1 and Tier 2 445 
+affordable units comprise no less than 30% of overall units. 446 
+ Sec. 123. Preservation Account. 447 
+ (a) The Preservation Account is established as a sub-account of the Housing Opportunity 448 
+Fund, which shall be administered by the Mayor to support the following purposes: 449
+
+22 
+  (1) Supporting, preserving, and expanding the District’s existing stock of 450 
+affordable housing, which may include: 451 
+   (A) Projects that propose replacing an existing, occupied building with 452 
+new on-site construction, provided that affordable housing units are replaced on no less than a 453 
+one-for-one basis; 454 
+   (B) The acquisition and rehabilitation of existing, occupied housing where 455 
+affordability will be preserved for current tenants; 456 
+   (C) The addition of affordable units to a property already subject to an 457 
+active affordability covenant; 458 
+(D) Bridge funding to support affordable housing accommodations 459 
+awaiting other funds for rehabilitation; 460 
+   (E) Projects pending conversion to permanent financing; 461 
+   (F) Provide debt or equity to finance housing preservation activities, 462 
+including acquisition bridge loans, predevelopment expenses, environmental remediation, critical 463 
+repairs, and other activities necessary to preserve the affordability of housing units; provided, 464 
+that for any property benefited by an expenditure of funds pursuant to this subsection, a covenant 465 
+shall be recorded with respect to affordability, the terms and conditions of which shall be 466 
+determined by the Mayor. 467 
+(2) Funding the establishment of an affordability covenant on one or more 468 
+existing rental units without income-restricted affordability covenants; and 469 
+  (3) Supporting the purposes of the Homestead Housing Preservation Act of 1986, 470 
+effective August 9, 1986 (D.C. Law 6-135; D.C. Official Code § 42-2101 et seq.). 471
+
+23 
+ (b) The Mayor shall establish application criteria and scoring procedures for the 472 
+Preservation Account, with greater weight given to applications that have previously received an 473 
+award from the Tenant Purchase Support Account or a prior bridge loan from the Preservation 474 
+Account issued pursuant to Subtitle D of Title II of the Fiscal Year 2018 Budget Support Act of 475 
+2017, effective December 13, 2017 (D.C. Law 22-33; D.C. Official Code §1–325.351). 476 
+ Sec. 124. Tenant Purchase Support Account. 477 
+ (a) The Tenant Purchase Support Account is established as a sub-account of the Housing 478 
+Opportunity Fund, which shall be administered by the Mayor to support the following purposes:   479 
+  (1) Assisting tenants with the financing of pre-purchase and down payment costs 480 
+for housing pursuant to the Tenant Opportunity to Purchase Act of 1980, effective September 10, 481 
+1980 (D.C. Law 3-86; D.C. Official Code § 42-3404.01 et seq.), and costs incurred related to 482 
+organizing a tenant association for the purposes of exercising purchase rights; 483 
+  (2) Assisting tenant associations with the financing of the development costs, 484 
+including acquisition, rehabilitation, and marketing, associated with the conversion of multi-unit 485 
+rental housing to cooperatives and condominiums; 486 
+  (3) The purchase, redevelopment, or substantial rehabilitation of a property 487 
+resulting from the assignment of the purchase rights of tenants or the District to a qualified 488 
+purchaser, pursuant to sections 406 and 436 of the Tenant Opportunity to Purchase Act of 1980, 489 
+effective September 10, 1980 (D.C. Law 3-86; D.C. Official Code §§ 42-3404.06 and 42-490 
+3404.36); and 491 
+  (4) Any project eligible for another sub-account of the Housing Opportunity Fund 492 
+that involves the exercise or assignment of tenant purchase rights. 493
+
+24 
+ (b)(1) Notwithstanding section 112(1)(D), applications for funds from the Tenant 494 
+Purchase Support Account shall be accepted on a rolling basis. 495 
+  (2) The Mayor shall endeavor to make Tenant Purchase Support Account funds 496 
+available throughout the year, and to align the timeline of application, selection and awarding of 497 
+funds with timelines related to the exercise of tenant rights as established in the Rental Housing 498 
+Conversion and Sale Act of 1980 (D.C. Law 3-86; D.C. Official Code § 42-3401.01 et seq.). 499 
+ Sec. 125. District Acquisition Account. 500 
+ (a) The District Acquisition Account ("Acquisition Account") is established as a sub-501 
+account of the Housing Opportunity Fund, which shall be administered by the Mayor to support 502 
+the acquisition of improved and unimproved properties by the District or an instrumentality of 503 
+the District, primarily for the purpose of affordable housing production and preservation. 504 
+ (b) The following shall be considered allowable uses of the Acquisition Account: 505 
+  (1) A transaction related to the Land Purchase Partnership Program as established 506 
+in section 203; 507 
+  (2) Costs associated with site acquisition for any project that includes the 508 
+acquisition by the District or an instrumentality of the District of real property for a period of no 509 
+less than 50 years; 510 
+  (3) Acquisition of real property pursuant to Subchapter II of Subtitle 13 of Title 511 
+16 of the District of Columbia Official Code; 512 
+  (4) A master loan agreement to support time sensitive land purchase opportunities 513 
+on the District’s behalf and ensure the District’s competitiveness in the real estate market; 514 
+  (5) Debt service for bonds issued pursuant to section 111; 515 
+  (6) The District Construction Loan Fund, as established in section 204; and 516
+
+25 
+  (7) Transactions pursuant to the District Opportunity to Purchase Act, effective 517 
+December 24, 2008 (D.C. Law 17-286; D.C. Official Code § 42-3404.31 et seq.).  518 
+ (c)(1) Except as otherwise provided, within one year of acquisition of a property into the 519 
+District’s portfolio of real property, the Mayor shall submit to the Zoning Commission an 520 
+application for a zoning map amendment pursuant to 11 DCMR § Z305. 521 
+  (2) The proposed zone district shall have a floor-area ratio at or near the upper 522 
+end of the residential floor-area ratio range of that property’s Future Land Use Map designation, 523 
+as defined in 10 DCMR § A200.  524 
+  (3) Properties that, upon acquisition, are zoned at or near the upper end of the 525 
+residential floor-area ratio range of that property’s Future Land Use Map designation shall be 526 
+exempt from the requirements of this subsection. 527 
+ SUBTITLE D. MISCELLANEOUS PROVISIONS. 528 
+ Sec. 131. Conforming Amendments.  529 
+ (a) Section 26a(b) of the District of Columbia Housing Authority Act of 1999, effective 530 
+May 9, 2000 (D.C. Law 13-105; D.C. Official Code § 6-226(b)), is amended to read as follows: 531 
+ "(b) The Authority shall allocate the funds appropriated for the program annually toward 532 
+project-based and sponsor-based voucher assistance, as described in section 26b, and tenant-533 
+based assistance, as described in section 26c.". 534 
+ (b) Section 6(a) of the District of Columbia Community Development Act of 1975, 535 
+effective December 16, 1975 (D.C. Law 1-39; D.C. Code § 6-1005(a)), is amended to read as 536 
+follows: 537 
+ "(a) Real property acquired for the purposes of this subchapter may be acquired pursuant 538 
+to subchapter II of Chapter 13 of Title 16 of the District of Columbia Official Code.". 539
+
+26 
+ (c) Section 104(c) of the Inclusionary Zoning Implementation Amendment Act of 2006, 540 
+effective March 14, 2007 (D.C. Law 16-275; D.C. Official Code § 6-1041.04(c)) is amended by 541 
+striking the phrase "Housing Production Trust Fund" and inserting the phrase "Housing 542 
+Opportunity Fund" in its place. 543 
+ (d) The Workforce Housing Production Program Approval Act of 2006, effective March 544 
+14, 2007 (D.C. Law 16-278; D.C. Official Code § 6-1061.01 et seq.) is repealed. 545 
+ (e) Section 322 of the District of Columbia Real Estate Deed Recordation Tax Act, 546 
+approved March 2, 1962 (76 Stat. 17; D.C. Official Code § 42-1122) is amended by adding a 547 
+new subsection (d) to read as follows: 548 
+ “(d) In Fiscal Year 2026 and each fiscal year thereafter: 549 
+  “(1) The lesser of the following amounts shall be deposited into the Housing 550 
+Opportunity Fund pursuant to section 105 of the Housing Opportunity Fund Act of 2026, 551 
+introduced February 17, 2026 (Bill 26-___): 552 
+   “(A) 15% of the monies collected under this chapter; or 553 
+   “(B) 102% of the amount deposited into the Housing Opportunity Fund in 554 
+the prior fiscal year pursuant to this section.” 555 
+ (f) Section 301(15A) of the District of Columbia Housing Finance Agency Act, effective 556 
+March 3, 1979 (D.C. Law 2-135; D.C. Official Code § 42-2703.01(15A)) is amended to read as 557 
+follows: 558 
+ “(15A) To acquire, own, lease, clear, construct, reconstruct, rehabilitate, improve, repair, 559 
+maintain, manage, operate, assign, encumber, or sell or otherwise dispose of any real property.”. 560 
+ (g) Section 207(b) of the Housing Act of 2002, effective April 19, 2002 (D.C. Law 14-561 
+114; D.C. Official Code § 42-2851.07(b)) is amended to read as follows: 562
+
+27 
+ "(b) All fines collected pursuant to this section shall be paid into the Housing 563 
+Opportunity Fund pursuant to section 105 of the Housing Opportunity Fund Act of 2026, 564 
+introduced February 17, 2026 (Bill 26-___).". 565 
+ (h) Section 910(d) of the Rental Housing Act of 1985, effective April 16, 2020 (D.C. 566 
+Law 23-72; D.C. Official Code § 42-3509.10(d)), is amended to read as follows: 567 
+ “(d) The Mayor shall deposit into the Housing Opportunity Fund, pursuant to section 104 568 
+of the Housing Opportunity Fund Act of 2026, introduced February 17, 2026 (Bill 26-___), all 569 
+fees paid pursuant to this section.”. 570 
+ (i) § 47-392.02(j-5)(1) is amended to read as follows: 571 
+ “(1) 50% shall be deposited in the Housing Opportunity Fund pursuant to section 105 of 572 
+the Housing Opportunity Fund Act of 2026, introduced February 17, 2026 (Bill 26-___); and”. 573 
+ (j) The Housing Production Trust Fund Act of 1988, effective March 16, 1989 (D.C. Law 574 
+7-202; D.C. Official Code § 24-2801.01 et seq.) is repealed. 575 
+ (k) Chapter 27 of Title 14 of the District of Columbia Municipal Regulations (14 DCMR 576 
+§ 2700 et seq.) is repealed.  577 
+ (l) Chapter 45 of Subtitle B of Title 10 of the District of Columbia Municipal Regulations 578 
+(10 DCMR § B4500 et seq.) is repealed. 579 
+ Sec. 132. Transfers; continuation. 580 
+ (a) All functions, authority, programs, positions, personnel, property, records, and 581 
+unexpended balances of appropriations, allocations, and other funds available or to be made 582 
+available to the Housing Production Trust Fund, as established by the Housing Production Trust 583 
+Fund Act of 1988, effective March 16, 1989 (D.C. Law 7-202; D.C. Official Code § 24-2801.01 584 
+et seq.) are transferred to the Housing Opportunity Fund. 585
+
+28 
+ (b) All rules, orders, obligations, determinations, grants, contracts, licenses, and 586 
+agreements of the Housing Production Trust Fund, as established by the Housing Production 587 
+Trust Fund Act of 1988, effective March 16, 1989 (D.C. Law 7-202; D.C. Official Code § 24-588 
+2801.01 et seq.) shall continue in effect according to their terms until lawfully amended, 589 
+repealed, or modified. 590 
+TITLE II. HOUSING PRODUCTION. 591 
+ Sec. 201. Retirement fund real property investment. 592 
+ The District of Columbia Retirement Reform Act of 1979, approved November 17, 1979 593 
+(93 Stat. 866; D. C. Official Code § 1-701 et seq.) is amended as follows: 594 
+ (a) Section 141 (D.C. Official Code § 1-721) is amended as follows: 595 
+  (1) Subsection (a)(1) is repealed. 596 
+  (2) Subsection (d) is repealed. 597 
+ (b) A new section 141a is added to read as follows: 598 
+ "Sec. 141a. Real Property Investment Policy. 599 
+ "(a) The Board is authorized to issue amendments to its rules and procedures, including 600 
+Investment Objectives, the Investment Policy Statement for Real Assets, and target asset 601 
+allocations, in order to establish goals and procedures for investment in real property in the 602 
+District of Columbia, with an emphasis on multifamily real estate and affordable housing. 603 
+ "(b) Rules and procedures established pursuant to this section shall not provide the Board 604 
+with direct discretionary authority for investment decisions in individual properties.". 605 
+ Sec. 202. Condemnation authority for housing development. 606 
+ Section 16-1311 of the District of Columbia Official Code is amended as follows:  607 
+ (a) Designate the existing text as subsection (a). 608
+
+29 
+ (b) A new subsection (b) is added to read as follows:  609 
+ "(b) Housing production and preservation in high-need areas shall be considered an 610 
+authorized municipal use for the purposes of subsection (a).". 611 
+ Sec. 203. Land Purchase Partnership Program. 612 
+(a) There is hereby authorized the Land Purchase Partnership Program ("Program").  613 
+(b) Under the Program, the Mayor may acquire land on which privately-owned rental, 614 
+ownership, or cooperative housing is located, or on which privately-owned rental, ownership, or 615 
+cooperative housing is to be constructed, for the purposes of assisting a tenant purchase pursuant 616 
+to the Tenant Opportunity to Purchase Act of 1980, effective September 10, 1980 (D.C. Law 3-617 
+86; D.C. Official Code § 42-3404.01 et seq.), or to facilitate the production or preservation of 618 
+affordable housing. The land acquisition may be effectuated by means of:  619 
+  (1) Direct purchase or transfer of the land from an owner-applicant; 620 
+  (2) Acceptance of assignment of an applicant's right to purchase the property from 621 
+a third party; or 622 
+  (3) Purchase of land or land and improvements from an applicant immediately 623 
+following the applicant's purchase of property from a third party. 624 
+ (c) The Mayor may thereafter enter into a ground lease of the land to the owner or 625 
+developer of the rental or homeownership housing, provided that: 626 
+  (1) As a condition of any ground lease entered into under this section, the Mayor 627 
+shall require that the owner of the land file a covenant in the land records of the District requiring 628 
+that during the term of the ground lease at least 50% of the housing units on the land shall be 629 
+Tier 3 affordable housing, as that term is defined in section 102 of the Housing Opportunity 630 
+Fund Act of 2026, introduced February 17, 2026 (D.C. Law 26-___), or better; 631
+
+30 
+  (2) A lease entered into under this section for the purposes of assistant tenant 632 
+purchase shall have a term of no less than 40 years. 633 
+ (d) A lease entered into under this section shall not be subject to An Act Authorizing the 634 
+sale of certain real estate in the District of Columbia no longer required for public purposes, 635 
+approved August 5, 1939 (53 Stat. 1211; D.C. Official Code § 10-801 et seq.). 636 
+ (e) Section 6(c) of the District of Columbia Community Development Act of 1975, 637 
+effective December 16, 1975 (D.C. Law 1-39; D.C. Code § 6-1005(c)) shall not apply to the 638 
+disposition of real property that was acquired by the District for the purposes of this section. 639 
+ Sec. 204. Revolving public construction loan fund for affordable housing.  640 
+ The District of Columbia Housing Finance Agency Act, effective March 3, 1979 (D.C. 641 
+Law 2-135; D.C. Official Code § 42-2701.01 et seq.) is amended as follows: 642 
+ (a) Section 102 (D.C. Official Code § 42-2701.02) is amended by inserting a new 643 
+paragraph (6A) to read as follows:  644 
+  "(6A) “DCLF” has the meaning set forth in section 309(a) of this act.". 645 
+ (b) A new section 309 is inserted to read as follows:  646 
+ "Sec. 309. Revolving public construction loan fund for affordable housing. 647 
+ "(a) The Agency may establish and administer a District Construction Loan Fund 648 
+("DCLF") from which it may provide housing project construction loans subject to the 649 
+requirements of this section. 650 
+ "(b) Notwithstanding any provision to the contrary in this act, the Agency may issue a 651 
+construction loan from the balance of the DCLF to support a project under the following 652 
+circumstances:  653
+
+31 
+  "(1) The property is under the majority ownership and control of the District 654 
+government, including any independent agency or instrumentality, or a subsidiary under the 655 
+majority ownership and control thereof.  656 
+  "(2) The project applicant agrees that no less than 30% of units are Tier 2 and Tier 657 
+3 affordable units, as those terms are defined in section 102 of the Housing Opportunity Fund 658 
+Act of 2026, introduced February 17, 2026 (D.C. Law 26-___), not including any housing units 659 
+subsidized through a federal public housing annual contributions contract or project-based 660 
+voucher that may otherwise be included in the project. 661 
+  “(3) The loan term does not exceed 5 years.  662 
+  "(4) The Agency charges interest at a rate calculated to cover the Agency’s 663 
+administrative costs for the loan and maintain the DCLF as a revolving fund.  664 
+  "(5) The applicant presents a plan for takeout financing and repayment of the loan 665 
+at the time of application.  666 
+ "(c)(1) The Agency may capitalize the DCLF with proceeds from one or more taxable 667 
+bond issuances. 668 
+  "(2) Notwithstanding anything to the contrary in this act, for purposes of 669 
+capitalizing the DCLF using bond proceeds, the Agency and Mayor may enter into one or more 670 
+agreements for the District to provide security in forms other than project-specific proceeds, 671 
+including District revenues and debt service appropriations up to a specified annual maximum, 672 
+provided, that bonds issued pursuant to this subsection shall not be general obligation bonds of 673 
+the District. 674
+
+32 
+ "(d) Nothing in this section, including the reiteration of specific authorities for purposes 675 
+of administering the DCLF, shall be construed to limit general authorities of the Agency 676 
+enumerated in this act.". 677 
+ Sec. 205. District opportunity to purchase certain properties. 678 
+ The Rental Housing Conversion and Sale Act of 1980 (D.C. Law 3-86; D.C. Official 679 
+Code § 42-3401.01 et seq.) is amended as follows: 680 
+ (a) Section 402b(20) (D.C. Official Code § 42-3404.02b(b)(20)) is amended as follows:  681 
+  (1) The existing text is designated sub-paragraph (A). 682 
+  (2) Strike the phrase "A sale or transfer" and insert the phrase "Except as provided 683 
+in sub-paragraph (B), a sale or transfer". 684 
+  (3) A new sub-paragraph (B) is added to read as follows:  685 
+   "(B) Notwithstanding section 432(a), for any transaction involving a 686 
+housing accommodation exempt under this paragraph that would otherwise be considered a sale 687 
+as defined in subsection (a) of this section, the owner of the housing accommodation shall 688 
+provide the Mayor, on behalf of the District, an opportunity to purchase the housing 689 
+accommodation pursuant to Title IV-A.". 690 
+ (b) Section 432(a) (D.C. Official Code § 42-3404.32(a)) is amended to read as follows:  691 
+ "(a) Except as provided in section 402b(b)(20)(B), the District’s opportunity to purchase 692 
+shall be subordinate to the right of a tenant.". 693 
+ (c) Section 433 (D.C. Official Code § 42-3404.33) is amended as follows:  694 
+  (1) Subsection (b) is amended as follows:  695 
+   (A) Paragraph (1) is amended to read as follows:  696
+
+33 
+  "(1) After the purchase of a property pursuant to this subchapter, rents for units 697 
+not governed by an existing affordability covenant or other local or federal affordability program 698 
+shall be governed by Title II of the Rental Housing Act of 1985, effective July 17, 1985 (D.C. 699 
+Law 6-10; D.C. Official Code § 42-3502.01 et seq.). 700 
+   (B) Paragraph (2) is repealed. 701 
+   (C) Paragraph (3) is repealed. 702 
+   (D) Paragraph (4) is repealed. 703 
+   (E) Paragraph (5) is repealed. 704 
+  (2) Subsection (c) is repealed. 705 
+  (3) Subsection (d) is repealed. 706 
+ (d) Section 436 (D.C. Official Code § 42-3404.36) is amended by striking the phrase "to 707 
+a qualified purchaser" and inserting the phrase "to an instrumentality of the District or to a 708 
+qualified purchaser" in its place. 709 
+ Sec. 206. Nonprofit Workforce Housing Properties eligibility clarification. 710 
+ § 47-1005.03 is amended as follows:  711 
+ (a) Subsection (a)(1) is repealed. 712 
+ (b) Subsection (b) is amended to read as follows:  713 
+ "(b) Subject to the provisions of this section, land and improvements owned and used by 714 
+a nonprofit owner to provide rental housing shall be exempt from District of Columbia real 715 
+property taxation, provided, that no less than 50% of the housing accommodation is comprised of 716 
+Tier 3 affordable units, as that term is defined in section 102 of the Housing Opportunity Fund 717 
+Act of 2026, introduced February 17, 2026 (Bill 26-___), or higher.". 718 
+ (c) Subsection (c) is repealed. 719
+
+34 
+ (d) Subsection (d) is repealed. 720 
+ (e) Subsection (f)(2) is amended to read as follows:  721 
+  "(2) For purposes of the certification required under paragraph (1), a 722 
+determination of whether a particular property or unit is eligible for an exemption under this 723 
+section shall be based upon the recording of a covenant in the land records of the District of 724 
+Columbia that units shall be rent- and income-restricted as set forth in subsection (b).". 725 
+TITLE III. STANDARD PROVISIONS. 726 
+ Sec. 301. Rulemaking.  727 
+ The Mayor, pursuant to Title I of the District of Columbia Administrative Procedure Act, 728 
+approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 et seq.), may issue rules 729 
+to implement the provisions of this act. 730 
+ Sec. 302. Applicability. 731 
+ (a) This act shall apply upon the date of inclusion of its fiscal effect in an approved 732 
+budget and financial plan. 733 
+ (b) The Chief Financial Officer shall certify the date of the inclusion of their fiscal effect 734 
+in an approved budget and financial plan and provide notice to the Budget Director of the 735 
+Council for certification. 736 
+ (c) The Budget Director shall cause the notice of the certification to be published in the 737 
+District of Columbia Register. 738 
+ Sec. 303. Fiscal impact statement. 739 
+ The Council adopts the fiscal impact statement of the Budget Director as the fiscal impact 740 
+statement required by section 4a of the General Legislative Procedures Act of 1975, approved 741 
+October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a). 742
+
+35 
+ Sec. 304 Effective date. 743 
+ This act shall take effect after approval by the Mayor (or in the event of veto by the 744 
+Mayor, action by the Council to override the veto) and a 60-day period of congressional review 745 
+as provided in section 602(c)(2) of the District of Columbia Home Rule Act, approved December 746 
+24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(2)). 747
